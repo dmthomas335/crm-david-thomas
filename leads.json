@@ -47,7 +47,23 @@
       "notes": "sent trading vid",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbfdemr91ix2iy5jb",
+      "name": "William Maher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.maher.12",
+      "source": "Facebook",
+      "status": "Watched",
+      "temperature": "Hot",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-25",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastSync": "2026-05-18T16:33:51.635Z"
+  "lastUpdated": "2026-05-18T16:35:16.179Z"
 }
