@@ -31,7 +31,23 @@
       "notes": "sent trading vid",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbfba3luhc59byxom",
+      "name": "Roy Shaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/roy.shaw.942",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-22",
+      "notes": "sent trading vid",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastSync": "2026-05-18T16:30:56.001Z"
+  "lastUpdated": "2026-05-18T16:33:36.993Z"
 }
