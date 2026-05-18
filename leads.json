@@ -175,7 +175,23 @@
       "notes": "sent biz pres ",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbfuu65qjv1yym2ur",
+      "name": "JenJuBean Jennifer Thornton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Other",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "@jenjuling TG",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T16:44:04.818Z"
+  "lastUpdated": "2026-05-18T16:48:49.469Z"
 }
