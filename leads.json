@@ -431,7 +431,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbgknd1az752b2wgg",
+      "name": "Jeff Pinter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.pinter.982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T17:07:19.803Z"
+  "lastUpdated": "2026-05-18T17:08:53.701Z"
 }
