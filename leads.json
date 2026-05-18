@@ -335,7 +335,23 @@
       "notes": "sent biz pres",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbgcx6gooejl98v6t",
+      "name": "Ben Hoang",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ben.hoang.72410",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T17:01:44.984Z"
+  "lastUpdated": "2026-05-18T17:02:53.176Z"
 }
