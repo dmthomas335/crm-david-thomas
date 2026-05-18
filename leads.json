@@ -191,7 +191,23 @@
       "notes": "@jenjuling TG",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbfwxa6yrx7jeqyogh",
+      "name": "Richard Cronan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.j.cronan",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T16:48:49.469Z"
+  "lastUpdated": "2026-05-18T16:50:26.814Z"
 }
