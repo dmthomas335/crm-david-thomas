@@ -63,7 +63,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbfezqrfh71z93529w",
+      "name": "Chris Hollis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.hollis.7370",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-23",
+      "notes": "sent trading vid",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastSync": "2026-05-18T16:35:17.238Z"
+  "lastUpdated": "2026-05-18T16:36:30.195Z"
 }
