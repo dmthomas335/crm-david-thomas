@@ -15,7 +15,23 @@
       "notes": "Sent trading video",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbf7t3buyfshiuc6nf",
+      "name": "Guy Code ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/guy.code.739",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-25",
+      "notes": "sent trading vid",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastSync": "2026-05-18T16:27:42.504Z"
+  "lastUpdated": "2026-05-18T16:30:54.983Z"
 }
