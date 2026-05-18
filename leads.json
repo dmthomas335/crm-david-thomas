@@ -1,0 +1,21 @@
+{
+  "leads": [
+    {
+      "id": "mpbezwkjtoun8rk9yxg",
+      "name": "Genel Burwell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/genel.burwell",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-25",
+      "notes": "Sent pres",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
+    }
+  ],
+  "lastUpdated": "2026-05-18T16:24:46.243Z"
+}
