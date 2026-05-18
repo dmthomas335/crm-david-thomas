@@ -319,7 +319,23 @@
       "notes": "sent biz pres",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbgbgk8jfl1y3mbkf",
+      "name": "Manee Ta Manita",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maneespy",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "sent biz pres",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T17:00:52.534Z"
+  "lastUpdated": "2026-05-18T17:01:44.984Z"
 }
