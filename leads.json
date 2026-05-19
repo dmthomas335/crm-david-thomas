@@ -186,10 +186,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-20",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-22",
       "notes": "@jenjuling TG",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-19",
       "dateAdded": "2026-05-18"
     },
     {
@@ -449,5 +449,5 @@
       "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T17:08:53.701Z"
+  "lastUpdated": "2026-05-19T10:52:23.360Z"
 }
