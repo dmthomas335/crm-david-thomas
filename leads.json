@@ -671,7 +671,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpco9oou4cwul4rutt1",
+      "name": "Andrew Barker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AndrewS1975",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-07-22",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T12:55:24.083Z"
+  "lastUpdated": "2026-05-19T13:32:05.310Z"
 }
