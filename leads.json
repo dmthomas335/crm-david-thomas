@@ -799,7 +799,23 @@
       "notes": "sent biz vid",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpczlqeu9mo2ygio71",
+      "name": "Caleb Nosakhare",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/calebnosa",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
+      "notes": "sent biz pres",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T18:32:03.649Z"
+  "lastUpdated": "2026-05-19T18:49:23.190Z"
 }
