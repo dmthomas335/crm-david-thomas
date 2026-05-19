@@ -559,7 +559,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpck68uh2xi8j4drfim",
+      "name": "Bill Torrence",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bill.torrence.39",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-26",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T11:36:50.488Z"
+  "lastUpdated": "2026-05-19T11:37:26.345Z"
 }
