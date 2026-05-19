@@ -591,7 +591,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpclvmutxo7m86xglgo",
+      "name": "Sandijs Dzalba",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sandijs.dzalba",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-07-20",
+      "notes": "said too busy but in future",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T11:39:59.914Z"
+  "lastUpdated": "2026-05-19T12:25:10.517Z"
 }
