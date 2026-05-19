@@ -831,7 +831,23 @@
       "notes": "sent biz pres",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpd3qt4exgenk9oop0i",
+      "name": "Daniel Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.stewart.12764",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
+      "notes": "sent biz pres",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T20:44:27.133Z"
+  "lastUpdated": "2026-05-19T20:45:18.446Z"
 }
