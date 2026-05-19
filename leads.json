@@ -511,7 +511,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpck41bjfsw55kcccq",
+      "name": "Richard Stone",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.stone.3551",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-26",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T11:35:11.191Z"
+  "lastUpdated": "2026-05-19T11:35:43.279Z"
 }
