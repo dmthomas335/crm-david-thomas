@@ -975,7 +975,23 @@
       "notes": "",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpdzam7b3o9lkzvjxt2",
+      "name": "Gabe Maldonado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gabe.maldonado.7161",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T11:27:55.806Z"
+  "lastUpdated": "2026-05-20T11:28:30.695Z"
 }
