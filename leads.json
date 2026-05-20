@@ -911,7 +911,23 @@
       "notes": "sent biz pres",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpdyom952d8ectuivw3",
+      "name": "Kenneth Zink",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zinkthemusic",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "sent biz pres",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T11:03:41.524Z"
+  "lastUpdated": "2026-05-20T11:11:24.329Z"
 }
