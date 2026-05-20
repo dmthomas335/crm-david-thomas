@@ -1119,7 +1119,23 @@
       "notes": "sent biz pres",
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20"
+    },
+    {
+      "id": "mpe1u4b16jhp007i8n4",
+      "name": "Dahlen Magoon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dahlen.magoon",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-06-19",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20"
     }
   ],
-  "lastUpdated": "2026-05-20T12:38:25.636Z"
+  "lastUpdated": "2026-05-20T12:39:39.853Z"
 }
