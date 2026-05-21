@@ -1372,7 +1372,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:45:17.711Z"
+    },
+    {
+      "id": "mpffcswo1j7g9t5opnn",
+      "name": "Lyne Gauthier",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lyne.gauthier.56808",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T11:45:52.728Z"
     }
   ],
-  "lastUpdated": "2026-05-21T11:45:17.711Z"
+  "lastUpdated": "2026-05-21T11:45:52.728Z"
 }
