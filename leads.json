@@ -217,11 +217,11 @@
       "source": "Other",
       "status": "Sent Video",
       "temperature": "Hot",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-21",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-06-04",
       "notes": "@carobiz TG sent biz pres",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-21",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1357,5 +1357,5 @@
       "addedAt": "2026-05-21T11:29:01.543Z"
     }
   ],
-  "lastUpdated": "2026-05-21T11:35:41.202Z"
+  "lastUpdated": "2026-05-21T11:35:54.651Z"
 }
