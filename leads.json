@@ -439,13 +439,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jeff.pinter.982",
       "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-20",
+      "nextFollowUp": "2026-06-30",
       "notes": "",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-21",
       "dateAdded": "2026-05-18"
     },
     {
@@ -1238,5 +1238,5 @@
       "addedAt": "2026-05-21T11:07:12.877Z"
     }
   ],
-  "lastUpdated": "2026-05-21T11:21:37.493Z"
+  "lastUpdated": "2026-05-21T11:22:10.788Z"
 }
