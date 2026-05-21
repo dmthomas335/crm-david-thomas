@@ -1542,7 +1542,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T13:07:10.992Z"
+    },
+    {
+      "id": "mpflvtnvauks2lkh83t",
+      "name": "Ivan Setiawan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ivandiaz.gulbutt.7",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T14:48:37.867Z"
     }
   ],
-  "lastUpdated": "2026-05-21T13:07:10.992Z"
+  "lastUpdated": "2026-05-21T14:48:37.867Z"
 }
