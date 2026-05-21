@@ -1287,7 +1287,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:26:15.095Z"
+    },
+    {
+      "id": "mpfeodxb2d14awfkg5q",
+      "name": "Vinnette Morgan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vinnettem",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T11:26:53.567Z"
     }
   ],
-  "lastUpdated": "2026-05-21T11:26:15.095Z"
+  "lastUpdated": "2026-05-21T11:26:53.567Z"
 }
