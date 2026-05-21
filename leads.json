@@ -761,7 +761,7 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-21",
       "nextFollowUp": "2026-05-31",
       "notes": "Sent price video",
@@ -1357,5 +1357,5 @@
       "addedAt": "2026-05-21T11:29:01.543Z"
     }
   ],
-  "lastUpdated": "2026-05-21T11:35:54.651Z"
+  "lastUpdated": "2026-05-21T11:44:03.103Z"
 }
