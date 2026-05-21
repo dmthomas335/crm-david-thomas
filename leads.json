@@ -1423,7 +1423,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:49:28.510Z"
+    },
+    {
+      "id": "mpfhoojocbi07h51n2m",
+      "name": "James W Simpson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.w.simpson",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T12:51:06.180Z"
     }
   ],
-  "lastUpdated": "2026-05-21T12:49:28.510Z"
+  "lastUpdated": "2026-05-21T12:51:06.180Z"
 }
