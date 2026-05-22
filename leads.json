@@ -1814,7 +1814,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:42:59.812Z"
+    },
+    {
+      "id": "mpgupoc3cxl3k5w8658",
+      "name": "Jan Rodak",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jan.rodak.5",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:43:33.747Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:42:59.812Z"
+  "lastUpdated": "2026-05-22T11:43:33.747Z"
 }
