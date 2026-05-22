@@ -1899,7 +1899,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:45:25.525Z"
+    },
+    {
+      "id": "mpguslpy5z2h5e0gl56",
+      "name": "Brandon Tucker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.tucker.560",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:45:50.326Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:45:25.525Z"
+  "lastUpdated": "2026-05-22T11:45:50.326Z"
 }
