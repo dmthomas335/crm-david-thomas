@@ -1865,7 +1865,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:44:30.012Z"
+    },
+    {
+      "id": "mpgurez15v2vnl5mk5b",
+      "name": "Marcelle Rhodes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100055479654482",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:44:54.925Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:44:30.012Z"
+  "lastUpdated": "2026-05-22T11:44:54.925Z"
 }
