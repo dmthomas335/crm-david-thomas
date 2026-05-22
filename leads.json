@@ -1729,7 +1729,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:17:28.560Z"
+    },
+    {
+      "id": "mpgtt9y9vvpxsjju6rm",
+      "name": "Nobel Mebrahtu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nobel.mebrahtu.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:18:22.113Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:17:28.560Z"
+  "lastUpdated": "2026-05-22T11:18:22.113Z"
 }
