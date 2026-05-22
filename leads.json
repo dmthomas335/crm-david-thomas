@@ -1210,13 +1210,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jonathan.pericles",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-28",
-      "notes": "",
-      "lastModified": "2026-05-21",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-25",
+      "notes": "sent trading vid",
+      "lastModified": "2026-05-22",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T10:46:35.010Z"
     },
@@ -1748,5 +1748,5 @@
       "addedAt": "2026-05-22T11:18:22.113Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:18:22.113Z"
+  "lastUpdated": "2026-05-22T11:18:53.665Z"
 }
