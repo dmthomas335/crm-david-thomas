@@ -1916,7 +1916,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:45:50.326Z"
+    },
+    {
+      "id": "mpgutafycqlnkwukufm",
+      "name": "Jesse James Michaels",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.j.michaels",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:46:22.366Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:45:50.326Z"
+  "lastUpdated": "2026-05-22T11:46:22.366Z"
 }
