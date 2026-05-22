@@ -1644,7 +1644,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:10:57.977Z"
+    },
+    {
+      "id": "mpgtkwrmahim7nilvy",
+      "name": "Carol Kawele Kagesh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carol.kagesh",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-22",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-22",
+      "dateAdded": "2026-05-22",
+      "addedAt": "2026-05-22T11:11:51.778Z"
     }
   ],
-  "lastUpdated": "2026-05-22T11:10:57.977Z"
+  "lastUpdated": "2026-05-22T11:11:51.778Z"
 }
