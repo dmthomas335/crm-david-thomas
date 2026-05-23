@@ -2222,7 +2222,24 @@
       "lastModified": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:57:51.318Z"
+    },
+    {
+      "id": "mpiapni8cvevzpehi67",
+      "name": "Bale Momoivalu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bale.momoivalu",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T11:59:12.704Z"
     }
   ],
-  "lastUpdated": "2026-05-23T11:57:51.318Z"
+  "lastUpdated": "2026-05-23T11:59:12.704Z"
 }
