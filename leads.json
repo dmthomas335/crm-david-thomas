@@ -807,13 +807,13 @@
       "phone": "",
       "social": "https://www.facebook.com/calebnosa",
       "source": "Facebook",
-      "status": "Sent Video",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "status": "Watched",
+      "temperature": "Hot",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-05-21",
       "nextFollowUp": "2026-06-02",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-21",
+      "notes": "sent biz pres/ will give trading a try",
+      "lastModified": "2026-05-23",
       "dateAdded": "2026-05-19"
     },
     {
@@ -1986,5 +1986,5 @@
       "addedAt": "2026-05-23T11:08:10.067Z"
     }
   ],
-  "lastUpdated": "2026-05-23T11:09:50.642Z"
+  "lastUpdated": "2026-05-23T11:10:41.841Z"
 }
