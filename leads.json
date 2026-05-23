@@ -1720,13 +1720,13 @@
       "phone": "",
       "social": "https://www.facebook.com/john.armstrong63",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-26",
+      "nextFollowUp": null,
       "notes": "sent biz pres",
-      "lastModified": "2026-05-22",
+      "lastModified": "2026-05-23",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:17:28.560Z"
     },
@@ -2207,5 +2207,5 @@
       "addedAt": "2026-05-23T11:40:46.094Z"
     }
   ],
-  "lastUpdated": "2026-05-23T11:40:46.094Z"
+  "lastUpdated": "2026-05-23T11:49:26.357Z"
 }
