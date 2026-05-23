@@ -1967,7 +1967,24 @@
       "lastModified": "2026-05-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T12:28:02.149Z"
+    },
+    {
+      "id": "mpi8w0czc3tjr0r2kd6",
+      "name": "Tyler King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tdk28",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-26",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T11:08:10.067Z"
     }
   ],
-  "lastUpdated": "2026-05-22T12:37:13.026Z"
+  "lastUpdated": "2026-05-23T11:08:10.067Z"
 }
