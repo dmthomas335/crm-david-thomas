@@ -2188,7 +2188,24 @@
       "lastModified": "2026-05-23",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:39:48.297Z"
+    },
+    {
+      "id": "mpia1xn2q697nscw8hb",
+      "name": "Robert Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.rivera.75641",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-23",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-23",
+      "dateAdded": "2026-05-23",
+      "addedAt": "2026-05-23T11:40:46.094Z"
     }
   ],
-  "lastUpdated": "2026-05-23T11:39:48.297Z"
+  "lastUpdated": "2026-05-23T11:40:46.094Z"
 }
