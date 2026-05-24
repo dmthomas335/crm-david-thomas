@@ -2426,7 +2426,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:33.109Z"
+    },
+    {
+      "id": "mpjrjgnne5q812r7i54",
+      "name": "Gerald Prophet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gerald.prophet",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:38:03.539Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:37:33.109Z"
+  "lastUpdated": "2026-05-24T12:38:03.539Z"
 }
