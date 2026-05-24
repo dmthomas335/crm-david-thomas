@@ -71,13 +71,13 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.hollis.7370",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-22",
       "nextFollowUp": "2026-06-21",
       "notes": "sent trading vid",
-      "lastModified": "2026-05-22",
+      "lastModified": "2026-05-24",
       "dateAdded": "2026-05-18"
     },
     {
@@ -2547,5 +2547,5 @@
       "addedAt": "2026-05-24T12:43:32.787Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:43:32.787Z"
+  "lastUpdated": "2026-05-24T12:44:09.546Z"
 }
