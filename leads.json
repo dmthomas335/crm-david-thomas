@@ -2528,7 +2528,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:42:53.554Z"
+    },
+    {
+      "id": "mpjrqipfwetbil4j7b",
+      "name": "Stephen Austin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/saustinjr",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:43:32.787Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:42:53.554Z"
+  "lastUpdated": "2026-05-24T12:43:32.787Z"
 }
