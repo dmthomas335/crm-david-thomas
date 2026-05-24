@@ -2409,7 +2409,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:04.352Z"
+    },
+    {
+      "id": "mpjrit6dfwp6hqqpdc",
+      "name": "Chad Lenox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chad.lenox.16",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:37:33.109Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:37:04.352Z"
+  "lastUpdated": "2026-05-24T12:37:33.109Z"
 }
