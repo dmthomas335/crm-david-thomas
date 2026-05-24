@@ -2511,7 +2511,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:42:02.115Z"
+    },
+    {
+      "id": "mpjrpofmxmccl4fgfff",
+      "name": "Faith Maina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/faith.maina.547",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-05-26",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:42:53.554Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:42:02.115Z"
+  "lastUpdated": "2026-05-24T12:42:53.554Z"
 }
