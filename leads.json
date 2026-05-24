@@ -2443,7 +2443,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:38:03.539Z"
+    },
+    {
+      "id": "mpjrk61cocuc0henhs9",
+      "name": "Agya Ntow",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/agya.ntow.35",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:38:36.432Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:38:03.539Z"
+  "lastUpdated": "2026-05-24T12:38:36.432Z"
 }
