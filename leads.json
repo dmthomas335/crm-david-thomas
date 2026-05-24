@@ -2392,7 +2392,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:36:38.871Z"
+    },
+    {
+      "id": "mpjri6zktm0dgovqyvl",
+      "name": "Jie Brian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jie.brian",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:37:04.352Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:36:38.871Z"
+  "lastUpdated": "2026-05-24T12:37:04.352Z"
 }
