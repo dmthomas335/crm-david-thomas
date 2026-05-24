@@ -2273,7 +2273,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:17:17.268Z"
+    },
+    {
+      "id": "mpjqv4wrw9z7fgerft",
+      "name": "Larry Schmitz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/larry.schmitz.9",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:19:08.572Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:17:17.269Z"
+  "lastUpdated": "2026-05-24T12:19:08.572Z"
 }
