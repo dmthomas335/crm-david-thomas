@@ -2477,7 +2477,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:39:04.984Z"
+    },
+    {
+      "id": "mpjrlk37bcd7gd631z",
+      "name": "Daniel Yao",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.yao.39589",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:39:41.299Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:39:04.984Z"
+  "lastUpdated": "2026-05-24T12:39:41.299Z"
 }
