@@ -2256,7 +2256,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:14:22.986Z"
+    },
+    {
+      "id": "mpjqsr10p671lktpst",
+      "name": "Lonnie O'Neal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lonnie.oneal.75",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:17:17.268Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:14:22.986Z"
+  "lastUpdated": "2026-05-24T12:17:17.269Z"
 }
