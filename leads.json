@@ -2375,7 +2375,24 @@
       "lastModified": "2026-05-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:36:04.544Z"
+    },
+    {
+      "id": "mpjrhnbr72o9ltxmmi7",
+      "name": "Pedro Cazares",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pedro.cazares.7140",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-24",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-24",
+      "dateAdded": "2026-05-24",
+      "addedAt": "2026-05-24T12:36:38.871Z"
     }
   ],
-  "lastUpdated": "2026-05-24T12:36:04.544Z"
+  "lastUpdated": "2026-05-24T12:36:38.871Z"
 }
