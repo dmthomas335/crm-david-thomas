@@ -2332,15 +2332,16 @@
       "phone": "",
       "social": "https://www.facebook.com/justin.malakou.5",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
-      "notes": "",
-      "lastModified": "2026-05-24",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-01",
+      "notes": "Joined as customer",
+      "lastModified": "2026-05-25",
       "dateAdded": "2026-05-24",
-      "addedAt": "2026-05-24T12:28:02.122Z"
+      "addedAt": "2026-05-24T12:28:02.122Z",
+      "customerSince": "2026-05-25"
     },
     {
       "id": "mpjrdn5h63uczrtmhbg",
@@ -2768,5 +2769,5 @@
       "addedAt": "2026-05-25T11:35:13.740Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:35:13.740Z"
+  "lastUpdated": "2026-05-25T11:39:51.626Z"
 }
