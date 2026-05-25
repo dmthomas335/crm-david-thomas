@@ -1031,14 +1031,15 @@
       "phone": "",
       "social": "https://www.facebook.com/justin.montague.31",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Customer",
       "temperature": "Warm",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-20",
       "nextFollowUp": "2026-05-27",
       "notes": "",
-      "lastModified": "2026-05-20",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-20",
+      "customerSince": "2026-05-25"
     },
     {
       "id": "mpdzdeh14v1gx9p50zt",
@@ -2769,5 +2770,5 @@
       "addedAt": "2026-05-25T11:35:13.740Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:39:51.626Z"
+  "lastUpdated": "2026-05-25T11:40:01.482Z"
 }
