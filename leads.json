@@ -2681,7 +2681,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:31:16.425Z"
+    },
+    {
+      "id": "mpl4m401z3a72iuig8l",
+      "name": "Ken Allwine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenallwine",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-24",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T11:31:48.289Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:31:16.425Z"
+  "lastUpdated": "2026-05-25T11:31:48.289Z"
 }
