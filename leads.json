@@ -250,10 +250,10 @@
       "status": "Prospect",
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-05-25",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-08",
       "notes": "",
-      "lastModified": "2026-05-18",
+      "lastModified": "2026-05-25",
       "dateAdded": "2026-05-18"
     },
     {
@@ -2770,5 +2770,5 @@
       "addedAt": "2026-05-25T11:35:13.740Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:50:48.069Z"
+  "lastUpdated": "2026-05-25T11:51:53.926Z"
 }
