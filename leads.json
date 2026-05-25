@@ -2768,7 +2768,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:35:13.740Z"
+    },
+    {
+      "id": "mpl65onn8um7jzuhn3i",
+      "name": "Sam Romero",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Nurture",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Email",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T12:15:01.139Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:51:53.926Z"
+  "lastUpdated": "2026-05-25T12:15:01.139Z"
 }
