@@ -2836,7 +2836,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:47:12.660Z"
+    },
+    {
+      "id": "mpl7f4lzvfue0xeb4vq",
+      "name": "Richard Curci",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rickcurci",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T12:50:21.335Z"
     }
   ],
-  "lastUpdated": "2026-05-25T12:48:42.558Z"
+  "lastUpdated": "2026-05-25T12:50:21.335Z"
 }
