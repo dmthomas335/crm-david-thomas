@@ -2630,7 +2630,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:29:35.343Z"
+    },
+    {
+      "id": "mpl4k1qo1zvq56l3pka",
+      "name": "Ornella Captan Poncia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ornella.poncia",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T11:30:12.048Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:29:35.343Z"
+  "lastUpdated": "2026-05-25T11:30:12.048Z"
 }
