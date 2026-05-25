@@ -2698,7 +2698,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:31:48.289Z"
+    },
+    {
+      "id": "mpl4oim3hbv88fpkwyw",
+      "name": "Lisa Knights",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lisa.knights.1004",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T11:33:40.539Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:31:48.289Z"
+  "lastUpdated": "2026-05-25T11:33:40.539Z"
 }
