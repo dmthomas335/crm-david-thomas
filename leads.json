@@ -2887,7 +2887,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:52:44.866Z"
+    },
+    {
+      "id": "mpl7j28qdcdbbrigbgn",
+      "name": "Faustino Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/faustino.gonzales.879648",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T12:53:24.890Z"
     }
   ],
-  "lastUpdated": "2026-05-25T12:52:44.866Z"
+  "lastUpdated": "2026-05-25T12:53:24.890Z"
 }
