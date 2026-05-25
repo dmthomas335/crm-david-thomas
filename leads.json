@@ -2579,7 +2579,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:27:46.630Z"
+    },
+    {
+      "id": "mpl4hmd25tev9hm1tts",
+      "name": "Tarin Bradford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tarin.bradford",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T11:28:18.806Z"
     }
   ],
-  "lastUpdated": "2026-05-25T11:27:46.630Z"
+  "lastUpdated": "2026-05-25T11:28:18.806Z"
 }
