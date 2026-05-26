@@ -3125,7 +3125,58 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:41:17.215Z"
+    },
+    {
+      "id": "mpmke627zad6wijv87s",
+      "name": "Lincoln Berridge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lincoln.berridge",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T11:41:17.743Z"
+    },
+    {
+      "id": "mpmlmxo0i6bdp4pszg",
+      "name": "Paul Malik Jnr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paulmalikjnr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T12:16:06.384Z"
+    },
+    {
+      "id": "mpmlmxso10qjztkn5akl",
+      "name": "Paul Malik Jnr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paulmalikjnr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T12:16:06.552Z"
     }
   ],
-  "lastUpdated": "2026-05-26T11:41:17.215Z"
+  "lastUpdated": "2026-05-26T12:16:06.552Z"
 }
