@@ -3091,7 +3091,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:40:23.791Z"
+    },
+    {
+      "id": "mpmkdj9au2fsdc2pd2",
+      "name": "Stan Lock",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stan.lockett.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T11:40:48.190Z"
     }
   ],
-  "lastUpdated": "2026-05-26T11:40:23.791Z"
+  "lastUpdated": "2026-05-26T11:40:48.190Z"
 }
