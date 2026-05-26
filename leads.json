@@ -2938,7 +2938,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z"
+    },
+    {
+      "id": "mpmjonx8dvymslk8pgq",
+      "name": "Paul Ned Kelly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.n.kelly.73",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-09",
+      "notes": "joined 2WT",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T11:21:27.836Z"
     }
   ],
-  "lastUpdated": "2026-05-26T11:20:41.851Z"
+  "lastUpdated": "2026-05-26T11:21:27.836Z"
 }
