@@ -3244,7 +3244,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T12:38:46.554Z"
+    },
+    {
+      "id": "mpmmngnyfnqchr194ut",
+      "name": "Grzegorz Zubek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/grzegorz.zubek",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T12:44:30.622Z"
     }
   ],
-  "lastUpdated": "2026-05-26T12:43:11.546Z"
+  "lastUpdated": "2026-05-26T12:44:30.622Z"
 }
