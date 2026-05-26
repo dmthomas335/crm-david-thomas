@@ -3040,7 +3040,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:39:02.109Z"
+    },
+    {
+      "id": "mpmkbqwtownt3wg759q",
+      "name": "Tree Bugatti",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tree.bugatti",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T11:39:24.797Z"
     }
   ],
-  "lastUpdated": "2026-05-26T11:39:02.109Z"
+  "lastUpdated": "2026-05-26T11:39:24.797Z"
 }
