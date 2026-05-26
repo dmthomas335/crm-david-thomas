@@ -3057,7 +3057,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:39:24.797Z"
+    },
+    {
+      "id": "mpmkcbet2yzipz84pgq",
+      "name": "John Greene",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.greene.644613",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T11:39:51.365Z"
     }
   ],
-  "lastUpdated": "2026-05-26T11:39:24.797Z"
+  "lastUpdated": "2026-05-26T11:39:51.365Z"
 }
