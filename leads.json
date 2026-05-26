@@ -57,11 +57,11 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-26",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-06-02",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-26",
       "dateAdded": "2026-05-18"
     },
     {
@@ -3263,5 +3263,5 @@
       "addedAt": "2026-05-26T12:44:30.622Z"
     }
   ],
-  "lastUpdated": "2026-05-26T12:59:04.558Z"
+  "lastUpdated": "2026-05-26T12:59:32.701Z"
 }
