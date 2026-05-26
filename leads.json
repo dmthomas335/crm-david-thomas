@@ -3346,7 +3346,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:39:23.931Z"
+    },
+    {
+      "id": "mpmxjzj9hb9bc0ddkhp",
+      "name": "Gary Afonin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1LKk73NCaZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T17:49:44.229Z"
     }
   ],
-  "lastUpdated": "2026-05-26T14:09:58.312Z"
+  "lastUpdated": "2026-05-26T17:49:44.230Z"
 }
