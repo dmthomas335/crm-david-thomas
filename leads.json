@@ -1996,10 +1996,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-05-26",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-27",
       "notes": "",
-      "lastModified": "2026-05-23",
+      "lastModified": "2026-05-26",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:20:20.713Z"
     },
@@ -3212,5 +3212,5 @@
       "addedAt": "2026-05-26T12:26:43.769Z"
     }
   ],
-  "lastUpdated": "2026-05-26T12:28:20.676Z"
+  "lastUpdated": "2026-05-26T12:28:34.171Z"
 }
