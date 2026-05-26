@@ -2628,8 +2628,8 @@
       "lastAction": "Nurture",
       "lastContact": "2026-05-25",
       "nextFollowUp": "2026-05-28",
-      "notes": "Message on TG / joined as customer",
-      "lastModified": "2026-05-25",
+      "notes": "Message on TG / joined as 2WT customer",
+      "lastModified": "2026-05-26",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:29:35.343Z"
     },
@@ -3348,5 +3348,5 @@
       "addedAt": "2026-05-26T13:39:23.931Z"
     }
   ],
-  "lastUpdated": "2026-05-26T13:47:33.521Z"
+  "lastUpdated": "2026-05-26T14:09:58.312Z"
 }
