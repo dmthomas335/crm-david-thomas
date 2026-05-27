@@ -953,11 +953,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-27",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
       "notes": "",
-      "lastModified": "2026-05-20",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20"
     },
     {
@@ -3586,5 +3586,5 @@
       "addedAt": "2026-05-27T11:17:56.968Z"
     }
   ],
-  "lastUpdated": "2026-05-27T12:24:19.156Z"
+  "lastUpdated": "2026-05-27T12:30:34.492Z"
 }
