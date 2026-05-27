@@ -1033,11 +1033,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-05-20",
-      "nextFollowUp": "2026-05-27",
-      "notes": "",
-      "lastModified": "2026-05-25",
+      "nextFollowUp": "2026-05-30",
+      "notes": "personal",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
       "customerSince": "2026-05-25"
     },
@@ -3586,5 +3586,5 @@
       "addedAt": "2026-05-27T11:17:56.968Z"
     }
   ],
-  "lastUpdated": "2026-05-27T12:34:37.996Z"
+  "lastUpdated": "2026-05-27T12:35:29.685Z"
 }
