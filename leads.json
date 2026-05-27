@@ -3482,7 +3482,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:14:55.511Z"
+    },
+    {
+      "id": "mpnywno8c8vkqopiu8",
+      "name": "Jorge Haro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mayharo",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T11:15:21.176Z"
     }
   ],
-  "lastUpdated": "2026-05-27T11:14:55.511Z"
+  "lastUpdated": "2026-05-27T11:15:21.176Z"
 }
