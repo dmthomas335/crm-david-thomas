@@ -3686,7 +3686,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:14:00.812Z"
+    },
+    {
+      "id": "mpo36wf1cb812z23xlh",
+      "name": "Bianca Osbourne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bianca.randall.18",
+      "source": "Facebook",
+      "status": "Prospect",
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
+      "notes": "personal",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T13:15:17.533Z"
     }
   ],
-  "lastUpdated": "2026-05-27T13:14:00.812Z"
+  "lastUpdated": "2026-05-27T13:15:17.533Z"
 }
