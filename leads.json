@@ -855,7 +855,7 @@
       "phone": "",
       "social": "https://www.facebook.com/walter.john.9047",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
@@ -3586,5 +3586,5 @@
       "addedAt": "2026-05-27T11:17:56.968Z"
     }
   ],
-  "lastUpdated": "2026-05-27T12:31:16.836Z"
+  "lastUpdated": "2026-05-27T12:31:25.044Z"
 }
