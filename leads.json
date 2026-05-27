@@ -3431,7 +3431,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T08:14:53.160Z"
+    },
+    {
+      "id": "mpnxx5zmgxwy6um5izo",
+      "name": "Stephen Missi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephenmissi1",
+      "source": "Facebook",
+      "status": "2WT",
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "joined as 2WT customer",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T10:47:45.299Z"
     }
   ],
-  "lastUpdated": "2026-05-27T08:14:53.160Z"
+  "lastUpdated": "2026-05-27T10:47:45.299Z"
 }
