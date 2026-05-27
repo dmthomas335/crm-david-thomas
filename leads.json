@@ -3363,7 +3363,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:49:44.229Z"
+    },
+    {
+      "id": "mpnr7d68hei70gbufn",
+      "name": "Paul Weinberg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14dD89fA7ba/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T07:39:43.856Z"
     }
   ],
-  "lastUpdated": "2026-05-27T07:38:07.803Z"
+  "lastUpdated": "2026-05-27T07:39:43.857Z"
 }
