@@ -1738,12 +1738,12 @@
       "phone": "",
       "social": "https://www.facebook.com/nobel.mebrahtu.39",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-27",
       "nextFollowUp": "2026-05-30",
-      "notes": "",
+      "notes": "sent biz pres",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:18:22.113Z"
@@ -3586,5 +3586,5 @@
       "addedAt": "2026-05-27T11:17:56.968Z"
     }
   ],
-  "lastUpdated": "2026-05-27T12:15:19.100Z"
+  "lastUpdated": "2026-05-27T12:15:41.852Z"
 }
