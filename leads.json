@@ -3601,7 +3601,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T12:51:59.117Z"
+    },
+    {
+      "id": "mpo2dzhhwyoxl0vy4h",
+      "name": "Jon Mejores",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/1254jon",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "personal",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T12:52:48.485Z"
     }
   ],
-  "lastUpdated": "2026-05-27T12:51:59.117Z"
+  "lastUpdated": "2026-05-27T12:52:48.485Z"
 }
