@@ -3380,7 +3380,24 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:39:43.856Z"
+    },
+    {
+      "id": "mpnr8cxik6r6o55gltg",
+      "name": "Sean Weaver",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14f7iYot7Pu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-29",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-27T07:40:30.198Z"
     }
   ],
-  "lastUpdated": "2026-05-27T07:39:43.857Z"
+  "lastUpdated": "2026-05-27T07:40:30.199Z"
 }
