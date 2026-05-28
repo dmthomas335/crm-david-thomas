@@ -4100,7 +4100,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:27:36.330Z"
+    },
+    {
+      "id": "mppf2w8rje6oliscfz",
+      "name": "Eric G Mabry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.l.mabry",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
+      "notes": "david thomas page",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:35:52.251Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:27:36.330Z"
+  "lastUpdated": "2026-05-28T11:35:52.251Z"
 }
