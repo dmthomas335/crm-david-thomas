@@ -364,13 +364,14 @@
       "social": "https://www.facebook.com/jason.burkett.139980",
       "source": "Facebook",
       "status": "New Lead",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-28",
-      "notes": "",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-18"
+      "temperature": "Cold",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-04",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbgebo8eq0ub0pkeo",
@@ -4170,5 +4171,5 @@
       "addedAt": "2026-05-28T11:39:43.859Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:51:52.898Z"
+  "lastUpdated": "2026-05-28T11:52:44.916Z"
 }
