@@ -798,11 +798,11 @@
       "phone": "",
       "social": "https://www.facebook.com/lotuskoiservicesllc",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": "2026-06-27",
       "notes": "sent biz vid / personal",
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-19",
@@ -4299,5 +4299,5 @@
       "addedAt": "2026-05-28T13:31:19.526Z"
     }
   ],
-  "lastUpdated": "2026-05-28T17:13:23.936Z"
+  "lastUpdated": "2026-05-28T17:13:59.855Z"
 }
