@@ -363,15 +363,15 @@
       "phone": "",
       "social": "https://www.facebook.com/jason.burkett.139980",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": "2026-05-31",
       "notes": "personal",
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpbgebo8eq0ub0pkeo",
@@ -4299,5 +4299,5 @@
       "addedAt": "2026-05-28T13:31:19.526Z"
     }
   ],
-  "lastUpdated": "2026-05-28T13:31:19.526Z"
+  "lastUpdated": "2026-05-28T14:08:39.780Z"
 }
