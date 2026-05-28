@@ -3902,7 +3902,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:21:38.425Z"
+    },
+    {
+      "id": "mppel8e1icnnuqc4lz",
+      "name": "Peter Lyssens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peter.lyssens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-05",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:22:08.185Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:21:38.425Z"
+  "lastUpdated": "2026-05-28T11:22:08.185Z"
 }
