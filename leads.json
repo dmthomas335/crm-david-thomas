@@ -3974,7 +3974,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:23:29.346Z"
+    },
+    {
+      "id": "mppenl5eil2s9pezm6",
+      "name": "Nathaniel Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100069341961235",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-03",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:23:58.034Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:23:29.346Z"
+  "lastUpdated": "2026-05-28T11:23:58.034Z"
 }
