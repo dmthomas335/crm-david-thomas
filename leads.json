@@ -1081,14 +1081,16 @@
       "phone": "",
       "social": "https://www.facebook.com/daz.halbert",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-20",
+      "videoSent": true,
+      "customerSince": "2026-05-28"
     },
     {
       "id": "mpe1q7xcqp6wcmdn6h",
@@ -3810,5 +3812,5 @@
       "addedAt": "2026-05-27T17:27:53.351Z"
     }
   ],
-  "lastUpdated": "2026-05-28T09:14:19.614Z"
+  "lastUpdated": "2026-05-28T09:15:16.507Z"
 }
