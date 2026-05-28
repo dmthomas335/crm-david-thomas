@@ -4046,7 +4046,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:26:15.904Z"
+    },
+    {
+      "id": "mpper4s9maiscnmefq9",
+      "name": "Terry Lee Godwin McDaniel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lee.godwin.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-15",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:26:43.449Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:26:15.904Z"
+  "lastUpdated": "2026-05-28T11:26:43.449Z"
 }
