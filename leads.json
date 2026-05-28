@@ -4207,7 +4207,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:17:46.505Z"
+    },
+    {
+      "id": "mpph9wtxtn0sdjehc5m",
+      "name": "Dale Austin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/16o2tSYqS4/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "Personal ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T12:37:18.837Z"
     }
   ],
-  "lastUpdated": "2026-05-28T12:17:46.505Z"
+  "lastUpdated": "2026-05-28T12:37:18.838Z"
 }
