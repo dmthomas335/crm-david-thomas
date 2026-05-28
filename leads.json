@@ -3866,7 +3866,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T10:49:03.174Z"
+    },
+    {
+      "id": "mppdoac8fdbsmbyuv2q",
+      "name": "Kofi Fii Wilson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vincent.wilson.148",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-30",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T10:56:31.064Z"
     }
   ],
-  "lastUpdated": "2026-05-28T10:49:03.174Z"
+  "lastUpdated": "2026-05-28T10:56:31.064Z"
 }
