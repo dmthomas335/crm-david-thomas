@@ -923,11 +923,12 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 5",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-03",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
       "notes": "sent biz pres / dave thomas page",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-20",
+      "videoSent": true
     },
     {
       "id": "mpdz2ffpysfbslkmkn",
@@ -3812,5 +3813,5 @@
       "addedAt": "2026-05-27T17:27:53.351Z"
     }
   ],
-  "lastUpdated": "2026-05-28T09:15:16.507Z"
+  "lastUpdated": "2026-05-28T09:20:37.369Z"
 }
