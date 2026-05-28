@@ -4164,14 +4164,14 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": "2026-06-11",
       "notes": "personal",
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:39:43.859Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:54:04.080Z"
+  "lastUpdated": "2026-05-28T11:54:22.553Z"
 }
