@@ -4082,7 +4082,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:27:09.802Z"
+    },
+    {
+      "id": "mppes9l6px7hvi15gi",
+      "name": "Bryan Chavez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bryan.chavez.1232760",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-17",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:27:36.330Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:27:09.802Z"
+  "lastUpdated": "2026-05-28T11:27:36.330Z"
 }
