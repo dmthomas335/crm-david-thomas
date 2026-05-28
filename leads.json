@@ -3956,7 +3956,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:23:00.990Z"
+    },
+    {
+      "id": "mppemz0i2pd7xibh0l6",
+      "name": "Sergio Sarmiento",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sergio.sarmiento.9279",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-02",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:23:29.346Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:23:00.990Z"
+  "lastUpdated": "2026-05-28T11:23:29.346Z"
 }
