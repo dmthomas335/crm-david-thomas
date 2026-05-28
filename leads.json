@@ -327,14 +327,15 @@
       "phone": "",
       "social": "https://www.facebook.com/maneespy",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-28",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-18"
+      "nextFollowUp": null,
+      "notes": "sent biz pres / personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbgcx6gooejl98v6t",
@@ -4166,5 +4167,5 @@
       "addedAt": "2026-05-28T11:39:43.859Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:48:36.300Z"
+  "lastUpdated": "2026-05-28T11:49:09.542Z"
 }
