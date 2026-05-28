@@ -4010,7 +4010,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:24:41.119Z"
+    },
+    {
+      "id": "mppept2u6hatpv7i2s",
+      "name": "Raymond Ramos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/raymond.ramos.894409",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:25:41.622Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:25:09.380Z"
+  "lastUpdated": "2026-05-28T11:25:41.622Z"
 }
