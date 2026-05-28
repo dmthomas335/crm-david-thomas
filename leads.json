@@ -1195,15 +1195,16 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.farias.925",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-31",
+      "nextFollowUp": null,
       "notes": "sent biz pres",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T10:45:02.177Z"
+      "addedAt": "2026-05-21T10:45:02.177Z",
+      "videoSent": false
     },
     {
       "id": "mpfd8jr6xuoc2wf64sg",
@@ -3808,5 +3809,5 @@
       "addedAt": "2026-05-27T17:27:53.351Z"
     }
   ],
-  "lastUpdated": "2026-05-28T09:10:54.861Z"
+  "lastUpdated": "2026-05-28T09:13:42.672Z"
 }
