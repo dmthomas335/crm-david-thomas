@@ -2339,12 +2339,13 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "",
+      "nextFollowUp": null,
       "notes": "Joined as customer",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:28:02.122Z",
-      "customerSince": "2026-05-25"
+      "customerSince": "2026-05-25",
+      "videoSent": true
     },
     {
       "id": "mpjrdn5h63uczrtmhbg",
@@ -3809,5 +3810,5 @@
       "addedAt": "2026-05-27T17:27:53.351Z"
     }
   ],
-  "lastUpdated": "2026-05-28T09:13:42.672Z"
+  "lastUpdated": "2026-05-28T09:14:19.614Z"
 }
