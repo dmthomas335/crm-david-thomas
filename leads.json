@@ -4151,8 +4151,8 @@
       "phone": "",
       "social": "https://www.facebook.com/rhroky",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
@@ -4163,5 +4163,5 @@
       "addedAt": "2026-05-28T11:39:43.859Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:47:04.242Z"
+  "lastUpdated": "2026-05-28T11:47:13.506Z"
 }
