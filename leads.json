@@ -3920,7 +3920,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:22:08.185Z"
+    },
+    {
+      "id": "mppelr7q95gy1761y3o",
+      "name": "Tej Singh Deol",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tej.singh.deol007",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-06",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:22:32.582Z"
     }
   ],
-  "lastUpdated": "2026-05-28T11:22:08.185Z"
+  "lastUpdated": "2026-05-28T11:22:32.582Z"
 }
