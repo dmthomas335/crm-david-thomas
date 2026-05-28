@@ -3884,7 +3884,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T10:56:31.064Z"
+    },
+    {
+      "id": "mppeklfd2lv0em3lso",
+      "name": "Jhon Henry A",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jhon.henry.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-04",
+      "notes": "personal",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T11:21:38.425Z"
     }
   ],
-  "lastUpdated": "2026-05-28T10:56:31.064Z"
+  "lastUpdated": "2026-05-28T11:21:38.425Z"
 }
