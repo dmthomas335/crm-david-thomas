@@ -3649,15 +3649,16 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T13:12:04.172Z"
+      "addedAt": "2026-05-27T13:12:04.172Z",
+      "videoSent": false
     },
     {
       "id": "mpo33xtagofqmt6c1i6",
@@ -3849,5 +3850,5 @@
       "addedAt": "2026-05-28T09:35:53.580Z"
     }
   ],
-  "lastUpdated": "2026-05-28T09:35:53.581Z"
+  "lastUpdated": "2026-05-28T09:48:02.437Z"
 }
