@@ -4243,7 +4243,25 @@
       "lastModified": "2026-05-28",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:43:07.053Z"
+    },
+    {
+      "id": "mpphuf87hdbwihxmks6",
+      "name": "Chase Kimbrell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1U2YjwEVwy/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
+      "notes": "Personal ",
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-28",
+      "addedAt": "2026-05-28T12:53:15.799Z"
     }
   ],
-  "lastUpdated": "2026-05-28T12:43:07.053Z"
+  "lastUpdated": "2026-05-28T12:53:15.799Z"
 }
