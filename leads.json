@@ -753,14 +753,15 @@
       "phone": "",
       "social": "https://www.facebook.com/patrick.mccarthy.712161",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
+      "lastAction": "Nurture",
       "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-05-29",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-22",
-      "dateAdded": "2026-05-19"
+      "nextFollowUp": "2026-07-29",
+      "notes": "sent biz pres / David T Page",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-19",
+      "videoSent": true
     },
     {
       "id": "mpcxk66b8j29dopctkm",
@@ -4490,5 +4491,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:49:25.662Z"
+  "lastUpdated": "2026-05-29T11:50:48.007Z"
 }
