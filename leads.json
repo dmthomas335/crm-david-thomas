@@ -4423,7 +4423,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:15:48.280Z"
+    },
+    {
+      "id": "mpqttjf1k7s9bu99c6",
+      "name": "Jeff Walpole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.walpole.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-08",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T11:16:16.141Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:15:48.280Z"
+  "lastUpdated": "2026-05-29T11:16:16.141Z"
 }
