@@ -380,15 +380,15 @@
       "phone": "",
       "social": "https://www.facebook.com/ben.bakondi",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-04",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
       "notes": "personal",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpbgfy1ldxzruj7y41e",
@@ -4317,5 +4317,5 @@
       "addedAt": "2026-05-28T18:16:00.174Z"
     }
   ],
-  "lastUpdated": "2026-05-28T18:16:00.174Z"
+  "lastUpdated": "2026-05-29T07:22:47.598Z"
 }
