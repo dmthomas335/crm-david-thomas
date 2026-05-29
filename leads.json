@@ -3245,13 +3245,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-29",
-      "notes": "",
-      "lastModified": "2026-05-26",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-04",
+      "notes": "David T Page",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T12:38:46.554Z"
+      "addedAt": "2026-05-26T12:38:46.554Z",
+      "videoSent": true
     },
     {
       "id": "mpmmngnyfnqchr194ut",
@@ -4491,5 +4492,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:31:14.141Z"
+  "lastUpdated": "2026-05-29T11:32:25.399Z"
 }
