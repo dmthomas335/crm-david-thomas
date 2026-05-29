@@ -2834,12 +2834,13 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-29",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-02",
       "notes": "joined 2WT",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T12:45:36.187Z"
+      "addedAt": "2026-05-25T12:45:36.187Z",
+      "videoSent": false
     },
     {
       "id": "mpl7b310f9ys6oizbj",
@@ -4481,5 +4482,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:18:47.501Z"
+  "lastUpdated": "2026-05-29T11:19:42.119Z"
 }
