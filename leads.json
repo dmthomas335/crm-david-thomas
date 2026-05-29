@@ -3433,12 +3433,13 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
-      "notes": "",
-      "lastModified": "2026-05-27",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-03",
+      "notes": "David T Page",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T08:14:53.160Z"
+      "addedAt": "2026-05-27T08:14:53.160Z",
+      "videoSent": true
     },
     {
       "id": "mpnxx5zmgxwy6um5izo",
@@ -4484,5 +4485,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:21:09.088Z"
+  "lastUpdated": "2026-05-29T11:21:43.800Z"
 }
