@@ -1244,12 +1244,13 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-29",
-      "notes": "Signed Up",
-      "lastModified": "2026-05-21",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-02",
+      "notes": "Signed Up / personal",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T11:07:12.877Z"
+      "addedAt": "2026-05-21T11:07:12.877Z",
+      "videoSent": true
     },
     {
       "id": "mpfelrg6y66bli2fwj",
@@ -4484,5 +4485,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:41:37.514Z"
+  "lastUpdated": "2026-05-29T11:41:59.274Z"
 }
