@@ -1687,12 +1687,13 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-05-30",
       "notes": "Joined as 2WT customer ",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-22T11:13:17.540Z"
+      "addedAt": "2026-05-22T11:13:17.540Z",
+      "videoSent": false
     },
     {
       "id": "mpgtpa727tr06y06x53",
@@ -4480,5 +4481,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:38:06.544Z"
+  "lastUpdated": "2026-05-29T11:39:18.865Z"
 }
