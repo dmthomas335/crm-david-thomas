@@ -4562,7 +4562,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:14:35.698Z"
+    },
+    {
+      "id": "mpqyf67c4m72yc93on8",
+      "name": "Mario Tuzzo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mariotuzzo",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-28",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T13:25:03.912Z"
     }
   ],
-  "lastUpdated": "2026-05-29T13:14:35.698Z"
+  "lastUpdated": "2026-05-29T13:25:03.912Z"
 }
