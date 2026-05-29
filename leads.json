@@ -4477,7 +4477,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:17:19.726Z"
+    },
+    {
+      "id": "mpqtvg7ypq1p4xqiut",
+      "name": "James Leivers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.leivers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:17:19.726Z"
+  "lastUpdated": "2026-05-29T11:17:45.311Z"
 }
