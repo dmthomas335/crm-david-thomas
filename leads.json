@@ -4369,7 +4369,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:30:35.777Z"
+    },
+    {
+      "id": "mpqluycd1ouy55s39po",
+      "name": "Eddie Chandra ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GAnkaTVYR/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-03",
+      "notes": "Personal ",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T07:33:25.213Z"
     }
   ],
-  "lastUpdated": "2026-05-29T07:30:35.777Z"
+  "lastUpdated": "2026-05-29T07:33:25.213Z"
 }
