@@ -4616,7 +4616,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:27:06.057Z"
+    },
+    {
+      "id": "mpqyiu61ipzbfhbqgm8",
+      "name": "Jordan Pavlik",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.pavlik3",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-28",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T13:27:54.937Z"
     }
   ],
-  "lastUpdated": "2026-05-29T13:27:06.057Z"
+  "lastUpdated": "2026-05-29T13:27:54.937Z"
 }
