@@ -4387,7 +4387,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:33:25.213Z"
+    },
+    {
+      "id": "mpqtryzx3x7hhzxkyiz",
+      "name": "Diego A. Salcedo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/diego.a.salcedo.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-05",
+      "notes": "Personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T11:15:03.021Z"
     }
   ],
-  "lastUpdated": "2026-05-29T07:33:25.213Z"
+  "lastUpdated": "2026-05-29T11:15:03.021Z"
 }
