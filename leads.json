@@ -4598,7 +4598,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:25:34.448Z"
+    },
+    {
+      "id": "mpqyhsg9t5dwmi2swy",
+      "name": "John McCann",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.mccann.18488",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-07-23",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T13:27:06.057Z"
     }
   ],
-  "lastUpdated": "2026-05-29T13:25:34.448Z"
+  "lastUpdated": "2026-05-29T13:27:06.057Z"
 }
