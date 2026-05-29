@@ -3799,7 +3799,7 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T16:37:19.956Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpoc7qpzfuvwh0o7zm",
@@ -4485,5 +4485,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:21:43.800Z"
+  "lastUpdated": "2026-05-29T11:21:54.087Z"
 }
