@@ -4490,7 +4490,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:17:45.311Z"
+    },
+    {
+      "id": "mpqvcrakxnvum1gpryo",
+      "name": "Mo Nia Misi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/moses.naivakasoro.9",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "David T Page",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T11:59:12.428Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:51:03.799Z"
+  "lastUpdated": "2026-05-29T11:59:12.428Z"
 }
