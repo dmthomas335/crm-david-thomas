@@ -4333,7 +4333,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:25:24.309Z"
+    },
+    {
+      "id": "mpqlppfetafp8tpw86",
+      "name": "Shaun Metivier",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BEaWxr2PQ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "David Thomas page ",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T07:29:20.378Z"
     }
   ],
-  "lastUpdated": "2026-05-29T07:27:45.750Z"
+  "lastUpdated": "2026-05-29T07:29:20.379Z"
 }
