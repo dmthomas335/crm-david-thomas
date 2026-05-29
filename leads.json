@@ -1260,16 +1260,16 @@
       "phone": "",
       "social": "https://www.facebook.com/perri.agnew",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Follow-up 5",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": "2026-06-01",
       "notes": "personal",
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:24:51.126Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpfemw39ereuodqkhcj",
@@ -4487,5 +4487,5 @@
       "addedAt": "2026-05-29T11:17:45.311Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:44:55.131Z"
+  "lastUpdated": "2026-05-29T11:45:11.726Z"
 }
