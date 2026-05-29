@@ -4405,7 +4405,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:15:03.021Z"
+    },
+    {
+      "id": "mpqtsxx46di0ryozh9s",
+      "name": "Robert Stewart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.stewart.459232",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-06",
+      "notes": "personal",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T11:15:48.280Z"
     }
   ],
-  "lastUpdated": "2026-05-29T11:15:03.021Z"
+  "lastUpdated": "2026-05-29T11:15:48.280Z"
 }
