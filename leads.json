@@ -4742,7 +4742,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T22:54:50.964Z"
+    },
+    {
+      "id": "mps8oc2lffx9y6jzmtw",
+      "name": "Keita Patterson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EpDrdY5Jq/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "Personal ",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T10:59:53.757Z"
     }
   ],
-  "lastUpdated": "2026-05-29T22:54:50.964Z"
+  "lastUpdated": "2026-05-30T10:59:53.757Z"
 }
