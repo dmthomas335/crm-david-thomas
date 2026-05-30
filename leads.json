@@ -4941,7 +4941,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:54:22.279Z"
+    },
+    {
+      "id": "mpsan5ppa80beh6ocl4",
+      "name": "Federico Larrahona",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1D6b9hrCen/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Personal ",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T11:54:58.093Z"
     }
   ],
-  "lastUpdated": "2026-05-30T11:54:22.279Z"
+  "lastUpdated": "2026-05-30T11:54:58.093Z"
 }
