@@ -3819,13 +3819,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-04",
       "notes": "David Thomas page ",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T17:27:53.351Z"
+      "addedAt": "2026-05-27T17:27:53.351Z",
+      "videoSent": false
     },
     {
       "id": "mppajztp5a169v52aoh",
@@ -5052,5 +5053,5 @@
       "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:20:29.032Z"
+  "lastUpdated": "2026-05-30T12:21:15.961Z"
 }
