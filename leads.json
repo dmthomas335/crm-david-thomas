@@ -2032,11 +2032,11 @@
       "lastAction": "Nurture",
       "lastContact": "2026-05-30",
       "nextFollowUp": "2026-06-01",
-      "notes": "Joined as 2WT customer ",
+      "notes": "Joined as 2WT customer / IG",
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:20:20.713Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpi9grhmpth8jb03ns",
@@ -5070,5 +5070,5 @@
       "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:37:48.398Z"
+  "lastUpdated": "2026-05-30T12:38:00.574Z"
 }
