@@ -1773,13 +1773,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-27",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-06",
+      "notes": "sent biz pres / david t page",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-22T11:18:22.113Z"
+      "addedAt": "2026-05-22T11:18:22.113Z",
+      "videoSent": false
     },
     {
       "id": "mpgtv9z5chww84w5xvb",
@@ -5066,5 +5067,5 @@
       "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:34:41.207Z"
+  "lastUpdated": "2026-05-30T12:35:47.391Z"
 }
