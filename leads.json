@@ -5049,7 +5049,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:57:39.607Z"
+    },
+    {
+      "id": "mpsav5i8b70wj8ntjct",
+      "name": "Alex Kerr",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "Joined as 2WT customer / TG",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T11:57:39.607Z"
+  "lastUpdated": "2026-05-30T12:01:11.072Z"
 }
