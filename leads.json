@@ -5088,7 +5088,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:47:04.271Z"
+    },
+    {
+      "id": "mpsckx088lnkk4hmn2i",
+      "name": "Joshua Prunty Ryan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joshua.prunty",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-13",
+      "notes": "Text",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T12:49:12.728Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:47:04.271Z"
+  "lastUpdated": "2026-05-30T12:49:12.728Z"
 }
