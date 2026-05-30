@@ -4851,7 +4851,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:19:26.247Z"
+    },
+    {
+      "id": "mps9ezv5xwf1l1300nd",
+      "name": "Rashad Sandridge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14dY1JgMyv8/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "Personal ",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T11:20:37.649Z"
     }
   ],
-  "lastUpdated": "2026-05-30T11:19:26.247Z"
+  "lastUpdated": "2026-05-30T11:20:37.649Z"
 }
