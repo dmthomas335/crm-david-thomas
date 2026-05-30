@@ -969,12 +969,13 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-04",
       "notes": "",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpdz9va6lp2n5cwqb2",
@@ -5061,5 +5062,5 @@
       "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:30:17.503Z"
+  "lastUpdated": "2026-05-30T12:30:40.815Z"
 }
