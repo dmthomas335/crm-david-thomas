@@ -25,12 +25,13 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-30",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-13",
       "notes": "sent trading vid",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbfba3luhc59byxom",
@@ -5059,5 +5060,5 @@
       "addedAt": "2026-05-30T12:01:11.072Z"
     }
   ],
-  "lastUpdated": "2026-05-30T12:29:04.463Z"
+  "lastUpdated": "2026-05-30T12:29:46.647Z"
 }
