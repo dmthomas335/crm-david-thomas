@@ -5078,12 +5078,12 @@
       "phone": "",
       "social": "https://www.facebook.com/spencer.tucker.353",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "personal",
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
@@ -5199,5 +5199,5 @@
       "addedAt": "2026-05-30T13:26:40.777Z"
     }
   ],
-  "lastUpdated": "2026-05-30T13:26:40.777Z"
+  "lastUpdated": "2026-05-30T14:02:02.646Z"
 }
