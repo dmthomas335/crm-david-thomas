@@ -5305,7 +5305,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:01:24.500Z"
+    },
+    {
+      "id": "mpto75ze8yul6oou3hj",
+      "name": "Gerry Dosito",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Ekn5oFZiT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Personal ",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T11:02:12.746Z"
     }
   ],
-  "lastUpdated": "2026-05-31T11:01:24.500Z"
+  "lastUpdated": "2026-05-31T11:02:12.746Z"
 }
