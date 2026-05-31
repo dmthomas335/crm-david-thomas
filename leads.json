@@ -3838,13 +3838,13 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1ENaKZaMtu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": null,
       "notes": "David Thomas page ",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T16:37:19.956Z",
       "videoSent": true
@@ -5454,5 +5454,5 @@
       "addedAt": "2026-05-31T11:40:50.869Z"
     }
   ],
-  "lastUpdated": "2026-05-31T11:40:50.869Z"
+  "lastUpdated": "2026-05-31T12:46:14.244Z"
 }
