@@ -773,14 +773,15 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Gm8AoP9Yk/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Not Interested",
       "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-31",
+      "nextFollowUp": null,
       "notes": "Sent price video",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-19",
+      "videoSent": true
     },
     {
       "id": "mpcyfa5w9fzvem8v4p4",
@@ -5386,5 +5387,5 @@
       "addedAt": "2026-05-31T11:04:04.152Z"
     }
   ],
-  "lastUpdated": "2026-05-31T11:15:13.694Z"
+  "lastUpdated": "2026-05-31T11:16:05.131Z"
 }
