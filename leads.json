@@ -5287,7 +5287,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:00:35.352Z"
+    },
+    {
+      "id": "mpto64r8h6ijcw5671r",
+      "name": "Raquel Velazquez ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1cLqCrsh9k/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Personal ",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T11:01:24.500Z"
     }
   ],
-  "lastUpdated": "2026-05-31T11:00:35.352Z"
+  "lastUpdated": "2026-05-31T11:01:24.500Z"
 }
