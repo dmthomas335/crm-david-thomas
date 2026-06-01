@@ -138,14 +138,15 @@
       "phone": "",
       "social": "https://www.facebook.com/dino.tamburrini",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-06-01",
-      "notes": "",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-18"
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-15",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbfnmj5ss5gercycgd",
@@ -5629,5 +5630,5 @@
       "addedAt": "2026-06-01T12:29:18.836Z"
     }
   ],
-  "lastUpdated": "2026-06-01T13:08:40.450Z"
+  "lastUpdated": "2026-06-01T13:09:38.827Z"
 }
