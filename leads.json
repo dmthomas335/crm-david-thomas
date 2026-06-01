@@ -1861,16 +1861,16 @@
       "phone": "",
       "social": "https://www.facebook.com/heath.nugent.3",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-04",
       "notes": "Personal ",
       "lastModified": "2026-06-01",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:42:59.812Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpgupoc3cxl3k5w8658",
@@ -5651,5 +5651,5 @@
       "addedAt": "2026-06-01T13:21:52.994Z"
     }
   ],
-  "lastUpdated": "2026-06-01T13:21:52.994Z"
+  "lastUpdated": "2026-06-01T13:23:47.691Z"
 }
