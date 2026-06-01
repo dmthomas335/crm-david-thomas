@@ -5470,7 +5470,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T10:51:56.018Z"
+    },
+    {
+      "id": "mpv55urpb5xqaqt7pud",
+      "name": "Carlos Turner Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlosturnerjr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T11:44:51.205Z"
     }
   ],
-  "lastUpdated": "2026-06-01T11:10:18.440Z"
+  "lastUpdated": "2026-06-01T11:44:51.205Z"
 }
