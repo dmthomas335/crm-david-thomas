@@ -285,14 +285,16 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61563348428584",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-06-01",
-      "notes": "",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-18"
+      "lastAction": "Closed",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-03",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-05-18",
+      "videoSent": false,
+      "customerSince": "2026-06-01"
     },
     {
       "id": "mpbg8hcdr071il1vh9m",
@@ -5631,5 +5633,5 @@
       "addedAt": "2026-06-01T12:29:18.836Z"
     }
   ],
-  "lastUpdated": "2026-06-01T13:10:29.939Z"
+  "lastUpdated": "2026-06-01T13:11:01.083Z"
 }
