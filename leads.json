@@ -2448,12 +2448,13 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-06-01",
-      "notes": "",
-      "lastModified": "2026-05-24",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-24",
-      "addedAt": "2026-05-24T12:36:38.871Z"
+      "addedAt": "2026-05-24T12:36:38.871Z",
+      "videoSent": false
     },
     {
       "id": "mpjri6zktm0dgovqyvl",
@@ -5620,5 +5621,5 @@
       "addedAt": "2026-06-01T12:29:18.836Z"
     }
   ],
-  "lastUpdated": "2026-06-01T12:49:42.367Z"
+  "lastUpdated": "2026-06-01T12:50:11.472Z"
 }
