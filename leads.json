@@ -5488,7 +5488,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T11:44:51.205Z"
+    },
+    {
+      "id": "mpv6m23vic2dpy37mn",
+      "name": "Ian Stabler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ian.stabler.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-08",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T12:25:26.827Z"
     }
   ],
-  "lastUpdated": "2026-06-01T11:44:51.205Z"
+  "lastUpdated": "2026-06-01T12:25:26.827Z"
 }
