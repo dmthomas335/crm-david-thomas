@@ -5524,7 +5524,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T12:25:53.970Z"
+    },
+    {
+      "id": "mpv6naiaaydq97u6yu8",
+      "name": "Carlos Basabe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlos.basabe.1675",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-10",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T12:26:24.370Z"
     }
   ],
-  "lastUpdated": "2026-06-01T12:25:53.970Z"
+  "lastUpdated": "2026-06-01T12:26:24.370Z"
 }
