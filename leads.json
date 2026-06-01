@@ -4220,10 +4220,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-01",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-02",
       "notes": "David Thomas page ",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:09:35.658Z"
     },
@@ -5616,5 +5616,5 @@
       "addedAt": "2026-06-01T12:29:18.836Z"
     }
   ],
-  "lastUpdated": "2026-06-01T12:45:01.813Z"
+  "lastUpdated": "2026-06-01T12:45:10.198Z"
 }
