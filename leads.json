@@ -5542,7 +5542,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T12:26:24.370Z"
+    },
+    {
+      "id": "mpv6nsfnwu263vj5ula",
+      "name": "Jody Jo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/smithbey7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T12:26:47.603Z"
     }
   ],
-  "lastUpdated": "2026-06-01T12:26:24.370Z"
+  "lastUpdated": "2026-06-01T12:26:47.603Z"
 }
