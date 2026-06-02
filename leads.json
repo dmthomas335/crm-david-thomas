@@ -5919,7 +5919,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:34:40.962Z"
+    },
+    {
+      "id": "mpwk9536l3h623v0mcj",
+      "name": "Brandon Mason",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.mason.54943",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-19",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:35:04.962Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:34:40.962Z"
+  "lastUpdated": "2026-06-02T11:35:04.962Z"
 }
