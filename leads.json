@@ -6009,7 +6009,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:14:48.062Z"
+    },
+    {
+      "id": "mpwlphhra4cturs1epk",
+      "name": "Dianna Cave Kreisher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dianna.kreisher",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-07-28",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T12:15:47.151Z"
     }
   ],
-  "lastUpdated": "2026-06-02T12:14:48.062Z"
+  "lastUpdated": "2026-06-02T12:15:47.151Z"
 }
