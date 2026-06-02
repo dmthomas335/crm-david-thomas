@@ -5847,7 +5847,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:33:09.937Z"
+    },
+    {
+      "id": "mpwk75uaeuu431r66n",
+      "name": "Jose Lemus",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jose.lemus.492817",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-16",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:33:32.626Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:33:09.937Z"
+  "lastUpdated": "2026-06-02T11:33:32.626Z"
 }
