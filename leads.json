@@ -6136,7 +6136,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T13:26:35.245Z"
+    },
+    {
+      "id": "mpwr46jjgw8w5kaupri",
+      "name": "Michelle Par",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amanda.sui.18",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "david t page",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T14:47:10.879Z"
     }
   ],
-  "lastUpdated": "2026-06-02T14:46:48.663Z"
+  "lastUpdated": "2026-06-02T14:47:10.879Z"
 }
