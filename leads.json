@@ -60,11 +60,12 @@
       "status": "Watched",
       "temperature": "Hot",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-02",
-      "notes": "",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-18"
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-16",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbfezqrfh71z93529w",
@@ -6137,5 +6138,5 @@
       "addedAt": "2026-06-02T13:26:35.245Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:47:16.376Z"
+  "lastUpdated": "2026-06-02T14:46:48.663Z"
 }
