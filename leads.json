@@ -6086,7 +6086,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:49:55.240Z"
+    },
+    {
+      "id": "mpwnnh8qsji3qiv772o",
+      "name": "Katarina Bridges",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katarina.bridges",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T13:10:12.746Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:08:32.518Z"
+  "lastUpdated": "2026-06-02T13:10:12.746Z"
 }
