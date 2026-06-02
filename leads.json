@@ -5739,7 +5739,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:00:54.341Z"
+    },
+    {
+      "id": "mpwjtf2sbgsd1e4cx7a",
+      "name": "Louis Zulu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/louis.zulu#",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:22:51.412Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:22:13.346Z"
+  "lastUpdated": "2026-06-02T11:22:51.412Z"
 }
