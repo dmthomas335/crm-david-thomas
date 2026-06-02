@@ -5811,7 +5811,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:32:22.305Z"
+    },
+    {
+      "id": "mpwk657txtkebypijg",
+      "name": "Barbara Damon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/barbara.damon.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:32:45.161Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:32:22.305Z"
+  "lastUpdated": "2026-06-02T11:32:45.161Z"
 }
