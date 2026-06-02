@@ -6155,7 +6155,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T14:47:10.879Z"
+    },
+    {
+      "id": "mpwubzvlfyyfh4lesk",
+      "name": "Deepa Kudahetty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BNDvGv1Bd/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "David t page ",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T16:17:14.337Z"
     }
   ],
-  "lastUpdated": "2026-06-02T14:50:15.312Z"
+  "lastUpdated": "2026-06-02T16:17:14.337Z"
 }
