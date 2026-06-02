@@ -2679,21 +2679,21 @@
     },
     {
       "id": "mpl4ifaoorr1uhkqgf",
-      "name": "Tarin Wrighton",
+      "name": "Tarrin Wrighton",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/tarrin.wrighton",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-10",
-      "notes": "",
-      "lastModified": "2026-06-01",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-04",
+      "notes": "Personal ",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:28:56.304Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpl4j9f3d1xtfjio78b",
@@ -5705,5 +5705,5 @@
       "addedAt": "2026-06-02T07:34:50.588Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:34:50.588Z"
+  "lastUpdated": "2026-06-02T07:37:52.731Z"
 }
