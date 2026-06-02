@@ -106,15 +106,16 @@
       "phone": "",
       "social": "https://www.facebook.com/erik.presto.2025",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-16",
       "notes": "personal",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": false,
+      "customerSince": "2026-06-02"
     },
     {
       "id": "mpbfkibrbzeil9273j",
@@ -6156,5 +6157,5 @@
       "addedAt": "2026-06-02T14:47:10.879Z"
     }
   ],
-  "lastUpdated": "2026-06-02T14:47:10.879Z"
+  "lastUpdated": "2026-06-02T14:50:15.312Z"
 }
