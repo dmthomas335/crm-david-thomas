@@ -5865,7 +5865,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:33:32.626Z"
+    },
+    {
+      "id": "mpwk7nzmn94o1ay6gh",
+      "name": "RJ Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.r.johnson.56",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-17",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:33:56.146Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:33:32.626Z"
+  "lastUpdated": "2026-06-02T11:33:56.146Z"
 }
