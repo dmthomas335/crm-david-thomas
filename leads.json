@@ -949,11 +949,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Follow-up 6+",
       "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": "2026-06-10",
       "notes": "sent biz pres / dave thomas page",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-20",
       "videoSent": true
     },
@@ -6132,5 +6132,5 @@
       "addedAt": "2026-06-02T13:26:35.245Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:36:49.964Z"
+  "lastUpdated": "2026-06-02T13:37:36.522Z"
 }
