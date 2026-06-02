@@ -6107,7 +6107,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T13:10:12.746Z"
+    },
+    {
+      "id": "mpwo8jcdbmu1cqmq4vo",
+      "name": "Davinder Panesar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/panesards",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-06",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T13:26:35.245Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:19:56.631Z"
+  "lastUpdated": "2026-06-02T13:26:35.245Z"
 }
