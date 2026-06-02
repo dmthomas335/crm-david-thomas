@@ -2139,16 +2139,16 @@
       "phone": "",
       "social": "https://www.facebook.com/dustin.langley.77",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-15",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:35:36.476Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpi9w123wozem94wu18",
@@ -5705,5 +5705,5 @@
       "addedAt": "2026-06-02T07:34:50.588Z"
     }
   ],
-  "lastUpdated": "2026-06-02T07:37:52.731Z"
+  "lastUpdated": "2026-06-02T07:38:25.170Z"
 }
