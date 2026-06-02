@@ -489,12 +489,13 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-02",
-      "notes": "sent overview vids",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-19"
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "sent overview vids / personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-05-19",
+      "videoSent": true
     },
     {
       "id": "mpck2o3rihrompoexhh",
@@ -6133,5 +6134,5 @@
       "addedAt": "2026-06-02T13:26:35.245Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:40:07.542Z"
+  "lastUpdated": "2026-06-02T13:41:10.403Z"
 }
