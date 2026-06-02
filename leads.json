@@ -836,12 +836,13 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-06-02",
-      "notes": "sent biz pres/ will give trading a try",
-      "lastModified": "2026-05-23",
-      "dateAdded": "2026-05-19"
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-12",
+      "notes": "sent biz pres/ will give trading a try / david t page",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpd3ppj1gv0cynj7xug",
@@ -6136,5 +6137,5 @@
       "addedAt": "2026-06-02T13:26:35.245Z"
     }
   ],
-  "lastUpdated": "2026-06-02T13:44:56.729Z"
+  "lastUpdated": "2026-06-02T13:47:16.376Z"
 }
