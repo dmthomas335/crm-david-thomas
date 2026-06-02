@@ -4237,11 +4237,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": "2026-06-08",
       "notes": "David Thomas page ",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:09:35.658Z"
     },
@@ -6066,5 +6066,5 @@
       "addedAt": "2026-06-02T12:29:28.694Z"
     }
   ],
-  "lastUpdated": "2026-06-02T12:42:14.524Z"
+  "lastUpdated": "2026-06-02T12:42:45.604Z"
 }
