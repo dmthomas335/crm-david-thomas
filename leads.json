@@ -6027,7 +6027,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:15:47.151Z"
+    },
+    {
+      "id": "mpwlyudega2e5nubvzj",
+      "name": "Dan Morgan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/workwithdan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-08-26",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T12:23:03.746Z"
     }
   ],
-  "lastUpdated": "2026-06-02T12:17:39.039Z"
+  "lastUpdated": "2026-06-02T12:23:03.746Z"
 }
