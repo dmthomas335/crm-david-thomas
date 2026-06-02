@@ -5793,7 +5793,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:31:58.544Z"
+    },
+    {
+      "id": "mpwk5nkxiobijxmnuo",
+      "name": "Lee Cotten",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lee.cotten.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:32:22.305Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:31:58.545Z"
+  "lastUpdated": "2026-06-02T11:32:22.305Z"
 }
