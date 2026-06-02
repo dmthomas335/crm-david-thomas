@@ -5134,8 +5134,8 @@
       "social": "https://www.facebook.com/joshua.prunty",
       "source": "Facebook",
       "status": "Nurture",
-      "videoSent": false,
-      "temperature": "Warm",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-02",
       "nextFollowUp": "2026-06-06",
@@ -5741,5 +5741,5 @@
       "addedAt": "2026-06-02T08:00:54.341Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:22:04.965Z"
+  "lastUpdated": "2026-06-02T11:22:13.346Z"
 }
