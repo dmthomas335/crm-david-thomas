@@ -5757,7 +5757,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:22:51.412Z"
+    },
+    {
+      "id": "mpwk4hqh74yn1uuipxc",
+      "name": "Mrr Sly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sylvanus.kofi.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-09",
+      "notes": "personal",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T11:31:28.073Z"
     }
   ],
-  "lastUpdated": "2026-06-02T11:22:51.412Z"
+  "lastUpdated": "2026-06-02T11:31:28.073Z"
 }
