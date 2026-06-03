@@ -3435,11 +3435,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-03",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-10",
       "notes": "David T Page",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:49:44.229Z",
       "videoSent": true
@@ -6394,5 +6394,5 @@
       "addedAt": "2026-06-03T12:13:26.588Z"
     }
   ],
-  "lastUpdated": "2026-06-03T12:20:43.446Z"
+  "lastUpdated": "2026-06-03T12:21:18.344Z"
 }
