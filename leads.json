@@ -6318,7 +6318,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:03:26.185Z"
+    },
+    {
+      "id": "mpxyl1k9mf1atxdujad",
+      "name": "Tristan Taylor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Tristantaylor88",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-22",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:04:01.065Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:03:26.185Z"
+  "lastUpdated": "2026-06-03T11:04:01.065Z"
 }
