@@ -6112,12 +6112,12 @@
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
-      "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-04",
+      "temperature": "Hot",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-05",
       "notes": "personal",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T13:10:12.746Z"
     },
@@ -6356,5 +6356,5 @@
       "addedAt": "2026-06-03T11:04:38.538Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:17:11.391Z"
+  "lastUpdated": "2026-06-03T11:19:21.304Z"
 }
