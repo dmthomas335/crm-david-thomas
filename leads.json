@@ -6336,7 +6336,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:04:01.065Z"
+    },
+    {
+      "id": "mpxyluh67j1qxjexfq",
+      "name": "Chris Hache",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chrishache21",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-23",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:04:38.538Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:04:01.065Z"
+  "lastUpdated": "2026-06-03T11:04:38.538Z"
 }
