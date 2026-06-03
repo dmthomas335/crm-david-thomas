@@ -6174,7 +6174,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T16:17:14.337Z"
+    },
+    {
+      "id": "mpxyfyc8gj07vooxer",
+      "name": "Wilmer Torres",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wilmer.torres.315213",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-10",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:00:03.608Z"
     }
   ],
-  "lastUpdated": "2026-06-02T22:45:14.253Z"
+  "lastUpdated": "2026-06-03T11:00:03.608Z"
 }
