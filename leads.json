@@ -847,22 +847,6 @@
       "videoSent": false
     },
     {
-      "id": "mpd3ppj1gv0cynj7xug",
-      "name": "Alan Nunner",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=61550961427820",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-06-03",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
-    },
-    {
       "id": "mpd3qt4exgenk9oop0i",
       "name": "Daniel Stewart",
       "email": "",
@@ -6398,5 +6382,5 @@
       "addedAt": "2026-06-03T12:13:26.588Z"
     }
   ],
-  "lastUpdated": "2026-06-03T12:27:15.450Z"
+  "lastUpdated": "2026-06-03T12:28:52.881Z"
 }
