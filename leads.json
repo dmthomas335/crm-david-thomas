@@ -6210,7 +6210,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:00:33.440Z"
+    },
+    {
+      "id": "mpxyh90oeqlc4zct42",
+      "name": "Bruce Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bruce.davis.79069",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:01:04.104Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:00:33.440Z"
+  "lastUpdated": "2026-06-03T11:01:04.104Z"
 }
