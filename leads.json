@@ -6192,7 +6192,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:00:03.608Z"
+    },
+    {
+      "id": "mpxyglcwwcdt23t2kxi",
+      "name": "Willian Gabriel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/WillianGabrielS",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:00:33.440Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:00:03.608Z"
+  "lastUpdated": "2026-06-03T11:00:33.440Z"
 }
