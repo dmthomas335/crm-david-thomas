@@ -1700,9 +1700,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": "2026-06-08",
       "notes": "joined personal ",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:11:51.778Z",
       "videoSent": false
@@ -6385,5 +6385,5 @@
       "addedAt": "2026-06-03T12:13:26.588Z"
     }
   ],
-  "lastUpdated": "2026-06-03T12:36:01.693Z"
+  "lastUpdated": "2026-06-03T12:37:00.614Z"
 }
