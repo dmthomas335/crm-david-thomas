@@ -6228,7 +6228,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:01:04.104Z"
+    },
+    {
+      "id": "mpxyhtqgkovk6ymbxx",
+      "name": "Luke Lfc Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lukelfc.thompson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-15",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:01:30.952Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:01:04.104Z"
+  "lastUpdated": "2026-06-03T11:01:30.952Z"
 }
