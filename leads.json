@@ -6300,7 +6300,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:02:58.393Z"
+    },
+    {
+      "id": "mpxykand9397y6qxi7",
+      "name": "Stuart Britt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stuart.britt.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-19",
+      "notes": "personal BD",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-03T11:03:26.185Z"
     }
   ],
-  "lastUpdated": "2026-06-03T11:02:58.393Z"
+  "lastUpdated": "2026-06-03T11:03:26.185Z"
 }
