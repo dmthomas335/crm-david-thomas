@@ -6605,7 +6605,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:48:10.773Z"
+    },
+    {
+      "id": "mpzbbyvqmd9sbgxsmp",
+      "name": "Angel David Jackson Miranda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/angeldavid.jacksonortiz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-17",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:48:38.870Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:48:10.773Z"
+  "lastUpdated": "2026-06-04T09:48:38.870Z"
 }
