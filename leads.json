@@ -2219,10 +2219,11 @@
       "lastAction": "Follow-up 5",
       "lastContact": "2026-05-23",
       "nextFollowUp": "2026-06-05",
-      "notes": "",
-      "lastModified": "2026-05-23",
+      "notes": "Personal ",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T11:38:24.685Z"
+      "addedAt": "2026-05-23T11:38:24.685Z",
+      "videoSent": false
     },
     {
       "id": "mpi9zwnn7mlbgs11ibv",
@@ -6534,5 +6535,5 @@
       "addedAt": "2026-06-04T09:09:41.378Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:10:22.618Z"
+  "lastUpdated": "2026-06-04T09:10:55.173Z"
 }
