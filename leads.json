@@ -6677,7 +6677,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:13:06.853Z"
+    },
+    {
+      "id": "mpzc8fejcjg4pm7ja4w",
+      "name": "Lee Baldwin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lee.baldwin2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-07-08",
+      "notes": "personal",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T10:13:53.275Z"
     }
   ],
-  "lastUpdated": "2026-06-04T10:13:06.854Z"
+  "lastUpdated": "2026-06-04T10:13:53.275Z"
 }
