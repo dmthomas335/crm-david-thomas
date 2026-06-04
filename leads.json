@@ -723,14 +723,15 @@
       "phone": "",
       "social": "https://www.facebook.com/Heal.Ron",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-04",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-07-10",
       "notes": "Sent trading vid",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpcvbvfh2g7m8yzc7az",
@@ -6747,5 +6748,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:53:57.295Z"
+  "lastUpdated": "2026-06-04T12:56:28.928Z"
 }
