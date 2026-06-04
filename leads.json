@@ -444,12 +444,13 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-06-04",
-      "notes": "sent biz pres",
-      "lastModified": "2026-05-26",
-      "dateAdded": "2026-05-18"
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-18",
+      "notes": "sent biz pres / personal",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-05-18",
+      "videoSent": true
     },
     {
       "id": "mpbgknd1az752b2wgg",
@@ -6750,5 +6751,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T13:00:20.370Z"
+  "lastUpdated": "2026-06-04T13:00:52.907Z"
 }
