@@ -6587,7 +6587,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:47:48.030Z"
+    },
+    {
+      "id": "mpzbbd793ustonggd27",
+      "name": "Derrick Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derrick.williams.315203",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-16",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:48:10.773Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:47:48.030Z"
+  "lastUpdated": "2026-06-04T09:48:10.773Z"
 }
