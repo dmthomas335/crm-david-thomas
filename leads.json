@@ -908,10 +908,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-04",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-09",
       "notes": "sent biz pres",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -6779,5 +6779,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:39:51.232Z"
+  "lastUpdated": "2026-06-04T12:42:15.721Z"
 }
