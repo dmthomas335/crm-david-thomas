@@ -860,12 +860,13 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-06-04",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-18",
       "notes": "sent biz pres",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-05-19",
+      "videoSent": true
     },
     {
       "id": "mpdy9vcdowd5hs5poa",
@@ -6748,5 +6749,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:56:28.928Z"
+  "lastUpdated": "2026-06-04T12:57:40.089Z"
 }
