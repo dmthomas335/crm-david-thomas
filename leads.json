@@ -3822,14 +3822,14 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-04",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-11",
       "notes": "david thomas page",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:40:52.972Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpo4smtooobfdtoyztr",
@@ -6769,5 +6769,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:23:34.176Z"
+  "lastUpdated": "2026-06-04T12:24:03.968Z"
 }
