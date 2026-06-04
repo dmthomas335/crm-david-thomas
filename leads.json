@@ -6623,7 +6623,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:48:38.870Z"
+    },
+    {
+      "id": "mpzbcn0ns1iz018q7g",
+      "name": "Stewart Lewis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Stew8artb4",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-18",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:49:10.151Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:48:38.870Z"
+  "lastUpdated": "2026-06-04T09:49:10.151Z"
 }
