@@ -3557,16 +3557,16 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006780554714",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-18",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-06",
       "notes": "personal",
       "lastModified": "2026-06-04",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:14:55.511Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpnywno8c8vkqopiu8",
@@ -6771,5 +6771,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:30:29.635Z"
+  "lastUpdated": "2026-06-04T12:30:43.731Z"
 }
