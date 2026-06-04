@@ -3660,16 +3660,16 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.till.180",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-05",
       "notes": "personal",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:17:56.968Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpo2cxe5rw69lifami",
@@ -6462,5 +6462,5 @@
       "addedAt": "2026-06-04T08:59:05.734Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:59:05.735Z"
+  "lastUpdated": "2026-06-04T08:59:46.244Z"
 }
