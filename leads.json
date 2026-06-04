@@ -3946,14 +3946,14 @@
       "phone": "",
       "social": "https://www.facebook.com/danny.jacob.10690",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": "2026-08-12",
       "notes": "personal",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T10:49:03.174Z"
     },
@@ -6769,5 +6769,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:22:22.199Z"
+  "lastUpdated": "2026-06-04T12:22:44.953Z"
 }
