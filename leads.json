@@ -6749,7 +6749,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:16:18.508Z"
+    },
+    {
+      "id": "mpzcua5f7fqfnw3a5rt",
+      "name": "George Bell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.bell.980",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T10:16:18.508Z"
+  "lastUpdated": "2026-06-04T10:30:52.899Z"
 }
