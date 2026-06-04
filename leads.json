@@ -967,23 +967,6 @@
       "videoSent": false
     },
     {
-      "id": "mpdz3yagq6bi1d629hk",
-      "name": "Everett Cooper",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/everett.cooper.31",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-04",
-      "notes": "",
-      "lastModified": "2026-05-30",
-      "dateAdded": "2026-05-20",
-      "videoSent": false
-    },
-    {
       "id": "mpdz9va6lp2n5cwqb2",
       "name": "Adrian Hobbs",
       "email": "",
@@ -6761,5 +6744,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:42:23.105Z"
+  "lastUpdated": "2026-06-04T12:43:06.609Z"
 }
