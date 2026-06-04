@@ -3896,9 +3896,9 @@
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": "2026-06-17",
       "notes": "David Thomas page ",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T17:27:53.351Z",
       "videoSent": false
@@ -6769,5 +6769,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-04T12:22:44.953Z"
+  "lastUpdated": "2026-06-04T12:23:34.176Z"
 }
