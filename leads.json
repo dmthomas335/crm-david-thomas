@@ -6569,7 +6569,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:47:13.829Z"
+    },
+    {
+      "id": "mpzbavnimxt5uifelt7",
+      "name": "Steven Lubbers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steven.lubbers.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-15",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:47:48.030Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:47:13.829Z"
+  "lastUpdated": "2026-06-04T09:47:48.030Z"
 }
