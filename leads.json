@@ -6551,7 +6551,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:46:24.901Z"
+    },
+    {
+      "id": "mpzba59htmt9bq3742e",
+      "name": "Ashley Farrell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ashley.farrell.9235",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:47:13.829Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:46:42.246Z"
+  "lastUpdated": "2026-06-04T09:47:13.829Z"
 }
