@@ -6533,7 +6533,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:09:41.378Z"
+    },
+    {
+      "id": "mpzb93idvfl2ad8tl2e",
+      "name": "Jeff Carr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.carr.372",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-11",
+      "notes": "personal BD",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T09:46:24.901Z"
     }
   ],
-  "lastUpdated": "2026-06-04T09:10:55.173Z"
+  "lastUpdated": "2026-06-04T09:46:24.902Z"
 }
