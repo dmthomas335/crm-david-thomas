@@ -6424,7 +6424,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:55:38.433Z"
+    },
+    {
+      "id": "mpz9irxh1vpkldbkprh",
+      "name": "Maris Hesse",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1H8ckTnTPa/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-07-08",
+      "notes": "David t page ",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T08:57:57.221Z"
     }
   ],
-  "lastUpdated": "2026-06-04T08:56:19.734Z"
+  "lastUpdated": "2026-06-04T08:57:57.221Z"
 }
