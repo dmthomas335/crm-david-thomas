@@ -6695,7 +6695,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:13:53.275Z"
+    },
+    {
+      "id": "mpzc9gv8944ncm5v4ni",
+      "name": "Felix Ware Jr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/FelixWareJr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-18",
+      "notes": "personal",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T10:14:41.828Z"
     }
   ],
-  "lastUpdated": "2026-06-04T10:13:53.275Z"
+  "lastUpdated": "2026-06-04T10:14:41.828Z"
 }
