@@ -863,10 +863,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-18",
-      "notes": "sent biz pres",
-      "lastModified": "2026-06-04",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-08-19",
+      "notes": "sent biz pres / waiting til after sale of house / David t page ",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -6769,5 +6769,5 @@
       "addedAt": "2026-06-05T07:29:58.367Z"
     }
   ],
-  "lastUpdated": "2026-06-05T07:29:58.368Z"
+  "lastUpdated": "2026-06-05T07:31:02.504Z"
 }
