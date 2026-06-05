@@ -3555,24 +3555,6 @@
       "videoSent": true
     },
     {
-      "id": "mpnywno8c8vkqopiu8",
-      "name": "Jorge Haro",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mayharo",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-19",
-      "notes": "personal",
-      "lastModified": "2026-06-05",
-      "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T11:15:21.176Z",
-      "videoSent": false
-    },
-    {
       "id": "mpnyx8qwev3is0a1htg",
       "name": "Cindy Brown-Harris",
       "email": "",
@@ -6974,5 +6956,5 @@
       "addedAt": "2026-06-05T13:42:34.317Z"
     }
   ],
-  "lastUpdated": "2026-06-05T13:42:34.317Z"
+  "lastUpdated": "2026-06-05T14:16:08.780Z"
 }
