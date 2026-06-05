@@ -6839,7 +6839,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:00.882Z"
+    },
+    {
+      "id": "mq0uwrpml8qpes3cj9q",
+      "name": "Shaun Alderman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaun.alderman.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-18",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:44:28.234Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:44:00.882Z"
+  "lastUpdated": "2026-06-05T11:44:28.234Z"
 }
