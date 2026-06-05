@@ -2194,11 +2194,11 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-09",
       "notes": "Personal ",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:38:24.685Z",
       "videoSent": false
@@ -6954,5 +6954,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:55:49.413Z"
+  "lastUpdated": "2026-06-05T12:56:11.758Z"
 }
