@@ -6821,7 +6821,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:43:34.531Z"
+    },
+    {
+      "id": "mq0uw6lu7jxfg1ss7oe",
+      "name": "Paul Moffatt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/flamadog",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-17",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:44:00.882Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:43:34.531Z"
+  "lastUpdated": "2026-06-05T11:44:00.882Z"
 }
