@@ -6911,7 +6911,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:45:56.803Z"
+    },
+    {
+      "id": "mq0uz9ccy605qvj41e",
+      "name": "Amy D Middleton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amy.chapman.125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-23",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:46:24.396Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:45:56.803Z"
+  "lastUpdated": "2026-06-05T11:46:24.396Z"
 }
