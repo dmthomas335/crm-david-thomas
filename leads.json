@@ -6785,7 +6785,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:42:48.906Z"
+    },
+    {
+      "id": "mq0uv67vh8t2nkcwtnw",
+      "name": "Julian Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julian.johnson.336",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-15",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:43:13.723Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:42:48.906Z"
+  "lastUpdated": "2026-06-05T11:43:13.723Z"
 }
