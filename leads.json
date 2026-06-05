@@ -2709,13 +2709,13 @@
       "phone": "",
       "social": "https://www.facebook.com/ornella.poncia",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:30:12.048Z",
       "videoSent": true
@@ -6952,5 +6952,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:51:33.107Z"
+  "lastUpdated": "2026-06-05T12:52:04.756Z"
 }
