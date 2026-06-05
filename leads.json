@@ -6929,7 +6929,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:46:24.396Z"
+    },
+    {
+      "id": "mq0vlkdop174wea4boa",
+      "name": "Kimberly Streeter ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kimberly.streeter.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-22",
+      "notes": "personal",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:59:16.114Z"
+  "lastUpdated": "2026-06-05T12:03:45.132Z"
 }
