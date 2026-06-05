@@ -6094,11 +6094,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Hot",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-19",
       "notes": "personal",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T13:10:12.746Z"
     },
@@ -6931,5 +6931,5 @@
       "addedAt": "2026-06-05T11:46:24.396Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:51:53.318Z"
+  "lastUpdated": "2026-06-05T11:56:58.312Z"
 }
