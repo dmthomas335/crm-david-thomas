@@ -6803,7 +6803,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:43:13.723Z"
+    },
+    {
+      "id": "mq0uvm9vy7lbepc18vj",
+      "name": "Nick Gay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.gay.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-16",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:43:34.531Z"
     }
   ],
-  "lastUpdated": "2026-06-05T11:43:13.723Z"
+  "lastUpdated": "2026-06-05T11:43:34.531Z"
 }
