@@ -6767,7 +6767,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T07:29:58.367Z"
+    },
+    {
+      "id": "mq0uun2ispczhtovxd",
+      "name": "John McLemore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.mclemore.671689",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-12",
+      "notes": "personal BD",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T11:42:48.906Z"
     }
   ],
-  "lastUpdated": "2026-06-05T07:31:02.504Z"
+  "lastUpdated": "2026-06-05T11:42:48.906Z"
 }
