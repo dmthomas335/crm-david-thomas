@@ -2727,16 +2727,16 @@
       "phone": "",
       "social": "https://www.facebook.com/adam.davis.5283",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-18",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
       "notes": "personal",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:30:47.280Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpl4lfexx1viz2o6xzb",
@@ -6751,5 +6751,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-05T07:23:58.977Z"
+  "lastUpdated": "2026-06-05T07:24:13.111Z"
 }
