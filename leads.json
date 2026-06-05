@@ -4571,7 +4571,7 @@
     },
     {
       "id": "mpqxzk0ybi0ei2jpti5",
-      "name": "Pear Fortune",
+      "name": "Pearl Fortune",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/pearl.fortune",
@@ -4580,10 +4580,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-29",
       "notes": "personal",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:12:55.330Z"
     },
@@ -6949,5 +6949,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:23:07.469Z"
+  "lastUpdated": "2026-06-05T12:24:28.702Z"
 }
