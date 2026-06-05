@@ -4779,9 +4779,9 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": "2026-06-18",
       "notes": "David t page ",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T22:54:50.964Z"
     },
@@ -6949,5 +6949,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:20:29.868Z"
+  "lastUpdated": "2026-06-05T12:22:40.958Z"
 }
