@@ -3449,11 +3449,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-05",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-19",
       "notes": "David T page",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:40:30.198Z",
       "videoSent": true
@@ -6950,5 +6950,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:34:38.652Z"
+  "lastUpdated": "2026-06-05T12:47:46.434Z"
 }
