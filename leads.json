@@ -2750,10 +2750,10 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-15",
-      "notes": "personal",
+      "nextFollowUp": "2027-06-16",
+      "notes": "personal / started new biz last year and needed time",
       "lastModified": "2026-06-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:31:16.425Z",
@@ -6955,5 +6955,5 @@
       "addedAt": "2026-06-05T12:03:45.132Z"
     }
   ],
-  "lastUpdated": "2026-06-05T12:58:12.278Z"
+  "lastUpdated": "2026-06-05T13:02:57.250Z"
 }
