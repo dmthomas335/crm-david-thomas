@@ -2174,16 +2174,16 @@
       "phone": "",
       "social": "https://www.facebook.com/miguel.rivera.16121",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-06-13",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
       "notes": "personal",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:37:18.529Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpi9ywj1v2abllifmtf",
@@ -6751,5 +6751,5 @@
       "addedAt": "2026-06-04T10:30:52.899Z"
     }
   ],
-  "lastUpdated": "2026-06-05T07:25:17.970Z"
+  "lastUpdated": "2026-06-05T07:28:38.959Z"
 }
