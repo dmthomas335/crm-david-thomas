@@ -7138,22 +7138,22 @@
     },
     {
       "id": "mq26h051c8xiqznss8u",
-      "name": "James Walto",
+      "name": "James Walton",
       "email": "",
       "phone": "",
-      "social": "",
+      "social": "https://www.facebook.com/share/18Xfq2XE5Y/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-06",
-      "nextFollowUp": null,
-      "notes": "",
+      "nextFollowUp": "2026-06-19",
+      "notes": "Personal BD",
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:55:54.229Z"
     }
   ],
-  "lastUpdated": "2026-06-06T09:55:54.229Z"
+  "lastUpdated": "2026-06-06T09:56:18.145Z"
 }
