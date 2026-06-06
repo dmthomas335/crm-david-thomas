@@ -1364,12 +1364,12 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-18",
+      "nextFollowUp": "2026-06-09",
       "notes": "personal",
       "lastModified": "2026-06-06",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:28:33.335Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpfer4o706jipyz2s91",
@@ -7250,5 +7250,5 @@
       "addedAt": "2026-06-06T11:23:52.119Z"
     }
   ],
-  "lastUpdated": "2026-06-06T11:52:13.181Z"
+  "lastUpdated": "2026-06-06T11:52:28.620Z"
 }
