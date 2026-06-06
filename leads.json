@@ -3617,10 +3617,10 @@
       "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-06",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-11",
       "notes": "Personal past customer ",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-06",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:17:19.304Z",
       "videoSent": false
@@ -7245,5 +7245,5 @@
       "addedAt": "2026-06-06T11:23:52.119Z"
     }
   ],
-  "lastUpdated": "2026-06-06T11:39:07.981Z"
+  "lastUpdated": "2026-06-06T11:39:36.382Z"
 }
