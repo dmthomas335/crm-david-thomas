@@ -7099,7 +7099,25 @@
       "customerSince": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:32:07.864Z"
+    },
+    {
+      "id": "mq25th3s4g3cbjz1nak",
+      "name": "Joe Jurd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BK35WK85p/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-11",
+      "notes": "Personal bd ",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-06T09:37:36.472Z"
     }
   ],
-  "lastUpdated": "2026-06-06T09:36:03.758Z"
+  "lastUpdated": "2026-06-06T09:37:36.472Z"
 }
