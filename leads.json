@@ -6443,11 +6443,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-06",
+      "nextFollowUp": "2026-06-16",
       "notes": "Personal ",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-06",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:03:44.036Z"
     },
@@ -7245,5 +7245,5 @@
       "addedAt": "2026-06-06T11:23:52.119Z"
     }
   ],
-  "lastUpdated": "2026-06-06T11:33:36.274Z"
+  "lastUpdated": "2026-06-06T11:34:00.387Z"
 }
