@@ -7248,7 +7248,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T11:23:52.119Z"
+    },
+    {
+      "id": "mq3nwpo3m55msip7viq",
+      "name": "Dennis Owens ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BsubeKkYN/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-10",
+      "notes": "Personal ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T10:51:46.803Z"
     }
   ],
-  "lastUpdated": "2026-06-06T15:18:18.156Z"
+  "lastUpdated": "2026-06-07T10:51:46.803Z"
 }
