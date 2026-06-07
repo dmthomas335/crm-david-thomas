@@ -2518,16 +2518,16 @@
       "phone": "",
       "social": "https://www.facebook.com/agya.ntow.35",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-05",
+      "lastContact": "2026-06-07",
       "nextFollowUp": "2026-06-10",
       "notes": "personal",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:38:36.432Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpjrks2gf3bbswbnifk",
@@ -7502,5 +7502,5 @@
       "addedAt": "2026-06-07T11:26:55.490Z"
     }
   ],
-  "lastUpdated": "2026-06-07T11:32:39.195Z"
+  "lastUpdated": "2026-06-07T11:33:41.879Z"
 }
