@@ -7374,7 +7374,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:15:52.432Z"
+    },
+    {
+      "id": "mq3oslql61y13859j5d",
+      "name": "David Markey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CqgZAJ8dH/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T11:16:34.701Z"
     }
   ],
-  "lastUpdated": "2026-06-07T11:15:52.432Z"
+  "lastUpdated": "2026-06-07T11:16:34.701Z"
 }
