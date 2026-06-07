@@ -7392,7 +7392,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:16:34.701Z"
+    },
+    {
+      "id": "mq3otdfg3p0d7f2cmik",
+      "name": "Paul Kinsley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1P2uSfU6fn/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T11:17:10.588Z"
     }
   ],
-  "lastUpdated": "2026-06-07T11:16:34.701Z"
+  "lastUpdated": "2026-06-07T11:17:10.589Z"
 }
