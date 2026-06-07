@@ -7338,7 +7338,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:14:50.710Z"
+    },
+    {
+      "id": "mq3oqwotxfjr6soev6",
+      "name": "Andre Pretorius",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1LUmGLGK3N/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-06-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T11:15:15.581Z"
     }
   ],
-  "lastUpdated": "2026-06-07T11:14:50.710Z"
+  "lastUpdated": "2026-06-07T11:15:15.581Z"
 }
