@@ -7464,7 +7464,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:18:49.991Z"
+    },
+    {
+      "id": "mq3ownb4xnr57r7bb8f",
+      "name": "Paul E Thomas ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1B49x7avwk/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-07",
+      "nextFollowUp": "2026-07-15",
+      "notes": "Personal ",
+      "lastModified": "2026-06-07",
+      "dateAdded": "2026-06-07",
+      "addedAt": "2026-06-07T11:19:43.360Z"
     }
   ],
-  "lastUpdated": "2026-06-07T11:18:49.991Z"
+  "lastUpdated": "2026-06-07T11:19:43.360Z"
 }
