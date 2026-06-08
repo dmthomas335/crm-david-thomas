@@ -7779,7 +7779,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T12:12:11.303Z"
+    },
+    {
+      "id": "mq595cpmjtblxg20it",
+      "name": "Stephen Abraham",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephen.abraham.5076",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-23",
+      "notes": "Personal ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T13:34:08.026Z"
     }
   ],
-  "lastUpdated": "2026-06-08T13:24:50.045Z"
+  "lastUpdated": "2026-06-08T13:34:08.026Z"
 }
