@@ -7797,7 +7797,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T13:34:08.026Z"
+    },
+    {
+      "id": "mq5987ngcnazr1sqiv",
+      "name": "Charles Anderson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charles.anderson.315",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-07-09",
+      "notes": "Personal ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T13:36:21.436Z"
     }
   ],
-  "lastUpdated": "2026-06-08T13:34:08.026Z"
+  "lastUpdated": "2026-06-08T13:36:21.436Z"
 }
