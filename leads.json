@@ -545,15 +545,15 @@
       "phone": "",
       "social": "https://www.facebook.com/richard.stone.3551",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-10",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-12",
       "notes": "personal",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-19",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpck508hzftllcdxnbl",
@@ -7781,5 +7781,5 @@
       "addedAt": "2026-06-08T12:12:11.303Z"
     }
   ],
-  "lastUpdated": "2026-06-08T13:05:43.395Z"
+  "lastUpdated": "2026-06-08T13:22:11.668Z"
 }
