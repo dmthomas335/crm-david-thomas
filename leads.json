@@ -7519,7 +7519,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T07:00:42.159Z"
+    },
+    {
+      "id": "mq535andfnoc3gqmhs",
+      "name": "Uchechukwu Obijiaku",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BdYUqPHBV/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T10:46:07.657Z"
     }
   ],
-  "lastUpdated": "2026-06-08T07:00:42.160Z"
+  "lastUpdated": "2026-06-08T10:46:07.657Z"
 }
