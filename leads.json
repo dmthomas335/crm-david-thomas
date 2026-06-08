@@ -7682,7 +7682,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:21:45.689Z"
+    },
+    {
+      "id": "mq54fvo1g3c8vd25xv9",
+      "name": "Laurent Zecchino",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/laurent.zecchino",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T11:22:21.073Z"
     }
   ],
-  "lastUpdated": "2026-06-08T11:21:45.689Z"
+  "lastUpdated": "2026-06-08T11:22:21.073Z"
 }
