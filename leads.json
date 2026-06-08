@@ -4074,12 +4074,12 @@
       "phone": "",
       "social": "https://www.facebook.com/john.cavaness.7",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-17",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
       "notes": "personal Birthday ",
       "lastModified": "2026-06-08",
       "dateAdded": "2026-05-28",
@@ -7835,5 +7835,5 @@
       "addedAt": "2026-06-08T15:29:26.783Z"
     }
   ],
-  "lastUpdated": "2026-06-08T15:29:26.783Z"
+  "lastUpdated": "2026-06-08T16:16:57.663Z"
 }
