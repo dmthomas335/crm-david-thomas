@@ -5293,8 +5293,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18cn3bBeHX/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-08",
@@ -7774,5 +7774,5 @@
       "addedAt": "2026-06-08T12:12:11.303Z"
     }
   ],
-  "lastUpdated": "2026-06-08T12:30:22.864Z"
+  "lastUpdated": "2026-06-08T12:31:50.737Z"
 }
