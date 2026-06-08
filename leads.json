@@ -809,15 +809,15 @@
       "phone": "",
       "social": "https://www.facebook.com/honeybobobo",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-08",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-07-09",
       "notes": "sent biz vid David t page",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-19",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpcyzgao7k5mswdnpiu",
@@ -7779,5 +7779,5 @@
       "addedAt": "2026-06-08T12:12:11.303Z"
     }
   ],
-  "lastUpdated": "2026-06-08T13:03:25.289Z"
+  "lastUpdated": "2026-06-08T13:04:31.482Z"
 }
