@@ -745,10 +745,10 @@
       "status": "Prospect",
       "temperature": "Hot",
       "lastAction": "Follow-up 5",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-16",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-10",
       "notes": "personal",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -7594,5 +7594,5 @@
       "addedAt": "2026-06-08T10:53:25.517Z"
     }
   ],
-  "lastUpdated": "2026-06-08T10:53:25.518Z"
+  "lastUpdated": "2026-06-08T10:53:52.519Z"
 }
