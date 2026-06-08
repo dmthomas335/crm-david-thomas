@@ -5098,9 +5098,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-08",
+      "nextFollowUp": "2026-06-17",
       "notes": "Joined as 2WT customer / TG",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:01:11.072Z"
     },
@@ -7774,5 +7774,5 @@
       "addedAt": "2026-06-08T12:12:11.303Z"
     }
   ],
-  "lastUpdated": "2026-06-08T12:28:44.599Z"
+  "lastUpdated": "2026-06-08T12:30:22.864Z"
 }
