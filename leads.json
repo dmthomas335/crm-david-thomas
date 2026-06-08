@@ -7501,7 +7501,25 @@
       "lastModified": "2026-06-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:26:55.490Z"
+    },
+    {
+      "id": "mq4v3eb3h25kihy1e4c",
+      "name": "Scott Merrit ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EXQ2FqkDP/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-12",
+      "notes": "Personal",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T07:00:42.159Z"
     }
   ],
-  "lastUpdated": "2026-06-07T15:25:28.937Z"
+  "lastUpdated": "2026-06-08T07:00:42.160Z"
 }
