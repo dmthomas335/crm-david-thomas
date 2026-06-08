@@ -7628,7 +7628,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:20:21.304Z"
+    },
+    {
+      "id": "mq54e3rsajd0ini805",
+      "name": "Kelvin Lee Hudson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/KLHud",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T11:20:58.264Z"
     }
   ],
-  "lastUpdated": "2026-06-08T11:20:21.304Z"
+  "lastUpdated": "2026-06-08T11:20:58.265Z"
 }
