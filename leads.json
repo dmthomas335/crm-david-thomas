@@ -7664,7 +7664,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:21:20.937Z"
+    },
+    {
+      "id": "mq54f4d5b4jdy9g3ldv",
+      "name": "Anders Granholm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100084395416596",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T11:21:45.689Z"
     }
   ],
-  "lastUpdated": "2026-06-08T11:21:20.937Z"
+  "lastUpdated": "2026-06-08T11:21:45.689Z"
 }
