@@ -4952,11 +4952,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-08",
-      "notes": "Personal ",
-      "lastModified": "2026-05-30",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-08",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:53:49.874Z"
     },
@@ -7774,5 +7774,5 @@
       "addedAt": "2026-06-08T12:12:11.303Z"
     }
   ],
-  "lastUpdated": "2026-06-08T12:31:50.737Z"
+  "lastUpdated": "2026-06-08T12:32:26.368Z"
 }
