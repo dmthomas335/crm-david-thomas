@@ -8049,7 +8049,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:53:59.844Z"
+    },
+    {
+      "id": "mq6n70mtldpg94ac0mj",
+      "name": "Chris Hubers ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.hubers.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T12:55:06.485Z"
     }
   ],
-  "lastUpdated": "2026-06-09T12:53:59.844Z"
+  "lastUpdated": "2026-06-09T12:55:06.485Z"
 }
