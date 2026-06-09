@@ -4241,10 +4241,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-09",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
       "notes": "David Thomas page ",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:09:35.658Z"
     },
@@ -8088,5 +8088,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:35:02.615Z"
+  "lastUpdated": "2026-06-09T13:35:17.047Z"
 }
