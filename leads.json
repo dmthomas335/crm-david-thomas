@@ -1754,11 +1754,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-23",
       "notes": "Sent trading vid personal ",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:16:05.941Z",
       "videoSent": true
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:48:00.432Z"
+  "lastUpdated": "2026-06-09T13:49:26.897Z"
 }
