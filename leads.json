@@ -7941,7 +7941,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T08:09:00.343Z"
+    },
+    {
+      "id": "mq6j155fxendwudk3gb",
+      "name": "James Walton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.walton.58760608",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T10:58:33.939Z"
     }
   ],
-  "lastUpdated": "2026-06-09T08:09:00.343Z"
+  "lastUpdated": "2026-06-09T10:58:33.940Z"
 }
