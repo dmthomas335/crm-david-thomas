@@ -915,11 +915,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-23",
       "notes": "sent biz pres",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:52:12.474Z"
+  "lastUpdated": "2026-06-09T13:53:34.972Z"
 }
