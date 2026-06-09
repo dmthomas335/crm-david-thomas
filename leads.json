@@ -5322,11 +5322,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-17",
       "notes": "Personal ",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:00:35.352Z"
     },
@@ -8088,5 +8088,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:28:33.387Z"
+  "lastUpdated": "2026-06-09T13:28:57.195Z"
 }
