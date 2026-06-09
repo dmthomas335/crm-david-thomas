@@ -2202,11 +2202,11 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-09",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
       "notes": "Personal ",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:38:24.685Z",
       "videoSent": false
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:45:01.285Z"
+  "lastUpdated": "2026-06-09T13:45:42.743Z"
 }
