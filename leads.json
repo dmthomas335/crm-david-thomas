@@ -3364,12 +3364,13 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-09",
-      "notes": "",
-      "lastModified": "2026-05-26",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-16",
+      "notes": "Personal ",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T13:12:05.841Z"
+      "addedAt": "2026-05-26T13:12:05.841Z",
+      "videoSent": false
     },
     {
       "id": "mpmno5x081dm6ce0i7r",
@@ -8089,5 +8090,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:37:52.339Z"
+  "lastUpdated": "2026-06-09T13:38:48.953Z"
 }
