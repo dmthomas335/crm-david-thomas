@@ -4298,12 +4298,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1U2YjwEVwy/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-06-09",
       "dateAdded": "2026-05-28",
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:54:26.388Z"
+  "lastUpdated": "2026-06-09T14:08:38.278Z"
 }
