@@ -8031,7 +8031,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:51:55.659Z"
+    },
+    {
+      "id": "mq6n5l7o2ipl182i15",
+      "name": "Jonathan Lundlee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathan.lundlee",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T12:53:59.844Z"
     }
   ],
-  "lastUpdated": "2026-06-09T12:51:55.659Z"
+  "lastUpdated": "2026-06-09T12:53:59.844Z"
 }
