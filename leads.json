@@ -2829,16 +2829,16 @@
       "phone": "",
       "social": "https://www.facebook.com/antoine.adams.566",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-22",
+      "nextFollowUp": "2026-06-12",
       "notes": "Personal ",
       "lastModified": "2026-06-09",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:34:39.045Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpl4qij0m3jv7tf9jvr",
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:26:19.975Z"
+  "lastUpdated": "2026-06-09T15:35:15.399Z"
 }
