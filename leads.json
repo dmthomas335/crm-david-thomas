@@ -3200,16 +3200,16 @@
       "phone": "",
       "social": "https://www.facebook.com/stan.lockett.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-17",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
       "notes": "Personal ",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:40:48.190Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpmke5nj6fau09kx4bh",
@@ -7907,5 +7907,5 @@
       "addedAt": "2026-06-09T08:02:17.161Z"
     }
   ],
-  "lastUpdated": "2026-06-09T08:02:17.161Z"
+  "lastUpdated": "2026-06-09T08:03:32.076Z"
 }
