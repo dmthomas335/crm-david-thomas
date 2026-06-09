@@ -7959,7 +7959,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T10:58:33.939Z"
+    },
+    {
+      "id": "mq6j1kb4fxzsrmuvpqv",
+      "name": "Kalvin Roy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100090956805055",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T10:58:53.584Z"
     }
   ],
-  "lastUpdated": "2026-06-09T10:58:33.940Z"
+  "lastUpdated": "2026-06-09T10:58:53.584Z"
 }
