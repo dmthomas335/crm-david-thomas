@@ -2024,11 +2024,12 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-10",
-      "notes": "",
-      "lastModified": "2026-05-27",
+      "nextFollowUp": "2026-06-17",
+      "notes": "joined as 2WT Personal ",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T11:08:10.067Z"
+      "addedAt": "2026-05-23T11:08:10.067Z",
+      "videoSent": false
     },
     {
       "id": "mpi9bo4pwtlxjw2vmnp",
@@ -8087,5 +8088,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T12:56:58.734Z"
+  "lastUpdated": "2026-06-09T13:21:51.014Z"
 }
