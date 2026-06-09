@@ -2831,13 +2831,14 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-06-09",
-      "notes": "",
-      "lastModified": "2026-05-25",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal ",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T11:34:39.045Z"
+      "addedAt": "2026-05-25T11:34:39.045Z",
+      "videoSent": false
     },
     {
       "id": "mpl4qij0m3jv7tf9jvr",
@@ -8094,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:40:24.306Z"
+  "lastUpdated": "2026-06-09T13:41:03.419Z"
 }
