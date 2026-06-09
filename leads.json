@@ -8013,7 +8013,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:49:03.312Z"
+    },
+    {
+      "id": "mq6n2xe37ferdjxm3tt",
+      "name": "Garrett Stratulat",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/garrett.stratulat",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-07-09",
+      "notes": "Personal ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T12:51:55.659Z"
     }
   ],
-  "lastUpdated": "2026-06-09T12:51:10.146Z"
+  "lastUpdated": "2026-06-09T12:51:55.659Z"
 }
