@@ -7002,12 +7002,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EPomhHieD/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-16",
+      "nextFollowUp": null,
       "notes": "David t page ",
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-06",
@@ -8095,5 +8095,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:24:59.240Z"
+  "lastUpdated": "2026-06-09T14:26:19.975Z"
 }
