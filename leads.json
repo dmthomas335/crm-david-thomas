@@ -3757,11 +3757,12 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": "2026-06-24",
       "notes": "personal",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-05-27",
-      "addedAt": "2026-05-27T13:14:00.812Z"
+      "addedAt": "2026-05-27T13:14:00.812Z",
+      "videoSent": false
     },
     {
       "id": "mpo36wf1cb812z23xlh",
@@ -8088,5 +8089,5 @@
       "addedAt": "2026-06-09T12:56:58.734Z"
     }
   ],
-  "lastUpdated": "2026-06-09T13:35:44.199Z"
+  "lastUpdated": "2026-06-09T13:36:27.800Z"
 }
