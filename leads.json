@@ -8093,7 +8093,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:56:58.734Z"
+    },
+    {
+      "id": "mq6zdgl5q7qwu8kyzpf",
+      "name": "Will Cralle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CwDJtAjnB/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-11",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-09T18:36:02.489Z"
     }
   ],
-  "lastUpdated": "2026-06-09T15:36:36.915Z"
+  "lastUpdated": "2026-06-09T18:36:02.489Z"
 }
