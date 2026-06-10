@@ -1311,11 +1311,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-10",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
       "notes": "Personal ",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:26:15.095Z",
       "videoSent": false
@@ -8332,5 +8332,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:26:03.916Z"
+  "lastUpdated": "2026-06-10T12:26:21.380Z"
 }
