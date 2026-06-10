@@ -8309,7 +8309,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:51:36.134Z"
+    },
+    {
+      "id": "mq80hvyo7w4n4wlwynw",
+      "name": "Josh Lober",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/groups/2051665544894844/user/1306766862/",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:55:14.832Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:51:36.134Z"
+  "lastUpdated": "2026-06-10T11:55:14.832Z"
 }
