@@ -8165,7 +8165,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:56:09.249Z"
+    },
+    {
+      "id": "mq7z18lw980lq651c1t",
+      "name": "Bram Morris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Bram.L.Morris",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:14:18.452Z"
     }
   ],
-  "lastUpdated": "2026-06-10T10:56:09.250Z"
+  "lastUpdated": "2026-06-10T11:14:18.452Z"
 }
