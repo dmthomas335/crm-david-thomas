@@ -8273,7 +8273,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:49:44.166Z"
+    },
+    {
+      "id": "mq80blymtoi7suish5q",
+      "name": "Dan Reed Olsen III",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.r.olsen.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-08-26",
+      "notes": "Personal ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:50:21.934Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:49:44.166Z"
+  "lastUpdated": "2026-06-10T11:50:21.934Z"
 }
