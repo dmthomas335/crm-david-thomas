@@ -7503,7 +7503,7 @@
     },
     {
       "id": "mq4v3eb3h25kihy1e4c",
-      "name": "Scott Merrit ",
+      "name": "Scott Merritt",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/share/1EXQ2FqkDP/?mibextid=wwXIfr",
@@ -7511,11 +7511,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-12",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-24",
       "notes": "Personal",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T07:00:42.159Z"
     },
@@ -8330,5 +8330,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:17:22.680Z"
+  "lastUpdated": "2026-06-10T12:17:52.674Z"
 }
