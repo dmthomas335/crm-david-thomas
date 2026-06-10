@@ -746,11 +746,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Hot",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Follow-up 6+",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": "2026-06-15",
       "notes": "personal",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -8332,5 +8332,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:23:38.008Z"
+  "lastUpdated": "2026-06-10T12:24:43.835Z"
 }
