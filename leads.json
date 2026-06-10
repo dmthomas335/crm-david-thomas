@@ -7276,11 +7276,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-10",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-17",
       "notes": "Personal ",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-10",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T10:51:46.803Z"
     },
@@ -8239,5 +8239,5 @@
       "addedAt": "2026-06-10T11:15:22.044Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:19:03.957Z"
+  "lastUpdated": "2026-06-10T11:19:33.349Z"
 }
