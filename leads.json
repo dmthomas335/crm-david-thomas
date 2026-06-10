@@ -8291,7 +8291,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:50:21.934Z"
+    },
+    {
+      "id": "mq80d77qvfsqa3yecs",
+      "name": "Kevin Brolly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.brolly.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-08-20",
+      "notes": "Personal ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:51:36.134Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:50:21.934Z"
+  "lastUpdated": "2026-06-10T11:51:36.134Z"
 }
