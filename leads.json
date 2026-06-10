@@ -1138,10 +1138,11 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": "2026-08-27",
       "notes": "sent biz pres / personal",
-      "lastModified": "2026-05-27",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-05-20",
+      "videoSent": true
     },
     {
       "id": "mpe1u4b16jhp007i8n4",
@@ -8331,5 +8332,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:22:39.181Z"
+  "lastUpdated": "2026-06-10T12:23:38.008Z"
 }
