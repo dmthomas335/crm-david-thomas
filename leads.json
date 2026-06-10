@@ -8237,7 +8237,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:15:22.044Z"
+    },
+    {
+      "id": "mq8011b5atqsgnv171g",
+      "name": "Wayne Morris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wayne1977",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-07-17",
+      "notes": "Personal Check on cancer",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:42:08.609Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:39:51.488Z"
+  "lastUpdated": "2026-06-10T11:42:08.609Z"
 }
