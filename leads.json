@@ -3180,24 +3180,6 @@
       "videoSent": false
     },
     {
-      "id": "mpmkd0fj7yzzoktc0a5",
-      "name": "Scott Merritt",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/scott.merritt.16",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-24",
-      "notes": "personal",
-      "lastModified": "2026-06-10",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T11:40:23.791Z",
-      "videoSent": false
-    },
-    {
       "id": "mpmkdj9au2fsdc2pd2",
       "name": "Stan Lock",
       "email": "",
@@ -8348,5 +8330,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T12:16:50.344Z"
+  "lastUpdated": "2026-06-10T12:17:22.680Z"
 }
