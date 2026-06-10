@@ -3798,12 +3798,12 @@
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-10",
+      "nextFollowUp": "2026-06-23",
       "notes": "david thomas page",
       "lastModified": "2026-06-10",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:39:21.364Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpo43t64jj4jr4v7da",
@@ -8239,5 +8239,5 @@
       "addedAt": "2026-06-10T11:15:22.044Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:30:35.603Z"
+  "lastUpdated": "2026-06-10T11:30:48.820Z"
 }
