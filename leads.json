@@ -8255,7 +8255,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:42:08.609Z"
+    },
+    {
+      "id": "mq80astig03nffiv9m6",
+      "name": "Kristi Kindy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kristi.kindy",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-07-15",
+      "notes": "Personal ",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-10T11:49:44.166Z"
     }
   ],
-  "lastUpdated": "2026-06-10T11:42:08.609Z"
+  "lastUpdated": "2026-06-10T11:49:44.166Z"
 }
