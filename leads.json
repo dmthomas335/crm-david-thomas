@@ -8618,7 +8618,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T12:02:55.439Z"
+    },
+    {
+      "id": "mq9j5n3ir6bkwznt00k",
+      "name": "Hitesh Mehta",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100006591937589",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-15",
+      "notes": "Personal ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T13:25:22.350Z"
     }
   ],
-  "lastUpdated": "2026-06-11T13:24:24.036Z"
+  "lastUpdated": "2026-06-11T13:25:22.350Z"
 }
