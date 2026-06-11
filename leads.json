@@ -4413,10 +4413,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-18",
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:33:25.213Z"
     },
@@ -8440,5 +8440,5 @@
       "addedAt": "2026-06-11T08:08:14.351Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:08:43.014Z"
+  "lastUpdated": "2026-06-11T08:09:14.707Z"
 }
