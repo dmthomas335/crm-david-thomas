@@ -4520,11 +4520,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-11",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-18",
       "notes": "personal",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:17:45.311Z"
     },
@@ -8638,5 +8638,5 @@
       "addedAt": "2026-06-11T13:25:22.350Z"
     }
   ],
-  "lastUpdated": "2026-06-11T13:27:44.094Z"
+  "lastUpdated": "2026-06-11T13:28:09.374Z"
 }
