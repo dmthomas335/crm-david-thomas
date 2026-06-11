@@ -3799,11 +3799,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-11",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
       "notes": "david thomas page",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:40:52.972Z",
       "videoSent": true
@@ -8620,5 +8620,5 @@
       "addedAt": "2026-06-11T12:02:55.439Z"
     }
   ],
-  "lastUpdated": "2026-06-11T12:30:16.478Z"
+  "lastUpdated": "2026-06-11T12:31:07.992Z"
 }
