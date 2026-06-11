@@ -8438,7 +8438,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:08:14.351Z"
+    },
+    {
+      "id": "mq9denu2prk57kvxj89",
+      "name": "Zebrasky Mcdonald",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1NNcoDwSxz/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T10:44:25.514Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:12:31.562Z"
+  "lastUpdated": "2026-06-11T10:44:25.514Z"
 }
