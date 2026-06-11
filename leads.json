@@ -8474,7 +8474,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:45:05.474Z"
+    },
+    {
+      "id": "mq9dgcpoq68rj3fb08k",
+      "name": "Serge Sefekme",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17dYCCKfMQ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T10:45:44.412Z"
     }
   ],
-  "lastUpdated": "2026-06-11T10:45:05.474Z"
+  "lastUpdated": "2026-06-11T10:45:44.412Z"
 }
