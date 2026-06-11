@@ -4445,8 +4445,8 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.stewart.459232",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-11",
@@ -8656,5 +8656,5 @@
       "addedAt": "2026-06-11T13:33:11.113Z"
     }
   ],
-  "lastUpdated": "2026-06-11T13:43:46.534Z"
+  "lastUpdated": "2026-06-11T13:44:11.462Z"
 }
