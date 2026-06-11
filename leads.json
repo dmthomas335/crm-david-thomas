@@ -7927,11 +7927,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-11",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-18",
       "notes": "Dave T Page ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T08:09:00.343Z"
     },
@@ -8620,5 +8620,5 @@
       "addedAt": "2026-06-11T12:02:55.439Z"
     }
   ],
-  "lastUpdated": "2026-06-11T12:33:51.024Z"
+  "lastUpdated": "2026-06-11T12:34:55.537Z"
 }
