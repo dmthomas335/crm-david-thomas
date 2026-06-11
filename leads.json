@@ -8456,7 +8456,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:44:25.514Z"
+    },
+    {
+      "id": "mq9dfio2juq92fs4k8",
+      "name": "Ralphy Smith ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BTMcF7MVj/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T10:45:05.474Z"
     }
   ],
-  "lastUpdated": "2026-06-11T10:44:25.514Z"
+  "lastUpdated": "2026-06-11T10:45:05.474Z"
 }
