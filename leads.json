@@ -8348,7 +8348,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T07:58:29.322Z"
+    },
+    {
+      "id": "mq97if6jmmmomluo47",
+      "name": "Ceri Jones ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BWNCP83Qu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-15",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T07:59:23.227Z"
     }
   ],
-  "lastUpdated": "2026-06-11T07:58:29.322Z"
+  "lastUpdated": "2026-06-11T07:59:23.227Z"
 }
