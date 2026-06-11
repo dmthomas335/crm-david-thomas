@@ -8600,7 +8600,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:49:20.189Z"
+    },
+    {
+      "id": "mq9g7m1bmoq3bi6be0i",
+      "name": "Lolu Aluko",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009856144462",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-15",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T12:02:55.439Z"
     }
   ],
-  "lastUpdated": "2026-06-11T12:00:33.133Z"
+  "lastUpdated": "2026-06-11T12:02:55.439Z"
 }
