@@ -5780,14 +5780,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.doan.9279",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:31:58.544Z"
     },
@@ -8332,5 +8332,5 @@
       "addedAt": "2026-06-10T11:57:42.010Z"
     }
   ],
-  "lastUpdated": "2026-06-10T13:54:31.856Z"
+  "lastUpdated": "2026-06-11T07:55:38.020Z"
 }
