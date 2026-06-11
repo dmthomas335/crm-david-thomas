@@ -8644,8 +8644,8 @@
       "phone": "",
       "social": "https://www.facebook.com/johnhealyireland",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "2WT",
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-11",
@@ -8656,5 +8656,5 @@
       "addedAt": "2026-06-11T13:33:11.113Z"
     }
   ],
-  "lastUpdated": "2026-06-11T13:33:11.113Z"
+  "lastUpdated": "2026-06-11T13:34:39.297Z"
 }
