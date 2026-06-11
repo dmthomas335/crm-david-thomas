@@ -4985,14 +4985,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D6b9hrCen/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:54:58.093Z"
     },
@@ -8440,5 +8440,5 @@
       "addedAt": "2026-06-11T08:08:14.351Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:08:14.351Z"
+  "lastUpdated": "2026-06-11T08:08:43.014Z"
 }
