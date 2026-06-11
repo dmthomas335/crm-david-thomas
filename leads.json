@@ -8582,7 +8582,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:48:58.102Z"
+    },
+    {
+      "id": "mq9dkz7h3nzl1r63pkx",
+      "name": "Dean Donoghue",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Ftma5W6o3/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T10:49:20.189Z"
     }
   ],
-  "lastUpdated": "2026-06-11T10:48:58.102Z"
+  "lastUpdated": "2026-06-11T10:49:20.189Z"
 }
