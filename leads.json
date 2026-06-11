@@ -896,13 +896,13 @@
       "phone": "",
       "social": "https://www.facebook.com/shawn.moss.50",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
+      "lastAction": "Nurture",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": "2026-08-19",
       "notes": "sent biz pres david t page",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -8620,5 +8620,5 @@
       "addedAt": "2026-06-11T12:02:55.439Z"
     }
   ],
-  "lastUpdated": "2026-06-11T12:32:58.967Z"
+  "lastUpdated": "2026-06-11T12:33:51.024Z"
 }
