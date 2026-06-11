@@ -4214,11 +4214,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-11",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-16",
       "notes": "personal",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:39:43.859Z"
     },
@@ -8656,5 +8656,5 @@
       "addedAt": "2026-06-11T13:33:11.113Z"
     }
   ],
-  "lastUpdated": "2026-06-11T13:35:09.458Z"
+  "lastUpdated": "2026-06-11T13:43:46.534Z"
 }
