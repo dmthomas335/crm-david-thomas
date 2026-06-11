@@ -8384,7 +8384,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:01:25.978Z"
+    },
+    {
+      "id": "mq97oo1p7cq2ee5j42e",
+      "name": "Eric Laporte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1P2i1ipPqC/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal ",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T08:04:14.653Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:03:17.149Z"
+  "lastUpdated": "2026-06-11T08:04:14.653Z"
 }
