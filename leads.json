@@ -2848,16 +2848,16 @@
       "phone": "",
       "social": "https://www.facebook.com/herve.prophete",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-17",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-16",
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:35:13.740Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpl65onn8um7jzuhn3i",
@@ -8386,5 +8386,5 @@
       "addedAt": "2026-06-11T08:01:25.978Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:01:25.978Z"
+  "lastUpdated": "2026-06-11T08:02:04.347Z"
 }
