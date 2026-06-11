@@ -5331,12 +5331,12 @@
       "source": "Facebook",
       "status": "Sent Video",
       "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "temperature": "Hot",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": "2026-07-02",
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:01:24.500Z"
     },
@@ -8440,5 +8440,5 @@
       "addedAt": "2026-06-11T08:08:14.351Z"
     }
   ],
-  "lastUpdated": "2026-06-11T08:09:14.707Z"
+  "lastUpdated": "2026-06-11T08:12:31.562Z"
 }
