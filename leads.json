@@ -8654,7 +8654,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T20:30:40.676Z"
+    },
+    {
+      "id": "mqas1tezu0616r1oweg",
+      "name": "James Boggs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.boggs.927758",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-17",
+      "notes": "Personal ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:22:06.635Z"
     }
   ],
-  "lastUpdated": "2026-06-11T20:30:40.677Z"
+  "lastUpdated": "2026-06-12T10:22:06.635Z"
 }
