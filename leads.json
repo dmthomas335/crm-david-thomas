@@ -6522,7 +6522,7 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-06-12",
       "nextFollowUp": "2026-06-19",
       "notes": "personal ",
@@ -8926,5 +8926,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:21:56.691Z"
+  "lastUpdated": "2026-06-12T11:22:05.899Z"
 }
