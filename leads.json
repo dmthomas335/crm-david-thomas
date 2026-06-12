@@ -8708,7 +8708,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:35:08.456Z"
+    },
+    {
+      "id": "mqasj3ogk57j7rx7m6m",
+      "name": "John Mcdevitt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.mcdevitt1987",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:35:33.088Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:35:08.457Z"
+  "lastUpdated": "2026-06-12T10:35:33.088Z"
 }
