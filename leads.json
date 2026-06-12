@@ -1103,10 +1103,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-12",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
       "notes": "Personal ",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-05-20",
       "videoSent": true,
       "customerSince": "2026-05-28"
@@ -8944,5 +8944,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:09:18.536Z"
+  "lastUpdated": "2026-06-12T11:09:33.992Z"
 }
