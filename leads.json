@@ -598,11 +598,11 @@
       "source": "Facebook",
       "status": "2WT",
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": "2026-07-08",
       "notes": "personal",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -8908,5 +8908,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:41:41.664Z"
+  "lastUpdated": "2026-06-12T11:42:08.312Z"
 }
