@@ -8870,7 +8870,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z"
+    },
+    {
+      "id": "mqat0eescw8ljvv2gbo",
+      "name": "Eric Berger ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.berger.1612",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-26",
+      "notes": "Personal ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:49:00.148Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:47:50.971Z"
+  "lastUpdated": "2026-06-12T10:49:00.148Z"
 }
