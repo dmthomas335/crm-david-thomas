@@ -8906,7 +8906,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:50:45.958Z"
+    },
+    {
+      "id": "mqat69m2s73gpufqh8",
+      "name": "Rivera Hector Pelon Bega",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pelon.bega",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:53:33.866Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:50:45.958Z"
+  "lastUpdated": "2026-06-12T10:53:33.866Z"
 }
