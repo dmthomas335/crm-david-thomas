@@ -8744,7 +8744,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:03.818Z"
+    },
+    {
+      "id": "mqask7a2g66m7os9f9",
+      "name": "Craig Powers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/craig.powers.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:36:24.410Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:36:03.818Z"
+  "lastUpdated": "2026-06-12T10:36:24.410Z"
 }
