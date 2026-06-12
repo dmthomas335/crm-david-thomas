@@ -8672,7 +8672,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:22:06.635Z"
+    },
+    {
+      "id": "mqas68jdf1n1yq8xmrf",
+      "name": "Joe Jurd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19EbzMRS9p/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "Personal ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:25:32.857Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:22:06.635Z"
+  "lastUpdated": "2026-06-12T10:25:32.857Z"
 }
