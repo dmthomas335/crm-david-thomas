@@ -8780,7 +8780,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:45.805Z"
+    },
+    {
+      "id": "mqasl2skx4lfuo2k3cn",
+      "name": "Jason Ramsay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.ramsay.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:37:05.252Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:36:45.805Z"
+  "lastUpdated": "2026-06-12T10:37:05.252Z"
 }
