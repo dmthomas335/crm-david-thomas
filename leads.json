@@ -2814,11 +2814,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
       "notes": "Personal ",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:34:39.045Z",
       "videoSent": true
@@ -8926,5 +8926,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:29:34.447Z"
+  "lastUpdated": "2026-06-12T11:29:58.630Z"
 }
