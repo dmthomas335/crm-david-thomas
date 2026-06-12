@@ -8762,7 +8762,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:24.410Z"
+    },
+    {
+      "id": "mqasknsddi3b69cdfce",
+      "name": "Angel Medrano",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/angel.medrano.71271",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:36:45.805Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:36:24.410Z"
+  "lastUpdated": "2026-06-12T10:36:45.805Z"
 }
