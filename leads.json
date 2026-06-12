@@ -1321,24 +1321,6 @@
       "videoSent": false
     },
     {
-      "id": "mpfeodxb2d14awfkg5q",
-      "name": "Vinnette Morgan",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/vinnettem",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
-      "notes": "personal",
-      "lastModified": "2026-06-09",
-      "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T11:26:53.567Z",
-      "videoSent": false
-    },
-    {
       "id": "mpfepacvvukvjgl9frp",
       "name": "Tracey Harrison",
       "email": "",
@@ -8926,5 +8908,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:31:53.906Z"
+  "lastUpdated": "2026-06-12T11:32:58.267Z"
 }
