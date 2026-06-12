@@ -2399,7 +2399,7 @@
       "phone": "",
       "social": "https://www.facebook.com/toni.ptone",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-12",
@@ -2408,7 +2408,7 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:36:04.544Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpjrhnbr72o9ltxmmi7",
@@ -8908,5 +8908,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:47:44.049Z"
+  "lastUpdated": "2026-06-12T11:52:46.308Z"
 }
