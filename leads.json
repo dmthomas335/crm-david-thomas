@@ -6523,10 +6523,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-12",
-      "notes": "personal BD",
-      "lastModified": "2026-06-04",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "personal ",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:47:13.829Z"
     },
@@ -8926,5 +8926,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:21:42.011Z"
+  "lastUpdated": "2026-06-12T11:21:49.227Z"
 }
