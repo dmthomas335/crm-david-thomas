@@ -8806,12 +8806,12 @@
       "phone": "",
       "social": "https://www.facebook.com/kristineiverson4",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": "2026-06-19",
       "notes": "Personal ",
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
@@ -8908,5 +8908,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:33:44.348Z"
+  "lastUpdated": "2026-06-12T11:34:30.829Z"
 }
