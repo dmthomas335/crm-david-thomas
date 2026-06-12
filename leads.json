@@ -8906,7 +8906,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:55:40.365Z"
+    },
+    {
+      "id": "mqaw4xunmkebmhzomfr",
+      "name": "Shawn Marks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shawn.marks.79",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-19",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T12:16:30.815Z"
     }
   ],
-  "lastUpdated": "2026-06-12T12:10:27.463Z"
+  "lastUpdated": "2026-06-12T12:16:30.815Z"
 }
