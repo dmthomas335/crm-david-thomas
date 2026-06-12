@@ -8834,7 +8834,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:38:02.871Z"
+    },
+    {
+      "id": "mqasxp2159gzky0tlvl",
+      "name": "Kristine Iverson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kristineiverson4",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal ",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T10:46:53.977Z"
     }
   ],
-  "lastUpdated": "2026-06-12T10:38:02.871Z"
+  "lastUpdated": "2026-06-12T10:46:53.977Z"
 }
