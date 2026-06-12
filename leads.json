@@ -2690,13 +2690,13 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-12",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-07-13",
       "notes": "Message on TG / joined as 2WT customer",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:29:35.343Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpl4k1qo1zvq56l3pka",
@@ -8926,5 +8926,5 @@
       "addedAt": "2026-06-12T10:55:40.365Z"
     }
   ],
-  "lastUpdated": "2026-06-12T11:29:58.630Z"
+  "lastUpdated": "2026-06-12T11:30:13.558Z"
 }
