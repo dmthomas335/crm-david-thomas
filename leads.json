@@ -8978,7 +8978,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:38:08.341Z"
+    },
+    {
+      "id": "mqc3ssktsb0ib6bl9vb",
+      "name": "Otto Zepeda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EAYiyVzkt/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T08:38:47.213Z"
     }
   ],
-  "lastUpdated": "2026-06-13T08:38:08.341Z"
+  "lastUpdated": "2026-06-13T08:38:47.213Z"
 }
