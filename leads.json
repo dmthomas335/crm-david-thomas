@@ -5006,11 +5006,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-13",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-18",
       "notes": "Personal ",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:56:32.889Z"
     },
@@ -9106,5 +9106,5 @@
       "addedAt": "2026-06-13T08:42:26.441Z"
     }
   ],
-  "lastUpdated": "2026-06-13T08:45:51.218Z"
+  "lastUpdated": "2026-06-13T08:46:35.096Z"
 }
