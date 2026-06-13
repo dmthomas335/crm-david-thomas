@@ -9158,7 +9158,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:18:45.783Z"
+    },
+    {
+      "id": "mqc5a2wgsvvtzt3n41o",
+      "name": "Tony Bifolck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tony.bifolck",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal ",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T09:20:13.360Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:18:45.783Z"
+  "lastUpdated": "2026-06-13T09:20:13.360Z"
 }
