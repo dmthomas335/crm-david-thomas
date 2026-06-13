@@ -7762,14 +7762,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/17k13Kfu28/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-18",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T15:29:26.783Z"
     },
@@ -8944,5 +8944,5 @@
       "addedAt": "2026-06-12T17:27:35.356Z"
     }
   ],
-  "lastUpdated": "2026-06-13T08:21:34.358Z"
+  "lastUpdated": "2026-06-13T08:26:22.501Z"
 }
