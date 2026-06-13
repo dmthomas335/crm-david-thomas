@@ -9176,7 +9176,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:20:13.360Z"
+    },
+    {
+      "id": "mqc5b1htg5ylp2wumxi",
+      "name": "Demetri Rankins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/demetri.rankins",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T09:20:58.193Z"
     }
   ],
-  "lastUpdated": "2026-06-13T09:20:13.360Z"
+  "lastUpdated": "2026-06-13T09:20:58.193Z"
 }
