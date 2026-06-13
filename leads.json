@@ -9068,7 +9068,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:40:53.160Z"
+    },
+    {
+      "id": "mqc3wrb6ecos6lcxeah",
+      "name": "Johnny George ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18qXhZt2jM/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-13T08:41:52.194Z"
     }
   ],
-  "lastUpdated": "2026-06-13T08:40:53.161Z"
+  "lastUpdated": "2026-06-13T08:41:52.194Z"
 }
