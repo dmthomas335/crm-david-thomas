@@ -5564,14 +5564,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rubenacampos",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-18",
       "notes": "personal",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T12:27:47.227Z"
     },
@@ -9214,5 +9214,5 @@
       "addedAt": "2026-06-13T10:57:19.354Z"
     }
   ],
-  "lastUpdated": "2026-06-13T10:57:19.354Z"
+  "lastUpdated": "2026-06-14T08:15:59.921Z"
 }
