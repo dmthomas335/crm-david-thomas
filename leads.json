@@ -9266,7 +9266,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T13:00:29.291Z"
+    },
+    {
+      "id": "mqdsm1vgi3twr0rlegm",
+      "name": "Sydney Matiacio Charlot",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1J7bZohPTA/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-14T13:01:09.244Z"
     }
   ],
-  "lastUpdated": "2026-06-14T13:00:29.291Z"
+  "lastUpdated": "2026-06-14T13:01:09.244Z"
 }
