@@ -9339,7 +9339,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T13:02:48.550Z"
+    },
+    {
+      "id": "mqf3yvad2bqfzrylopl",
+      "name": "Brenda Duran",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brenda.duran.3576",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:06:49.189Z"
     }
   ],
-  "lastUpdated": "2026-06-15T07:40:33.517Z"
+  "lastUpdated": "2026-06-15T11:06:49.189Z"
 }
