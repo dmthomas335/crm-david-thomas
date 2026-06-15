@@ -177,11 +177,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-15",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
       "notes": "sent biz pres / personal",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -9611,5 +9611,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T19:31:46.697Z"
+  "lastUpdated": "2026-06-15T19:33:15.427Z"
 }
