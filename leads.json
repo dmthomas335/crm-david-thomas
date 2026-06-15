@@ -6825,8 +6825,8 @@
       "phone": "",
       "social": "https://www.facebook.com/josie.french2",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-15",
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:24:41.061Z"
+  "lastUpdated": "2026-06-15T12:25:54.459Z"
 }
