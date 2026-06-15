@@ -9483,7 +9483,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:10:33.700Z"
+    },
+    {
+      "id": "mqf445t1v6yq2bqn3r",
+      "name": "Katelyn Ann",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katelynam612",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:10:56.101Z"
     }
   ],
-  "lastUpdated": "2026-06-15T11:10:33.700Z"
+  "lastUpdated": "2026-06-15T11:10:56.101Z"
 }
