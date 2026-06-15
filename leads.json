@@ -5003,8 +5003,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1bZVuFK8Y4/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-15",
@@ -9611,5 +9611,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:37:38.405Z"
+  "lastUpdated": "2026-06-15T16:04:04.641Z"
 }
