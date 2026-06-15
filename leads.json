@@ -1932,7 +1932,7 @@
       "phone": "",
       "social": "https://www.facebook.com/jesse.j.michaels",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-15",
@@ -1941,7 +1941,7 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:46:22.366Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpguu0fadbyrucpqom8",
@@ -9611,5 +9611,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T19:33:15.427Z"
+  "lastUpdated": "2026-06-15T20:10:20.300Z"
 }
