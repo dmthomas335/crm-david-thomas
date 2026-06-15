@@ -5654,14 +5654,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DNLFv6eQz/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-06-15",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T07:34:50.588Z"
     },
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:12:25.555Z"
+  "lastUpdated": "2026-06-15T12:12:43.506Z"
 }
