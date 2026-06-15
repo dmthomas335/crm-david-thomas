@@ -2384,10 +2384,10 @@
       "status": "Sent Video",
       "temperature": "Hot",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-19",
       "notes": "Personal ",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:33:32.021Z",
       "videoSent": true
@@ -9611,5 +9611,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T19:29:14.584Z"
+  "lastUpdated": "2026-06-15T19:29:24.161Z"
 }
