@@ -1935,10 +1935,10 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-15",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-07",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal ",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:46:22.366Z",
       "videoSent": false
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:15:52.587Z"
+  "lastUpdated": "2026-06-15T12:16:15.362Z"
 }
