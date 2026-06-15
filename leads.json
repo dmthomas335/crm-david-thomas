@@ -5604,10 +5604,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-15",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
       "notes": "david t page",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T13:21:52.994Z"
     },
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:12:43.506Z"
+  "lastUpdated": "2026-06-15T12:13:16.870Z"
 }
