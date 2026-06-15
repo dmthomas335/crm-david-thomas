@@ -9447,7 +9447,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:09:50.982Z"
+    },
+    {
+      "id": "mqf434lh2q0wql1v8nm",
+      "name": "Brian Le",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.le.352114",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:10:07.877Z"
     }
   ],
-  "lastUpdated": "2026-06-15T11:09:50.982Z"
+  "lastUpdated": "2026-06-15T11:10:07.877Z"
 }
