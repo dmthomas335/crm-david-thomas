@@ -7261,11 +7261,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-06-15",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-06-07",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:13:04.240Z"
     },
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:15:34.690Z"
+  "lastUpdated": "2026-06-15T12:15:52.587Z"
 }
