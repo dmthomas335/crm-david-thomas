@@ -9627,7 +9627,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:13:26.581Z"
+    },
+    {
+      "id": "mqf4xy1sep69vu03ja9",
+      "name": "Scott Ross",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.ross.9275439",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Personal ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T11:13:26.581Z"
+  "lastUpdated": "2026-06-15T11:34:05.728Z"
 }
