@@ -6180,11 +6180,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-15",
-      "notes": "personal BD",
-      "lastModified": "2026-06-03",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-22",
+      "notes": "personal ",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:01:30.952Z"
     },
@@ -9647,5 +9647,5 @@
       "addedAt": "2026-06-15T11:34:05.728Z"
     }
   ],
-  "lastUpdated": "2026-06-15T12:26:28.596Z"
+  "lastUpdated": "2026-06-15T12:26:50.619Z"
 }
