@@ -7474,14 +7474,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EXQ2FqkDP/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T07:00:42.159Z"
     },
@@ -9341,5 +9341,5 @@
       "addedAt": "2026-06-14T13:02:48.550Z"
     }
   ],
-  "lastUpdated": "2026-06-15T07:33:30.862Z"
+  "lastUpdated": "2026-06-15T07:40:33.517Z"
 }
