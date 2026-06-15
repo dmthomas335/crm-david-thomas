@@ -9375,7 +9375,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:07:38.167Z"
+    },
+    {
+      "id": "mqf40outp6kydm11qy",
+      "name": "Dan Newell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.newell.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:08:14.165Z"
     }
   ],
-  "lastUpdated": "2026-06-15T11:07:38.167Z"
+  "lastUpdated": "2026-06-15T11:08:14.165Z"
 }
