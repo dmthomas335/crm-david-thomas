@@ -9555,7 +9555,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:11:59.733Z"
+    },
+    {
+      "id": "mqf460eldis2tkssapl",
+      "name": "Rweon Theroad",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelley.luckey",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-15T11:12:22.413Z"
     }
   ],
-  "lastUpdated": "2026-06-15T11:11:59.733Z"
+  "lastUpdated": "2026-06-15T11:12:22.413Z"
 }
