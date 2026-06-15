@@ -8068,16 +8068,17 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1H4AKtVKjk/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
-      "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-15",
-      "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-17",
+      "notes": "Personal joined/given to Soriano ",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T07:56:32.432Z"
+      "addedAt": "2026-06-10T07:56:32.432Z",
+      "customerSince": "2026-06-15"
     },
     {
       "id": "mq7ydw69mhzml5l216i",
@@ -9340,5 +9341,5 @@
       "addedAt": "2026-06-14T13:02:48.550Z"
     }
   ],
-  "lastUpdated": "2026-06-14T13:02:48.550Z"
+  "lastUpdated": "2026-06-15T07:32:52.884Z"
 }
