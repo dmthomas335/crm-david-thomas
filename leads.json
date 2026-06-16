@@ -9663,7 +9663,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:23:58.008Z"
+    },
+    {
+      "id": "mqgk1las0p91mbq9oeg8",
+      "name": "Terry Matthews",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/terry.matthews.92505",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:24:36.244Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:24:16.015Z"
+  "lastUpdated": "2026-06-16T11:24:36.244Z"
 }
