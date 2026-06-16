@@ -9771,7 +9771,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:26:40.618Z"
+    },
+    {
+      "id": "mqgkts1kr4jbzk389lr",
+      "name": "Dong Mang SSukte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dong.mang.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "Personal ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:46:31.352Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:26:40.618Z"
+  "lastUpdated": "2026-06-16T11:46:31.352Z"
 }
