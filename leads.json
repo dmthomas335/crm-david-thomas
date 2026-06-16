@@ -5106,25 +5106,6 @@
       "addedAt": "2026-05-30T12:51:40.647Z"
     },
     {
-      "id": "mpscsty6c73qvuu3wne",
-      "name": "Larry Bertrand",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/larry.bertrand.2025",
-      "source": "Facebook",
-      "status": "Customer",
-      "videoSent": false,
-      "temperature": "Hot",
-      "lastAction": "Closed",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-19",
-      "notes": "personal",
-      "lastModified": "2026-06-13",
-      "customerSince": "2026-05-30",
-      "dateAdded": "2026-05-30",
-      "addedAt": "2026-05-30T12:55:22.014Z"
-    },
-    {
       "id": "mpsdjak58cfvtnlszna",
       "name": "Jeremia Squires",
       "email": "miwhackshack@duck.com",
@@ -9810,5 +9791,5 @@
       "addedAt": "2026-06-16T15:52:50.864Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:52:50.864Z"
+  "lastUpdated": "2026-06-16T15:53:16.273Z"
 }
