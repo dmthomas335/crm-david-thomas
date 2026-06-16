@@ -9753,7 +9753,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:26:16.807Z"
+    },
+    {
+      "id": "mqgk499m6i6sc43jpbm",
+      "name": "Aaron Goree",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jersey.goree",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:26:40.618Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:26:16.807Z"
+  "lastUpdated": "2026-06-16T11:26:40.618Z"
 }
