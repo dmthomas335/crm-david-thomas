@@ -60,11 +60,11 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Hot",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-16",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-30",
       "notes": "personal",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -9791,5 +9791,5 @@
       "addedAt": "2026-06-16T12:57:10.621Z"
     }
   ],
-  "lastUpdated": "2026-06-16T13:09:54.339Z"
+  "lastUpdated": "2026-06-16T13:11:40.101Z"
 }
