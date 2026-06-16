@@ -9699,7 +9699,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:24:55.956Z"
+    },
+    {
+      "id": "mqgk2rrz8ij7b85bm1h",
+      "name": "James Bey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.bey.450654",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:25:31.295Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:24:55.956Z"
+  "lastUpdated": "2026-06-16T11:25:31.295Z"
 }
