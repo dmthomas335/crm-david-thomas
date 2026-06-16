@@ -6446,10 +6446,10 @@
       "phone": "",
       "social": "https://www.facebook.com/derrick.williams.315203",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-16",
       "nextFollowUp": "2026-06-23",
       "notes": "personal ",
@@ -9791,5 +9791,5 @@
       "addedAt": "2026-06-16T15:52:50.864Z"
     }
   ],
-  "lastUpdated": "2026-06-16T20:22:11.325Z"
+  "lastUpdated": "2026-06-16T22:33:02.115Z"
 }
