@@ -5003,14 +5003,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1bZVuFK8Y4/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Nurture",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-22",
+      "nextFollowUp": "2026-08-31",
       "notes": "Personal ",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:57:05.335Z"
     },
@@ -9629,5 +9629,5 @@
       "addedAt": "2026-06-16T08:13:50.170Z"
     }
   ],
-  "lastUpdated": "2026-06-16T08:15:12.766Z"
+  "lastUpdated": "2026-06-16T08:15:59.960Z"
 }
