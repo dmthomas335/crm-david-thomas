@@ -4067,8 +4067,8 @@
       "phone": "",
       "social": "https://www.facebook.com/phil.webb.5895",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-16",
@@ -9791,5 +9791,5 @@
       "addedAt": "2026-06-16T15:52:50.864Z"
     }
   ],
-  "lastUpdated": "2026-06-16T15:53:16.273Z"
+  "lastUpdated": "2026-06-16T20:22:11.325Z"
 }
