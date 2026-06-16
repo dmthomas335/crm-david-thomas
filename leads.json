@@ -9717,7 +9717,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:25:31.295Z"
+    },
+    {
+      "id": "mqgk38pif0kcm7thg6b",
+      "name": "Scott Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.cole.603113",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:25:53.238Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:25:31.295Z"
+  "lastUpdated": "2026-06-16T11:25:53.238Z"
 }
