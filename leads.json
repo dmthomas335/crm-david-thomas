@@ -2015,24 +2015,6 @@
       "videoSent": true
     },
     {
-      "id": "mpi9grhmpth8jb03ns",
-      "name": "John Collins",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/share/18Zz3TSMap/?mibextid=wwXIfr",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-16",
-      "notes": "dave t page",
-      "lastModified": "2026-06-02",
-      "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T11:24:18.346Z",
-      "videoSent": false
-    },
-    {
       "id": "mpi9r1slgk68srz7wxd",
       "name": "Keith Parker",
       "email": "",
@@ -9791,5 +9773,5 @@
       "addedAt": "2026-06-16T11:47:06.112Z"
     }
   ],
-  "lastUpdated": "2026-06-16T12:41:12.177Z"
+  "lastUpdated": "2026-06-16T12:41:17.927Z"
 }
