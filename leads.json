@@ -6573,14 +6573,14 @@
       "phone": "",
       "social": "https://www.facebook.com/seandale.jackson.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:13:06.853Z"
     },
@@ -9629,5 +9629,5 @@
       "addedAt": "2026-06-16T08:13:50.170Z"
     }
   ],
-  "lastUpdated": "2026-06-16T08:13:50.170Z"
+  "lastUpdated": "2026-06-16T08:15:12.766Z"
 }
