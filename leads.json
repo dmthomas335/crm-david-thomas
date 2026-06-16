@@ -9735,7 +9735,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:25:53.238Z"
+    },
+    {
+      "id": "mqgk3qw79ongu8s0f2a",
+      "name": "Danny Sanchez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/danny.sanchez.5872",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:26:16.807Z"
     }
   ],
-  "lastUpdated": "2026-06-16T11:25:53.238Z"
+  "lastUpdated": "2026-06-16T11:26:16.807Z"
 }
