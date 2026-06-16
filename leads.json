@@ -5765,11 +5765,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-16",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
       "notes": "personal",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:33:32.626Z"
     },
@@ -9773,5 +9773,5 @@
       "addedAt": "2026-06-16T11:47:06.112Z"
     }
   ],
-  "lastUpdated": "2026-06-16T12:48:32.091Z"
+  "lastUpdated": "2026-06-16T12:49:06.098Z"
 }
