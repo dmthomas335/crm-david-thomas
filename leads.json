@@ -9645,7 +9645,25 @@
       "lastModified": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T08:17:05.198Z"
+    },
+    {
+      "id": "mqgk0rsojk8fwx58uy8",
+      "name": "Ian Vanderhyde",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ian.vanderhyde",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-16",
+      "nextFollowUp": "2026-06-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-16",
+      "dateAdded": "2026-06-16",
+      "addedAt": "2026-06-16T11:23:58.008Z"
     }
   ],
-  "lastUpdated": "2026-06-16T08:18:21.628Z"
+  "lastUpdated": "2026-06-16T11:23:58.008Z"
 }
