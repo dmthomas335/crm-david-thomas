@@ -6153,24 +6153,6 @@
       "addedAt": "2026-06-03T11:01:30.952Z"
     },
     {
-      "id": "mpxyif9sdtsjkxxpcu5",
-      "name": "Ubong David Nkanta",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/nkanta.bizzy",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-16",
-      "notes": "personal BD",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-06-03",
-      "addedAt": "2026-06-03T11:01:58.864Z"
-    },
-    {
       "id": "mpxyj0a006nvcujmfsuu",
       "name": "Brandon Farrow",
       "email": "",
@@ -9809,5 +9791,5 @@
       "addedAt": "2026-06-16T11:47:06.112Z"
     }
   ],
-  "lastUpdated": "2026-06-16T12:39:17.806Z"
+  "lastUpdated": "2026-06-16T12:40:21.647Z"
 }
