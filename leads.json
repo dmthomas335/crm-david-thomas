@@ -4097,24 +4097,6 @@
       "addedAt": "2026-05-28T11:27:36.330Z"
     },
     {
-      "id": "mppf2w8rje6oliscfz",
-      "name": "Eric G Mabry",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/eric.l.mabry",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-17",
-      "notes": "david thomas page",
-      "lastModified": "2026-06-03",
-      "dateAdded": "2026-05-28",
-      "addedAt": "2026-05-28T11:35:52.251Z"
-    },
-    {
       "id": "mppf4r2lyxcd2n5fhdd",
       "name": "Julian Parkman",
       "email": "",
@@ -10008,5 +9990,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:08:47.498Z"
+  "lastUpdated": "2026-06-17T11:09:09.363Z"
 }
