@@ -6648,14 +6648,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nick.gay.9",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-22",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
       "notes": "personal ",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:43:34.531Z"
     },
@@ -9994,5 +9994,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T17:06:27.636Z"
+  "lastUpdated": "2026-06-17T20:24:23.815Z"
 }
