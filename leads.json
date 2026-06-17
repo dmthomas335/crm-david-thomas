@@ -41,13 +41,13 @@
       "phone": "",
       "social": "https://www.facebook.com/roy.shaw.942",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "sent trading vid  / personal",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -9991,5 +9991,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:34:17.779Z"
+  "lastUpdated": "2026-06-17T11:34:35.282Z"
 }
