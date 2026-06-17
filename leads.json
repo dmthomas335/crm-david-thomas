@@ -5485,24 +5485,6 @@
       "addedAt": "2026-06-01T12:26:47.603Z"
     },
     {
-      "id": "mpv6ok3vn1v7lhl1i9m",
-      "name": "Gil Figueroa",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/gil.figueroa.54",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-17",
-      "notes": "personal",
-      "lastModified": "2026-06-12",
-      "dateAdded": "2026-06-01",
-      "addedAt": "2026-06-01T12:27:23.467Z"
-    },
-    {
       "id": "mpv6p2fvl9dsax2m3t",
       "name": "Ruben Campos",
       "email": "",
@@ -9828,5 +9810,5 @@
       "addedAt": "2026-06-17T09:15:00.486Z"
     }
   ],
-  "lastUpdated": "2026-06-17T09:15:00.486Z"
+  "lastUpdated": "2026-06-17T09:15:19.466Z"
 }
