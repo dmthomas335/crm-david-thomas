@@ -6449,11 +6449,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-17",
-      "notes": "personal BD",
-      "lastModified": "2026-06-04",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "personal ",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:48:38.870Z"
     },
@@ -10008,5 +10008,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:05:02.240Z"
+  "lastUpdated": "2026-06-17T11:07:15.722Z"
 }
