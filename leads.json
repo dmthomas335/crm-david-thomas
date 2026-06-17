@@ -9988,7 +9988,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:09:52.999Z"
+    },
+    {
+      "id": "mqhy7a6gnd7io6c1gc",
+      "name": "Marco A Zamora",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marco.a.zamora.539273",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal ",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T10:13:04.600Z"
+  "lastUpdated": "2026-06-17T10:48:42.569Z"
 }
