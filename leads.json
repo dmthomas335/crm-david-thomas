@@ -5003,16 +5003,17 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-17",
-      "notes": "Joined as 2WT customer / TG",
-      "lastModified": "2026-06-08",
+      "nextFollowUp": "2026-06-22",
+      "notes": "Joined as 2WT customer / TG 555980 Scott Morris",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-05-30",
-      "addedAt": "2026-05-30T12:01:11.072Z"
+      "addedAt": "2026-05-30T12:01:11.072Z",
+      "customerSince": "2026-06-17"
     },
     {
       "id": "mpsci5vz4mkvpv9iwip",
@@ -9990,5 +9991,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:22:55.892Z"
+  "lastUpdated": "2026-06-17T11:23:33.052Z"
 }
