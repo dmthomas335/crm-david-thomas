@@ -8806,16 +8806,17 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.greene.7528",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Customer",
+      "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-17",
-      "notes": "Personal ",
-      "lastModified": "2026-06-15",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-19",
+      "notes": "Personal 522753 Ashley ",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-12",
-      "addedAt": "2026-06-12T10:55:40.365Z"
+      "addedAt": "2026-06-12T10:55:40.365Z",
+      "customerSince": "2026-06-17"
     },
     {
       "id": "mqaw4xunmkebmhzomfr",
@@ -9791,5 +9792,5 @@
       "addedAt": "2026-06-16T15:52:50.864Z"
     }
   ],
-  "lastUpdated": "2026-06-16T22:33:02.115Z"
+  "lastUpdated": "2026-06-17T09:10:54.432Z"
 }
