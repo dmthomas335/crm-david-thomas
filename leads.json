@@ -9790,7 +9790,25 @@
       "customerSince": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:52:50.864Z"
+    },
+    {
+      "id": "mqhur0tst4hwedxdphs",
+      "name": "Thomas Lanterman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FHh2rBMhg/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal ",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T09:12:05.104Z"
     }
   ],
-  "lastUpdated": "2026-06-17T09:10:54.432Z"
+  "lastUpdated": "2026-06-17T09:12:05.104Z"
 }
