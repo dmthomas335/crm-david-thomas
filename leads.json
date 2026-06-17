@@ -5728,11 +5728,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-17",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-24",
       "notes": "personal",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:33:56.146Z"
     },
@@ -9990,5 +9990,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:22:14.787Z"
+  "lastUpdated": "2026-06-17T11:22:34.323Z"
 }
