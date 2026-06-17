@@ -245,11 +245,12 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-06-17",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-07-17",
       "notes": "Wants alarms for SP",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbg4d569q1pabw2t",
@@ -9992,5 +9993,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:35:07.155Z"
+  "lastUpdated": "2026-06-17T11:35:44.283Z"
 }
