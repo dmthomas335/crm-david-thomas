@@ -9862,7 +9862,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:07:09.477Z"
+    },
+    {
+      "id": "mqhwqbce36ockgu4qre",
+      "name": "Donnie Edison",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/donnie.edison.287388",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T10:07:31.310Z"
     }
   ],
-  "lastUpdated": "2026-06-17T10:07:09.477Z"
+  "lastUpdated": "2026-06-17T10:07:31.310Z"
 }
