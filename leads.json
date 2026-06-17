@@ -5046,8 +5046,8 @@
       "lastAction": "Closed",
       "lastContact": "2026-06-08",
       "nextFollowUp": "2026-06-19",
-      "notes": "Text",
-      "lastModified": "2026-06-11",
+      "notes": "Text 753925 ME\n",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:49:12.728Z",
       "customerSince": "2026-06-08"
@@ -9991,5 +9991,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T11:23:33.052Z"
+  "lastUpdated": "2026-06-17T11:24:37.996Z"
 }
