@@ -9952,7 +9952,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:09:16.167Z"
+    },
+    {
+      "id": "mqhwsyfbj19wqgkrcb",
+      "name": "Jack Trama",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jack.trama",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T10:09:34.535Z"
     }
   ],
-  "lastUpdated": "2026-06-17T10:09:16.167Z"
+  "lastUpdated": "2026-06-17T10:09:34.535Z"
 }
