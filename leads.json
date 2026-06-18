@@ -1389,11 +1389,11 @@
       "lastAction": "Nurture",
       "lastContact": "2026-06-12",
       "nextFollowUp": "2026-06-19",
-      "notes": "",
+      "notes": "personal joined as 2WT Ashley 536221 Kendall Matthews",
       "lastModified": "2026-06-18",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:45:17.711Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpffcswo1j7g9t5opnn",
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:25:41.203Z"
+  "lastUpdated": "2026-06-18T13:26:10.204Z"
 }
