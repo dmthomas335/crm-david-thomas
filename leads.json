@@ -6523,8 +6523,8 @@
       "phone": "",
       "social": "https://www.facebook.com/FelixWareJr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-18",
@@ -10067,5 +10067,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:34:32.667Z"
+  "lastUpdated": "2026-06-18T13:37:11.499Z"
 }
