@@ -651,11 +651,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-18",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
       "notes": "sent pres / David T Page",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T12:42:49.748Z"
+  "lastUpdated": "2026-06-18T12:43:21.436Z"
 }
