@@ -4919,11 +4919,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-18",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
       "notes": "Personal ",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:55:23.403Z"
     },
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:15:25.476Z"
+  "lastUpdated": "2026-06-18T13:15:42.740Z"
 }
