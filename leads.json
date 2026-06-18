@@ -8991,14 +8991,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brian.bass.129",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-17",
       "nextFollowUp": "2026-06-24",
       "notes": "Personal ",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:17:41.177Z"
     },
@@ -9994,5 +9994,5 @@
       "addedAt": "2026-06-17T10:48:42.569Z"
     }
   ],
-  "lastUpdated": "2026-06-17T20:24:23.815Z"
+  "lastUpdated": "2026-06-18T07:10:56.241Z"
 }
