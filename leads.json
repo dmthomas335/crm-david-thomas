@@ -3587,11 +3587,11 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Hot",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-18",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
       "notes": "personal",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T12:51:59.117Z",
       "videoSent": false
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:19:20.420Z"
+  "lastUpdated": "2026-06-18T13:19:28.516Z"
 }
