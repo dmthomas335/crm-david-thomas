@@ -1368,11 +1368,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-18",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
       "notes": "personal",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:29:01.543Z",
       "videoSent": false
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:26:10.204Z"
+  "lastUpdated": "2026-06-18T13:27:06.484Z"
 }
