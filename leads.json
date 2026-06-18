@@ -3443,11 +3443,11 @@
       "source": "Facebook",
       "status": "2WT",
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-18",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-25",
       "notes": "joined as 2WT customer",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T10:47:45.299Z",
       "videoSent": false
@@ -10066,5 +10066,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:19:42.988Z"
+  "lastUpdated": "2026-06-18T13:20:06.757Z"
 }
