@@ -10119,7 +10119,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T07:38:05.092Z"
+    },
+    {
+      "id": "mqku3b5gobdyav4hk4q",
+      "name": "Kevin Roots",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.roots.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:16:57.268Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:38:05.092Z"
+  "lastUpdated": "2026-06-19T11:16:57.269Z"
 }
