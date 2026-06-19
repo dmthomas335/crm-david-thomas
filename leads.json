@@ -1313,16 +1313,16 @@
       "phone": "",
       "social": "https://www.facebook.com/lando.i.jones",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
       "notes": "Personal ",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:26:15.095Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpfepacvvukvjgl9frp",
@@ -10067,5 +10067,5 @@
       "addedAt": "2026-06-18T11:16:59.610Z"
     }
   ],
-  "lastUpdated": "2026-06-18T13:37:11.499Z"
+  "lastUpdated": "2026-06-19T07:10:49.219Z"
 }
