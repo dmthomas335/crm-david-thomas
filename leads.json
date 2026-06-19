@@ -1441,16 +1441,17 @@
       "phone": "",
       "social": "https://www.facebook.com/shiv.matharu",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-19",
       "nextFollowUp": "2026-06-23",
-      "notes": "joined 2WT / personal",
+      "notes": "joined 2WT / personal 512707 Me",
       "lastModified": "2026-06-19",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:49:28.510Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-06-19"
     },
     {
       "id": "mpfhoojocbi07h51n2m",
@@ -10357,5 +10358,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:02:39.288Z"
+  "lastUpdated": "2026-06-19T12:03:14.591Z"
 }
