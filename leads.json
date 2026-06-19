@@ -6109,14 +6109,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Jinh84",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-18",
       "nextFollowUp": "2026-06-25",
       "notes": "personal ",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:02:58.393Z"
     },
@@ -10085,5 +10085,5 @@
       "addedAt": "2026-06-19T07:30:48.804Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:33:42.699Z"
+  "lastUpdated": "2026-06-19T07:34:03.087Z"
 }
