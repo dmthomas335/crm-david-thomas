@@ -6346,11 +6346,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-19",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
       "notes": "Personal ",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:09:41.378Z"
     },
@@ -10355,5 +10355,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:44:38.601Z"
+  "lastUpdated": "2026-06-19T11:44:58.809Z"
 }
