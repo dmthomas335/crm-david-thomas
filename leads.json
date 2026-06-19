@@ -10245,7 +10245,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:19:23.505Z"
+    },
+    {
+      "id": "mqku6s9nprtmkojzbxa",
+      "name": "Luke Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luke.jones.184",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:19:39.419Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:19:23.505Z"
+  "lastUpdated": "2026-06-19T11:19:39.419Z"
 }
