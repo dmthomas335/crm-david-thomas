@@ -10173,7 +10173,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:17:50.175Z"
+    },
+    {
+      "id": "mqku4w9ic8btoggxdma",
+      "name": "Omar Villalon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/omar.villalon.35728",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:18:11.286Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:17:50.175Z"
+  "lastUpdated": "2026-06-19T11:18:11.286Z"
 }
