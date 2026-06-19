@@ -4395,14 +4395,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bc.solorza",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:16:47.446Z"
     },
@@ -10085,5 +10085,5 @@
       "addedAt": "2026-06-19T07:30:48.804Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:32:16.250Z"
+  "lastUpdated": "2026-06-19T07:32:45.755Z"
 }
