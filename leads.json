@@ -3107,16 +3107,16 @@
       "phone": "",
       "social": "https://www.facebook.com/tree.bugatti",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-06-18",
       "nextFollowUp": "2026-06-25",
       "notes": "personal",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:39:24.797Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpmkcbet2yzipz84pgq",
@@ -10360,5 +10360,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T13:02:16.036Z"
+  "lastUpdated": "2026-06-19T16:16:38.680Z"
 }
