@@ -10155,7 +10155,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:17:24.021Z"
+    },
+    {
+      "id": "mqku4fz31tt2ka8mibp",
+      "name": "Musiclover Mario",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mario.etete",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:17:50.175Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:17:24.021Z"
+  "lastUpdated": "2026-06-19T11:17:50.175Z"
 }
