@@ -10137,7 +10137,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:16:57.268Z"
+    },
+    {
+      "id": "mqku3vslw49pi0mnkta",
+      "name": "Walter Hale II",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/walter.haleii",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:17:24.021Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:16:57.269Z"
+  "lastUpdated": "2026-06-19T11:17:24.021Z"
 }
