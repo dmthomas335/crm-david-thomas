@@ -2605,16 +2605,17 @@
       "phone": "",
       "social": "https://www.facebook.com/brian.molloy.90",
       "source": "Facebook",
-      "status": "Sent Video",
-      "temperature": "Warm",
-      "lastAction": "Follow-up 5",
+      "status": "Customer",
+      "temperature": "Hot",
+      "lastAction": "Closed",
       "lastContact": "2026-06-19",
       "nextFollowUp": "2026-06-26",
-      "notes": "personal",
+      "notes": "personal 561034 Stacy",
       "lastModified": "2026-06-19",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:27:46.630Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-06-19"
     },
     {
       "id": "mpl4hmd25tev9hm1tts",
@@ -10359,5 +10360,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:06:34.719Z"
+  "lastUpdated": "2026-06-19T12:19:39.489Z"
 }
