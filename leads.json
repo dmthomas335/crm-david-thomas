@@ -9551,13 +9551,13 @@
       "social": "https://www.facebook.com/share/1B8pPM8Z5w/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "2WT",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
-      "notes": "Personal ",
-      "lastModified": "2026-06-17",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-20",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T08:17:05.198Z"
     },
@@ -10103,5 +10103,5 @@
       "addedAt": "2026-06-19T07:35:33.911Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:36:40.610Z"
+  "lastUpdated": "2026-06-19T07:37:04.934Z"
 }
