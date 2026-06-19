@@ -5766,14 +5766,14 @@
       "phone": "",
       "social": "https://www.facebook.com/e.ellis2010",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Nurture",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
-      "notes": "personal",
-      "lastModified": "2026-06-18",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-09-16",
+      "notes": "personal said they live paycheck to paycheck ",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:34:40.962Z"
     },
@@ -10085,5 +10085,5 @@
       "addedAt": "2026-06-19T07:30:48.804Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:32:45.755Z"
+  "lastUpdated": "2026-06-19T07:33:42.699Z"
 }
