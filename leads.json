@@ -10299,7 +10299,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:20:30.587Z"
+    },
+    {
+      "id": "mqkufl5nffijn6ue1vt",
+      "name": "Kunal Khakhar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kunal.khakhar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:26:30.107Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:20:30.587Z"
+  "lastUpdated": "2026-06-19T11:26:30.107Z"
 }
