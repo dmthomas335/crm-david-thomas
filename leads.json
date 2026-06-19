@@ -10335,7 +10335,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:27:12.882Z"
+    },
+    {
+      "id": "mqkujoayfqk61sx9ppk",
+      "name": "David DT Trunk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dt.trunk",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:27:12.882Z"
+  "lastUpdated": "2026-06-19T11:29:40.810Z"
 }
