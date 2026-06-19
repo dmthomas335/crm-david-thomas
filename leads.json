@@ -2424,10 +2424,10 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-26",
       "notes": "personal",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:04.352Z",
       "videoSent": false
@@ -10355,5 +10355,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:55:43.010Z"
+  "lastUpdated": "2026-06-19T11:56:16.247Z"
 }
