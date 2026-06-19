@@ -10191,7 +10191,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:18:11.286Z"
+    },
+    {
+      "id": "mqku5ifl25nysaq8cl5",
+      "name": "Alejandro Perez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100061246386093",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:18:40.017Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:18:11.286Z"
+  "lastUpdated": "2026-06-19T11:18:40.017Z"
 }
