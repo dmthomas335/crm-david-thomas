@@ -10101,7 +10101,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T07:35:33.911Z"
+    },
+    {
+      "id": "mqkm9uas45dkgz0u5k9",
+      "name": "Louis Jackson ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CfGuia8rs/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-20",
+      "notes": "Personal ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T07:38:05.092Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:37:04.934Z"
+  "lastUpdated": "2026-06-19T07:38:05.092Z"
 }
