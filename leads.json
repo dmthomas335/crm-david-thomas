@@ -3138,13 +3138,13 @@
       "phone": "",
       "social": "https://www.facebook.com/stan.lockett.7",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
-      "notes": "Personal ",
-      "lastModified": "2026-06-18",
+      "lastAction": "Follow-up 5",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal said he was swamped ",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:40:48.190Z",
       "videoSent": true
@@ -10085,5 +10085,5 @@
       "addedAt": "2026-06-19T07:30:48.804Z"
     }
   ],
-  "lastUpdated": "2026-06-19T07:30:48.804Z"
+  "lastUpdated": "2026-06-19T07:32:16.250Z"
 }
