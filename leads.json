@@ -10281,7 +10281,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:20:11.539Z"
+    },
+    {
+      "id": "mqku7vqzneoxo0brfck",
+      "name": "Tim Welting",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tim.welting",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-07-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-19T11:20:30.587Z"
     }
   ],
-  "lastUpdated": "2026-06-19T11:20:11.539Z"
+  "lastUpdated": "2026-06-19T11:20:30.587Z"
 }
