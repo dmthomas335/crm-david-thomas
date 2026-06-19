@@ -2119,7 +2119,7 @@
       "phone": "",
       "social": "https://www.facebook.com/robbie.fraleigh",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-19",
@@ -2128,7 +2128,7 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:36:49.365Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpi9xhhdgprve0hjy6",
@@ -10360,5 +10360,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:20:58.484Z"
+  "lastUpdated": "2026-06-19T13:02:16.036Z"
 }
