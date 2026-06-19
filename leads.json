@@ -1690,8 +1690,8 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-24",
       "notes": "joined personal ",
       "lastModified": "2026-06-19",
       "dateAdded": "2026-05-22",
@@ -10357,5 +10357,5 @@
       "addedAt": "2026-06-19T11:29:40.810Z"
     }
   ],
-  "lastUpdated": "2026-06-19T12:00:51.671Z"
+  "lastUpdated": "2026-06-19T12:00:59.343Z"
 }
