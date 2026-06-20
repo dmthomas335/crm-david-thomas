@@ -10412,7 +10412,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T11:28:50.816Z"
+    },
+    {
+      "id": "mqm9yysxowbt3pnlwfa",
+      "name": "Craig Craig",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/craig.craig.198076",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T11:29:14.673Z"
     }
   ],
-  "lastUpdated": "2026-06-20T11:28:50.816Z"
+  "lastUpdated": "2026-06-20T11:29:14.673Z"
 }
