@@ -10394,7 +10394,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T11:28:29.440Z"
+    },
+    {
+      "id": "mqm9yge858uccs3w2vg",
+      "name": "Rosan Paudel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/PaudelRoshan11",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T11:28:50.816Z"
     }
   ],
-  "lastUpdated": "2026-06-20T11:28:29.440Z"
+  "lastUpdated": "2026-06-20T11:28:50.816Z"
 }
