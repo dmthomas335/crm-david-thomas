@@ -10358,7 +10358,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:29:40.810Z"
+    },
+    {
+      "id": "mqm9vwqwqit6sffrdb",
+      "name": "Jay Chisholm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/genaro.chisholm.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T11:26:52.040Z"
     }
   ],
-  "lastUpdated": "2026-06-20T10:00:12.048Z"
+  "lastUpdated": "2026-06-20T11:26:52.040Z"
 }
