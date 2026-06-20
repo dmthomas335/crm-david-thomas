@@ -10376,7 +10376,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T11:26:52.040Z"
+    },
+    {
+      "id": "mqm9xzwg61nxseqmlad",
+      "name": "John Paul Bach",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.bach.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal ",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T11:28:29.440Z"
     }
   ],
-  "lastUpdated": "2026-06-20T11:26:52.040Z"
+  "lastUpdated": "2026-06-20T11:28:29.440Z"
 }
