@@ -1500,11 +1500,12 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": "2026-07-10",
       "notes": "sent trading vid",
-      "lastModified": "2026-05-21",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T12:55:08.533Z"
+      "addedAt": "2026-05-21T12:55:08.533Z",
+      "videoSent": false
     },
     {
       "id": "mpfhv60ux3pdis8rzab",
@@ -10453,5 +10454,5 @@
       "addedAt": "2026-06-20T11:29:35.977Z"
     }
   ],
-  "lastUpdated": "2026-06-20T11:33:11.889Z"
+  "lastUpdated": "2026-06-20T11:33:39.035Z"
 }
