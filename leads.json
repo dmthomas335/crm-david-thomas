@@ -10430,7 +10430,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T11:29:14.673Z"
+    },
+    {
+      "id": "mqm9zf8pdv5wsu3tw84",
+      "name": "Gerry O'Reilly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gerry.o.reilly.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-20T11:29:35.977Z"
     }
   ],
-  "lastUpdated": "2026-06-20T11:29:14.673Z"
+  "lastUpdated": "2026-06-20T11:29:35.977Z"
 }
