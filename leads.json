@@ -78,11 +78,12 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-22",
-      "nextFollowUp": "2026-06-21",
+      "lastContact": "2026-06-21",
+      "nextFollowUp": "2026-06-22",
       "notes": "sent trading vid",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-21",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbfh87bblzwllb8m94",
@@ -10472,5 +10473,5 @@
       "addedAt": "2026-06-20T11:35:18.204Z"
     }
   ],
-  "lastUpdated": "2026-06-21T10:41:44.089Z"
+  "lastUpdated": "2026-06-21T10:56:43.485Z"
 }
