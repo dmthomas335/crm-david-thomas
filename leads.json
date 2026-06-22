@@ -9763,10 +9763,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-24",
       "notes": "Personal 748848 ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-22",
       "customerSince": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:52:50.864Z"
@@ -10690,5 +10690,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:16:54.934Z"
+  "lastUpdated": "2026-06-22T11:28:28.315Z"
 }
