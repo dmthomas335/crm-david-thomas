@@ -10562,7 +10562,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T07:27:17.081Z"
+    },
+    {
+      "id": "mqp45xiyq38x2bruw5q",
+      "name": "Rizaldy Francisco",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rizaldy.francisco.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T11:10:00.442Z"
     }
   ],
-  "lastUpdated": "2026-06-22T07:27:17.081Z"
+  "lastUpdated": "2026-06-22T11:10:00.442Z"
 }
