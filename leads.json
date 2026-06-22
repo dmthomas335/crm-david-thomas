@@ -2182,12 +2182,13 @@
       "status": "Watched",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-23",
-      "nextFollowUp": "2026-06-22",
-      "notes": "",
-      "lastModified": "2026-05-23",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal ",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-05-23",
-      "addedAt": "2026-05-23T11:39:11.507Z"
+      "addedAt": "2026-05-23T11:39:11.507Z",
+      "videoSent": false
     },
     {
       "id": "mpia0p1l8opbwx1q2e9",
@@ -10654,5 +10655,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T12:25:19.061Z"
+  "lastUpdated": "2026-06-22T12:25:54.077Z"
 }
