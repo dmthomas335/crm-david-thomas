@@ -6156,12 +6156,12 @@
       "phone": "",
       "social": "https://www.facebook.com/Tristantaylor88",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "personal ",
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-03",
@@ -10672,5 +10672,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:49:10.264Z"
+  "lastUpdated": "2026-06-22T11:59:03.549Z"
 }
