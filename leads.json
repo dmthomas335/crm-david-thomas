@@ -8835,24 +8835,6 @@
       "addedAt": "2026-06-12T17:27:35.356Z"
     },
     {
-      "id": "mqc3rb5ap7zwc77b2n8",
-      "name": "Antonio Antonio ",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/share/1FmFycdHad/?mibextid=wwXIfr",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-22",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-13",
-      "dateAdded": "2026-06-13",
-      "addedAt": "2026-06-13T08:37:37.966Z"
-    },
-    {
       "id": "mqc3ryl10g2ve41hqbyh",
       "name": "Kevin Mackay ",
       "email": "",
@@ -10690,5 +10672,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:46:00.186Z"
+  "lastUpdated": "2026-06-22T11:47:17.656Z"
 }
