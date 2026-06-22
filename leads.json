@@ -2614,10 +2614,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-23",
       "notes": "personal 561034 Stacy",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:27:46.630Z",
       "videoSent": true,
@@ -10690,5 +10690,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:28:43.250Z"
+  "lastUpdated": "2026-06-22T11:28:48.802Z"
 }
