@@ -10670,7 +10670,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:11:47.874Z"
+    },
+    {
+      "id": "mqp4etcm5hjwj4jcpd",
+      "name": "Mike Spears",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.spears.5686",
+      "source": "Facebook",
+      "status": "Nurture",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:11:57.138Z"
+  "lastUpdated": "2026-06-22T11:16:54.934Z"
 }
