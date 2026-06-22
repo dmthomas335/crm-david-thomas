@@ -8790,10 +8790,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-23",
       "notes": "Personal 522753 Ashley ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:55:40.365Z",
       "customerSince": "2026-06-17"
@@ -10690,5 +10690,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:28:28.315Z"
+  "lastUpdated": "2026-06-22T11:28:33.066Z"
 }
