@@ -7237,8 +7237,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CqgZAJ8dH/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-22",
@@ -10672,5 +10672,5 @@
       "addedAt": "2026-06-22T11:16:54.934Z"
     }
   ],
-  "lastUpdated": "2026-06-22T12:20:48.566Z"
+  "lastUpdated": "2026-06-22T12:21:01.562Z"
 }
