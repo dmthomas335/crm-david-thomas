@@ -10652,7 +10652,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:11:25.354Z"
+    },
+    {
+      "id": "mqp488f6tgdd4cqgzcg",
+      "name": "Sekiya Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sekiya.johnson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T11:11:47.874Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:11:25.354Z"
+  "lastUpdated": "2026-06-22T11:11:47.874Z"
 }
