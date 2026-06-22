@@ -10526,7 +10526,25 @@
       "lastModified": "2026-06-21",
       "dateAdded": "2026-06-21",
       "addedAt": "2026-06-21T11:38:35.488Z"
+    },
+    {
+      "id": "mqow62e2p99z6kukhtj",
+      "name": "James Wheeler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14hwfr7zcTG/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T07:26:09.818Z"
     }
   ],
-  "lastUpdated": "2026-06-21T11:38:35.488Z"
+  "lastUpdated": "2026-06-22T07:26:09.818Z"
 }
