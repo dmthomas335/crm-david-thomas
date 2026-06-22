@@ -10616,7 +10616,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:10:43.562Z"
+    },
+    {
+      "id": "mqp47apf0kcaopbp1cb9",
+      "name": "James Stoeckert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.stoeckert",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T11:11:04.179Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:10:43.562Z"
+  "lastUpdated": "2026-06-22T11:11:04.179Z"
 }
