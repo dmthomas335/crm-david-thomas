@@ -10634,7 +10634,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:11:04.179Z"
+    },
+    {
+      "id": "mqp47r1mlqn1s7dbpok",
+      "name": "Andrew Kennedy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100080324856474",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Birthday Personal ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-22T11:11:25.354Z"
     }
   ],
-  "lastUpdated": "2026-06-22T11:11:04.179Z"
+  "lastUpdated": "2026-06-22T11:11:25.354Z"
 }
