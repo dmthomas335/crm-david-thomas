@@ -5001,14 +5001,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/17rF1csAwi/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:57:39.607Z"
     },
@@ -10835,5 +10835,5 @@
       "addedAt": "2026-06-23T11:04:03.459Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:20:25.891Z"
+  "lastUpdated": "2026-06-23T11:20:42.963Z"
 }
