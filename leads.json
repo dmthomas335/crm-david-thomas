@@ -10779,7 +10779,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:02:43.554Z"
+    },
+    {
+      "id": "mqqjcsw26rp59qrvt44",
+      "name": "Fro Ong",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JROng85",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T11:03:01.442Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:02:43.554Z"
+  "lastUpdated": "2026-06-23T11:03:01.442Z"
 }
