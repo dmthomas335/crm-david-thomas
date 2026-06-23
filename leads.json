@@ -5718,24 +5718,6 @@
       "addedAt": "2026-06-02T11:33:09.937Z"
     },
     {
-      "id": "mpwk75uaeuu431r66n",
-      "name": "Jose Lemus",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/jose.lemus.492817",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-23",
-      "notes": "personal",
-      "lastModified": "2026-06-16",
-      "dateAdded": "2026-06-02",
-      "addedAt": "2026-06-02T11:33:32.626Z"
-    },
-    {
       "id": "mpwk7nzmn94o1ay6gh",
       "name": "RJ Johnson",
       "email": "",
@@ -10853,5 +10835,5 @@
       "addedAt": "2026-06-23T11:04:03.459Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:19:37.578Z"
+  "lastUpdated": "2026-06-23T11:20:01.186Z"
 }
