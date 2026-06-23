@@ -10689,7 +10689,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T06:47:22.061Z"
+    },
+    {
+      "id": "mqqag6oazyqpt1a61x",
+      "name": "Sean Schmidt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EKjw8V86S/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": "2026-06-27",
+      "notes": "Personal ",
+      "lastModified": "2026-06-22",
+      "dateAdded": "2026-06-22",
+      "addedAt": "2026-06-23T06:53:42.730Z"
     }
   ],
-  "lastUpdated": "2026-06-23T06:51:49.740Z"
+  "lastUpdated": "2026-06-23T06:53:42.730Z"
 }
