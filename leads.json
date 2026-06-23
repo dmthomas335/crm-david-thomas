@@ -8517,12 +8517,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19EbzMRS9p/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-12",
@@ -10691,5 +10691,5 @@
       "addedAt": "2026-06-23T06:47:22.061Z"
     }
   ],
-  "lastUpdated": "2026-06-23T06:49:26.475Z"
+  "lastUpdated": "2026-06-23T06:51:49.740Z"
 }
