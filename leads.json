@@ -10797,7 +10797,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:03:01.442Z"
+    },
+    {
+      "id": "mqqjd9kacyekb4pops",
+      "name": "Scott Kaiser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100016690398313",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T11:03:23.050Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:03:01.442Z"
+  "lastUpdated": "2026-06-23T11:03:23.050Z"
 }
