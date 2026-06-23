@@ -2845,13 +2845,13 @@
       "phone": "",
       "social": "https://www.facebook.com/rodrick.walkert",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "Email ",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:19:17.214Z",
       "videoSent": false
@@ -10835,5 +10835,5 @@
       "addedAt": "2026-06-23T11:04:03.459Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:25:10.821Z"
+  "lastUpdated": "2026-06-23T11:25:24.597Z"
 }
