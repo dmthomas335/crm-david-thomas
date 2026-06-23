@@ -10834,7 +10834,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:04:03.459Z"
+    },
+    {
+      "id": "mqqn18vs3ewpbfbdqte",
+      "name": "Rob Riege",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rob.riege.1",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-24",
+      "notes": "Personal ",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T12:46:00.760Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:31:52.697Z"
+  "lastUpdated": "2026-06-23T12:46:00.760Z"
 }
