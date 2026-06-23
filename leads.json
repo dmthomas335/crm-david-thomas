@@ -10725,7 +10725,25 @@
       "lastModified": "2026-06-22",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T06:57:16.801Z"
+    },
+    {
+      "id": "mqqjbkpmifnviz7x9wj",
+      "name": "Mike Sidara",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.sidara",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T11:02:04.186Z"
     }
   ],
-  "lastUpdated": "2026-06-23T07:05:00.068Z"
+  "lastUpdated": "2026-06-23T11:02:04.187Z"
 }
