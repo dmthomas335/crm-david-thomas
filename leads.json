@@ -10743,7 +10743,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:02:04.186Z"
+    },
+    {
+      "id": "mqqjc1oqmoue7a4d7q",
+      "name": "Lawrence Botha",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lawrence.botha.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T11:02:26.186Z"
     }
   ],
-  "lastUpdated": "2026-06-23T11:02:04.187Z"
+  "lastUpdated": "2026-06-23T11:02:26.186Z"
 }
