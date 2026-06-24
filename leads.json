@@ -1483,11 +1483,11 @@
       "phone": "",
       "social": "https://www.facebook.com/melanie.coleman.13",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": null,
       "notes": "sent trading vid",
       "lastModified": "2026-06-24",
       "dateAdded": "2026-05-21",
@@ -11092,5 +11092,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:21:33.903Z"
+  "lastUpdated": "2026-06-24T12:21:56.991Z"
 }
