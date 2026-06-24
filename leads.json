@@ -2344,16 +2344,17 @@
       "phone": "",
       "social": "https://www.facebook.com/wayne.walton.507",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-24",
-      "notes": "joined 2WT personal ",
-      "lastModified": "2026-06-09",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-23",
+      "notes": "joined 2WT personal 517442 Me",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:22:47.751Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-06-24"
     },
     {
       "id": "mpjr6klmpkxheky1ngf",
@@ -11092,5 +11093,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:21:56.991Z"
+  "lastUpdated": "2026-06-24T12:22:56.727Z"
 }
