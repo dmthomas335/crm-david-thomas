@@ -10888,7 +10888,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:15:34.257Z"
+    },
+    {
+      "id": "mqrz9brqp7p8fpuru5",
+      "name": "Cortlon Hartz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cortlon.hartz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:15:59.318Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:15:34.257Z"
+  "lastUpdated": "2026-06-24T11:15:59.318Z"
 }
