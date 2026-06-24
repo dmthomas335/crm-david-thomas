@@ -10996,7 +10996,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:17:45.999Z"
+    },
+    {
+      "id": "mqrzc4yf3t62dzwfhyq",
+      "name": "Glenn L Richard Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/glennlrichardjr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:18:10.455Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:17:45.999Z"
+  "lastUpdated": "2026-06-24T11:18:10.455Z"
 }
