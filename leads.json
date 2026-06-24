@@ -7638,11 +7638,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
       "notes": "Dave T Page ",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T07:58:32.912Z"
     },
@@ -11088,5 +11088,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:52:41.367Z"
+  "lastUpdated": "2026-06-24T11:53:22.664Z"
 }
