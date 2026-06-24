@@ -8919,10 +8919,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-01",
       "notes": "Personal ",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:17:41.177Z"
     },
@@ -11088,5 +11088,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:05:06.142Z"
+  "lastUpdated": "2026-06-24T12:05:26.095Z"
 }
