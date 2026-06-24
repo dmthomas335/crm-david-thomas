@@ -11086,7 +11086,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:19:38.752Z"
+    },
+    {
+      "id": "mqrzorckopu9dky027d",
+      "name": "Steve Kreycik",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.kreycik",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:27:59.348Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:19:38.752Z"
+  "lastUpdated": "2026-06-24T11:27:59.348Z"
 }
