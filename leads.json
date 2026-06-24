@@ -1056,13 +1056,13 @@
       "phone": "",
       "social": "https://www.facebook.com/timothy.hutchens.90",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -11076,5 +11076,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:28:27.387Z"
+  "lastUpdated": "2026-06-24T12:28:54.226Z"
 }
