@@ -1304,11 +1304,11 @@
       "source": "Facebook",
       "status": "Prospect",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
       "notes": "personal send price action vid",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:25:43.797Z",
       "videoSent": false
@@ -11093,5 +11093,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:27:05.322Z"
+  "lastUpdated": "2026-06-24T12:27:25.338Z"
 }
