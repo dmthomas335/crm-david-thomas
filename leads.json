@@ -11014,7 +11014,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:18:10.455Z"
+    },
+    {
+      "id": "mqrzcq47umpdjilp01",
+      "name": "Andretti Sanchala",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fas0621",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:18:37.879Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:18:10.455Z"
+  "lastUpdated": "2026-06-24T11:18:37.879Z"
 }
