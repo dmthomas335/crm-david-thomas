@@ -1395,10 +1395,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-24",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-26",
       "notes": "personal joined as 2WT Ashley 536221 Kendall Matthews",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:45:17.711Z",
       "videoSent": true
@@ -11092,5 +11092,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:21:20.886Z"
+  "lastUpdated": "2026-06-24T12:21:33.903Z"
 }
