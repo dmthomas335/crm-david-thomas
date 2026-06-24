@@ -10942,7 +10942,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:16:41.190Z"
+    },
+    {
+      "id": "mqrzasdbsrqa27w0tf",
+      "name": "Jesse Schwartz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.schwartz.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:17:07.487Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:16:41.190Z"
+  "lastUpdated": "2026-06-24T11:17:07.487Z"
 }
