@@ -11068,7 +11068,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:19:17.368Z"
+    },
+    {
+      "id": "mqrze134z74gcyivp39",
+      "name": "Rory Meeks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rory.meeks.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T11:19:38.752Z"
     }
   ],
-  "lastUpdated": "2026-06-24T11:19:17.368Z"
+  "lastUpdated": "2026-06-24T11:19:38.752Z"
 }
