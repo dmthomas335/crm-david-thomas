@@ -7062,11 +7062,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-24",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-07-08",
       "notes": "Personal ",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T10:51:46.803Z"
     },
@@ -11088,5 +11088,5 @@
       "addedAt": "2026-06-24T11:35:56.704Z"
     }
   ],
-  "lastUpdated": "2026-06-24T12:08:12.528Z"
+  "lastUpdated": "2026-06-24T12:08:49.096Z"
 }
