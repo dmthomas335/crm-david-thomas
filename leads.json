@@ -957,10 +957,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-25",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-09",
       "notes": "sent biz pres / dave thomas page",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-20",
       "videoSent": true
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:46:41.831Z"
+  "lastUpdated": "2026-06-25T11:47:13.583Z"
 }
