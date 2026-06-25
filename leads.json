@@ -11290,7 +11290,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:01:33.777Z"
+    },
+    {
+      "id": "mqtc1ygxtl0o1j9xeh",
+      "name": "Steven Allerick Chen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/StevenAllerick",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T10:01:56.673Z"
     }
   ],
-  "lastUpdated": "2026-06-25T10:01:33.777Z"
+  "lastUpdated": "2026-06-25T10:01:56.673Z"
 }
