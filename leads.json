@@ -10003,13 +10003,13 @@
       "social": "https://www.facebook.com/share/17fwYF3MqG/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "2WT",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-07-07",
-      "notes": "Personal ",
-      "lastModified": "2026-06-23",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-27",
+      "notes": "Personal joined as 2WT Paul Johnson 544872",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T07:35:33.911Z"
     },
@@ -11166,5 +11166,5 @@
       "addedAt": "2026-06-25T08:54:25.750Z"
     }
   ],
-  "lastUpdated": "2026-06-25T08:56:36.649Z"
+  "lastUpdated": "2026-06-25T08:57:40.551Z"
 }
