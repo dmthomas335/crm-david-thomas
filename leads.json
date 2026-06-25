@@ -9443,14 +9443,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1H5QxyyE1Q/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "2WT",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
-      "notes": "Personal ",
-      "lastModified": "2026-06-18",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-06-27",
+      "notes": "Personal Joined as 2WT Joseph 670196",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T08:13:50.170Z"
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:27:40.846Z"
+  "lastUpdated": "2026-06-25T11:40:15.268Z"
 }
