@@ -8285,7 +8285,7 @@
     },
     {
       "id": "mq9dig12d9b26ha4b3g",
-      "name": "Becky Rhides ",
+      "name": "Becky Rhodes ",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/share/1CAfh8Ucsm/?mibextid=wwXIfr",
@@ -8293,11 +8293,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-25",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:47:22.022Z"
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:47:59.680Z"
+  "lastUpdated": "2026-06-25T11:48:42.848Z"
 }
