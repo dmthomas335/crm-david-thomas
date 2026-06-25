@@ -11383,7 +11383,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T15:37:15.069Z"
+    },
+    {
+      "id": "mqto2e8hv7xuhw0b6xa",
+      "name": "Steve Guerrero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17h8aD2tyD/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T15:38:12.497Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:37:15.069Z"
+  "lastUpdated": "2026-06-25T15:38:12.497Z"
 }
