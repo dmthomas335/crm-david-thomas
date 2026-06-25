@@ -180,10 +180,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
       "notes": "sent biz pres / personal",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -11330,5 +11330,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T12:11:11.892Z"
+  "lastUpdated": "2026-06-25T12:11:43.724Z"
 }
