@@ -11365,7 +11365,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T14:09:07.691Z"
+    },
+    {
+      "id": "mqto15x95ef8uaeicw4",
+      "name": "Larry Bernard White ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1AtiGDaQ8E/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T15:37:15.069Z"
     }
   ],
-  "lastUpdated": "2026-06-25T14:09:07.691Z"
+  "lastUpdated": "2026-06-25T15:37:15.069Z"
 }
