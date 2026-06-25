@@ -11218,7 +11218,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:00:13.321Z"
+    },
+    {
+      "id": "mqtc0889sb1pcs6kmo",
+      "name": "Kelvin Austin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelvin.austin.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T10:00:36.009Z"
     }
   ],
-  "lastUpdated": "2026-06-25T10:00:13.321Z"
+  "lastUpdated": "2026-06-25T10:00:36.009Z"
 }
