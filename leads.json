@@ -3034,13 +3034,14 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Follow-up 4",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": "2026-07-07",
       "notes": "says joining june or july",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T11:22:43.836Z"
+      "addedAt": "2026-05-26T11:22:43.836Z",
+      "videoSent": false
     },
     {
       "id": "mpmjr9b9yjn0ze2jri",
@@ -11329,5 +11330,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T12:03:13.416Z"
+  "lastUpdated": "2026-06-25T12:03:45.256Z"
 }
