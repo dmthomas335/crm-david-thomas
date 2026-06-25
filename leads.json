@@ -11200,7 +11200,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T09:59:39.561Z"
+    },
+    {
+      "id": "mqtbzqq1f1ecn4y68ot",
+      "name": "Rodolfo Jr Lopez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JuniorRudyLopez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T10:00:13.321Z"
     }
   ],
-  "lastUpdated": "2026-06-25T09:59:39.561Z"
+  "lastUpdated": "2026-06-25T10:00:13.321Z"
 }
