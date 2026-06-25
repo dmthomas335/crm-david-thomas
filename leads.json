@@ -11254,7 +11254,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:00:53.898Z"
+    },
+    {
+      "id": "mqtc11ah4628gg38crq",
+      "name": "Edwin Kamara",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/edwin.kamara.773",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T10:01:13.673Z"
     }
   ],
-  "lastUpdated": "2026-06-25T10:00:53.898Z"
+  "lastUpdated": "2026-06-25T10:01:13.673Z"
 }
