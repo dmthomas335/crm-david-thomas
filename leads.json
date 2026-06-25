@@ -3427,13 +3427,13 @@
       "phone": "",
       "social": "https://www.facebook.com/stephenmissi1",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
-      "lastAction": "Closed",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "joined as 2WT customer",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T10:47:45.299Z",
       "videoSent": false
@@ -11330,5 +11330,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T12:03:58.753Z"
+  "lastUpdated": "2026-06-25T12:04:07.696Z"
 }
