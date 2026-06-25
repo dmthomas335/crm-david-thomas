@@ -8545,11 +8545,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-25",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-12",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal ",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:45.805Z"
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:49:00.752Z"
+  "lastUpdated": "2026-06-25T11:49:26.448Z"
 }
