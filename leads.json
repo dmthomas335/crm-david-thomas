@@ -2443,10 +2443,10 @@
       "lastContact": "2026-06-24",
       "nextFollowUp": "2026-07-01",
       "notes": "personal",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:33.109Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpjrjgnne5q812r7i54",
@@ -11148,5 +11148,5 @@
       "addedAt": "2026-06-25T08:42:31.770Z"
     }
   ],
-  "lastUpdated": "2026-06-25T08:45:28.054Z"
+  "lastUpdated": "2026-06-25T08:46:11.397Z"
 }
