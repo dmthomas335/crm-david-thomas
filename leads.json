@@ -1541,9 +1541,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": "2026-07-10",
       "notes": "TG DLB",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:58:59.753Z",
       "videoSent": false
@@ -11330,5 +11330,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T12:12:21.660Z"
+  "lastUpdated": "2026-06-25T12:12:45.524Z"
 }
