@@ -5605,14 +5605,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sylvanus.kofi.37",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-18",
       "nextFollowUp": "2026-06-25",
-      "notes": "personal delee",
-      "lastModified": "2026-06-18",
+      "notes": "personal ",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:31:28.073Z"
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:54:58.979Z"
+  "lastUpdated": "2026-06-25T11:55:31.315Z"
 }
