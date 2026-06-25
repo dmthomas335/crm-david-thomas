@@ -9194,11 +9194,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-25",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-15",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:08:51.524Z"
     },
@@ -11328,5 +11328,5 @@
       "addedAt": "2026-06-25T10:02:28.409Z"
     }
   ],
-  "lastUpdated": "2026-06-25T11:50:49.201Z"
+  "lastUpdated": "2026-06-25T11:51:08.433Z"
 }
