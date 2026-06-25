@@ -11272,7 +11272,25 @@
       "lastModified": "2026-06-25",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:01:13.673Z"
+    },
+    {
+      "id": "mqtc1gsxka9m97pzfb",
+      "name": "Lloyd Craft",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lloyd.craft.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-25",
+      "dateAdded": "2026-06-25",
+      "addedAt": "2026-06-25T10:01:33.777Z"
     }
   ],
-  "lastUpdated": "2026-06-25T10:01:13.673Z"
+  "lastUpdated": "2026-06-25T10:01:33.777Z"
 }
