@@ -11439,7 +11439,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:23:26.089Z"
+    },
+    {
+      "id": "mquufbvta6xsmdu4u8",
+      "name": "Amaury Rijos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amaury.rijos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:23:59.849Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:23:26.089Z"
+  "lastUpdated": "2026-06-26T11:23:59.849Z"
 }
