@@ -6098,11 +6098,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-26",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-03",
       "notes": "personal ",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:03:26.185Z"
     },
@@ -11639,5 +11639,5 @@
       "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T14:04:58.356Z"
+  "lastUpdated": "2026-06-26T14:05:14.404Z"
 }
