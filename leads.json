@@ -6023,14 +6023,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bruce.davis.79069",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:01:04.104Z"
     },
@@ -11639,5 +11639,5 @@
       "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T14:05:14.404Z"
+  "lastUpdated": "2026-06-26T14:05:31.524Z"
 }
