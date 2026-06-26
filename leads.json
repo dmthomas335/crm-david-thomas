@@ -11511,7 +11511,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:24:57.609Z"
+    },
+    {
+      "id": "mquugzs2h3tukzx6b4r",
+      "name": "Jeffrey Poarch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeffrey.poarch.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:25:17.474Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:24:57.609Z"
+  "lastUpdated": "2026-06-26T11:25:17.474Z"
 }
