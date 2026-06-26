@@ -11457,7 +11457,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:23:59.849Z"
+    },
+    {
+      "id": "mquufrsxbtmnm0dxviu",
+      "name": "Randy Skelton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randy.skelton.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:24:20.481Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:23:59.849Z"
+  "lastUpdated": "2026-06-26T11:24:20.481Z"
 }
