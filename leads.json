@@ -11565,7 +11565,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:27:58.955Z"
+    },
+    {
+      "id": "mquul324bm593yokxjr",
+      "name": "Jordan Zappelli",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jzappelli",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:28:28.348Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:27:58.955Z"
+  "lastUpdated": "2026-06-26T11:28:28.348Z"
 }
