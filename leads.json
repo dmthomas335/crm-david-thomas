@@ -11619,7 +11619,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:30:52.117Z"
+    },
+    {
+      "id": "mquuoqgkyy7ct3br13",
+      "name": "James (Jim) Harris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.harris.7393",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-01",
+      "notes": "Personal ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:30:52.117Z"
+  "lastUpdated": "2026-06-26T11:31:18.645Z"
 }
