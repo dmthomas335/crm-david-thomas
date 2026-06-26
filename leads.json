@@ -11421,7 +11421,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:04:03.623Z"
+    },
+    {
+      "id": "mquuelu18ieognjzzr",
+      "name": "Minosh Joachim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/minosh.joachim",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:23:26.089Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:04:03.623Z"
+  "lastUpdated": "2026-06-26T11:23:26.089Z"
 }
