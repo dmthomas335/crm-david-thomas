@@ -5883,9 +5883,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": "2026-07-03",
       "notes": "dave t page/ joined as customer ",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:29:28.694Z",
       "customerSince": "2026-06-02"
@@ -11639,5 +11639,5 @@
       "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T13:43:31.089Z"
+  "lastUpdated": "2026-06-26T13:44:06.033Z"
 }
