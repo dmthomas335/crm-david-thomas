@@ -11475,7 +11475,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:24:20.481Z"
+    },
+    {
+      "id": "mquug5j5r1lg9v1zotp",
+      "name": "Stewart Christie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stewart.christie.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-26",
+      "dateAdded": "2026-06-26",
+      "addedAt": "2026-06-26T11:24:38.273Z"
     }
   ],
-  "lastUpdated": "2026-06-26T11:24:20.481Z"
+  "lastUpdated": "2026-06-26T11:24:38.273Z"
 }
