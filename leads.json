@@ -6631,20 +6631,21 @@
     {
       "id": "mq0uw6lu7jxfg1ss7oe",
       "name": "Paul Moffatt",
-      "email": "",
+      "email": "flamadog@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/flamadog",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
-      "notes": "personal ",
-      "lastModified": "2026-06-22",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-28",
+      "notes": "personal Joined 757680 Me",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-05",
-      "addedAt": "2026-06-05T11:44:00.882Z"
+      "addedAt": "2026-06-05T11:44:00.882Z",
+      "customerSince": "2026-06-26"
     },
     {
       "id": "mq0uwrpml8qpes3cj9q",
@@ -11403,5 +11404,5 @@
       "addedAt": "2026-06-25T15:38:12.497Z"
     }
   ],
-  "lastUpdated": "2026-06-26T10:33:40.399Z"
+  "lastUpdated": "2026-06-26T10:36:55.040Z"
 }
