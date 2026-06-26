@@ -11356,13 +11356,13 @@
       "social": "https://www.facebook.com/juliemarie.jones.7",
       "source": "Facebook",
       "status": "2WT",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-02",
-      "notes": "Personal ",
-      "lastModified": "2026-06-25",
+      "nextFollowUp": "2026-06-29",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T14:09:07.691Z"
     },
@@ -11403,5 +11403,5 @@
       "addedAt": "2026-06-25T15:38:12.497Z"
     }
   ],
-  "lastUpdated": "2026-06-25T21:26:38.268Z"
+  "lastUpdated": "2026-06-26T10:33:40.399Z"
 }
