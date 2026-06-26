@@ -974,10 +974,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-26",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-07-26",
       "notes": "told about 2 week promo",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -11640,5 +11640,5 @@
       "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T14:12:39.960Z"
+  "lastUpdated": "2026-06-26T14:12:54.912Z"
 }
