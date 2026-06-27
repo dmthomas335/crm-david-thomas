@@ -11638,7 +11638,25 @@
       "lastModified": "2026-06-26",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:31:18.644Z"
+    },
+    {
+      "id": "mqw7gwg47l8zpsr1hlw",
+      "name": "Christopher Tinline",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1ECpwcYDQu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-07-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T10:16:54.340Z"
     }
   ],
-  "lastUpdated": "2026-06-27T10:09:41.151Z"
+  "lastUpdated": "2026-06-27T10:16:54.340Z"
 }
