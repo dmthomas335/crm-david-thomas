@@ -1791,10 +1791,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-27",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-07-02",
       "notes": "personal joined as 2WT 518903 Dayne",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:20:33.530Z",
       "videoSent": true
@@ -11730,5 +11730,5 @@
       "addedAt": "2026-06-27T10:19:04.032Z"
     }
   ],
-  "lastUpdated": "2026-06-27T10:57:30.713Z"
+  "lastUpdated": "2026-06-27T10:57:57.435Z"
 }
