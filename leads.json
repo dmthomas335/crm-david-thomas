@@ -2423,12 +2423,12 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": "2026-07-03",
       "notes": "personal",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:04.352Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpjrit6dfwp6hqqpdc",
@@ -11640,5 +11640,5 @@
       "addedAt": "2026-06-26T11:31:18.644Z"
     }
   ],
-  "lastUpdated": "2026-06-26T14:15:58.218Z"
+  "lastUpdated": "2026-06-27T10:09:29.895Z"
 }
