@@ -11710,7 +11710,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T10:18:28.400Z"
+    },
+    {
+      "id": "mqw7joioe2sb08gomj8",
+      "name": "Enyonam Nyavi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EWG8iqWkv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-27",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-27",
+      "dateAdded": "2026-06-27",
+      "addedAt": "2026-06-27T10:19:04.032Z"
     }
   ],
-  "lastUpdated": "2026-06-27T10:18:28.400Z"
+  "lastUpdated": "2026-06-27T10:19:04.032Z"
 }
