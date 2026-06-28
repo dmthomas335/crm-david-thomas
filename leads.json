@@ -975,11 +975,11 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-26",
-      "notes": "told about 2 week promo",
-      "lastModified": "2026-06-26",
+      "nextFollowUp": "2026-07-28",
+      "notes": "told about 2 week promo joined as 2WT",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-05-20",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpdz9va6lp2n5cwqb2",
@@ -11821,5 +11821,5 @@
       "addedAt": "2026-06-28T11:16:13.591Z"
     }
   ],
-  "lastUpdated": "2026-06-28T11:16:13.591Z"
+  "lastUpdated": "2026-06-28T11:26:53.859Z"
 }
