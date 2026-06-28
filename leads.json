@@ -11801,7 +11801,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:15:40.254Z"
+    },
+    {
+      "id": "mqxp11g7oxdmcp1843i",
+      "name": "Bob Kennedy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bob.kennedy.5245",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T11:16:13.591Z"
     }
   ],
-  "lastUpdated": "2026-06-28T11:15:40.254Z"
+  "lastUpdated": "2026-06-28T11:16:13.591Z"
 }
