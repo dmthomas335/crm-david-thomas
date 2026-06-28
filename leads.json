@@ -11747,7 +11747,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:14:19.047Z"
+    },
+    {
+      "id": "mqxoz8925aaw8ekzviq",
+      "name": "Derrick Cooper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derrick.cooper2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T11:14:49.094Z"
     }
   ],
-  "lastUpdated": "2026-06-28T11:14:19.047Z"
+  "lastUpdated": "2026-06-28T11:14:49.094Z"
 }
