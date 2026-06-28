@@ -11783,7 +11783,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:15:13.470Z"
+    },
+    {
+      "id": "mqxp0bq6aa3vvxromg8",
+      "name": "Jean-Francois Renault",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeanfrancois.renault",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T11:15:40.254Z"
     }
   ],
-  "lastUpdated": "2026-06-28T11:15:13.470Z"
+  "lastUpdated": "2026-06-28T11:15:40.254Z"
 }
