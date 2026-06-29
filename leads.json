@@ -6963,14 +6963,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18mZmtFoN2/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-29",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:57:19.755Z"
     },
@@ -11985,5 +11985,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T12:45:16.288Z"
+  "lastUpdated": "2026-06-29T12:45:38.489Z"
 }
