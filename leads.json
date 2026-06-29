@@ -8095,20 +8095,21 @@
     {
       "id": "mq97h9l617vsjapsnre",
       "name": "Andrew M Szalontai",
-      "email": "",
+      "email": "andrew@plutotrabsportltd.com",
       "phone": "",
       "social": "https://www.facebook.com/share/1Je6M4bFM6/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-07-01",
-      "notes": "Personal ",
-      "lastModified": "2026-06-17",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Me 758186",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-11",
-      "addedAt": "2026-06-11T07:58:29.322Z"
+      "addedAt": "2026-06-11T07:58:29.322Z",
+      "customerSince": "2026-06-29"
     },
     {
       "id": "mq97if6jmmmomluo47",
@@ -11822,5 +11823,5 @@
       "addedAt": "2026-06-28T11:16:13.591Z"
     }
   ],
-  "lastUpdated": "2026-06-29T07:30:39.736Z"
+  "lastUpdated": "2026-06-29T11:01:43.942Z"
 }
