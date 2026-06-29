@@ -11929,7 +11929,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:39:48.389Z"
+    },
+    {
+      "id": "mqz5boliwpz3gnamajb",
+      "name": "Sefa Talumi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stalumi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:40:10.183Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:39:48.389Z"
+  "lastUpdated": "2026-06-29T11:40:10.183Z"
 }
