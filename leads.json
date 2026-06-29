@@ -11947,7 +11947,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:40:10.183Z"
+    },
+    {
+      "id": "mqz5c594ytw6c3h5yvh",
+      "name": "Andres J Correa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andresjcorreav",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:40:31.768Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:40:10.183Z"
+  "lastUpdated": "2026-06-29T11:40:31.768Z"
 }
