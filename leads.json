@@ -11839,7 +11839,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:37:32.643Z"
+    },
+    {
+      "id": "mqz58uwttz1o35mj93",
+      "name": "Caleb Hess",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/caleb.hess.731",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:37:58.397Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:37:32.643Z"
+  "lastUpdated": "2026-06-29T11:37:58.397Z"
 }
