@@ -11893,7 +11893,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:38:56.101Z"
+    },
+    {
+      "id": "mqz5arelgyjy10hsp67",
+      "name": "Stacey James",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stacie.berriman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-29",
+      "notes": "Personal ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:39:27.165Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:38:56.101Z"
+  "lastUpdated": "2026-06-29T11:39:27.165Z"
 }
