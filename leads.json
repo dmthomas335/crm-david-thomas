@@ -12038,7 +12038,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T18:14:26.764Z"
+    },
+    {
+      "id": "mqzm8v7jnrox0mpdhtc",
+      "name": "Eddie Silvas ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1C9Kuqtq4C/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-06",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T19:33:52.256Z"
     }
   ],
-  "lastUpdated": "2026-06-29T18:14:26.764Z"
+  "lastUpdated": "2026-06-29T19:33:52.256Z"
 }
