@@ -11965,7 +11965,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:40:31.768Z"
+    },
+    {
+      "id": "mqz5cn4e9j0bj754km",
+      "name": "Dan Burls",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dansj1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-16",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:40:54.926Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:40:31.768Z"
+  "lastUpdated": "2026-06-29T11:40:54.926Z"
 }
