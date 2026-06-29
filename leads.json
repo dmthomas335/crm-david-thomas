@@ -8645,10 +8645,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal send recap",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z"
     },
@@ -12003,5 +12003,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T12:03:02.290Z"
+  "lastUpdated": "2026-06-29T12:07:49.620Z"
 }
