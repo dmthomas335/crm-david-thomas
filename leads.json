@@ -6768,10 +6768,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-29",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-13",
       "notes": "personal joined as 2WT",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T13:42:34.317Z"
     },
@@ -11985,5 +11985,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T12:46:41.762Z"
+  "lastUpdated": "2026-06-29T12:47:14.210Z"
 }
