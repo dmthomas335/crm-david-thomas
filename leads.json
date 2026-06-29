@@ -9957,10 +9957,10 @@
       "phone": "",
       "social": "https://www.facebook.com/samm.mosses.2025",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-29",
       "nextFollowUp": "2026-07-06",
       "notes": "Personal ",
@@ -12022,5 +12022,5 @@
       "addedAt": "2026-06-29T17:07:39.712Z"
     }
   ],
-  "lastUpdated": "2026-06-29T17:09:38.769Z"
+  "lastUpdated": "2026-06-29T18:12:58.999Z"
 }
