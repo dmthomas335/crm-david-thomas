@@ -10317,10 +10317,10 @@
       "phone": "",
       "social": "https://www.facebook.com/PaudelRoshan11",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Follow-up 2",
       "lastContact": "2026-06-29",
       "nextFollowUp": "2026-07-06",
       "notes": "Personal",
@@ -12003,5 +12003,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T12:07:49.620Z"
+  "lastUpdated": "2026-06-29T12:16:04.545Z"
 }
