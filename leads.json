@@ -8171,16 +8171,17 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D98aQhM5S/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Customer",
+      "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Closed",
       "lastContact": "2026-06-24",
       "nextFollowUp": "2026-06-29",
-      "notes": "Personal ",
-      "lastModified": "2026-06-24",
+      "notes": "Personal Jeff casmer ",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-11",
-      "addedAt": "2026-06-11T08:05:50.655Z"
+      "addedAt": "2026-06-11T08:05:50.655Z",
+      "customerSince": "2026-06-29"
     },
     {
       "id": "mq97tszzv5oxqm7dnir",
@@ -11821,5 +11822,5 @@
       "addedAt": "2026-06-28T11:16:13.591Z"
     }
   ],
-  "lastUpdated": "2026-06-29T07:29:29.633Z"
+  "lastUpdated": "2026-06-29T07:30:39.736Z"
 }
