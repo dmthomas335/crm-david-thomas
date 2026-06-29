@@ -10421,20 +10421,21 @@
     {
       "id": "mqow62e2p99z6kukhtj",
       "name": "James Wheeler",
-      "email": "",
+      "email": "jamesjohnwheeler@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/share/14hwfr7zcTG/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Warm",
-      "lastAction": "Nurture",
-      "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-03",
-      "notes": "Personal ",
-      "lastModified": "2026-06-26",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-06-30",
+      "notes": "Personal Me 758313",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-22",
-      "addedAt": "2026-06-22T07:26:09.818Z"
+      "addedAt": "2026-06-22T07:26:09.818Z",
+      "customerSince": "2026-06-29"
     },
     {
       "id": "mqow7iahhyazkfzk2y6",
@@ -12021,5 +12022,5 @@
       "addedAt": "2026-06-29T17:07:39.712Z"
     }
   ],
-  "lastUpdated": "2026-06-29T17:07:39.712Z"
+  "lastUpdated": "2026-06-29T17:09:38.769Z"
 }
