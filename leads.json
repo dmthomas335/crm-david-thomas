@@ -299,10 +299,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-29",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-13",
       "notes": "personal",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-05-18",
       "videoSent": false,
       "customerSince": "2026-06-01"
@@ -12003,5 +12003,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:42:56.918Z"
+  "lastUpdated": "2026-06-29T11:43:02.800Z"
 }
