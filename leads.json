@@ -6641,10 +6641,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-06-28",
-      "nextFollowUp": "2026-06-29",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-13",
       "notes": "personal Joined 757680 Me",
-      "lastModified": "2026-06-28",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:00.882Z",
       "customerSince": "2026-06-26"
@@ -12003,5 +12003,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:42:44.086Z"
+  "lastUpdated": "2026-06-29T11:42:49.110Z"
 }
