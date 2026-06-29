@@ -9777,12 +9777,12 @@
       "phone": "",
       "social": "https://www.facebook.com/clive.sturdy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-17",
@@ -11985,5 +11985,5 @@
       "addedAt": "2026-06-29T11:41:22.415Z"
     }
   ],
-  "lastUpdated": "2026-06-29T12:53:39.957Z"
+  "lastUpdated": "2026-06-29T12:56:18.031Z"
 }
