@@ -11821,7 +11821,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:16:13.591Z"
+    },
+    {
+      "id": "mqz58b1fnv06a2e9kw",
+      "name": "Hans Lang",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hans.lang.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T11:37:32.643Z"
     }
   ],
-  "lastUpdated": "2026-06-29T11:04:10.991Z"
+  "lastUpdated": "2026-06-29T11:37:32.643Z"
 }
