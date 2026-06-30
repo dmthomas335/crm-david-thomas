@@ -5578,10 +5578,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-30",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-02",
       "notes": "Dave t and personal ",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:00:54.341Z"
     },
@@ -12328,5 +12328,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:58:04.342Z"
+  "lastUpdated": "2026-06-30T11:58:13.932Z"
 }
