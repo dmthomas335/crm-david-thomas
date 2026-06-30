@@ -10426,8 +10426,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18xFw9eJfn/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-30",
@@ -12328,5 +12328,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:50:15.376Z"
+  "lastUpdated": "2026-06-30T11:53:45.549Z"
 }
