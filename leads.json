@@ -12326,7 +12326,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:13:05.932Z"
+    },
+    {
+      "id": "mr0jtf1p60xrk942n0k",
+      "name": "Vinney King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61566410205195",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T11:13:38.413Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:13:05.932Z"
+  "lastUpdated": "2026-06-30T11:13:38.413Z"
 }
