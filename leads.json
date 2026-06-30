@@ -12128,7 +12128,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:08:43.932Z"
+    },
+    {
+      "id": "mr0jno17d2x7oqundfh",
+      "name": "John Rodgers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JohnLRodgers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T11:09:10.123Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:08:43.932Z"
+  "lastUpdated": "2026-06-30T11:09:10.123Z"
 }
