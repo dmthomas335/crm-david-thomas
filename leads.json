@@ -163,10 +163,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-30",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-14",
       "notes": "sent biz pres personal ",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -12328,5 +12328,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:11:10.865Z"
+  "lastUpdated": "2026-06-30T12:11:20.552Z"
 }
