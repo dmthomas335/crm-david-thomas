@@ -468,12 +468,13 @@
       "source": "Facebook",
       "status": "Sent Video",
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-06-30",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-30",
       "notes": "said end of june i think",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpcj7l395fad9x2lq8f",
@@ -12328,5 +12329,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:15:21.125Z"
+  "lastUpdated": "2026-06-30T12:15:47.087Z"
 }
