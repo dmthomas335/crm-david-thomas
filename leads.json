@@ -12272,7 +12272,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:11:47.154Z"
+    },
+    {
+      "id": "mr0jrl9f9212pkaauqj",
+      "name": "Stuart Beardshall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stuart.beardshall",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T11:12:13.155Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:11:47.154Z"
+  "lastUpdated": "2026-06-30T11:12:13.155Z"
 }
