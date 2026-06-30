@@ -12092,7 +12092,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T07:17:37.230Z"
+    },
+    {
+      "id": "mr0bgnhvabz1ok9qz9",
+      "name": "Daniel Lapointe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1A3XwEodan/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T07:19:45.907Z"
     }
   ],
-  "lastUpdated": "2026-06-30T07:17:37.231Z"
+  "lastUpdated": "2026-06-30T07:19:45.907Z"
 }
