@@ -10600,24 +10600,6 @@
       "addedAt": "2026-06-23T06:46:45.865Z"
     },
     {
-      "id": "mqqa80y5qwefpqd912i",
-      "name": "William Rondeau",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/share/1Dr8tJy9ju/?mibextid=wwXIfr",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-30",
-      "notes": "David T Page ",
-      "lastModified": "2026-06-22",
-      "dateAdded": "2026-06-22",
-      "addedAt": "2026-06-23T06:47:22.061Z"
-    },
-    {
       "id": "mqqag6oazyqpt1a61x",
       "name": "Sean Schmidt",
       "email": "",
@@ -12364,5 +12346,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:40:19.324Z"
+  "lastUpdated": "2026-06-30T11:40:48.324Z"
 }
