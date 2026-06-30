@@ -7976,11 +7976,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-29",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-06-30",
       "nextFollowUp": "2026-07-06",
       "notes": "Personal ",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:15:22.044Z"
     },
@@ -12076,5 +12076,5 @@
       "addedAt": "2026-06-30T06:52:43.414Z"
     }
   ],
-  "lastUpdated": "2026-06-30T06:52:43.414Z"
+  "lastUpdated": "2026-06-30T07:16:11.703Z"
 }
