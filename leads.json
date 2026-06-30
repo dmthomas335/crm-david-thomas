@@ -12182,7 +12182,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:09:51.333Z"
+    },
+    {
+      "id": "mr0jp0kljw3mqr4qf",
+      "name": "Dashnor Kabashi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dashnor.kabashi.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T11:10:13.029Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:09:51.333Z"
+  "lastUpdated": "2026-06-30T11:10:13.029Z"
 }
