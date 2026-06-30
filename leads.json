@@ -12327,7 +12327,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:15:37.924Z"
+    },
+    {
+      "id": "mr0n3k1yuq9l3u0ir5",
+      "name": "Pedro Rosales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pedro.rosales.576754",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T12:45:30.310Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:15:47.087Z"
+  "lastUpdated": "2026-06-30T12:45:30.310Z"
 }
