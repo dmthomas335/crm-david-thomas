@@ -8859,8 +8859,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18bxuwUmMZ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-30",
@@ -12347,5 +12347,5 @@
       "addedAt": "2026-06-30T12:45:30.310Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:49:11.825Z"
+  "lastUpdated": "2026-06-30T12:49:22.305Z"
 }
