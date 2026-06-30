@@ -58,13 +58,13 @@
       "phone": "",
       "social": "https://www.facebook.com/william.maher.12",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-30",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -12328,5 +12328,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:11:20.552Z"
+  "lastUpdated": "2026-06-30T12:11:34.281Z"
 }
