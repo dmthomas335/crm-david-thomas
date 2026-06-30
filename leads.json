@@ -8177,9 +8177,9 @@
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
       "notes": "Personal Jeff casmer 758133",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:05:50.655Z",
       "customerSince": "2026-06-29"
@@ -12364,5 +12364,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:39:10.082Z"
+  "lastUpdated": "2026-06-30T11:40:13.373Z"
 }
