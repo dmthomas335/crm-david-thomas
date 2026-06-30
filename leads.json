@@ -12290,7 +12290,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:12:13.155Z"
+    },
+    {
+      "id": "mr0js8fg9oacwc6a9su",
+      "name": "Donyy Dony",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100085521016676",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T11:12:43.180Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:12:13.155Z"
+  "lastUpdated": "2026-06-30T11:12:43.180Z"
 }
