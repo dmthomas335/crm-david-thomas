@@ -8356,11 +8356,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-30",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-11",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:49:20.189Z"
     },
@@ -12328,5 +12328,5 @@
       "addedAt": "2026-06-30T11:15:37.924Z"
     }
   ],
-  "lastUpdated": "2026-06-30T11:56:57.226Z"
+  "lastUpdated": "2026-06-30T11:57:13.530Z"
 }
