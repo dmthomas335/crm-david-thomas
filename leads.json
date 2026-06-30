@@ -12056,7 +12056,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T19:33:52.256Z"
+    },
+    {
+      "id": "mr0ahvkmhfk6eujwn24",
+      "name": "Jurasic Clark",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GuA52YmNq/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-07",
+      "notes": "David T Page ",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-30T06:52:43.414Z"
     }
   ],
-  "lastUpdated": "2026-06-29T20:11:39.157Z"
+  "lastUpdated": "2026-06-30T06:52:43.414Z"
 }
