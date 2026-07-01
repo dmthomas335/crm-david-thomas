@@ -12615,7 +12615,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T19:17:59.368Z"
+    },
+    {
+      "id": "mr2jx9m96ufne0nbeef",
+      "name": "Jim Doering",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1aYaxaRxhw/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-08",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T20:52:10.353Z"
     }
   ],
-  "lastUpdated": "2026-07-01T19:17:59.368Z"
+  "lastUpdated": "2026-07-01T20:52:10.353Z"
 }
