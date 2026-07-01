@@ -9440,9 +9440,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-27",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": "2026-07-07",
       "notes": "Personal Joined as 2WT Joseph 670196",
-      "lastModified": "2026-06-27",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T08:13:50.170Z"
     },
@@ -12563,5 +12563,5 @@
       "addedAt": "2026-07-01T12:48:01.886Z"
     }
   ],
-  "lastUpdated": "2026-07-01T12:59:35.131Z"
+  "lastUpdated": "2026-07-01T13:00:18.468Z"
 }
