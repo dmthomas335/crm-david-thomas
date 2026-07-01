@@ -7090,14 +7090,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1B855ugL98/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-08",
       "notes": "Personal ",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:13:04.240Z"
     },
@@ -12347,5 +12347,5 @@
       "addedAt": "2026-06-30T12:45:30.310Z"
     }
   ],
-  "lastUpdated": "2026-06-30T12:49:22.305Z"
+  "lastUpdated": "2026-07-01T07:29:57.868Z"
 }
