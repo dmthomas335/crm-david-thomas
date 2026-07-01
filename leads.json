@@ -12453,7 +12453,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T10:54:06.544Z"
+    },
+    {
+      "id": "mr1ykr6c2cofd0xb0ij",
+      "name": "Brian Pruitt ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DpgdLxbv2/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T10:54:34.644Z"
     }
   ],
-  "lastUpdated": "2026-07-01T10:54:06.544Z"
+  "lastUpdated": "2026-07-01T10:54:34.644Z"
 }
