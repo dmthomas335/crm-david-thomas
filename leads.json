@@ -1253,9 +1253,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-01",
+      "nextFollowUp": "2026-07-10",
       "notes": "Signed Up / personal 2WT and now customer Ashley 514695",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:07:12.877Z",
       "videoSent": true,
@@ -12545,5 +12545,5 @@
       "addedAt": "2026-07-01T12:30:52.661Z"
     }
   ],
-  "lastUpdated": "2026-07-01T12:40:47.025Z"
+  "lastUpdated": "2026-07-01T12:41:09.954Z"
 }
