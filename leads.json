@@ -12471,7 +12471,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T10:54:34.644Z"
+    },
+    {
+      "id": "mr21cl5nnm4wcp9h32",
+      "name": "Verne Stremy ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/verne.stremy",
+      "source": "Facebook",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Joined as 2WT",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T12:12:12.443Z"
     }
   ],
-  "lastUpdated": "2026-07-01T12:11:24.194Z"
+  "lastUpdated": "2026-07-01T12:12:12.443Z"
 }
