@@ -12049,12 +12049,12 @@
       "source": "Facebook",
       "status": "2WT",
       "videoSent": true,
-      "temperature": "Warm",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-01",
-      "notes": "Personal ",
-      "lastModified": "2026-06-30",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-02",
+      "notes": "Personal Joined as 2WT ",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T07:17:37.230Z"
     },
@@ -12473,5 +12473,5 @@
       "addedAt": "2026-07-01T10:54:34.644Z"
     }
   ],
-  "lastUpdated": "2026-07-01T10:54:34.644Z"
+  "lastUpdated": "2026-07-01T12:11:24.194Z"
 }
