@@ -12597,7 +12597,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T15:59:06.889Z"
+    },
+    {
+      "id": "mr2gk5agxjy2a2kumkq",
+      "name": "Arthur Agayar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BaNsL181h/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-08",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-01T19:17:59.368Z"
     }
   ],
-  "lastUpdated": "2026-07-01T15:59:06.889Z"
+  "lastUpdated": "2026-07-01T19:17:59.368Z"
 }
