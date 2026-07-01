@@ -9060,11 +9060,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-01",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-08",
       "notes": "Personal ",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-01",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T13:00:29.291Z"
     },
@@ -12563,5 +12563,5 @@
       "addedAt": "2026-07-01T12:48:01.886Z"
     }
   ],
-  "lastUpdated": "2026-07-01T13:00:39.684Z"
+  "lastUpdated": "2026-07-01T13:00:56.684Z"
 }
