@@ -12669,7 +12669,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T11:13:04.086Z"
+    },
+    {
+      "id": "mr3eoyot7vystg8iml",
+      "name": "Paul Nalzaro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pakn0",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T11:13:31.037Z"
     }
   ],
-  "lastUpdated": "2026-07-02T11:13:04.086Z"
+  "lastUpdated": "2026-07-02T11:13:31.037Z"
 }
