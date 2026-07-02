@@ -9058,12 +9058,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1J7bZohPTA/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": "2026-07-09",
       "notes": "Personal ",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-06-14",
@@ -12726,5 +12726,5 @@
       "addedAt": "2026-07-02T11:14:33.357Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:44:16.093Z"
+  "lastUpdated": "2026-07-02T15:32:24.936Z"
 }
