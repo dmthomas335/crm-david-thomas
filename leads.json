@@ -12705,7 +12705,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T11:13:55.942Z"
+    },
+    {
+      "id": "mr3epuv2cqj8qncuje",
+      "name": "Albert Santos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/albert.santos.338",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-02",
+      "dateAdded": "2026-07-02",
+      "addedAt": "2026-07-02T11:14:12.734Z"
     }
   ],
-  "lastUpdated": "2026-07-02T11:13:55.942Z"
+  "lastUpdated": "2026-07-02T11:14:12.734Z"
 }
