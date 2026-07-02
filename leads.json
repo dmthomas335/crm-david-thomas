@@ -9980,10 +9980,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-27",
-      "nextFollowUp": "2026-07-02",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
       "notes": "Personal joined as 2WT Paul Johnson 544872",
-      "lastModified": "2026-06-27",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T07:35:33.911Z"
     },
@@ -12743,5 +12743,5 @@
       "addedAt": "2026-07-02T11:14:33.357Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:10:25.969Z"
+  "lastUpdated": "2026-07-02T14:18:02.326Z"
 }
