@@ -2565,16 +2565,17 @@
       "phone": "",
       "social": "https://www.facebook.com/saustinjr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-02",
-      "notes": "joined as 2WT / personal",
-      "lastModified": "2026-06-25",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-02",
+      "nextFollowUp": "2026-07-09",
+      "notes": "joined as 2WT / personal / Me 512419",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:43:32.787Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-07-02"
     },
     {
       "id": "mpjrsb1bspsnefgxm2g",
@@ -12725,5 +12726,5 @@
       "addedAt": "2026-07-02T11:14:33.357Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:31:48.918Z"
+  "lastUpdated": "2026-07-02T14:32:37.006Z"
 }
