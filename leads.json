@@ -7237,9 +7237,9 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": "2026-07-09",
       "notes": "Personal ",
       "lastModified": "2026-07-02",
       "dateAdded": "2026-06-07",
@@ -12725,5 +12725,5 @@
       "addedAt": "2026-07-02T11:14:33.357Z"
     }
   ],
-  "lastUpdated": "2026-07-02T14:25:58.851Z"
+  "lastUpdated": "2026-07-02T14:26:55.275Z"
 }
