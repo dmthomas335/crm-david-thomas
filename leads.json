@@ -6194,9 +6194,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": "2026-07-06",
       "notes": "David t page ",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:54:38.050Z"
     },
@@ -12852,5 +12852,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:32:01.409Z"
+  "lastUpdated": "2026-07-03T10:08:36.444Z"
 }
