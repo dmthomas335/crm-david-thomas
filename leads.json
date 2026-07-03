@@ -12760,7 +12760,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:22:22.834Z"
+    },
+    {
+      "id": "mr4q6kiktnjedlmdva",
+      "name": "William Holsclaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1d1fyrGxf2/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T09:22:54.428Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:22:22.835Z"
+  "lastUpdated": "2026-07-03T09:22:54.428Z"
 }
