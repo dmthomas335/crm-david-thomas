@@ -6351,14 +6351,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ashley.farrell.9235",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:47:13.829Z"
     },
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:39:20.436Z"
+  "lastUpdated": "2026-07-03T10:39:50.244Z"
 }
