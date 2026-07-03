@@ -9725,14 +9725,14 @@
       "phone": "",
       "social": "https://www.facebook.com/donnie.edison.287388",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:07:31.310Z"
     },
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:31:58.033Z"
+  "lastUpdated": "2026-07-03T10:32:16.873Z"
 }
