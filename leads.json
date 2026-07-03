@@ -5759,11 +5759,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-03",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-17",
       "notes": "personal",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:35:04.962Z"
     },
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:40:30.877Z"
+  "lastUpdated": "2026-07-03T10:40:57.277Z"
 }
