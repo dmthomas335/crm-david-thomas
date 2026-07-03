@@ -5666,14 +5666,14 @@
       "phone": "",
       "social": "https://www.facebook.com/barbara.damon.35",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:32:45.161Z"
     },
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:43:47.944Z"
+  "lastUpdated": "2026-07-03T10:44:01.479Z"
 }
