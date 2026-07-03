@@ -12832,7 +12832,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:24:16.130Z"
+    },
+    {
+      "id": "mr4qiakgj9lexu1wiqg",
+      "name": "Aaron Burroughs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DKrxxcCed/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal ",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:30:13.853Z"
+  "lastUpdated": "2026-07-03T09:32:01.409Z"
 }
