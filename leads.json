@@ -10512,24 +10512,6 @@
       "addedAt": "2026-06-22T11:11:25.354Z"
     },
     {
-      "id": "mqp488f6tgdd4cqgzcg",
-      "name": "Sekiya Johnson",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/sekiya.johnson",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-07-03",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-22",
-      "dateAdded": "2026-06-22",
-      "addedAt": "2026-06-22T11:11:47.874Z"
-    },
-    {
       "id": "mqp4etcm5hjwj4jcpd",
       "name": "Mike Spears",
       "email": "",
@@ -12853,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:26:57.622Z"
+  "lastUpdated": "2026-07-03T10:28:05.248Z"
 }
