@@ -11072,20 +11072,21 @@
     {
       "id": "mqt97tuiumvrpu0fmya",
       "name": "Sarah Jordan ",
-      "email": "",
+      "email": "purple_dreams734@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/share/1DqwWEkFp1/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-03",
-      "notes": "Personal ",
-      "lastModified": "2026-07-02",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal Joined Soriano 758693",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-25",
-      "addedAt": "2026-06-25T08:42:31.770Z"
+      "addedAt": "2026-06-25T08:42:31.770Z",
+      "customerSince": "2026-07-03"
     },
     {
       "id": "mqt9n4raethis182hf5",
@@ -12852,5 +12853,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:11:21.742Z"
+  "lastUpdated": "2026-07-03T10:13:40.558Z"
 }
