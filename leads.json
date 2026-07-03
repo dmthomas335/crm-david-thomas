@@ -12778,7 +12778,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:22:54.428Z"
+    },
+    {
+      "id": "mr4q787t8wev509ckcl",
+      "name": "Andre Ware ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19GkEGN2h1/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T09:23:25.145Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:22:54.428Z"
+  "lastUpdated": "2026-07-03T09:23:25.145Z"
 }
