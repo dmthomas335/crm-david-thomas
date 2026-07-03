@@ -9833,8 +9833,8 @@
       "phone": "",
       "social": "https://www.facebook.com/ian.kilpatrick.1297",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-03",
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T11:55:12.190Z"
+  "lastUpdated": "2026-07-03T12:01:33.464Z"
 }
