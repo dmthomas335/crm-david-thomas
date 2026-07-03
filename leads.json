@@ -517,13 +517,13 @@
       "phone": "",
       "social": "https://www.facebook.com/venus.zettlemoyer",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -12835,5 +12835,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:50:01.059Z"
+  "lastUpdated": "2026-07-03T10:50:26.923Z"
 }
