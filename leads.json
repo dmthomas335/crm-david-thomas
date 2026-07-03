@@ -2344,17 +2344,17 @@
     {
       "id": "mpjr6klmpkxheky1ngf",
       "name": "Justin Malakou",
-      "email": "",
+      "email": "jmalakou@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/justin.malakou.5",
       "source": "Facebook",
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-07-03",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-17",
       "notes": "Joined as customer 750439 Soriano",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:28:02.122Z",
       "customerSince": "2026-05-25",
@@ -12853,5 +12853,5 @@
       "addedAt": "2026-07-03T09:32:01.409Z"
     }
   ],
-  "lastUpdated": "2026-07-03T10:21:40.419Z"
+  "lastUpdated": "2026-07-03T10:22:10.571Z"
 }
