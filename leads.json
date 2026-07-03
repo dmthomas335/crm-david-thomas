@@ -12742,7 +12742,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:21:52.163Z"
+    },
+    {
+      "id": "mr4q5w4y81gm8ts5a6q",
+      "name": "Jody Tarantino",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17vNFCK7WG/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T09:22:22.834Z"
     }
   ],
-  "lastUpdated": "2026-07-03T09:21:52.163Z"
+  "lastUpdated": "2026-07-03T09:22:22.835Z"
 }
