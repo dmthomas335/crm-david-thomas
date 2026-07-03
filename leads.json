@@ -12724,7 +12724,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T11:14:33.357Z"
+    },
+    {
+      "id": "mr4q58gzzx7cle1qfdb",
+      "name": "Alin Berescu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19BySDNjER/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-03T09:21:52.163Z"
     }
   ],
-  "lastUpdated": "2026-07-02T18:21:23.729Z"
+  "lastUpdated": "2026-07-03T09:21:52.163Z"
 }
