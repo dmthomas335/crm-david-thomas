@@ -12869,7 +12869,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T13:45:10.473Z"
+    },
+    {
+      "id": "mr6f0g4m3qmlftt8ydg",
+      "name": "Steve Wood",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1F2TmUkwJd/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T13:45:45.382Z"
     }
   ],
-  "lastUpdated": "2026-07-04T13:45:10.473Z"
+  "lastUpdated": "2026-07-04T13:45:45.382Z"
 }
