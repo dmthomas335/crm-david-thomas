@@ -12923,7 +12923,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T13:46:59.853Z"
+    },
+    {
+      "id": "mr7s1wvj06e9vgbuase",
+      "name": "James Nosredna",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Bcf4tafAg/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-06",
+      "notes": "Personal ",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T12:38:34.927Z"
     }
   ],
-  "lastUpdated": "2026-07-05T12:28:22.239Z"
+  "lastUpdated": "2026-07-05T12:38:34.928Z"
 }
