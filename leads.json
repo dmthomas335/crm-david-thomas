@@ -13085,7 +13085,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:44:24.933Z"
+    },
+    {
+      "id": "mr7sa1mpkf45u5qy7e",
+      "name": "Don Quarell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DoPp3nURa/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T12:44:54.337Z"
     }
   ],
-  "lastUpdated": "2026-07-05T12:44:24.933Z"
+  "lastUpdated": "2026-07-05T12:44:54.337Z"
 }
