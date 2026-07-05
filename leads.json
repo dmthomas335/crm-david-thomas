@@ -10049,14 +10049,14 @@
       "phone": "",
       "social": "https://www.facebook.com/omar.villalon.35728",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "lastAction": "Follow-up 1",
       "lastContact": "2026-07-01",
       "nextFollowUp": "2026-07-08",
       "notes": "Personal ",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-05",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:18:11.286Z"
     },
@@ -13105,5 +13105,5 @@
       "addedAt": "2026-07-05T12:44:54.337Z"
     }
   ],
-  "lastUpdated": "2026-07-05T12:44:54.337Z"
+  "lastUpdated": "2026-07-05T12:45:52.235Z"
 }
