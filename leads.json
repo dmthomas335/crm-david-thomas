@@ -13031,7 +13031,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:42:09.795Z"
+    },
+    {
+      "id": "mr7s7qzfoty6r495rxd",
+      "name": "Michael Baudendistel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HCxYBRLWS/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T12:43:07.227Z"
     }
   ],
-  "lastUpdated": "2026-07-05T12:42:09.795Z"
+  "lastUpdated": "2026-07-05T12:43:07.227Z"
 }
