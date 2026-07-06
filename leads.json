@@ -5901,14 +5901,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sam.sheafer",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-06",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:49:55.240Z"
     },
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T13:46:14.598Z"
+  "lastUpdated": "2026-07-06T13:46:43.894Z"
 }
