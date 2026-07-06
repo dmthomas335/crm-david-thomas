@@ -9094,12 +9094,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GfLtrnGHu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-07-06",
       "dateAdded": "2026-06-14",
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:24:07.398Z"
+  "lastUpdated": "2026-07-06T19:49:01.339Z"
 }
