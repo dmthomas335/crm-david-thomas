@@ -13085,7 +13085,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:44:54.337Z"
+    },
+    {
+      "id": "mr94oe2e95603eualzv",
+      "name": "Marian Zajac",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EoyCbDNYV/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal ",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T11:19:45.206Z"
     }
   ],
-  "lastUpdated": "2026-07-06T11:17:49.163Z"
+  "lastUpdated": "2026-07-06T11:19:45.206Z"
 }
