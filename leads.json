@@ -12025,24 +12025,6 @@
       "addedAt": "2026-06-30T07:17:37.230Z"
     },
     {
-      "id": "mr0bgnhvabz1ok9qz9",
-      "name": "Daniel Lapointe",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/share/1A3XwEodan/?mibextid=wwXIfr",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Warm",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-08",
-      "notes": "Personal ",
-      "lastModified": "2026-06-30",
-      "dateAdded": "2026-06-30",
-      "addedAt": "2026-06-30T07:19:45.907Z"
-    },
-    {
       "id": "mr0jn3toqpcmojjfsxm",
       "name": "Shaun Prince",
       "email": "",
@@ -13105,5 +13087,5 @@
       "addedAt": "2026-07-05T12:44:54.337Z"
     }
   ],
-  "lastUpdated": "2026-07-05T12:45:52.235Z"
+  "lastUpdated": "2026-07-06T11:17:27.323Z"
 }
