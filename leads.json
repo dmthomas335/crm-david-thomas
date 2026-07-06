@@ -2170,10 +2170,10 @@
       "status": "Watched",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-07-06",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-13",
       "notes": "Personal ",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:39:11.507Z",
       "videoSent": false
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T14:05:29.820Z"
+  "lastUpdated": "2026-07-06T14:06:02.580Z"
 }
