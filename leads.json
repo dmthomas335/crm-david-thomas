@@ -13283,7 +13283,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:58:11.184Z"
+    },
+    {
+      "id": "mr96293vz65t2o458qp",
+      "name": "Patrick Mampasa",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/patrick.mampasa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T11:58:11.184Z"
+  "lastUpdated": "2026-07-06T11:58:31.579Z"
 }
