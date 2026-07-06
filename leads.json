@@ -9926,11 +9926,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-06",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-13",
       "notes": "Personal ",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T11:16:59.610Z"
     },
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T13:36:14.430Z"
+  "lastUpdated": "2026-07-06T13:36:31.046Z"
 }
