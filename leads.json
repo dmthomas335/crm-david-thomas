@@ -9094,12 +9094,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GfLtrnGHu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": "2026-07-13",
       "notes": "Personal ",
       "lastModified": "2026-07-06",
       "dateAdded": "2026-06-14",
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T14:06:37.301Z"
+  "lastUpdated": "2026-07-06T18:24:07.398Z"
 }
