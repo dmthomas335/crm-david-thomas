@@ -7978,11 +7978,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-06",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-08-05",
       "notes": "Personal ",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:15:22.044Z"
     },
@@ -13303,5 +13303,5 @@
       "addedAt": "2026-07-06T11:58:31.579Z"
     }
   ],
-  "lastUpdated": "2026-07-06T13:42:54.716Z"
+  "lastUpdated": "2026-07-06T13:43:27.493Z"
 }
