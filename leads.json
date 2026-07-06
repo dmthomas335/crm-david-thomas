@@ -13139,7 +13139,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:21:59.407Z"
+    },
+    {
+      "id": "mr94snx3b7gowu8263",
+      "name": "Liz Ruddy",
+      "email": "elizrud@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Email",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T11:23:04.599Z"
     }
   ],
-  "lastUpdated": "2026-07-06T11:21:59.407Z"
+  "lastUpdated": "2026-07-06T11:23:04.599Z"
 }
