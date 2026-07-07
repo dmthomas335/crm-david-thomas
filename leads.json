@@ -2984,10 +2984,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-08-12",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-08",
       "notes": "Message on discord",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z",
       "videoSent": false
@@ -13523,5 +13523,5 @@
       "addedAt": "2026-07-07T12:40:38.261Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:40:38.261Z"
+  "lastUpdated": "2026-07-07T12:41:12.588Z"
 }
