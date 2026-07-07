@@ -2840,8 +2840,8 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": null,
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-09",
       "notes": "Email Cam Cusick 530021",
       "lastModified": "2026-07-07",
       "dateAdded": "2026-05-25",
@@ -13376,5 +13376,5 @@
       "addedAt": "2026-07-07T07:10:26.514Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:12:15.114Z"
+  "lastUpdated": "2026-07-07T07:12:33.554Z"
 }
