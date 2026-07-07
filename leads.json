@@ -13319,7 +13319,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T07:07:46.512Z"
+    },
+    {
+      "id": "mrab6lnhrtv8wetxbus",
+      "name": "Norman Hurs",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T07:09:38.717Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:09:13.252Z"
+  "lastUpdated": "2026-07-07T07:09:38.717Z"
 }
