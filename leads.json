@@ -9023,14 +9023,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EDp27b9tH/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T12:59:55.277Z"
     },
@@ -13466,5 +13466,5 @@
       "addedAt": "2026-07-07T11:32:39.698Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:08:50.539Z"
+  "lastUpdated": "2026-07-07T12:09:01.731Z"
 }
