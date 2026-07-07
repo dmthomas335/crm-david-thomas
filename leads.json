@@ -7705,14 +7705,14 @@
       "phone": "",
       "social": "https://www.facebook.com/james.walton.58760608",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-07",
+      "lastAction": "Not Interested",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T10:58:33.939Z"
     },
@@ -13523,5 +13523,5 @@
       "addedAt": "2026-07-07T12:40:38.261Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:44:01.462Z"
+  "lastUpdated": "2026-07-07T12:44:32.750Z"
 }
