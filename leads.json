@@ -13521,7 +13521,25 @@
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:40:38.261Z"
+    },
+    {
+      "id": "mraosm5suq28fhlf9s",
+      "name": "Hrafnkell Elisson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hrafnkell.elisson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal ",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T13:30:40.816Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:47:50.479Z"
+  "lastUpdated": "2026-07-07T13:30:40.816Z"
 }
