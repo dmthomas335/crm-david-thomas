@@ -13337,7 +13337,43 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T07:09:38.717Z"
+    },
+    {
+      "id": "mrab6ls0jct4cr0myt",
+      "name": "Norman Hurs",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T07:09:38.880Z"
+    },
+    {
+      "id": "mrab7mj6xifqytsd0le",
+      "name": "Norman Hudson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18VRpHavyn/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-07",
+      "notes": "Personal ",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T07:10:26.514Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:09:38.717Z"
+  "lastUpdated": "2026-07-07T07:10:26.514Z"
 }
