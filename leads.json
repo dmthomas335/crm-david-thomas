@@ -10991,10 +10991,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-07",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
       "notes": "Personal joined as 2WT Joseph 511108",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T11:35:56.704Z"
     },
@@ -13466,5 +13466,5 @@
       "addedAt": "2026-07-07T11:32:39.698Z"
     }
   ],
-  "lastUpdated": "2026-07-07T12:08:16.331Z"
+  "lastUpdated": "2026-07-07T12:08:22.484Z"
 }
