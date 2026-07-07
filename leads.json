@@ -6645,9 +6645,9 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": "2026-07-17",
       "notes": "personal Joined 757680 Me",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:00.882Z",
       "customerSince": "2026-06-26"
@@ -13466,5 +13466,5 @@
       "addedAt": "2026-07-07T11:32:39.698Z"
     }
   ],
-  "lastUpdated": "2026-07-07T11:47:28.408Z"
+  "lastUpdated": "2026-07-07T11:47:44.489Z"
 }
