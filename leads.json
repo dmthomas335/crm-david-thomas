@@ -9274,14 +9274,14 @@
       "phone": "",
       "social": "https://www.facebook.com/perry.a.taylor.9",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-10",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
       "notes": "Personal ",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:11:13.309Z"
     },
@@ -13321,5 +13321,5 @@
       "addedAt": "2026-07-07T07:07:46.512Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:08:05.632Z"
+  "lastUpdated": "2026-07-07T07:08:30.046Z"
 }
