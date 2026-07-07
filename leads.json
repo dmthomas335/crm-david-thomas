@@ -8338,14 +8338,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Lbg1P3sFs/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-06",
       "nextFollowUp": "2026-07-20",
       "notes": "Personal ",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:48:58.102Z"
     },
@@ -13412,5 +13412,5 @@
       "addedAt": "2026-07-07T07:15:41.257Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:15:41.258Z"
+  "lastUpdated": "2026-07-07T10:33:46.108Z"
 }
