@@ -13369,7 +13369,7 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
       "notes": "Personal ",
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
@@ -13466,5 +13466,5 @@
       "addedAt": "2026-07-07T11:32:39.698Z"
     }
   ],
-  "lastUpdated": "2026-07-07T11:47:50.465Z"
+  "lastUpdated": "2026-07-07T11:51:22.083Z"
 }
