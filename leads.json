@@ -13301,7 +13301,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:58:31.579Z"
+    },
+    {
+      "id": "mrab472ob7ete29ixa8",
+      "name": "Roger Ruiz ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1C4vJ4F72S/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal ",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T07:07:46.512Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:49:01.339Z"
+  "lastUpdated": "2026-07-07T07:07:46.512Z"
 }
