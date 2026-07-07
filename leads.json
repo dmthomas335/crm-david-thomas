@@ -13410,7 +13410,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T07:15:41.257Z"
+    },
+    {
+      "id": "mrakjveaoxv3dxigb8j",
+      "name": "Jimmie Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jimmie.williams.80527",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-07",
+      "dateAdded": "2026-07-07",
+      "addedAt": "2026-07-07T11:31:54.418Z"
     }
   ],
-  "lastUpdated": "2026-07-07T10:34:00.466Z"
+  "lastUpdated": "2026-07-07T11:31:54.419Z"
 }
