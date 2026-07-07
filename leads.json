@@ -7290,14 +7290,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14c5EhZdRwi/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "2WT",
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-20",
-      "notes": "Personal ",
-      "lastModified": "2026-07-06",
+      "lastContact": "2026-07-07",
+      "nextFollowUp": "2026-07-08",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:26:55.490Z"
     },
@@ -13394,5 +13394,5 @@
       "addedAt": "2026-07-07T07:13:40.603Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:13:40.603Z"
+  "lastUpdated": "2026-07-07T07:14:46.370Z"
 }
