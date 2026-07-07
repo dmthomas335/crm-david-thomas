@@ -2833,20 +2833,21 @@
     {
       "id": "mpl6b68uha22y68hira",
       "name": "Rodrick Walker",
-      "email": "",
+      "email": "supremedetailing.rw@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/rodrick.walkert",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Not Interested",
+      "lastAction": "Closed",
       "lastContact": "2026-06-22",
       "nextFollowUp": null,
-      "notes": "Email ",
-      "lastModified": "2026-06-23",
+      "notes": "Email Cam Cusick 530021",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:19:17.214Z",
-      "videoSent": false
+      "videoSent": true,
+      "customerSince": "2026-07-07"
     },
     {
       "id": "mpl790l7g8kg469148e",
@@ -13375,5 +13376,5 @@
       "addedAt": "2026-07-07T07:10:26.514Z"
     }
   ],
-  "lastUpdated": "2026-07-07T07:10:26.514Z"
+  "lastUpdated": "2026-07-07T07:12:15.114Z"
 }
