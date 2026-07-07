@@ -12032,8 +12032,8 @@
       "phone": "",
       "social": "https://www.facebook.com/shaun.prince.33",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-07",
@@ -13541,5 +13541,5 @@
       "addedAt": "2026-07-07T13:30:40.816Z"
     }
   ],
-  "lastUpdated": "2026-07-07T14:48:19.566Z"
+  "lastUpdated": "2026-07-07T15:30:16.645Z"
 }
