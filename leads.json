@@ -9152,11 +9152,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-08",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal ",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:08:14.165Z"
     },
@@ -13668,5 +13668,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T11:48:42.129Z"
+  "lastUpdated": "2026-07-08T11:49:15.209Z"
 }
