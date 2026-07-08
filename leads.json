@@ -264,8 +264,8 @@
       "status": "Customer",
       "temperature": "Warm",
       "lastAction": "Closed",
-      "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-07-08",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal cancelled 513713 Stacy ",
       "lastModified": "2026-07-08",
       "dateAdded": "2026-05-18",
@@ -13650,5 +13650,5 @@
       "addedAt": "2026-07-08T10:57:50.024Z"
     }
   ],
-  "lastUpdated": "2026-07-08T11:25:07.325Z"
+  "lastUpdated": "2026-07-08T11:25:16.165Z"
 }
