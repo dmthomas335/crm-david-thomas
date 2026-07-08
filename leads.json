@@ -10736,12 +10736,12 @@
       "social": "https://www.facebook.com/share/19CpmRQEgj/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "2WT",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-09",
-      "notes": "Personal ",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal Joined as 2WT",
       "lastModified": "2026-07-08",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T07:25:25.280Z"
@@ -13668,5 +13668,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T11:51:51.235Z"
+  "lastUpdated": "2026-07-08T11:52:09.075Z"
 }
