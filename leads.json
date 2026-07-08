@@ -9401,14 +9401,14 @@
       "phone": "",
       "social": "https://www.facebook.com/scott.ross.9275439",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-08-05",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-09",
       "notes": "Personal ",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:34:05.728Z"
     },
@@ -13559,5 +13559,5 @@
       "addedAt": "2026-07-08T07:18:24.914Z"
     }
   ],
-  "lastUpdated": "2026-07-08T07:18:24.914Z"
+  "lastUpdated": "2026-07-08T07:19:38.405Z"
 }
