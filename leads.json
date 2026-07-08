@@ -1289,10 +1289,10 @@
       "status": "Prospect",
       "temperature": "Warm",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-08",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-08-19",
       "notes": "personal send price action vid",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:25:43.797Z",
       "videoSent": false
@@ -13651,5 +13651,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T12:27:49.702Z"
+  "lastUpdated": "2026-07-08T12:28:06.070Z"
 }
