@@ -1641,24 +1641,6 @@
       "videoSent": false
     },
     {
-      "id": "mpgtiw35xwq9yo3lba",
-      "name": "Leonard Floyd",
-      "email": "",
-      "phone": "",
-      "social": "https://www.instagram.com/floyd_bizpro/",
-      "source": "Instagram",
-      "status": "2WT",
-      "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-08",
-      "notes": "IG / joined as 2WT",
-      "lastModified": "2026-06-24",
-      "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-22T11:10:17.585Z",
-      "videoSent": true
-    },
-    {
       "id": "mpgtjr95bnc7kw473p7",
       "name": "Tom Chamberlain",
       "email": "",
@@ -13669,5 +13651,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T12:14:24.998Z"
+  "lastUpdated": "2026-07-08T12:14:32.910Z"
 }
