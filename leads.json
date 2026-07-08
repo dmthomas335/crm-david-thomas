@@ -8861,12 +8861,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18qXhZt2jM/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": "2026-07-15",
       "notes": "Personal ",
       "lastModified": "2026-07-08",
       "dateAdded": "2026-06-13",
@@ -13668,5 +13668,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T11:51:36.107Z"
+  "lastUpdated": "2026-07-08T11:51:51.235Z"
 }
