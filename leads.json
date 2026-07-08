@@ -13539,7 +13539,25 @@
       "lastModified": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T13:30:40.816Z"
+    },
+    {
+      "id": "mrbqxqc2r2ei4mql8a8",
+      "name": "BO Raul",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1B7X7YdmR8/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-10",
+      "notes": "Personal ",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T07:18:24.914Z"
     }
   ],
-  "lastUpdated": "2026-07-08T07:14:21.753Z"
+  "lastUpdated": "2026-07-08T07:18:24.914Z"
 }
