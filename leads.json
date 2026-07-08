@@ -8410,16 +8410,17 @@
       "phone": "",
       "social": "https://www.facebook.com/johnhealyireland",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-08",
-      "notes": "Personal ",
-      "lastModified": "2026-06-24",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-29",
+      "notes": "Personal 2WT 520349 Brucey",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-11",
-      "addedAt": "2026-06-11T13:33:11.113Z"
+      "addedAt": "2026-06-11T13:33:11.113Z",
+      "customerSince": "2026-07-08"
     },
     {
       "id": "mq9ycl5wn0j4xw2w5gn",
@@ -13668,5 +13669,5 @@
       "addedAt": "2026-07-08T11:26:23.390Z"
     }
   ],
-  "lastUpdated": "2026-07-08T11:52:09.075Z"
+  "lastUpdated": "2026-07-08T11:53:24.811Z"
 }
