@@ -13479,10 +13479,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Closed",
-      "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-09",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-08-10",
       "notes": "MAM 760262",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-09",
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:38:12.371Z"
@@ -13778,5 +13778,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:12:05.700Z"
+  "lastUpdated": "2026-07-09T12:12:55.724Z"
 }
