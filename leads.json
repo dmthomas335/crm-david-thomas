@@ -12046,24 +12046,6 @@
       "addedAt": "2026-06-30T11:09:10.123Z"
     },
     {
-      "id": "mr0jo2u5any7ci8lu6l",
-      "name": "Ben Summers",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/ben.summers.1401",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-09",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-06-30",
-      "dateAdded": "2026-06-30",
-      "addedAt": "2026-06-30T11:09:29.309Z"
-    },
-    {
       "id": "mr0jojtxuqfjwekqmln",
       "name": "Bradley Allanach",
       "email": "",
@@ -13778,5 +13760,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:26:32.996Z"
+  "lastUpdated": "2026-07-09T12:27:34.972Z"
 }
