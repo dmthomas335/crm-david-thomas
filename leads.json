@@ -11188,8 +11188,8 @@
       "phone": "",
       "social": "https://www.facebook.com/lloyd.craft.1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-09",
@@ -13760,5 +13760,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:43:50.431Z"
+  "lastUpdated": "2026-07-09T12:45:06.694Z"
 }
