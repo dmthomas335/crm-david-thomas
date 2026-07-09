@@ -13740,7 +13740,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T11:48:36.601Z"
+    },
+    {
+      "id": "mrdg1gsqmlcymzu69s",
+      "name": "Ashley Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ashley.collins.980957",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T11:48:55.754Z"
     }
   ],
-  "lastUpdated": "2026-07-09T11:48:36.601Z"
+  "lastUpdated": "2026-07-09T11:48:55.754Z"
 }
