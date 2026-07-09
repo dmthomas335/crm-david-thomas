@@ -2386,13 +2386,13 @@
       "phone": "",
       "social": "https://www.facebook.com/pedro.cazares.7140",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": "2026-08-20",
       "notes": "personal",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:36:38.871Z",
       "videoSent": false
@@ -13760,5 +13760,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:48:02.585Z"
+  "lastUpdated": "2026-07-09T12:48:35.342Z"
 }
