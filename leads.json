@@ -7674,9 +7674,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-06-27",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": "2026-07-30",
       "notes": "Dave T Page Joined Ashley 757720",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T08:09:00.343Z",
       "customerSince": "2026-06-26"
@@ -13778,5 +13778,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:12:55.724Z"
+  "lastUpdated": "2026-07-09T12:13:28.805Z"
 }
