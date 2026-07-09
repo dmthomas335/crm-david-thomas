@@ -6231,10 +6231,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-07-09",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-23",
       "notes": "Dave t page ",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:59:05.734Z"
     },
@@ -13778,5 +13778,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:23:59.075Z"
+  "lastUpdated": "2026-07-09T12:24:32.618Z"
 }
