@@ -8866,11 +8866,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-23",
       "notes": "Personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:42:26.441Z"
     },
@@ -13760,5 +13760,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:42:07.658Z"
+  "lastUpdated": "2026-07-09T12:42:22.234Z"
 }
