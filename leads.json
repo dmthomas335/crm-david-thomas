@@ -10470,11 +10470,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
       "notes": "Personal",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:11:04.179Z"
     },
@@ -13760,5 +13760,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:37:37.748Z"
+  "lastUpdated": "2026-07-09T12:37:49.729Z"
 }
