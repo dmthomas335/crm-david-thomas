@@ -13668,7 +13668,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T07:18:45.864Z"
+    },
+    {
+      "id": "mrd6j54xyv491a9mlv",
+      "name": "David Davis ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/17H5XTqT74/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-09",
+      "nextFollowUp": "2026-07-16",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-09",
+      "dateAdded": "2026-07-09",
+      "addedAt": "2026-07-09T07:22:44.289Z"
     }
   ],
-  "lastUpdated": "2026-07-09T07:20:16.477Z"
+  "lastUpdated": "2026-07-09T07:22:44.290Z"
 }
