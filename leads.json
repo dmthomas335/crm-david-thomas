@@ -5560,14 +5560,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GhMg8qfip/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "Dave t and personal ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-09",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T08:00:54.341Z"
     },
@@ -13778,5 +13778,5 @@
       "addedAt": "2026-07-09T11:49:19.826Z"
     }
   ],
-  "lastUpdated": "2026-07-09T12:24:32.618Z"
+  "lastUpdated": "2026-07-09T12:24:46.450Z"
 }
