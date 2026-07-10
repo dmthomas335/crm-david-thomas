@@ -2967,10 +2967,10 @@
       "status": "2WT",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-10",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
       "notes": "Message on discord Joined as 2WT",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z",
       "videoSent": true
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:51:28.653Z"
+  "lastUpdated": "2026-07-10T12:51:51.524Z"
 }
