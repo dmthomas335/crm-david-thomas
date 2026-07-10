@@ -8070,11 +8070,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Warm",
-      "lastAction": "Initial Contact",
+      "lastAction": "Nurture",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": "2026-09-29",
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:57:42.010Z"
     },
@@ -13868,5 +13868,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:43:48.216Z"
+  "lastUpdated": "2026-07-10T12:43:59.360Z"
 }
