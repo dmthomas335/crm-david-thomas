@@ -13830,7 +13830,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T11:35:19.005Z"
+    },
+    {
+      "id": "mrev08suppaxbwqo9vb",
+      "name": "Jamell Givens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamell.givens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T11:35:39.150Z"
     }
   ],
-  "lastUpdated": "2026-07-10T11:35:19.005Z"
+  "lastUpdated": "2026-07-10T11:35:39.150Z"
 }
