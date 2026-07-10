@@ -13758,7 +13758,25 @@
       "lastModified": "2026-07-09",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T11:49:19.826Z"
+    },
+    {
+      "id": "mreuy1r9xdln6re1zhe",
+      "name": "Edwin Holtz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/UnAshamedRo116",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T11:33:56.709Z"
     }
   ],
-  "lastUpdated": "2026-07-10T07:20:41.749Z"
+  "lastUpdated": "2026-07-10T11:33:56.710Z"
 }
