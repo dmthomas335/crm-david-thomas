@@ -8375,14 +8375,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006591937589",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T13:25:22.350Z"
     },
@@ -13868,5 +13868,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:40:42.638Z"
+  "lastUpdated": "2026-07-10T12:40:49.758Z"
 }
