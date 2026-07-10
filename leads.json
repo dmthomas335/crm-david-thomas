@@ -13776,7 +13776,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T11:33:56.709Z"
+    },
+    {
+      "id": "mreuyh9pb9hnk3688r7",
+      "name": "Sulma Diaz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sulma.diaz.520",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T11:34:16.813Z"
     }
   ],
-  "lastUpdated": "2026-07-10T11:33:56.710Z"
+  "lastUpdated": "2026-07-10T11:34:16.813Z"
 }
