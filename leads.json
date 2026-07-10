@@ -13794,7 +13794,25 @@
       "lastModified": "2026-07-10",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T11:34:16.813Z"
+    },
+    {
+      "id": "mreuz1ytxfl105sp6c",
+      "name": "Daniel Viviers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniil.viviers.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-10",
+      "dateAdded": "2026-07-10",
+      "addedAt": "2026-07-10T11:34:43.637Z"
     }
   ],
-  "lastUpdated": "2026-07-10T11:34:16.813Z"
+  "lastUpdated": "2026-07-10T11:34:43.637Z"
 }
