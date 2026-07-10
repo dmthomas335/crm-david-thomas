@@ -4189,14 +4189,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BULTVxwyU/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:22:06.945Z"
     },
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:48:38.547Z"
+  "lastUpdated": "2026-07-10T12:49:07.435Z"
 }
