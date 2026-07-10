@@ -1898,13 +1898,13 @@
       "phone": "",
       "social": "https://www.facebook.com/brandon.tucker.560",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:45:50.326Z",
       "videoSent": false
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:53:00.789Z"
+  "lastUpdated": "2026-07-10T12:53:24.902Z"
 }
