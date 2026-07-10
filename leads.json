@@ -1542,10 +1542,10 @@
       "status": "Nurture",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-07-10",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
       "notes": "TG DLB",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:58:59.753Z",
       "videoSent": false
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:54:24.637Z"
+  "lastUpdated": "2026-07-10T12:54:45.838Z"
 }
