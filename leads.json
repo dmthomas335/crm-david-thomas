@@ -3541,13 +3541,13 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.till.180",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-08-26",
       "notes": "personal",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:17:56.968Z",
       "videoSent": true
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:50:13.803Z"
+  "lastUpdated": "2026-07-10T12:50:35.420Z"
 }
