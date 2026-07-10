@@ -8935,8 +8935,8 @@
       "phone": "",
       "social": "https://www.facebook.com/demetri.rankins",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-10",
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T13:00:49.673Z"
+  "lastUpdated": "2026-07-10T13:02:07.625Z"
 }
