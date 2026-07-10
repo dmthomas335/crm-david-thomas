@@ -734,13 +734,13 @@
       "phone": "",
       "social": "https://www.facebook.com/Heal.Ron",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "Sent trading vid",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -13850,5 +13850,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:59:45.856Z"
+  "lastUpdated": "2026-07-10T13:00:24.848Z"
 }
