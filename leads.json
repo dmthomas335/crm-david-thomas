@@ -1094,10 +1094,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-10",
+      "lastContact": "2026-07-10",
+      "nextFollowUp": "2026-07-17",
       "notes": "Personal ",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-10",
       "dateAdded": "2026-05-20",
       "videoSent": true,
       "customerSince": "2026-05-28"
@@ -13868,5 +13868,5 @@
       "addedAt": "2026-07-10T11:35:58.143Z"
     }
   ],
-  "lastUpdated": "2026-07-10T12:04:10.580Z"
+  "lastUpdated": "2026-07-10T12:04:20.387Z"
 }
