@@ -13956,7 +13956,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:25:11.581Z"
+    },
+    {
+      "id": "mrg7y6s1eobyq36fdnu",
+      "name": "Nick Smith ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1Hb4myFddv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T10:25:44.401Z"
     }
   ],
-  "lastUpdated": "2026-07-11T10:25:11.581Z"
+  "lastUpdated": "2026-07-11T10:25:44.401Z"
 }
