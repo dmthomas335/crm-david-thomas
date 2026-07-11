@@ -13866,7 +13866,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T09:37:20.903Z"
+    },
+    {
+      "id": "mrg7a1qdfiltcfd3qkr",
+      "name": "Chris King ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HMSYGaWER/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Hot",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal ",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T10:06:58.117Z"
     }
   ],
-  "lastUpdated": "2026-07-11T09:41:18.066Z"
+  "lastUpdated": "2026-07-11T10:06:58.118Z"
 }
