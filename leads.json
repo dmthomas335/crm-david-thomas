@@ -13902,7 +13902,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:23:47.460Z"
+    },
+    {
+      "id": "mrg7wch28bfubp7efxo",
+      "name": "Samuel King ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1JFrDCCY9g/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T10:24:18.470Z"
     }
   ],
-  "lastUpdated": "2026-07-11T10:23:47.460Z"
+  "lastUpdated": "2026-07-11T10:24:18.470Z"
 }
