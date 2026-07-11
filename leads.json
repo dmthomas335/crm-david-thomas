@@ -13884,7 +13884,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:06:58.117Z"
+    },
+    {
+      "id": "mrg7vojol8ungx0coim",
+      "name": "Larry Planck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DCMQGqCK9/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-11",
+      "nextFollowUp": "2026-07-16",
+      "notes": "Personal ",
+      "lastModified": "2026-07-11",
+      "dateAdded": "2026-07-11",
+      "addedAt": "2026-07-11T10:23:47.460Z"
     }
   ],
-  "lastUpdated": "2026-07-11T10:06:58.118Z"
+  "lastUpdated": "2026-07-11T10:23:47.460Z"
 }
