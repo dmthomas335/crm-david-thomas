@@ -13974,7 +13974,25 @@
       "lastModified": "2026-07-11",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:25:44.401Z"
+    },
+    {
+      "id": "mrhpy9tlyu7pmlhzk7",
+      "name": "Joshua Essery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GuBECx4Yv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-12",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-12",
+      "dateAdded": "2026-07-12",
+      "addedAt": "2026-07-12T11:37:27.609Z"
     }
   ],
-  "lastUpdated": "2026-07-11T10:25:44.401Z"
+  "lastUpdated": "2026-07-12T11:37:27.609Z"
 }
