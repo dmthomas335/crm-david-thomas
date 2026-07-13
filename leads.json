@@ -6569,14 +6569,14 @@
       "phone": "",
       "social": "https://www.facebook.com/julian.johnson.336",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:43:13.723Z"
     },
@@ -14120,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:52:05.343Z"
+  "lastUpdated": "2026-07-13T12:52:25.719Z"
 }
