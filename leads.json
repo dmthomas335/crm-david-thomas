@@ -5650,14 +5650,14 @@
       "phone": "",
       "social": "https://www.facebook.com/derek.james.5667",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:33:09.937Z"
     },
@@ -14120,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:55:19.345Z"
+  "lastUpdated": "2026-07-13T12:55:37.617Z"
 }
