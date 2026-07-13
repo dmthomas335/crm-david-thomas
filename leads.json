@@ -4243,14 +4243,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Bn9nv3Zhf/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:25:24.309Z"
     },
@@ -14120,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:59:07.652Z"
+  "lastUpdated": "2026-07-13T12:59:20.596Z"
 }
