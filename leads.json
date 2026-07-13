@@ -2494,13 +2494,13 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.yao.39589",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:39:41.299Z",
       "videoSent": true
@@ -14120,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T13:01:20.965Z"
+  "lastUpdated": "2026-07-13T13:01:45.509Z"
 }
