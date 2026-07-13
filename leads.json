@@ -4315,14 +4315,14 @@
       "phone": "",
       "social": "https://www.facebook.com/diego.a.salcedo.33",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:15:03.021Z"
     },
@@ -14120,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:58:24.724Z"
+  "lastUpdated": "2026-07-13T12:59:07.652Z"
 }
