@@ -6750,12 +6750,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18dHrHjhud/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "David t page ",
       "lastModified": "2026-07-13",
       "dateAdded": "2026-06-06",
@@ -14138,5 +14138,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:31:11.634Z"
+  "lastUpdated": "2026-07-13T12:31:28.587Z"
 }
