@@ -7941,14 +7941,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vincent.coney.9",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "2WT",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-15",
-      "notes": "Personal ",
-      "lastModified": "2026-07-08",
+      "nextFollowUp": "2026-07-13",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:15:22.044Z"
     },
@@ -14030,5 +14030,5 @@
       "addedAt": "2026-07-12T11:38:22.944Z"
     }
   ],
-  "lastUpdated": "2026-07-12T11:38:22.944Z"
+  "lastUpdated": "2026-07-13T07:24:07.586Z"
 }
