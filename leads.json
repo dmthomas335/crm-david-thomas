@@ -14046,7 +14046,25 @@
       "lastModified": "2026-07-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T07:25:03.295Z"
+    },
+    {
+      "id": "mrj4n22m8doflnv4222",
+      "name": "Chris Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.allen.1029770",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-13",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-13",
+      "dateAdded": "2026-07-13",
+      "addedAt": "2026-07-13T11:16:24.766Z"
     }
   ],
-  "lastUpdated": "2026-07-13T07:25:03.295Z"
+  "lastUpdated": "2026-07-13T11:16:24.766Z"
 }
