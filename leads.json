@@ -6618,24 +6618,6 @@
       "customerSince": "2026-06-26"
     },
     {
-      "id": "mq0uwrpml8qpes3cj9q",
-      "name": "Shaun Alderman",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/shaun.alderman.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
-      "notes": "personal ",
-      "lastModified": "2026-06-29",
-      "dateAdded": "2026-06-05",
-      "addedAt": "2026-06-05T11:44:28.234Z"
-    },
-    {
       "id": "mq0ux8k4q8qupvifah",
       "name": "Josie French",
       "email": "",
@@ -14138,5 +14120,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:51:38.007Z"
+  "lastUpdated": "2026-07-13T12:52:05.343Z"
 }
