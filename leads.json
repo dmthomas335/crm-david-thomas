@@ -6967,14 +6967,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14dPBNMqokx/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-13",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:58:41.032Z"
     },
@@ -14138,5 +14138,5 @@
       "addedAt": "2026-07-13T12:02:58.256Z"
     }
   ],
-  "lastUpdated": "2026-07-13T12:49:08.790Z"
+  "lastUpdated": "2026-07-13T12:49:32.542Z"
 }
