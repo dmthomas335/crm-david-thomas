@@ -14244,7 +14244,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:03:52.529Z"
+    },
+    {
+      "id": "mrkjn7vudfxmvd9b1eg",
+      "name": "Marcos Salinas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marcos.salinas.520",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T11:04:12.714Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:03:52.529Z"
+  "lastUpdated": "2026-07-14T11:04:12.714Z"
 }
