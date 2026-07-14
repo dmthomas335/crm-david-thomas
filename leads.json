@@ -11404,14 +11404,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cliff.allen.956657",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-13",
       "nextFollowUp": "2026-07-20",
       "notes": "Personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:25:37.778Z"
     },
@@ -14156,5 +14156,5 @@
       "addedAt": "2026-07-14T07:16:18.304Z"
     }
   ],
-  "lastUpdated": "2026-07-14T07:26:17.497Z"
+  "lastUpdated": "2026-07-14T07:27:38.502Z"
 }
