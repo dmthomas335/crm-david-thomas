@@ -1340,13 +1340,13 @@
       "phone": "",
       "social": "https://www.facebook.com/mattyclemo",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:28:33.335Z",
       "videoSent": true
@@ -14265,5 +14265,5 @@
       "addedAt": "2026-07-14T11:04:12.714Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:48:22.866Z"
+  "lastUpdated": "2026-07-14T11:48:48.388Z"
 }
