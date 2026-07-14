@@ -4045,16 +4045,17 @@
       "phone": "",
       "social": "https://www.facebook.com/phil.webb.5895",
       "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
+      "status": "Customer",
+      "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-14",
-      "notes": "personal",
-      "lastModified": "2026-06-30",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-21",
+      "notes": "personal Joined 527600 Valeria Rodriguez Marquez",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-05-28",
-      "addedAt": "2026-05-28T11:27:09.802Z"
+      "addedAt": "2026-05-28T11:27:09.802Z",
+      "customerSince": "2026-07-14"
     },
     {
       "id": "mppes9l6px7hvi15gi",
@@ -14264,5 +14265,5 @@
       "addedAt": "2026-07-14T11:04:12.714Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:44:12.615Z"
+  "lastUpdated": "2026-07-14T11:45:18.788Z"
 }
