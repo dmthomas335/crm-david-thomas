@@ -1705,9 +1705,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": "2026-09-17",
       "notes": "Sent trading vid personal ",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:16:05.941Z",
       "videoSent": true
@@ -14265,5 +14265,5 @@
       "addedAt": "2026-07-14T11:04:12.714Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:48:03.304Z"
+  "lastUpdated": "2026-07-14T11:48:22.866Z"
 }
