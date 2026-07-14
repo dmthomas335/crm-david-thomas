@@ -2440,13 +2440,13 @@
       "phone": "",
       "social": "https://www.facebook.com/gerald.prophet",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-14",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:38:03.539Z",
       "videoSent": false
@@ -14265,5 +14265,5 @@
       "addedAt": "2026-07-14T11:04:12.714Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:47:21.822Z"
+  "lastUpdated": "2026-07-14T11:47:30.506Z"
 }
