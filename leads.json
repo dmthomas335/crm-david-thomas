@@ -13096,14 +13096,14 @@
       "phone": "",
       "social": "https://www.facebook.com/douglas.siebers",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-13",
       "nextFollowUp": "2026-07-20",
       "notes": "Personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:56:01.688Z"
     },
@@ -14156,5 +14156,5 @@
       "addedAt": "2026-07-14T07:16:18.304Z"
     }
   ],
-  "lastUpdated": "2026-07-14T07:24:19.291Z"
+  "lastUpdated": "2026-07-14T07:24:36.306Z"
 }
