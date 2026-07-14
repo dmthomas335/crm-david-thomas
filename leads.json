@@ -14208,7 +14208,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:03:07.306Z"
+    },
+    {
+      "id": "mrkjmaj53gsycquewk9",
+      "name": "A Biak Chan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/a.biak.chan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T11:03:29.489Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:03:07.306Z"
+  "lastUpdated": "2026-07-14T11:03:29.489Z"
 }
