@@ -14190,7 +14190,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:02:44.942Z"
+    },
+    {
+      "id": "mrkjltey037l8iptv1ui",
+      "name": "Robert Sinegal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089851317348",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-14",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-14",
+      "dateAdded": "2026-07-14",
+      "addedAt": "2026-07-14T11:03:07.306Z"
     }
   ],
-  "lastUpdated": "2026-07-14T11:02:44.943Z"
+  "lastUpdated": "2026-07-14T11:03:07.306Z"
 }
