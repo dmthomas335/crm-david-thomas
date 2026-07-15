@@ -14263,7 +14263,25 @@
       "lastModified": "2026-07-14",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:04:12.714Z"
+    },
+    {
+      "id": "mrlr0at49fmyo4el7aj",
+      "name": "Tina Trammel Hively",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/175gWoPcM6/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-21",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T07:18:06.520Z"
     }
   ],
-  "lastUpdated": "2026-07-14T14:54:44.485Z"
+  "lastUpdated": "2026-07-15T07:18:06.520Z"
 }
