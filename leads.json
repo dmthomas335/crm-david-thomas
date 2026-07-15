@@ -13134,8 +13134,8 @@
       "phone": "",
       "social": "https://www.facebook.com/tanlaurel",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-15",
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T12:04:20.988Z"
+  "lastUpdated": "2026-07-15T12:04:50.995Z"
 }
