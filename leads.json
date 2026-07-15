@@ -12489,11 +12489,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-15",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-29",
       "notes": "David T Page ",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T19:17:59.368Z"
     },
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T11:45:09.463Z"
+  "lastUpdated": "2026-07-15T11:45:31.880Z"
 }
