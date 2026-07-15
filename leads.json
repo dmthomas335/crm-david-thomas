@@ -1665,13 +1665,13 @@
       "phone": "",
       "social": "https://www.facebook.com/carol.kagesh",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "joined personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:11:51.778Z",
       "videoSent": false
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T12:30:27.209Z"
+  "lastUpdated": "2026-07-15T12:30:59.018Z"
 }
