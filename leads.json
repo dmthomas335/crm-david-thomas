@@ -14354,7 +14354,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:18:34.762Z"
+    },
+    {
+      "id": "mrlzm277mx7zd6k8dm7",
+      "name": "Andre Fletcher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andre.fletcher.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-15",
+      "dateAdded": "2026-07-15",
+      "addedAt": "2026-07-15T11:18:58.723Z"
     }
   ],
-  "lastUpdated": "2026-07-15T11:18:34.762Z"
+  "lastUpdated": "2026-07-15T11:18:58.723Z"
 }
