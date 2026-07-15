@@ -13408,10 +13408,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-15",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-22",
       "notes": "Email Me 760066",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-15",
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:34:34.761Z"
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T11:19:58.019Z"
+  "lastUpdated": "2026-07-15T11:42:11.287Z"
 }
