@@ -11730,12 +11730,12 @@
       "phone": "",
       "social": "https://www.facebook.com/samsr128",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Follow-up 3",
       "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal",
       "lastModified": "2026-07-15",
       "dateAdded": "2026-06-29",
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T12:15:38.753Z"
+  "lastUpdated": "2026-07-15T12:19:42.555Z"
 }
