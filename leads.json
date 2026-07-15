@@ -2925,20 +2925,21 @@
     {
       "id": "mpl7j28qdcdbbrigbgn",
       "name": "Faustino Gonzales",
-      "email": "",
+      "email": "faustinogo42@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/faustino.gonzales.879648",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-21",
-      "notes": "personal",
-      "lastModified": "2026-07-14",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-15",
+      "nextFollowUp": "2026-07-20",
+      "notes": "personal me 518332",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:53:24.890Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-07-15"
     },
     {
       "id": "mpl7lhwr57aurv0jdyu",
@@ -14283,5 +14284,5 @@
       "addedAt": "2026-07-15T07:18:06.520Z"
     }
   ],
-  "lastUpdated": "2026-07-15T07:18:06.520Z"
+  "lastUpdated": "2026-07-15T07:26:04.151Z"
 }
