@@ -5923,14 +5923,14 @@
       "phone": "",
       "social": "https://www.facebook.com/amanda.sui.18",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "david t page",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T14:47:10.879Z"
     },
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T11:57:21.128Z"
+  "lastUpdated": "2026-07-15T11:57:43.375Z"
 }
