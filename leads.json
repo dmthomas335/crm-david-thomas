@@ -3308,13 +3308,13 @@
       "phone": "",
       "social": "https://www.facebook.com/rob.akers.571539",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:39:23.931Z",
       "videoSent": true
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T12:29:46.825Z"
+  "lastUpdated": "2026-07-15T12:29:53.409Z"
 }
