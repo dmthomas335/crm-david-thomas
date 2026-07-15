@@ -4659,14 +4659,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18teZ3XNYm/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-07-15",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-07-15",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T22:54:50.964Z"
     },
@@ -14428,5 +14428,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T11:57:43.375Z"
+  "lastUpdated": "2026-07-15T11:58:03.367Z"
 }
