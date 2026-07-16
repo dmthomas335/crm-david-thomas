@@ -2627,9 +2627,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": "2026-09-03",
       "notes": "Personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:28:56.304Z",
       "videoSent": true
@@ -2753,7 +2753,7 @@
       "temperature": "Cold",
       "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-16",
       "notes": "Personal ",
       "lastModified": "2026-07-16",
       "dateAdded": "2026-05-25",
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:27:34.278Z"
+  "lastUpdated": "2026-07-16T13:28:41.340Z"
 }
