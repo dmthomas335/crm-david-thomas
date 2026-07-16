@@ -9839,14 +9839,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006767957007",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T11:16:06.059Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:14:46.147Z"
+  "lastUpdated": "2026-07-16T13:15:06.243Z"
 }
