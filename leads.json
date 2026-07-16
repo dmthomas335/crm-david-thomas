@@ -12256,11 +12256,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-07-16",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-23",
       "notes": "Personal ",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T10:51:47.876Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:08:10.079Z"
+  "lastUpdated": "2026-07-16T13:08:27.311Z"
 }
