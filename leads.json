@@ -1988,16 +1988,17 @@
       "phone": "",
       "social": "https://www.instagram.com/whitworth355?igsh=MWw2dmRxamoycjMyeQ==",
       "source": "Instagram",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-17",
-      "notes": "Joined as 2WT customer / IG",
-      "lastModified": "2026-07-03",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Joined as 2WT customer / IG 509527",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:20:20.713Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-07-16"
     },
     {
       "id": "mpi9r1slgk68srz7wxd",
@@ -14428,5 +14429,5 @@
       "addedAt": "2026-07-15T11:19:58.019Z"
     }
   ],
-  "lastUpdated": "2026-07-15T12:31:21.747Z"
+  "lastUpdated": "2026-07-16T07:19:43.019Z"
 }
