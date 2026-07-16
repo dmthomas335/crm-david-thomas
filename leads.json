@@ -3921,14 +3921,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jimmii.vu",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:23:00.990Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:26:35.651Z"
+  "lastUpdated": "2026-07-16T13:26:51.619Z"
 }
