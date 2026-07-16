@@ -8089,14 +8089,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BwJYtybcr/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:01:25.978Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T12:58:36.967Z"
+  "lastUpdated": "2026-07-16T12:59:02.216Z"
 }
