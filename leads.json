@@ -14517,7 +14517,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T11:42:55.743Z"
+    },
+    {
+      "id": "mrnfx4b5f8ttz4sfim",
+      "name": "Gina Urso",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/GinaUrso713",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T11:42:55.743Z"
+  "lastUpdated": "2026-07-16T11:43:14.705Z"
 }
