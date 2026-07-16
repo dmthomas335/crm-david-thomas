@@ -14499,7 +14499,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T11:42:25.712Z"
+    },
+    {
+      "id": "mrnfwpofbm7r4bfse9b",
+      "name": "John Gabbett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.gabbett.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T11:42:55.743Z"
     }
   ],
-  "lastUpdated": "2026-07-16T11:42:25.712Z"
+  "lastUpdated": "2026-07-16T11:42:55.743Z"
 }
