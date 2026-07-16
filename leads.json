@@ -1862,13 +1862,13 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100055479654482",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:44:54.925Z",
       "videoSent": false
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:29:38.333Z"
+  "lastUpdated": "2026-07-16T13:29:53.949Z"
 }
