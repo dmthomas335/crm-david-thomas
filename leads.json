@@ -5906,14 +5906,14 @@
       "phone": "",
       "social": "https://www.facebook.com/panesards",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T13:26:35.245Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:20:12.799Z"
+  "lastUpdated": "2026-07-16T13:20:44.287Z"
 }
