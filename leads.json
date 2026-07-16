@@ -14427,7 +14427,25 @@
       "lastModified": "2026-07-15",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:19:58.019Z"
+    },
+    {
+      "id": "mrnftw9rybat804xjja",
+      "name": "Claudia Robins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/claudia.long.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-16",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-16",
+      "dateAdded": "2026-07-16",
+      "addedAt": "2026-07-16T11:40:44.319Z"
     }
   ],
-  "lastUpdated": "2026-07-16T07:21:25.438Z"
+  "lastUpdated": "2026-07-16T11:40:44.319Z"
 }
