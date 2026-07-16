@@ -6627,14 +6627,14 @@
       "phone": "",
       "social": "https://www.facebook.com/josie.french2",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:50.068Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:18:57.102Z"
+  "lastUpdated": "2026-07-16T13:19:15.446Z"
 }
