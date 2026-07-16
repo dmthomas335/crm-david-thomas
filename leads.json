@@ -7691,14 +7691,14 @@
       "phone": "",
       "social": "https://www.facebook.com/terry.ramkellawan",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:39:26.592Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T12:59:02.216Z"
+  "lastUpdated": "2026-07-16T12:59:22.440Z"
 }
