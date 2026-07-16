@@ -4011,14 +4011,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lee.taylor.777",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-07-16",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:26:15.904Z"
     },
@@ -14537,5 +14537,5 @@
       "addedAt": "2026-07-16T11:43:14.705Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:25:18.106Z"
+  "lastUpdated": "2026-07-16T13:25:36.554Z"
 }
