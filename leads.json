@@ -127,14 +127,15 @@
       "phone": "",
       "social": "https://www.facebook.com/neil.simpson.7503",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-07-18",
+      "nextFollowUp": null,
       "notes": "says in future",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbfljnsfyg0nq50np",
@@ -14754,5 +14755,5 @@
       "addedAt": "2026-07-17T11:54:37.863Z"
     }
   ],
-  "lastUpdated": "2026-07-17T12:14:13.152Z"
+  "lastUpdated": "2026-07-17T12:14:33.586Z"
 }
