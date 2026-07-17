@@ -14626,7 +14626,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:07:56.983Z"
+    },
+    {
+      "id": "mrou4ch3zbyd1avdf4p",
+      "name": "Amador Childz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amador.childs.snr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T11:08:32.679Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:08:05.822Z"
+  "lastUpdated": "2026-07-17T11:08:32.679Z"
 }
