@@ -4214,10 +4214,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-27",
-      "nextFollowUp": "2026-07-17",
-      "notes": "David Thomas page ",
-      "lastModified": "2026-06-27",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal ",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:31:19.526Z"
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:21:03.733Z"
+  "lastUpdated": "2026-07-17T11:24:59.143Z"
 }
