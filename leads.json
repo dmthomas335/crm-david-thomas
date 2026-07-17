@@ -5855,10 +5855,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-17",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-22",
       "notes": "dave t page/ joined as customer Me 752950",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:29:28.694Z",
       "customerSince": "2026-06-02"
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:27:19.320Z"
+  "lastUpdated": "2026-07-17T11:27:25.976Z"
 }
