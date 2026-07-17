@@ -7474,14 +7474,14 @@
       "phone": "",
       "social": "https://www.facebook.com/adam.smith.50364592",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:56:28.966Z"
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:19:52.795Z"
+  "lastUpdated": "2026-07-17T11:20:18.244Z"
 }
