@@ -3147,13 +3147,13 @@
       "phone": "",
       "social": "https://www.facebook.com/lincoln.berridge",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
-      "lastAction": "Follow-up 4",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:41:17.743Z",
       "videoSent": true
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:45:19.976Z"
+  "lastUpdated": "2026-07-17T11:45:33.184Z"
 }
