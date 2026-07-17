@@ -7,13 +7,13 @@
       "phone": "",
       "social": "https://www.facebook.com/genel.burwell",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "Sent trading video / personal",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:49:24.970Z"
+  "lastUpdated": "2026-07-17T11:49:49.922Z"
 }
