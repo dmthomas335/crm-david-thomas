@@ -2743,24 +2743,6 @@
       "videoSent": false
     },
     {
-      "id": "mpl4p9m4gi029td58xf",
-      "name": "Jade Lee",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100088193536998",
-      "source": "Facebook",
-      "status": "Not Interested",
-      "temperature": "Cold",
-      "lastAction": "Not Interested",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-16",
-      "notes": "Personal ",
-      "lastModified": "2026-07-16",
-      "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T11:34:15.532Z",
-      "videoSent": false
-    },
-    {
       "id": "mpl4prr98zozwpctr9f",
       "name": "Antoine Adams",
       "email": "",
@@ -14772,5 +14754,5 @@
       "addedAt": "2026-07-17T11:54:37.863Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:54:37.863Z"
+  "lastUpdated": "2026-07-17T12:14:13.152Z"
 }
