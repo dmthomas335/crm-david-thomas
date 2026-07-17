@@ -6071,11 +6071,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-31",
       "notes": "personal ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:03:26.185Z"
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:42:44.451Z"
+  "lastUpdated": "2026-07-17T11:43:25.742Z"
 }
