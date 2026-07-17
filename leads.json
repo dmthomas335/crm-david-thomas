@@ -14572,7 +14572,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T09:56:40.519Z"
+    },
+    {
+      "id": "mrou2nxkiebpc30gyh",
+      "name": "Peter Collin Lazarus",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peter.c.lazarus",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T11:07:14.216Z"
     }
   ],
-  "lastUpdated": "2026-07-17T10:13:04.447Z"
+  "lastUpdated": "2026-07-17T11:07:14.216Z"
 }
