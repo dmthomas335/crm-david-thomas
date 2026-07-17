@@ -14553,7 +14553,25 @@
       "lastModified": "2026-07-16",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T13:46:12.481Z"
+    },
+    {
+      "id": "mrorjx6vqxrxqixilca",
+      "name": "Christopher Mcnaughton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CiMQW1VeK/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal ",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T09:56:40.519Z"
     }
   ],
-  "lastUpdated": "2026-07-16T13:46:12.481Z"
+  "lastUpdated": "2026-07-17T09:56:40.519Z"
 }
