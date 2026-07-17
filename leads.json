@@ -14734,7 +14734,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:10:25.632Z"
+    },
+    {
+      "id": "mrou7fg8q55na2cmkw",
+      "name": "Andy Legault",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andy.legault.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:10:25.632Z"
+  "lastUpdated": "2026-07-17T11:10:56.504Z"
 }
