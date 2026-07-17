@@ -8544,11 +8544,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-17",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-24",
       "notes": "Personal ",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:37:30.900Z"
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:39:52.510Z"
+  "lastUpdated": "2026-07-17T11:40:07.671Z"
 }
