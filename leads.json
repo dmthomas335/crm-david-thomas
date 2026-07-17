@@ -1433,10 +1433,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-17",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-22",
       "notes": "joined 2WT / personal 512707 Me",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:49:28.510Z",
       "videoSent": true,
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:27:25.976Z"
+  "lastUpdated": "2026-07-17T11:27:31.015Z"
 }
