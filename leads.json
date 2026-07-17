@@ -7114,14 +7114,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CY6FHBP4r/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:15:52.432Z"
     },
@@ -14754,5 +14754,5 @@
       "addedAt": "2026-07-17T11:10:56.504Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:41:27.480Z"
+  "lastUpdated": "2026-07-17T11:41:42.304Z"
 }
