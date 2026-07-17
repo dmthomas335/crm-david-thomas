@@ -14716,7 +14716,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:10:04.887Z"
+    },
+    {
+      "id": "mrou6rmoqqx83th4k7i",
+      "name": "Jayson Crowe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/crowe.contracting",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-08-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-17",
+      "dateAdded": "2026-07-17",
+      "addedAt": "2026-07-17T11:10:25.632Z"
     }
   ],
-  "lastUpdated": "2026-07-17T11:10:04.887Z"
+  "lastUpdated": "2026-07-17T11:10:25.632Z"
 }
