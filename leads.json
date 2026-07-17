@@ -12361,16 +12361,17 @@
       "phone": "",
       "social": "https://www.facebook.com/verne.stremy",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Nurture",
-      "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-07-22",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-17",
+      "nextFollowUp": "2026-07-21",
       "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-07-15",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-07-01",
-      "addedAt": "2026-07-01T12:12:12.443Z"
+      "addedAt": "2026-07-01T12:12:12.443Z",
+      "customerSince": "2026-07-17"
     },
     {
       "id": "mr21dlqkl3w78ccvxeo",
@@ -14573,5 +14574,5 @@
       "addedAt": "2026-07-17T09:56:40.519Z"
     }
   ],
-  "lastUpdated": "2026-07-17T09:56:40.519Z"
+  "lastUpdated": "2026-07-17T10:00:19.860Z"
 }
