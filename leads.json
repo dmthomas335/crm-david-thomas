@@ -14897,7 +14897,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:47:50.200Z"
+    },
+    {
+      "id": "mrqaziwuj6ysyq3upuh",
+      "name": "Teresa Thurston",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BgiK5qLFs/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-08-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:48:27.390Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:47:50.200Z"
+  "lastUpdated": "2026-07-18T11:48:27.391Z"
 }
