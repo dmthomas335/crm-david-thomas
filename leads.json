@@ -14825,7 +14825,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:45:36.460Z"
+    },
+    {
+      "id": "mrqawepqdht42gci19v",
+      "name": "Denny Tan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1AxydV9sBN/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:46:01.982Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:45:36.460Z"
+  "lastUpdated": "2026-07-18T11:46:01.982Z"
 }
