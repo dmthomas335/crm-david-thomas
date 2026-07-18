@@ -14753,7 +14753,25 @@
       "lastModified": "2026-07-17",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:54:37.863Z"
+    },
+    {
+      "id": "mrq9ensajln1qymvwq",
+      "name": "Thelma A-White ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BN8Bqvukj/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-24",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:04:14.314Z"
     }
   ],
-  "lastUpdated": "2026-07-17T13:20:13.399Z"
+  "lastUpdated": "2026-07-18T11:04:14.314Z"
 }
