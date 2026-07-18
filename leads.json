@@ -14771,7 +14771,25 @@
       "lastModified": "2026-07-18",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:04:14.314Z"
+    },
+    {
+      "id": "mrq9t6mk2wlp59u9hwi",
+      "name": "Ivan Setiawan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/194UXKdrKA/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-07-18",
+      "nextFollowUp": "2026-07-22",
+      "notes": "Personal ",
+      "lastModified": "2026-07-18",
+      "dateAdded": "2026-07-18",
+      "addedAt": "2026-07-18T11:15:31.916Z"
     }
   ],
-  "lastUpdated": "2026-07-18T11:04:14.314Z"
+  "lastUpdated": "2026-07-18T11:15:31.916Z"
 }
