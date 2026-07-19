@@ -11840,14 +11840,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dakota.archer.54",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-17",
       "nextFollowUp": "2026-07-24",
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-19",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:41:22.415Z"
     },
@@ -15133,5 +15133,5 @@
       "addedAt": "2026-07-19T10:57:01.361Z"
     }
   ],
-  "lastUpdated": "2026-07-19T10:57:01.361Z"
+  "lastUpdated": "2026-07-19T10:59:10.093Z"
 }
