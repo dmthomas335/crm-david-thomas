@@ -15041,7 +15041,25 @@
       "lastModified": "2026-07-19",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:51:18.817Z"
+    },
+    {
+      "id": "mrroegjtmf4mehf9i4",
+      "name": "Kevin Murray ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HYEfwJt1o/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": "2026-07-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-07-19",
+      "addedAt": "2026-07-19T10:51:45.353Z"
     }
   ],
-  "lastUpdated": "2026-07-19T10:51:18.818Z"
+  "lastUpdated": "2026-07-19T10:51:45.353Z"
 }
