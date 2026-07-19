@@ -14951,7 +14951,43 @@
       "lastModified": "2026-07-19",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:45:29.781Z"
+    },
+    {
+      "id": "mrro6eu9bq2cyw7iiec",
+      "name": "Ndre ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-07-19",
+      "addedAt": "2026-07-19T10:45:29.889Z"
+    },
+    {
+      "id": "mrro75t9qnovjguhp1",
+      "name": "Andre Fletcher ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1EHsgw9Bqq/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": "2026-07-20",
+      "notes": "Personal ",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-07-19",
+      "addedAt": "2026-07-19T10:46:04.845Z"
     }
   ],
-  "lastUpdated": "2026-07-19T10:45:29.781Z"
+  "lastUpdated": "2026-07-19T10:46:04.845Z"
 }
