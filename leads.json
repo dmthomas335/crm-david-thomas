@@ -14987,7 +14987,25 @@
       "lastModified": "2026-07-19",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:46:04.845Z"
+    },
+    {
+      "id": "mrroc4om1w1v1eqsjm",
+      "name": "Jessica McClenton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1c5G1KuEnZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": "2026-07-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-07-19",
+      "addedAt": "2026-07-19T10:49:56.662Z"
     }
   ],
-  "lastUpdated": "2026-07-19T10:46:04.845Z"
+  "lastUpdated": "2026-07-19T10:49:56.662Z"
 }
