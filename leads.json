@@ -15095,7 +15095,25 @@
       "lastModified": "2026-07-19",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:53:24.971Z"
+    },
+    {
+      "id": "mrrohgvvwg7owabiigh",
+      "name": "Peedi Tai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1K49ZZ6adK/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": "2026-08-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-07-19",
+      "addedAt": "2026-07-19T10:54:05.755Z"
     }
   ],
-  "lastUpdated": "2026-07-19T10:53:24.971Z"
+  "lastUpdated": "2026-07-19T10:54:05.755Z"
 }
