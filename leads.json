@@ -9953,11 +9953,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-08-03",
       "notes": "Personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:17:24.021Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:10:53.830Z"
+  "lastUpdated": "2026-07-20T15:11:10.815Z"
 }
