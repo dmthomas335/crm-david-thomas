@@ -14547,14 +14547,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CiMQW1VeK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "2WT",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-20",
-      "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-24",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T09:56:40.519Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:15:46.164Z"
+  "lastUpdated": "2026-07-20T15:16:38.877Z"
 }
