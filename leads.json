@@ -8941,14 +8941,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1ExKqAwVCw/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T12:59:21.587Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:09:39.573Z"
+  "lastUpdated": "2026-07-20T15:09:56.582Z"
 }
