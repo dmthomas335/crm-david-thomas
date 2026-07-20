@@ -15131,7 +15131,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T13:00:39.209Z"
+    },
+    {
+      "id": "mrt8goz8uepcy2cb92",
+      "name": "Danny Bueno",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DDpirNnGT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T13:00:39.209Z"
+  "lastUpdated": "2026-07-20T13:01:08.084Z"
 }
