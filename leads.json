@@ -8054,14 +8054,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BWNCP83Qu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T07:59:23.227Z"
     },
@@ -15151,5 +15151,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:48:49.495Z"
+  "lastUpdated": "2026-07-20T14:49:12.358Z"
 }
