@@ -15131,7 +15131,25 @@
       "lastModified": "2026-07-19",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:57:01.361Z"
+    },
+    {
+      "id": "mrswo7giareo2w3nafb",
+      "name": "Lewis Sokolowski",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/14istFb2NHr/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-24",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-20T07:31:03.234Z"
     }
   ],
-  "lastUpdated": "2026-07-20T06:59:42.109Z"
+  "lastUpdated": "2026-07-20T07:31:03.234Z"
 }
