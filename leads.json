@@ -9863,11 +9863,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-08-03",
       "notes": "Personal ",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-18T11:16:59.610Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:10:33.749Z"
+  "lastUpdated": "2026-07-20T15:10:53.830Z"
 }
