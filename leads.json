@@ -1992,10 +1992,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-20",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-24",
       "notes": "Joined as 2WT customer / IG 509527",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:20:20.713Z",
       "videoSent": true,
@@ -15115,5 +15115,5 @@
       "addedAt": "2026-07-20T07:31:03.234Z"
     }
   ],
-  "lastUpdated": "2026-07-20T11:13:32.182Z"
+  "lastUpdated": "2026-07-20T11:13:36.940Z"
 }
