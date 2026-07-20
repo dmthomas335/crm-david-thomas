@@ -9481,14 +9481,14 @@
       "phone": "",
       "social": "https://www.facebook.com/danny.sanchez.5872",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:26:16.807Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:05:49.473Z"
+  "lastUpdated": "2026-07-20T15:06:08.130Z"
 }
