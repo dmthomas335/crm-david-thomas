@@ -4429,14 +4429,14 @@
       "phone": "",
       "social": "https://www.facebook.com/graur.mihai.1",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T12:20:32.839Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:07:36.483Z"
+  "lastUpdated": "2026-07-20T15:08:07.212Z"
 }
