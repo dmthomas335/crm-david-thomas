@@ -8457,11 +8457,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-20",
+      "lastAction": "Follow-up 4",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-27",
       "notes": "Personal",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:03.818Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:09:17.045Z"
+  "lastUpdated": "2026-07-20T15:09:39.573Z"
 }
