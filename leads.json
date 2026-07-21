@@ -7370,14 +7370,14 @@
       "phone": "",
       "social": "https://www.facebook.com/KLHud",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 3",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:20:58.264Z"
     },
@@ -15316,5 +15316,5 @@
       "addedAt": "2026-07-21T12:21:08.148Z"
     }
   ],
-  "lastUpdated": "2026-07-21T13:08:03.788Z"
+  "lastUpdated": "2026-07-21T13:08:28.468Z"
 }
