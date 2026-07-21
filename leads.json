@@ -8635,14 +8635,14 @@
       "phone": "",
       "social": "https://www.facebook.com/pelon.bega",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Nurture",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:53:33.866Z"
     },
@@ -15316,5 +15316,5 @@
       "addedAt": "2026-07-21T12:21:08.148Z"
     }
   ],
-  "lastUpdated": "2026-07-21T13:08:52.981Z"
+  "lastUpdated": "2026-07-21T13:09:09.604Z"
 }
