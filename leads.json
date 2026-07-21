@@ -15205,7 +15205,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T11:22:05.997Z"
+    },
+    {
+      "id": "mrukdpp8v4pwjn90aze",
+      "name": "Richard Royal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fukyumony",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T11:22:30.620Z"
     }
   ],
-  "lastUpdated": "2026-07-21T11:22:05.997Z"
+  "lastUpdated": "2026-07-21T11:22:30.620Z"
 }
