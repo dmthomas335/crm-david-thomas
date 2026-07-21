@@ -22,7 +22,7 @@
       "id": "followup-2",
       "category": "Follow-Up",
       "name": "Follow-Up #2",
-      "content": "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way — just wanted to follow up before I closed the loop on my end."
+      "content": "Hey {{firstName}}, haven't heard back from you yet. Totally okay either way just wanted to follow up before I closed the loop on my end."
     },
     {
       "id": "followup-3",
@@ -47,7 +47,16 @@
       "category": "Closing",
       "name": "Ready to Start",
       "content": "Sounds to me like you're ready to get started {{firstName}}."
+    },
+    {
+      "id": "1782737700725",
+      "category": "Follow-Up",
+      "name": "Lack of response ",
+      "content": "Hey {{firstName}}, based on your lack of communication I’m assuming now just isn’t a good season in your life for something like this. Does that sound about right?"
     }
   ],
-  "lastUpdated": "2026-07-20T00:00:00.000Z"
+  "lastUpdated": "2026-07-21T06:58:58.793Z",
+  "migratedFromLocalStorage": true,
+  "migrationCompletedAt": "2026-07-21T06:58:58.793Z",
+  "migrationSource": "browser localStorage"
 }
