@@ -7046,14 +7046,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1ArcxmyC7W/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 5",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:13:52.689Z"
     },
@@ -15316,5 +15316,5 @@
       "addedAt": "2026-07-21T12:21:08.148Z"
     }
   ],
-  "lastUpdated": "2026-07-21T13:07:22.668Z"
+  "lastUpdated": "2026-07-21T13:07:36.909Z"
 }
