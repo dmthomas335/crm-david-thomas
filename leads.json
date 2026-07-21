@@ -5299,8 +5299,8 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-07-21",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-08-27",
       "notes": "personal Linda Estelle 526531",
       "lastModified": "2026-07-21",
       "customerSince": "2026-05-31",
@@ -15315,5 +15315,5 @@
       "addedAt": "2026-07-21T12:21:08.148Z"
     }
   ],
-  "lastUpdated": "2026-07-21T12:45:20.454Z"
+  "lastUpdated": "2026-07-21T12:45:29.919Z"
 }
