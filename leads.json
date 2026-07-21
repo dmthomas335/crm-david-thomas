@@ -12941,14 +12941,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1HCxYBRLWS/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-20",
       "nextFollowUp": "2026-07-27",
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:43:07.227Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-21T07:24:29.260Z"
+  "lastUpdated": "2026-07-21T07:24:56.228Z"
 }
