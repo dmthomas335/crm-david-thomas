@@ -15277,7 +15277,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T11:23:39.260Z"
+    },
+    {
+      "id": "mrukg3txpse8z5x55lb",
+      "name": "Stuart Hulland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stuart.hulland.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T11:24:22.245Z"
     }
   ],
-  "lastUpdated": "2026-07-21T11:23:39.260Z"
+  "lastUpdated": "2026-07-21T11:24:22.245Z"
 }
