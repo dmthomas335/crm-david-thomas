@@ -10654,13 +10654,13 @@
       "social": "https://www.facebook.com/rob.riege.1",
       "source": "Facebook",
       "status": "2WT",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-08-14",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal ",
-      "lastModified": "2026-07-15",
+      "lastModified": "2026-07-20",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:46:00.760Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-20T15:17:43.446Z"
+  "lastUpdated": "2026-07-21T06:59:26.128Z"
 }
