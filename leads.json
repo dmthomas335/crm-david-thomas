@@ -11824,14 +11824,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dansj1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-23",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
       "notes": "Personal ",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:40:54.926Z"
     },
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-21T07:04:05.957Z"
+  "lastUpdated": "2026-07-21T07:22:49.148Z"
 }
