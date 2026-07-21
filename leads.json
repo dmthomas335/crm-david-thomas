@@ -2626,13 +2626,13 @@
       "phone": "",
       "social": "https://www.facebook.com/tarrin.wrighton",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "2WT",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-09-03",
-      "notes": "Personal ",
-      "lastModified": "2026-07-16",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-23",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:28:56.304Z",
       "videoSent": true
@@ -15153,5 +15153,5 @@
       "addedAt": "2026-07-20T13:01:08.084Z"
     }
   ],
-  "lastUpdated": "2026-07-21T06:59:26.128Z"
+  "lastUpdated": "2026-07-21T07:04:05.957Z"
 }
