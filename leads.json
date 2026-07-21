@@ -15151,7 +15151,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T13:01:08.084Z"
+    },
+    {
+      "id": "mrukbre7e2onm9wx9ea",
+      "name": "Csaba Viasz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cviasz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T11:20:59.503Z"
     }
   ],
-  "lastUpdated": "2026-07-21T07:24:56.228Z"
+  "lastUpdated": "2026-07-21T11:20:59.503Z"
 }
