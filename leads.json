@@ -15223,7 +15223,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T11:22:30.620Z"
+    },
+    {
+      "id": "mruke6rg8m1wl0b5ukp",
+      "name": "Mario Aquilina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mlvaquilina",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-08-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T11:22:52.732Z"
     }
   ],
-  "lastUpdated": "2026-07-21T11:22:30.620Z"
+  "lastUpdated": "2026-07-21T11:22:52.732Z"
 }
