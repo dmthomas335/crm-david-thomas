@@ -14260,12 +14260,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/175gWoPcM6/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "David T Page ",
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-15",
@@ -15316,5 +15316,5 @@
       "addedAt": "2026-07-21T12:21:08.148Z"
     }
   ],
-  "lastUpdated": "2026-07-21T13:20:58.579Z"
+  "lastUpdated": "2026-07-21T18:44:13.423Z"
 }
