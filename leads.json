@@ -15187,7 +15187,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T11:21:42.635Z"
+    },
+    {
+      "id": "mrukd6p9afvpxwxeqfc",
+      "name": "Mark Dakhis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DreamVacationsMarkDakhis",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T11:22:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-21T11:21:42.635Z"
+  "lastUpdated": "2026-07-21T11:22:05.997Z"
 }
