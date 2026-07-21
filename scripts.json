@@ -40,7 +40,7 @@
       "id": "presentation-2",
       "category": "Presentation Follow-Up",
       "name": "No Watch Follow-Up",
-      "content": "Hey {{firstName}}, just checking in — did you get a chance to watch it yet?"
+      "content": "Hey {{firstName}}, checking in, did you get a chance to watch it yet?"
     },
     {
       "id": "closing-1",
@@ -49,14 +49,14 @@
       "content": "Sounds to me like you're ready to get started {{firstName}}."
     },
     {
-      "id": "1782737700725",
+      "id": "1782128347972",
       "category": "Follow-Up",
-      "name": "Lack of response ",
+      "name": "Nurture Inactive",
       "content": "Hey {{firstName}}, based on your lack of communication I’m assuming now just isn’t a good season in your life for something like this. Does that sound about right?"
     }
   ],
-  "lastUpdated": "2026-07-21T06:58:58.793Z",
+  "lastUpdated": "2026-07-21T11:18:56.901Z",
   "migratedFromLocalStorage": true,
-  "migrationCompletedAt": "2026-07-21T06:58:58.793Z",
+  "migrationCompletedAt": "2026-07-21T11:18:56.901Z",
   "migrationSource": "browser localStorage"
 }
