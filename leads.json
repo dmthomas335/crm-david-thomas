@@ -14932,11 +14932,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-22",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-08-05",
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:46:04.845Z"
     },
@@ -15409,5 +15409,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:17:35.143Z"
+  "lastUpdated": "2026-07-22T12:17:50.576Z"
 }
