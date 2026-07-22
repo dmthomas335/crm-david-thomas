@@ -2339,10 +2339,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-22",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-29",
       "notes": "Joined as customer 750439 Soriano",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:28:02.122Z",
       "customerSince": "2026-05-25",
@@ -15424,5 +15424,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:57:59.218Z"
+  "lastUpdated": "2026-07-22T11:58:04.498Z"
 }
