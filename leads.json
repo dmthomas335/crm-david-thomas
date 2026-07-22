@@ -12296,12 +12296,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18zm7GKr9A/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-01",
@@ -15409,5 +15409,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:22:56.349Z"
+  "lastUpdated": "2026-07-22T13:38:29.045Z"
 }
