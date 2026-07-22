@@ -8205,14 +8205,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GU12eX5mt/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-15",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:46:49.768Z"
     },
@@ -15409,5 +15409,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:19:57.930Z"
+  "lastUpdated": "2026-07-22T12:20:17.146Z"
 }
