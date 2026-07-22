@@ -421,10 +421,11 @@
       "temperature": "Warm",
       "lastAction": "Not Interested",
       "lastContact": "2026-05-18",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": "2026-09-30",
       "notes": "budy with new venture",
-      "lastModified": "2026-05-18",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbghpn7h7o6ownbrwt",
@@ -15424,5 +15425,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:59:17.645Z"
+  "lastUpdated": "2026-07-22T11:59:52.463Z"
 }
