@@ -1814,13 +1814,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jan.rodak.5",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:43:33.747Z",
       "videoSent": false
@@ -15426,5 +15426,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:05:16.779Z"
+  "lastUpdated": "2026-07-22T12:05:35.227Z"
 }
