@@ -13759,8 +13759,8 @@
       "phone": "",
       "social": "https://www.facebook.com/Jam350c",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-22",
@@ -15409,5 +15409,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T13:38:29.045Z"
+  "lastUpdated": "2026-07-22T13:42:06.674Z"
 }
