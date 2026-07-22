@@ -12960,14 +12960,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1aaJq1sDnB/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-21",
       "nextFollowUp": "2026-07-28",
       "notes": "Personal ",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:43:49.324Z"
     },
@@ -15352,5 +15352,5 @@
       "addedAt": "2026-07-22T07:21:47.356Z"
     }
   ],
-  "lastUpdated": "2026-07-22T07:23:18.335Z"
+  "lastUpdated": "2026-07-22T07:51:23.882Z"
 }
