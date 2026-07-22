@@ -823,13 +823,13 @@
       "phone": "",
       "social": "https://www.facebook.com/honeybobobo",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "sent biz vid David t page",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -15424,5 +15424,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:46:30.555Z"
+  "lastUpdated": "2026-07-22T11:47:18.532Z"
 }
