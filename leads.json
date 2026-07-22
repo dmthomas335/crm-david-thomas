@@ -15386,7 +15386,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:45:45.802Z"
+    },
+    {
+      "id": "mrw0ny2407w6apkl2x94",
+      "name": "Josh Stanton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.stanton.10004",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T11:46:08.044Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:45:45.802Z"
+  "lastUpdated": "2026-07-22T11:46:08.044Z"
 }
