@@ -13392,14 +13392,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-07-22",
-      "notes": "Email Me 760066",
-      "lastModified": "2026-07-15",
+      "nextFollowUp": null,
+      "notes": "Email Me 760066 cancelled",
+      "lastModified": "2026-07-22",
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:34:34.761Z"
@@ -15424,5 +15424,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T11:55:16.455Z"
+  "lastUpdated": "2026-07-22T11:55:48.375Z"
 }
