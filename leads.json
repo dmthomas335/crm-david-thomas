@@ -9166,7 +9166,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-08",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-22",
       "notes": "Personal",
       "lastModified": "2026-07-22",
       "dateAdded": "2026-06-15",
@@ -9720,14 +9720,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jonathan.clifton.676863",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:09:16.167Z"
     },
@@ -15409,5 +15409,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:13:32.091Z"
+  "lastUpdated": "2026-07-22T12:14:15.668Z"
 }
