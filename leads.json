@@ -13073,11 +13073,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-22",
-      "notes": "Email",
-      "lastModified": "2026-07-08",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-08-05",
+      "notes": "Email send lack of communication",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:23:04.599Z"
     },
@@ -15426,5 +15426,5 @@
       "addedAt": "2026-07-22T11:46:30.555Z"
     }
   ],
-  "lastUpdated": "2026-07-22T12:07:48.086Z"
+  "lastUpdated": "2026-07-22T12:10:12.200Z"
 }
