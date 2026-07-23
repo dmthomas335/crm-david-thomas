@@ -15569,7 +15569,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:25:45.584Z"
+    },
+    {
+      "id": "mrxfe6e8stwazd7nsx9",
+      "name": "Scott Murphy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/smcomet",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T11:26:12.704Z"
     }
   ],
-  "lastUpdated": "2026-07-23T11:25:45.584Z"
+  "lastUpdated": "2026-07-23T11:26:12.704Z"
 }
