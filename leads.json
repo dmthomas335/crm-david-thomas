@@ -2958,10 +2958,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-07-23",
-      "notes": "joined 2WT / joined as customer 509830 Ashley",
-      "lastModified": "2026-07-09",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-08-25",
+      "notes": "joined 2WT / joined as customer 509830 Ashley cancelled",
+      "lastModified": "2026-07-23",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:21:27.836Z",
       "videoSent": true,
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-23T11:36:04.627Z"
+  "lastUpdated": "2026-07-23T11:36:31.260Z"
 }
