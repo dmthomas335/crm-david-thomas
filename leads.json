@@ -9431,14 +9431,14 @@
       "phone": "",
       "social": "https://www.facebook.com/james.bey.450654",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-23",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-23",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:25:31.295Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-23T12:04:34.488Z"
+  "lastUpdated": "2026-07-23T12:04:49.736Z"
 }
