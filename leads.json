@@ -15605,7 +15605,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:26:33.320Z"
+    },
+    {
+      "id": "mrxff2iojxgwaydo7bp",
+      "name": "Mandeep Singh Ubhi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mandeep.s.ubhi.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-08-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T11:26:54.336Z"
     }
   ],
-  "lastUpdated": "2026-07-23T11:26:33.320Z"
+  "lastUpdated": "2026-07-23T11:26:54.336Z"
 }
