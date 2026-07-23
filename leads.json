@@ -11936,12 +11936,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1HY8GDto6j/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "2WT",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-16",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-09-29",
       "notes": "Personal Joined as 2WT ",
       "lastModified": "2026-07-23",
       "dateAdded": "2026-06-30",
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-23T12:09:52.738Z"
+  "lastUpdated": "2026-07-23T12:10:43.491Z"
 }
