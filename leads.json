@@ -15461,7 +15461,25 @@
       "lastModified": "2026-07-23",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:23:26.231Z"
+    },
+    {
+      "id": "mrxfb9mv8y2h5mjqaz",
+      "name": "Kyle Liam Gilpin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyle.l.gilpin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-23",
+      "nextFollowUp": "2026-07-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-23",
+      "dateAdded": "2026-07-23",
+      "addedAt": "2026-07-23T11:23:56.935Z"
     }
   ],
-  "lastUpdated": "2026-07-23T11:23:26.233Z"
+  "lastUpdated": "2026-07-23T11:23:56.935Z"
 }
