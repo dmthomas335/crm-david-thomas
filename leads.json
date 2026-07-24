@@ -6579,14 +6579,14 @@
       "phone": "",
       "social": "https://www.facebook.com/flamadog",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Closed",
+      "lastAction": "Nurture",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
-      "notes": "personal Joined 757680 Me",
-      "lastModified": "2026-07-17",
+      "nextFollowUp": "2026-07-27",
+      "notes": "personal Joined 757680 Me cancelled",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:00.882Z",
       "customerSince": "2026-06-26"
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:54:50.655Z"
+  "lastUpdated": "2026-07-24T09:56:53.768Z"
 }
