@@ -5083,14 +5083,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CZPBkJwXK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T15:17:07.015Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:00:36.580Z"
+  "lastUpdated": "2026-07-24T10:00:54.851Z"
 }
