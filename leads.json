@@ -9215,14 +9215,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kelly.horn.311",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:11:35.196Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:12:24.787Z"
+  "lastUpdated": "2026-07-24T10:12:46.300Z"
 }
