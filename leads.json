@@ -3010,13 +3010,13 @@
       "phone": "",
       "social": "https://www.facebook.com/larrycstokes1",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "personal joined as 2WT",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:23:28.869Z",
       "videoSent": false
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:10:04.674Z"
+  "lastUpdated": "2026-07-24T10:10:25.074Z"
 }
