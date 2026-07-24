@@ -280,13 +280,13 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100009974952488",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:15:13.293Z"
+  "lastUpdated": "2026-07-24T10:15:28.486Z"
 }
