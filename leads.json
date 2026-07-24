@@ -9543,8 +9543,8 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-24",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-21",
       "notes": "Personal 748848 Me",
       "lastModified": "2026-07-24",
       "customerSince": "2026-06-16",
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:53:45.718Z"
+  "lastUpdated": "2026-07-24T09:53:56.736Z"
 }
