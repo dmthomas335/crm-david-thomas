@@ -2904,10 +2904,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-24",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-07",
       "notes": "personal me 518332",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:53:24.890Z",
       "videoSent": true,
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:57:34.105Z"
+  "lastUpdated": "2026-07-24T09:58:27.986Z"
 }
