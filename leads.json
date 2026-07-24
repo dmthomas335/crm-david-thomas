@@ -13705,14 +13705,14 @@
       "phone": "",
       "social": "https://www.facebook.com/UnAshamedRo116",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-07-10",
       "addedAt": "2026-07-10T11:33:56.709Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:24:29.939Z"
+  "lastUpdated": "2026-07-24T10:24:39.659Z"
 }
