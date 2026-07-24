@@ -2738,13 +2738,13 @@
       "phone": "",
       "social": "https://www.facebook.com/antoine.adams.566",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:34:39.045Z",
       "videoSent": true
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:09:41.105Z"
+  "lastUpdated": "2026-07-24T10:10:04.674Z"
 }
