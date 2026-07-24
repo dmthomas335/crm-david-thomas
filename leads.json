@@ -9107,14 +9107,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shona.graves",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:09:11.516Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:20:32.817Z"
+  "lastUpdated": "2026-07-24T10:20:50.273Z"
 }
