@@ -15713,7 +15713,25 @@
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:09:40.417Z"
+    },
+    {
+      "id": "mryu95ihwhuljxti9hl",
+      "name": "Kelly Boyd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelly.bowen.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-24",
+      "dateAdded": "2026-07-24",
+      "addedAt": "2026-07-24T11:09:58.697Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:09:40.417Z"
+  "lastUpdated": "2026-07-24T11:09:58.697Z"
 }
