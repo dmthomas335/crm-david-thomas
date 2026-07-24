@@ -9164,11 +9164,11 @@
       "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "lastAction": "Not Interested",
       "lastContact": "2026-07-08",
       "nextFollowUp": "2026-07-22",
       "notes": "Personal",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:10:33.700Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:37:12.608Z"
+  "lastUpdated": "2026-07-24T09:51:24.511Z"
 }
