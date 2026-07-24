@@ -10985,10 +10985,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Closed",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-07-31",
       "notes": "Personal Joined Soriano 758693",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T08:42:31.770Z",
       "customerSince": "2026-07-03"
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:57:01.008Z"
+  "lastUpdated": "2026-07-24T09:57:27.201Z"
 }
