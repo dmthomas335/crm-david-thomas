@@ -8100,10 +8100,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Closed",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-07-31",
       "notes": "Personal Jeff casmer 758133",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:05:50.655Z",
       "customerSince": "2026-06-29"
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:53:56.736Z"
+  "lastUpdated": "2026-07-24T09:54:50.655Z"
 }
