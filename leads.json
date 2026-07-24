@@ -7810,8 +7810,8 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-24",
       "notes": "Personal joined/given to Soriano 755343",
       "lastModified": "2026-07-24",
       "dateAdded": "2026-06-10",
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T09:53:34.022Z"
+  "lastUpdated": "2026-07-24T09:53:45.718Z"
 }
