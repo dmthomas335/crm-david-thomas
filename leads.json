@@ -2394,13 +2394,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jie.brian",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:37:04.352Z",
       "videoSent": true
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:08:05.008Z"
+  "lastUpdated": "2026-07-24T10:08:50.560Z"
 }
