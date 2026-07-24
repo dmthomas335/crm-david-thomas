@@ -8729,14 +8729,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1A4MLwK2aA/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:39:50.893Z"
     },
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:19:48.648Z"
+  "lastUpdated": "2026-07-24T10:20:03.617Z"
 }
