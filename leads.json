@@ -12152,8 +12152,8 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61566410205195",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-24",
@@ -15643,5 +15643,5 @@
       "addedAt": "2026-07-23T11:27:19.816Z"
     }
   ],
-  "lastUpdated": "2026-07-24T10:27:45.742Z"
+  "lastUpdated": "2026-07-24T10:27:55.518Z"
 }
