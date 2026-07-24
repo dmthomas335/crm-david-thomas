@@ -15821,7 +15821,25 @@
       "lastModified": "2026-07-24",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:11:51.458Z"
+    },
+    {
+      "id": "mryubybm0qajxq4dthd",
+      "name": "Shaine Marr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaine.marr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-24",
+      "nextFollowUp": "2026-08-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-24",
+      "dateAdded": "2026-07-24",
+      "addedAt": "2026-07-24T11:12:09.346Z"
     }
   ],
-  "lastUpdated": "2026-07-24T11:11:51.458Z"
+  "lastUpdated": "2026-07-24T11:12:09.346Z"
 }
