@@ -15983,7 +15983,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T11:52:50.344Z"
+    },
+    {
+      "id": "ms1qohsm5digk8xaj13",
+      "name": "Abraham Narh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BZHQkwgL7/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-08-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T11:53:14.518Z"
     }
   ],
-  "lastUpdated": "2026-07-26T11:52:50.344Z"
+  "lastUpdated": "2026-07-26T11:53:14.518Z"
 }
