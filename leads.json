@@ -11397,14 +11397,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100046759988260",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:27:58.955Z"
     },
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:17:13.997Z"
+  "lastUpdated": "2026-07-27T13:17:37.365Z"
 }
