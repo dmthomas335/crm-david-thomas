@@ -1905,13 +1905,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jesse.j.michaels",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:46:22.366Z",
       "videoSent": true
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:11:03.458Z"
+  "lastUpdated": "2026-07-27T13:11:19.978Z"
 }
