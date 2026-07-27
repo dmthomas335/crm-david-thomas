@@ -4470,14 +4470,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mariotuzzo",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-13",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:25:03.912Z"
     },
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:52:03.071Z"
+  "lastUpdated": "2026-07-27T12:52:19.679Z"
 }
