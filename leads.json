@@ -16380,7 +16380,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:13:24.507Z"
+    },
+    {
+      "id": "ms36v0lwnb1l3txfnh",
+      "name": "Christine Hill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ChrstineMHill",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T12:13:58.868Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:13:24.507Z"
+  "lastUpdated": "2026-07-27T12:13:58.868Z"
 }
