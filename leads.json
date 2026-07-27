@@ -14318,8 +14318,8 @@
       "phone": "",
       "social": "https://www.facebook.com/TheXfaktor",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-27",
@@ -16490,5 +16490,5 @@
       "addedAt": "2026-07-27T13:56:27.150Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:56:27.150Z"
+  "lastUpdated": "2026-07-27T19:12:55.051Z"
 }
