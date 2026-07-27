@@ -16254,7 +16254,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:10:26.141Z"
+    },
+    {
+      "id": "ms36r73mxwkvkuu07fo",
+      "name": "Scott Perrett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Scotty.P.Rizzle",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T12:11:00.658Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:10:26.141Z"
+  "lastUpdated": "2026-07-27T12:11:00.658Z"
 }
