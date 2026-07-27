@@ -16326,7 +16326,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:12:19.994Z"
+    },
+    {
+      "id": "ms36tf9fzcjl24djrab",
+      "name": "Craig Baker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/craig.baker.33234",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T12:12:44.547Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:12:19.994Z"
+  "lastUpdated": "2026-07-27T12:12:44.547Z"
 }
