@@ -2937,16 +2937,17 @@
       "phone": "",
       "social": "https://www.facebook.com/mukesh.parekh.568",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": "2026-07-27",
       "notes": "Message on discord Joined as 2WT",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z",
-      "videoSent": true
+      "videoSent": true,
+      "customerSince": "2026-07-27"
     },
     {
       "id": "mpmjonx8dvymslk8pgq",
@@ -16219,5 +16220,5 @@
       "addedAt": "2026-07-27T10:14:53.494Z"
     }
   ],
-  "lastUpdated": "2026-07-27T10:14:53.494Z"
+  "lastUpdated": "2026-07-27T10:26:55.216Z"
 }
