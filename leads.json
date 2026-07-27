@@ -16362,7 +16362,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:13:05.283Z"
+    },
+    {
+      "id": "ms36ua3f03ifze2pzd3r",
+      "name": "Stephen White",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephen.white.97303",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T12:13:24.507Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:13:05.283Z"
+  "lastUpdated": "2026-07-27T12:13:24.507Z"
 }
