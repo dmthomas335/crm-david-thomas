@@ -7104,14 +7104,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CqgZAJ8dH/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:16:34.701Z"
     },
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:12:30.026Z"
+  "lastUpdated": "2026-07-27T13:15:35.729Z"
 }
