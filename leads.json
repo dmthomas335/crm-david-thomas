@@ -16218,7 +16218,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T10:14:53.494Z"
+    },
+    {
+      "id": "ms33pltikrtgca77qcn",
+      "name": "Scott Keefer ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1M5mM6qWDu/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-08-03",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T10:45:47.574Z"
     }
   ],
-  "lastUpdated": "2026-07-27T10:26:55.216Z"
+  "lastUpdated": "2026-07-27T10:45:47.574Z"
 }
