@@ -6580,14 +6580,14 @@
       "phone": "",
       "social": "https://www.facebook.com/flamadog",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "personal Joined 757680 Me cancelled",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T11:44:00.882Z",
       "customerSince": "2026-06-26"
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:55:03.681Z"
+  "lastUpdated": "2026-07-27T12:55:18.953Z"
 }
