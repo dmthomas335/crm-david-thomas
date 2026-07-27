@@ -9126,14 +9126,14 @@
       "phone": "",
       "social": "https://www.facebook.com/istvan.pasztor.54",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:09:50.982Z"
     },
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:16:55.757Z"
+  "lastUpdated": "2026-07-27T13:17:13.997Z"
 }
