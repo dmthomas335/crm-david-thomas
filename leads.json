@@ -3641,13 +3641,13 @@
       "phone": "",
       "social": "https://www.facebook.com/bianca.randall.18",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:15:17.533Z",
       "videoSent": false
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T12:51:11.174Z"
+  "lastUpdated": "2026-07-27T12:51:37.151Z"
 }
