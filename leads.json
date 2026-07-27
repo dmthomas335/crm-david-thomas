@@ -8441,14 +8441,14 @@
       "phone": "",
       "social": "https://www.facebook.com/roni.robinson.779",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:03.818Z"
     },
@@ -16472,5 +16472,5 @@
       "addedAt": "2026-07-27T12:15:13.646Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:15:55.533Z"
+  "lastUpdated": "2026-07-27T13:16:08.484Z"
 }
