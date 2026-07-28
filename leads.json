@@ -16488,7 +16488,26 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T13:56:27.150Z"
+    },
+    {
+      "id": "ms4ktgl4ghg4sncct65",
+      "name": "Rodney Ling",
+      "email": "rod168@outlook.com",
+      "phone": "",
+      "social": "https://www.facebook.com/traderhotrod",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "Soriano 764274",
+      "lastModified": "2026-07-28",
+      "customerSince": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T11:32:27.064Z"
     }
   ],
-  "lastUpdated": "2026-07-28T07:12:51.056Z"
+  "lastUpdated": "2026-07-28T11:32:27.064Z"
 }
