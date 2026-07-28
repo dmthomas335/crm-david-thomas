@@ -8694,14 +8694,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1H4RYaYgou/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:38:08.341Z"
     },
@@ -16689,5 +16689,5 @@
       "addedAt": "2026-07-28T12:04:22.070Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:10:38.693Z"
+  "lastUpdated": "2026-07-28T14:10:58.326Z"
 }
