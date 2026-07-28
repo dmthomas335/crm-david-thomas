@@ -16651,7 +16651,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T12:03:40.466Z"
+    },
+    {
+      "id": "ms4ly13mitr0y8g4w6k",
+      "name": "Greg Hidalgo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/greg.hidalgo.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T12:03:59.890Z"
     }
   ],
-  "lastUpdated": "2026-07-28T12:03:40.466Z"
+  "lastUpdated": "2026-07-28T12:03:59.890Z"
 }
