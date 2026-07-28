@@ -16543,7 +16543,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T12:01:13.542Z"
+    },
+    {
+      "id": "ms4luyn6x0jr8xytr6i",
+      "name": "Robert Powell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.powell.96343",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T12:01:36.738Z"
     }
   ],
-  "lastUpdated": "2026-07-28T12:01:13.542Z"
+  "lastUpdated": "2026-07-28T12:01:36.738Z"
 }
