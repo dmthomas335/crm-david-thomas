@@ -9324,14 +9324,14 @@
       "phone": "",
       "social": "https://www.facebook.com/scott.ross.9275439",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:34:05.728Z"
     },
@@ -16689,5 +16689,5 @@
       "addedAt": "2026-07-28T12:04:22.070Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:11:11.255Z"
+  "lastUpdated": "2026-07-28T14:11:25.694Z"
 }
