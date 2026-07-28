@@ -12348,20 +12348,21 @@
     {
       "id": "mr21dlqkl3w78ccvxeo",
       "name": "Daniel Lapointe",
-      "email": "",
+      "email": "dlapointeinbox@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/JoinDaniel",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-28",
-      "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-07-21",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "Personal Joined as 2WT 518969 Ashley",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-01",
-      "addedAt": "2026-07-01T12:12:59.852Z"
+      "addedAt": "2026-07-01T12:12:59.852Z",
+      "customerSince": "2026-07-28"
     },
     {
       "id": "mr21eh50dv25y6spjg",
@@ -16689,5 +16690,5 @@
       "addedAt": "2026-07-28T12:04:22.070Z"
     }
   ],
-  "lastUpdated": "2026-07-28T14:19:41.387Z"
+  "lastUpdated": "2026-07-28T14:20:37.763Z"
 }
