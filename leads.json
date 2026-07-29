@@ -16904,7 +16904,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:01:41.368Z"
+    },
+    {
+      "id": "ms5z65nkfbk1xdaxexw",
+      "name": "Chris Kelly",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.kelly.608766",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-20",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T11:02:00.224Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:01:41.368Z"
+  "lastUpdated": "2026-07-29T11:02:00.224Z"
 }
