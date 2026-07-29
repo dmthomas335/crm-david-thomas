@@ -2287,10 +2287,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-07-29",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-12",
       "notes": "sent trading vid / personal",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:20:05.672Z",
       "videoSent": true
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:59:36.446Z"
+  "lastUpdated": "2026-07-29T12:00:04.966Z"
 }
