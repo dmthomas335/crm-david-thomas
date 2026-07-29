@@ -16724,7 +16724,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:57:29.751Z"
+    },
+    {
+      "id": "ms5z0vj9n164ttdsou",
+      "name": "Steve Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.thompson.902819",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T10:57:53.829Z"
     }
   ],
-  "lastUpdated": "2026-07-29T10:57:29.752Z"
+  "lastUpdated": "2026-07-29T10:57:53.829Z"
 }
