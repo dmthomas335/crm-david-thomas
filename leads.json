@@ -16886,7 +16886,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:01:11.543Z"
+    },
+    {
+      "id": "ms5z5r3s6vicnob1aoj",
+      "name": "Chaudhari Shailesh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chaudhari.shailesh.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T11:01:41.368Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:01:11.543Z"
+  "lastUpdated": "2026-07-29T11:01:41.368Z"
 }
