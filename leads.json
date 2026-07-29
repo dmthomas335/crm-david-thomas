@@ -16868,7 +16868,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:00:50.760Z"
+    },
+    {
+      "id": "ms5z543b8qn5n56qfn7",
+      "name": "James Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.lee.866503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T11:01:11.543Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:00:50.760Z"
+  "lastUpdated": "2026-07-29T11:01:11.543Z"
 }
