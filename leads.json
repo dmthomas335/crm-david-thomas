@@ -8910,14 +8910,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14fTjqBqu5J/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "David T Page and personal",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T10:57:19.354Z"
     },
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:49:26.040Z"
+  "lastUpdated": "2026-07-29T11:51:00.378Z"
 }
