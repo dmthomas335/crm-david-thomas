@@ -16940,7 +16940,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:02:22.177Z"
+    },
+    {
+      "id": "ms5z76cg3rrc6n9jenn",
+      "name": "Kris Campbell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kris.campbell.868559",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-24",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:02:22.177Z"
+  "lastUpdated": "2026-07-29T11:02:47.776Z"
 }
