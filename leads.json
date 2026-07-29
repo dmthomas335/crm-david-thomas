@@ -14265,14 +14265,14 @@
       "phone": "",
       "social": "https://www.facebook.com/crcoddington",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:17:17.170Z"
     },
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T13:05:03.322Z"
+  "lastUpdated": "2026-07-29T13:05:18.482Z"
 }
