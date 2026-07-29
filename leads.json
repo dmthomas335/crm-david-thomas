@@ -7266,14 +7266,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18odiuue1N/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "Dave T Page ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T10:51:33.069Z"
     },
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T12:01:32.927Z"
+  "lastUpdated": "2026-07-29T12:01:45.935Z"
 }
