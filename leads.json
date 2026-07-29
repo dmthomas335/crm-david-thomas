@@ -16814,7 +16814,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:59:38.542Z"
+    },
+    {
+      "id": "ms5z3iyuas234zbly1g",
+      "name": "Kenan Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mrkenandjohnson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-13",
+      "notes": "Personal ",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T10:59:57.510Z"
     }
   ],
-  "lastUpdated": "2026-07-29T10:59:38.542Z"
+  "lastUpdated": "2026-07-29T10:59:57.510Z"
 }
