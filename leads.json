@@ -12337,10 +12337,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-29",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-12",
       "notes": "Personal Joined as 2WT 522170 Ashley",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T12:12:12.443Z",
       "customerSince": "2026-07-17"
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T11:41:37.397Z"
+  "lastUpdated": "2026-07-29T11:42:01.805Z"
 }
