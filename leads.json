@@ -893,13 +893,13 @@
       "phone": "",
       "social": "https://www.facebook.com/walter.john.9047",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "sent biz pres / personal UNFRIND?",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -16960,5 +16960,5 @@
       "addedAt": "2026-07-29T11:02:47.776Z"
     }
   ],
-  "lastUpdated": "2026-07-29T12:00:25.207Z"
+  "lastUpdated": "2026-07-29T12:00:45.359Z"
 }
