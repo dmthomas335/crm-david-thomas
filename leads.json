@@ -8802,14 +8802,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EB3crMEzw/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:42:26.441Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T13:02:35.170Z"
+  "lastUpdated": "2026-07-30T13:03:05.656Z"
 }
