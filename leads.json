@@ -4942,10 +4942,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-30",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-13",
       "notes": "Joined as 2WT customer / TG 555980 Scott Morris",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:01:11.072Z",
       "customerSince": "2026-06-17"
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T12:38:48.662Z"
+  "lastUpdated": "2026-07-30T12:38:59.525Z"
 }
