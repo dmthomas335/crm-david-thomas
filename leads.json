@@ -14553,14 +14553,14 @@
       "phone": "",
       "social": "https://www.facebook.com/peter.c.lazarus",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-06",
       "notes": "Personal ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:07:14.216Z"
     },
@@ -16978,5 +16978,5 @@
       "addedAt": "2026-07-30T08:03:19.456Z"
     }
   ],
-  "lastUpdated": "2026-07-30T08:03:19.456Z"
+  "lastUpdated": "2026-07-30T08:03:50.385Z"
 }
