@@ -16976,7 +16976,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T08:03:19.456Z"
+    },
+    {
+      "id": "ms7fo3wqxopokv6u6bd",
+      "name": "Leo Cordero",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leo.cordero.27",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-06",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T11:31:37.802Z"
     }
   ],
-  "lastUpdated": "2026-07-30T08:03:50.385Z"
+  "lastUpdated": "2026-07-30T11:31:37.802Z"
 }
