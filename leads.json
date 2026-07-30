@@ -5156,14 +5156,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1cLqCrsh9k/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:01:24.500Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T12:54:23.922Z"
+  "lastUpdated": "2026-07-30T12:54:45.843Z"
 }
