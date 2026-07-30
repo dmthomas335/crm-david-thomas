@@ -14409,12 +14409,12 @@
       "phone": "",
       "social": "https://www.facebook.com/claudia.long.54",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": "2026-08-06",
       "notes": "Personal ",
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-16",
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T13:27:22.100Z"
+  "lastUpdated": "2026-07-30T13:27:32.300Z"
 }
