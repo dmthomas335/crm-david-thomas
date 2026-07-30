@@ -16958,7 +16958,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:02:47.776Z"
+    },
+    {
+      "id": "ms78884gwmy7doyazvp",
+      "name": "Maggie Bastian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1C4QDwje4A/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-07-31",
+      "notes": "David T Page ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T08:03:19.456Z"
     }
   ],
-  "lastUpdated": "2026-07-30T08:02:23.861Z"
+  "lastUpdated": "2026-07-30T08:03:19.456Z"
 }
