@@ -17030,7 +17030,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:32:22.849Z"
+    },
+    {
+      "id": "ms7fpiewbq4ld0lhlv9",
+      "name": "Jeff Young",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeffyyoung",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-11",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T11:32:43.256Z"
     }
   ],
-  "lastUpdated": "2026-07-30T11:32:22.849Z"
+  "lastUpdated": "2026-07-30T11:32:43.256Z"
 }
