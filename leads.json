@@ -11217,14 +11217,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1AtiGDaQ8E/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T15:37:15.069Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T12:40:44.717Z"
+  "lastUpdated": "2026-07-30T12:41:16.071Z"
 }
