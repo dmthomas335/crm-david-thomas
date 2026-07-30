@@ -4308,14 +4308,14 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.stewart.459232",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:15:48.280Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T12:53:59.105Z"
+  "lastUpdated": "2026-07-30T12:54:23.922Z"
 }
