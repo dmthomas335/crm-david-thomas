@@ -12715,12 +12715,12 @@
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Follow-up 5",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-05",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-07-31",
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:32:01.409Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T13:11:48.672Z"
+  "lastUpdated": "2026-07-30T13:27:22.100Z"
 }
