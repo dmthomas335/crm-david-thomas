@@ -17012,7 +17012,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:32:00.993Z"
+    },
+    {
+      "id": "ms7fp2o1l8hi2ztufcs",
+      "name": "Craig Ross",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100088031417772",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T11:32:22.849Z"
     }
   ],
-  "lastUpdated": "2026-07-30T11:32:00.993Z"
+  "lastUpdated": "2026-07-30T11:32:22.849Z"
 }
