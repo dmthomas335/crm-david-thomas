@@ -17084,7 +17084,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:33:24.506Z"
+    },
+    {
+      "id": "ms7fr91vwe6z7aaxd29",
+      "name": "TheMrs Nichols",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jack.nichols.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T11:34:04.435Z"
     }
   ],
-  "lastUpdated": "2026-07-30T11:33:24.506Z"
+  "lastUpdated": "2026-07-30T11:34:04.435Z"
 }
