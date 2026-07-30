@@ -16994,7 +16994,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:31:37.802Z"
+    },
+    {
+      "id": "ms7folsxutft7uen8z",
+      "name": "Ag Loynab",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gloynab",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-07",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T11:32:00.993Z"
     }
   ],
-  "lastUpdated": "2026-07-30T11:31:37.802Z"
+  "lastUpdated": "2026-07-30T11:32:00.993Z"
 }
