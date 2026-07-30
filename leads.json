@@ -17102,7 +17102,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:34:04.435Z"
+    },
+    {
+      "id": "ms7hxqn2gt3pbspok4s",
+      "name": "Ranjeet Chaurasia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/1987ranjeet.kumar",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-30",
+      "nextFollowUp": "2026-08-04",
+      "notes": "Personal ",
+      "lastModified": "2026-07-30",
+      "dateAdded": "2026-07-30",
+      "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T11:34:04.435Z"
+  "lastUpdated": "2026-07-30T12:35:06.398Z"
 }
