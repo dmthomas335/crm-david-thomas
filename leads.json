@@ -9991,14 +9991,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100061246386093",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-07-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-07-30",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:18:40.017Z"
     },
@@ -17122,5 +17122,5 @@
       "addedAt": "2026-07-30T12:35:06.398Z"
     }
   ],
-  "lastUpdated": "2026-07-30T13:03:25.409Z"
+  "lastUpdated": "2026-07-30T13:03:52.883Z"
 }
