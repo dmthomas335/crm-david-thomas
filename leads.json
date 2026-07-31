@@ -7681,14 +7681,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andrew.allington.9",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:49:03.312Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:47:35.671Z"
+  "lastUpdated": "2026-07-31T14:52:35.484Z"
 }
