@@ -16501,10 +16501,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-07",
       "notes": "Soriano 764274",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-07-31",
       "customerSince": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T11:32:27.064Z"
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:44:50.812Z"
+  "lastUpdated": "2026-07-31T14:45:41.535Z"
 }
