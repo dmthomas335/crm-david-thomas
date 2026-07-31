@@ -9306,14 +9306,14 @@
       "phone": "",
       "social": "https://www.facebook.com/joe.hamilton.564813",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:13:26.581Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:13:08.673Z"
+  "lastUpdated": "2026-07-31T15:13:47.315Z"
 }
