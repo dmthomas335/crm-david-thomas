@@ -17120,7 +17120,25 @@
       "lastModified": "2026-07-30",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T12:35:06.398Z"
+    },
+    {
+      "id": "ms8o1t7v21ah73zw3p",
+      "name": "Misty Scott-Nichols ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1H6JkrxocT/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "Personal ",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-07-31T08:14:00.235Z"
     }
   ],
-  "lastUpdated": "2026-07-30T13:27:32.300Z"
+  "lastUpdated": "2026-07-31T08:14:00.236Z"
 }
