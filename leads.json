@@ -9757,14 +9757,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ian.kilpatrick.1297",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:09:52.999Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:13:53.027Z"
+  "lastUpdated": "2026-07-31T15:13:59.322Z"
 }
