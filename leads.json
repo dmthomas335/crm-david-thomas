@@ -6004,14 +6004,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brandon.farrow.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:02:26.088Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:06:33.483Z"
+  "lastUpdated": "2026-07-31T15:06:55.235Z"
 }
