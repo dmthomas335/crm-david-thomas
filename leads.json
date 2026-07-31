@@ -11487,14 +11487,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1ECpwcYDQu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T10:16:54.340Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:18:36.154Z"
+  "lastUpdated": "2026-07-31T15:18:55.783Z"
 }
