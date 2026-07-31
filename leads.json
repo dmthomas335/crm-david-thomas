@@ -13217,14 +13217,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1C4vJ4F72S/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T07:07:46.512Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:16:02.541Z"
+  "lastUpdated": "2026-07-31T15:16:39.844Z"
 }
