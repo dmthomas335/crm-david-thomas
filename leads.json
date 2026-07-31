@@ -4236,14 +4236,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BEaWxr2PQ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "David Thomas page ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T07:29:20.378Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:52:35.484Z"
+  "lastUpdated": "2026-07-31T14:53:48.815Z"
 }
