@@ -24,13 +24,13 @@
       "phone": "",
       "social": "https://www.facebook.com/guy.code.739",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "sent trading vid",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:00:47.324Z"
+  "lastUpdated": "2026-07-31T15:01:44.197Z"
 }
