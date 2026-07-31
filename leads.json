@@ -10319,10 +10319,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-14",
       "notes": "Personal Me 758313",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T07:26:09.818Z",
       "customerSince": "2026-06-29"
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:43:37.643Z"
+  "lastUpdated": "2026-07-31T14:44:21.700Z"
 }
