@@ -4038,14 +4038,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bryan.chavez.1232760",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:27:36.330Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:06:08.075Z"
+  "lastUpdated": "2026-07-31T15:06:14.170Z"
 }
