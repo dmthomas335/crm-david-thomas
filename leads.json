@@ -4614,14 +4614,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/17skXC4v7e/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T16:41:56.781Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:53:48.815Z"
+  "lastUpdated": "2026-07-31T14:54:25.286Z"
 }
