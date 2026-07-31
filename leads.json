@@ -9450,14 +9450,14 @@
       "phone": "",
       "social": "https://www.facebook.com/scott.cole.603113",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:25:53.238Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:13:47.315Z"
+  "lastUpdated": "2026-07-31T15:13:53.027Z"
 }
