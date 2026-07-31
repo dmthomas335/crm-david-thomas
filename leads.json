@@ -3605,13 +3605,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jhfdhvgv",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T13:12:59.374Z",
       "videoSent": false
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:03:37.152Z"
+  "lastUpdated": "2026-07-31T15:03:53.864Z"
 }
