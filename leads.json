@@ -11055,14 +11055,14 @@
       "phone": "",
       "social": "https://www.facebook.com/JuniorRudyLopez",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:00:13.321Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:17:59.288Z"
+  "lastUpdated": "2026-07-31T15:18:17.726Z"
 }
