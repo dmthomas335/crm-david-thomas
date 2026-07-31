@@ -4979,10 +4979,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-07-31",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-07",
       "notes": "Text 753925 ME\n",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:49:12.728Z",
       "customerSince": "2026-06-08"
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:45:41.535Z"
+  "lastUpdated": "2026-07-31T14:46:21.302Z"
 }
