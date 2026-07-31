@@ -1531,10 +1531,10 @@
       "status": "Nurture",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-07-31",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-27",
       "notes": "TG DLB",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:58:59.753Z",
       "videoSent": false
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:11:02.407Z"
+  "lastUpdated": "2026-07-31T15:11:13.808Z"
 }
