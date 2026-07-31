@@ -1869,13 +1869,13 @@
       "phone": "",
       "social": "https://www.facebook.com/selfpaidlatiwana",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-31",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:45:25.525Z",
       "videoSent": true
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T15:03:19.871Z"
+  "lastUpdated": "2026-07-31T15:03:37.152Z"
 }
