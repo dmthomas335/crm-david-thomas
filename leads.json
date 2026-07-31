@@ -16969,11 +16969,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-07-31",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-07",
       "notes": "David T Page ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-07-31",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T08:03:19.456Z"
     },
@@ -17284,5 +17284,5 @@
       "addedAt": "2026-07-31T14:26:28.450Z"
     }
   ],
-  "lastUpdated": "2026-07-31T14:55:46.704Z"
+  "lastUpdated": "2026-07-31T14:57:51.473Z"
 }
