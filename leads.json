@@ -17282,7 +17282,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T14:26:28.450Z"
+    },
+    {
+      "id": "msabwtpj9t2sx73c08",
+      "name": "Erick R Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ersmithministries",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T12:09:44.551Z"
     }
   ],
-  "lastUpdated": "2026-08-01T11:47:09.297Z"
+  "lastUpdated": "2026-08-01T12:09:44.551Z"
 }
