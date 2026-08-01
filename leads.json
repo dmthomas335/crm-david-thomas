@@ -17336,7 +17336,25 @@
       "lastModified": "2026-08-01",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:10:43.864Z"
+    },
+    {
+      "id": "msabyj9cp196v8gx96",
+      "name": "Stiliyan Kunev",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stilian.pencev1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T12:11:04.320Z"
     }
   ],
-  "lastUpdated": "2026-08-01T12:10:43.864Z"
+  "lastUpdated": "2026-08-01T12:11:04.320Z"
 }
