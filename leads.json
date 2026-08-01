@@ -17372,7 +17372,25 @@
       "lastModified": "2026-08-01",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:11:23.944Z"
+    },
+    {
+      "id": "msabzcy1jrnotn8brvn",
+      "name": "Tommy LP",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/liviu.tomita",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-01T12:11:42.793Z"
     }
   ],
-  "lastUpdated": "2026-08-01T12:11:23.944Z"
+  "lastUpdated": "2026-08-01T12:11:42.793Z"
 }
