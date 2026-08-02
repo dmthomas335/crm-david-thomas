@@ -17408,7 +17408,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:24:51.710Z"
+    },
+    {
+      "id": "msbs7dwb3ahhng25tiy",
+      "name": "Leo Narvaez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FQcww9kAA/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:33:37.307Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:24:51.710Z"
+  "lastUpdated": "2026-08-02T12:33:37.308Z"
 }
