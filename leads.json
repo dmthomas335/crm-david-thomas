@@ -17390,7 +17390,25 @@
       "lastModified": "2026-08-01",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:11:42.793Z"
+    },
+    {
+      "id": "msbrw4ceuruy06fmosq",
+      "name": "Dorian Axel Fox ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FRHBsLKgx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-05",
+      "notes": "Personal ",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:24:51.710Z"
     }
   ],
-  "lastUpdated": "2026-08-01T12:12:48.183Z"
+  "lastUpdated": "2026-08-02T12:24:51.710Z"
 }
