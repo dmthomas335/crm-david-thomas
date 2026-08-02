@@ -17498,7 +17498,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:35:42.122Z"
+    },
+    {
+      "id": "msbsamo3cm938ltnby",
+      "name": "Jayner Faronda",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DMPq4ESZv/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:36:08.643Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:35:42.122Z"
+  "lastUpdated": "2026-08-02T12:36:08.643Z"
 }
