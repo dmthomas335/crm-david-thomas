@@ -17480,7 +17480,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:35:02.225Z"
+    },
+    {
+      "id": "msbsa27etqm0wgb2ri",
+      "name": "Scotty Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DoKPtki3n/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-02",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-02",
+      "dateAdded": "2026-08-02",
+      "addedAt": "2026-08-02T12:35:42.122Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:35:02.225Z"
+  "lastUpdated": "2026-08-02T12:35:42.122Z"
 }
