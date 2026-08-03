@@ -8134,14 +8134,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1NNcoDwSxz/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:44:25.514Z"
     },
@@ -17680,5 +17680,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:33:06.587Z"
+  "lastUpdated": "2026-08-03T12:33:25.253Z"
 }
