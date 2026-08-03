@@ -9841,24 +9841,6 @@
       "addedAt": "2026-06-18T11:16:38.450Z"
     },
     {
-      "id": "mqjeniaia34lpwch1b9",
-      "name": "Samuel John Moses",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/samm.mosses.2025",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 4",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
-      "notes": "Personal ",
-      "lastModified": "2026-07-20",
-      "dateAdded": "2026-06-18",
-      "addedAt": "2026-06-18T11:16:59.610Z"
-    },
-    {
       "id": "mqkm0hno3ovfykg5xx2",
       "name": "Cath Pablo ",
       "email": "",
@@ -17680,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:35:24.119Z"
+  "lastUpdated": "2026-08-03T12:36:24.547Z"
 }
