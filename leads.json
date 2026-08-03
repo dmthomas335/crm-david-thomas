@@ -12243,14 +12243,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Gr62WbArj/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T10:53:06.276Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:38:28.197Z"
+  "lastUpdated": "2026-08-03T12:38:51.574Z"
 }
