@@ -13055,14 +13055,14 @@
       "phone": "",
       "social": "https://www.facebook.com/douglas.siebers",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:56:01.688Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:23:39.708Z"
+  "lastUpdated": "2026-08-03T13:24:04.388Z"
 }
