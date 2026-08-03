@@ -11739,14 +11739,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tom.jones.682018",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:39:48.389Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:37:40.903Z"
+  "lastUpdated": "2026-08-03T12:37:58.814Z"
 }
