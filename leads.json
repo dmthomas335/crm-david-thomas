@@ -14304,11 +14304,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-10",
       "notes": "Personal ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:18:34.762Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:25:24.852Z"
+  "lastUpdated": "2026-08-03T13:26:36.738Z"
 }
