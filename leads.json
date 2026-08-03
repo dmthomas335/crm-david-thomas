@@ -8585,14 +8585,14 @@
       "phone": "",
       "social": "https://www.facebook.com/eric.berger.1612",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:49:00.148Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:19:30.051Z"
+  "lastUpdated": "2026-08-03T13:19:46.417Z"
 }
