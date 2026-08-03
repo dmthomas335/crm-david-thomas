@@ -12533,14 +12533,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100082976557401",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T11:13:55.942Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:38:51.574Z"
+  "lastUpdated": "2026-08-03T12:39:13.405Z"
 }
