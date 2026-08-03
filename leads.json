@@ -12713,14 +12713,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/196E8trD5X/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T13:44:45.353Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:39:29.423Z"
+  "lastUpdated": "2026-08-03T13:17:51.201Z"
 }
