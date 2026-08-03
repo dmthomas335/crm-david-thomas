@@ -7392,14 +7392,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100084395416596",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:21:45.689Z"
     },
@@ -17680,5 +17680,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:32:49.379Z"
+  "lastUpdated": "2026-08-03T12:33:06.587Z"
 }
