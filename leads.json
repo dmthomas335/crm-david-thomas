@@ -11559,14 +11559,14 @@
       "phone": "",
       "social": "https://www.facebook.com/InterMilan4Life",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:14:19.047Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:23:24.630Z"
+  "lastUpdated": "2026-08-03T13:23:39.708Z"
 }
