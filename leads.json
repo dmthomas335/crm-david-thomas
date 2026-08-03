@@ -14931,14 +14931,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1c5G1KuEnZ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:49:56.662Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:27:39.440Z"
+  "lastUpdated": "2026-08-03T13:28:04.902Z"
 }
