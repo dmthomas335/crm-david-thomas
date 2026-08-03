@@ -10171,14 +10171,14 @@
       "phone": "",
       "social": "https://www.facebook.com/PaudelRoshan11",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-20T11:28:50.816Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:20:32.302Z"
+  "lastUpdated": "2026-08-03T13:20:47.350Z"
 }
