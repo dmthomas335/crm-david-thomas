@@ -11901,14 +11901,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1C9Kuqtq4C/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T19:33:52.256Z"
     },
@@ -17680,5 +17680,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:24:59.084Z"
+  "lastUpdated": "2026-08-03T12:25:38.732Z"
 }
