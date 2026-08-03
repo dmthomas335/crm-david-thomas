@@ -9919,14 +9919,14 @@
       "phone": "",
       "social": "https://www.facebook.com/walter.haleii",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:17:24.021Z"
     },
@@ -17662,5 +17662,5 @@
       "addedAt": "2026-08-03T11:38:58.749Z"
     }
   ],
-  "lastUpdated": "2026-08-03T12:36:24.547Z"
+  "lastUpdated": "2026-08-03T12:36:42.765Z"
 }
