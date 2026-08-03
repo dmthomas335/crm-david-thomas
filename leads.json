@@ -17552,7 +17552,25 @@
       "lastModified": "2026-08-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:37:06.468Z"
+    },
+    {
+      "id": "msd5laz8n9mcsiyh5xi",
+      "name": "David Parry ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18w9hxigTo/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T11:36:07.892Z"
     }
   ],
-  "lastUpdated": "2026-08-02T12:37:06.468Z"
+  "lastUpdated": "2026-08-03T11:36:07.892Z"
 }
