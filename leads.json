@@ -11757,14 +11757,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stalumi",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:40:10.183Z"
     },
@@ -17806,5 +17806,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:38:25.712Z"
+  "lastUpdated": "2026-08-04T12:38:44.228Z"
 }
