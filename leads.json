@@ -17768,7 +17768,25 @@
       "lastModified": "2026-08-04",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T12:01:34.966Z"
+    },
+    {
+      "id": "mselyc1ycaiz1eesnl9",
+      "name": "Rob Balser",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rob.balser.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-04",
+      "dateAdded": "2026-08-04",
+      "addedAt": "2026-08-04T12:01:55.847Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:01:34.966Z"
+  "lastUpdated": "2026-08-04T12:01:55.847Z"
 }
