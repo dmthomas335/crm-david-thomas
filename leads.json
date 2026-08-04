@@ -12623,14 +12623,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1d1fyrGxf2/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:22:54.428Z"
     },
@@ -17806,5 +17806,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:39:00.067Z"
+  "lastUpdated": "2026-08-04T12:39:16.579Z"
 }
