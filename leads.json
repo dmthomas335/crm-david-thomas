@@ -3929,14 +3929,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100069341961235",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:23:58.034Z"
     },
@@ -17806,5 +17806,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:39:35.451Z"
+  "lastUpdated": "2026-08-04T12:39:51.702Z"
 }
