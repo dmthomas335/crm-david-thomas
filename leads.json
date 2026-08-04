@@ -11668,14 +11668,14 @@
       "phone": "",
       "social": "https://www.facebook.com/caleb.hess.731",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:37:58.397Z"
     },
@@ -17807,5 +17807,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:40:57.545Z"
+  "lastUpdated": "2026-08-04T12:41:38.145Z"
 }
