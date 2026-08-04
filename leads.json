@@ -930,10 +930,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-08-04",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-09-03",
       "notes": "sent biz pres David T Page ",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -17806,5 +17806,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:27:23.971Z"
+  "lastUpdated": "2026-08-04T12:28:41.968Z"
 }
