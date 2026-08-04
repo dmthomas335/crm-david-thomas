@@ -9284,20 +9284,21 @@
     {
       "id": "mqf46yrpccwbfdrohsv",
       "name": "Joe Pitts",
-      "email": "",
+      "email": "jpitts1234@att.net",
       "phone": "",
       "social": "https://www.facebook.com/joe.pitts.96",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-04",
-      "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-07-28",
+      "lastContact": "2026-08-04",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Joined as 2WT / 511116 Joseph ",
+      "lastModified": "2026-08-04",
       "dateAdded": "2026-06-15",
-      "addedAt": "2026-06-15T11:13:06.949Z"
+      "addedAt": "2026-06-15T11:13:06.949Z",
+      "customerSince": "2026-08-04"
     },
     {
       "id": "mqf47dx1vjx4d4ckv8o",
@@ -17806,5 +17807,5 @@
       "addedAt": "2026-08-04T12:02:17.366Z"
     }
   ],
-  "lastUpdated": "2026-08-04T12:39:51.702Z"
+  "lastUpdated": "2026-08-04T12:40:37.454Z"
 }
