@@ -6135,7 +6135,7 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-06",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-08-05",
       "notes": "David t page ",
       "lastModified": "2026-08-05",
       "dateAdded": "2026-06-04",
@@ -8296,14 +8296,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100009856144462",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T12:02:55.439Z"
     },
@@ -17969,5 +17969,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T10:58:52.117Z"
+  "lastUpdated": "2026-08-05T10:59:05.236Z"
 }
