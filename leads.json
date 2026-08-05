@@ -17859,7 +17859,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:50:41.257Z"
+    },
+    {
+      "id": "msfyuyhuhms3ix7svej",
+      "name": "Austin Cowart",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/donald.cowart.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T10:50:59.490Z"
     }
   ],
-  "lastUpdated": "2026-08-05T10:50:41.257Z"
+  "lastUpdated": "2026-08-05T10:50:59.490Z"
 }
