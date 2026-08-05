@@ -5951,14 +5951,14 @@
       "phone": "",
       "social": "https://www.facebook.com/WillianGabrielS",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:00:33.440Z"
     },
@@ -17970,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:27:06.948Z"
+  "lastUpdated": "2026-08-05T12:27:23.453Z"
 }
