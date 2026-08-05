@@ -14519,14 +14519,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CiMQW1VeK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T09:56:40.519Z"
     },
@@ -17971,5 +17971,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:43:44.822Z"
+  "lastUpdated": "2026-08-05T12:44:13.269Z"
 }
