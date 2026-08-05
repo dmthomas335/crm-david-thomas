@@ -1064,13 +1064,13 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.goldfarb.468343",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -17971,5 +17971,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:47:05.479Z"
+  "lastUpdated": "2026-08-05T12:47:41.081Z"
 }
