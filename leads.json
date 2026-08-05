@@ -9362,14 +9362,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1B8pPM8Z5w/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T08:17:05.198Z"
     },
@@ -17970,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:33:38.145Z"
+  "lastUpdated": "2026-08-05T12:33:55.104Z"
 }
