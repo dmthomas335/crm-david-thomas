@@ -13546,14 +13546,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dan.horn1",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T11:26:23.390Z"
     },
@@ -17969,5 +17969,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T11:00:13.621Z"
+  "lastUpdated": "2026-08-05T11:01:00.997Z"
 }
