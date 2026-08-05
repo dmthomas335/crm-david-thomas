@@ -198,11 +198,12 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-05-19",
-      "nextFollowUp": "2026-08-05",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-09-04",
       "notes": "@jenjuling TG Said not interested",
-      "lastModified": "2026-05-19",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbfwxa6yrx7jeqyogh",
@@ -17969,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:24:41.835Z"
+  "lastUpdated": "2026-08-05T12:25:23.788Z"
 }
