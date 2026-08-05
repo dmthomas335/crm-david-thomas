@@ -17877,7 +17877,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:50:59.490Z"
+    },
+    {
+      "id": "msfyvhiansu2dxiu8qf",
+      "name": "Jason Schiffmiller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.schiffmiller",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T10:51:24.130Z"
     }
   ],
-  "lastUpdated": "2026-08-05T10:50:59.490Z"
+  "lastUpdated": "2026-08-05T10:51:24.130Z"
 }
