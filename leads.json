@@ -13043,10 +13043,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
-      "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-05",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-09-01",
       "notes": "Email send lack of communication",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:23:04.599Z"
     },
@@ -17970,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:36:43.305Z"
+  "lastUpdated": "2026-08-05T12:37:28.643Z"
 }
