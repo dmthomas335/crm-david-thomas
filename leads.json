@@ -2996,11 +2996,11 @@
       "source": "Facebook",
       "status": "Watched",
       "temperature": "Warm",
-      "lastAction": "Follow-up 5",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-08-05",
+      "lastAction": "Follow-up 6+",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-09-08",
       "notes": "says joining june or july",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:22:43.836Z",
       "videoSent": false
@@ -17970,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:31:53.431Z"
+  "lastUpdated": "2026-08-05T12:32:42.615Z"
 }
