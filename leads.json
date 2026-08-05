@@ -17931,7 +17931,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:52:09.219Z"
+    },
+    {
+      "id": "msfywuj7gsvn53fct9o",
+      "name": "Daniel Greedy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.greedy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T10:52:27.667Z"
     }
   ],
-  "lastUpdated": "2026-08-05T10:52:09.219Z"
+  "lastUpdated": "2026-08-05T10:52:27.667Z"
 }
