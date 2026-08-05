@@ -6130,14 +6130,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18dfWdymQS/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T08:54:38.050Z"
     },
@@ -17969,5 +17969,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T10:58:05.163Z"
+  "lastUpdated": "2026-08-05T10:58:52.117Z"
 }
