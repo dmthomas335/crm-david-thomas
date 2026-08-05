@@ -16676,20 +16676,21 @@
     {
       "id": "ms5q87yfycwvxhl4g",
       "name": "Johnny Douglas ",
-      "email": "",
+      "email": "johnnydouglas711@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/share/18baep8VvX/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-05",
-      "notes": "Personal ",
-      "lastModified": "2026-07-28",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-12",
+      "notes": "Personal 668180 Ashley",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-07-28",
-      "addedAt": "2026-07-29T06:51:39.975Z"
+      "addedAt": "2026-07-29T06:51:39.975Z",
+      "customerSince": "2026-08-05"
     },
     {
       "id": "ms5z0cyf6ca4nfvy8bb",
@@ -17970,5 +17971,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:39:15.955Z"
+  "lastUpdated": "2026-08-05T12:40:02.644Z"
 }
