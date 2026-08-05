@@ -12571,14 +12571,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steven.lumiere",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-05",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-22",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-07-02",
       "addedAt": "2026-07-02T11:14:33.357Z"
     },
@@ -17970,5 +17970,5 @@
       "addedAt": "2026-08-05T10:52:52.995Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:35:53.865Z"
+  "lastUpdated": "2026-08-05T12:36:00.233Z"
 }
