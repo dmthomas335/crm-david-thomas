@@ -18043,7 +18043,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:12:36.717Z"
+    },
+    {
+      "id": "mshh87rxhvfb20u5mu8",
+      "name": "Steffan Roberts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steffan.roberts.507",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:12:57.309Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:12:36.717Z"
+  "lastUpdated": "2026-08-06T12:12:57.309Z"
 }
