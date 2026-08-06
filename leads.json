@@ -15366,14 +15366,14 @@
       "phone": "",
       "social": "https://www.facebook.com/josh.stanton.10004",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-31",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:46:08.044Z"
     },
@@ -18247,5 +18247,5 @@
       "addedAt": "2026-08-06T12:25:11.045Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:43:17.325Z"
+  "lastUpdated": "2026-08-06T12:43:40.325Z"
 }
