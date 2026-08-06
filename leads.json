@@ -18115,7 +18115,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:14:03.886Z"
+    },
+    {
+      "id": "mshhakm7s5uuvj0prih",
+      "name": "Jabari Soyinka",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jabari.soyinka.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:14:47.263Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:14:03.886Z"
+  "lastUpdated": "2026-08-06T12:14:47.263Z"
 }
