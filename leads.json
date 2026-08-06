@@ -18170,7 +18170,26 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:19:18.697Z"
+    },
+    {
+      "id": "mshhi00yu67rwtr2ym",
+      "name": "David Isaly",
+      "email": "dvisaly@gmail.com",
+      "phone": "",
+      "social": "https://www.facebook.com/david.isaly.3",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-09-07",
+      "notes": "MAM 512377 Check Sub\n",
+      "lastModified": "2026-08-06",
+      "customerSince": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:20:33.826Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:19:18.697Z"
+  "lastUpdated": "2026-08-06T12:20:33.826Z"
 }
