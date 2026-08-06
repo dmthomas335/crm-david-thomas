@@ -11616,14 +11616,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeanfrancois.renault",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-23",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T11:15:40.254Z"
     },
@@ -18247,5 +18247,5 @@
       "addedAt": "2026-08-06T12:25:11.045Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:47:12.455Z"
+  "lastUpdated": "2026-08-06T12:47:56.823Z"
 }
