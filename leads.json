@@ -7827,16 +7827,17 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "2WT",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-11",
-      "notes": "Email",
-      "lastModified": "2026-08-05",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-10",
+      "notes": "Email 517630 Cam ",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T10:56:09.249Z"
+      "addedAt": "2026-06-10T10:56:09.249Z",
+      "customerSince": "2026-08-06"
     },
     {
       "id": "mq7z18lw980lq651c1t",
@@ -17990,5 +17991,5 @@
       "addedAt": "2026-08-06T11:03:22.352Z"
     }
   ],
-  "lastUpdated": "2026-08-06T11:11:29.400Z"
+  "lastUpdated": "2026-08-06T11:13:14.015Z"
 }
