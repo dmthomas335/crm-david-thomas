@@ -18079,7 +18079,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:13:24.654Z"
+    },
+    {
+      "id": "mshh97t3bwc8jj600zn",
+      "name": "David Stevenson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.stevenson.9028",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:13:44.007Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:13:24.654Z"
+  "lastUpdated": "2026-08-06T12:13:44.007Z"
 }
