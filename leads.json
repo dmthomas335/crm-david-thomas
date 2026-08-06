@@ -775,13 +775,13 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.wilson.959818",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "Sent biz pres David T Page ",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -18247,5 +18247,5 @@
       "addedAt": "2026-08-06T12:25:11.045Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:33:13.032Z"
+  "lastUpdated": "2026-08-06T12:34:43.200Z"
 }
