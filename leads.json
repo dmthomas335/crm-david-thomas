@@ -18152,7 +18152,25 @@
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:17:17.177Z"
+    },
+    {
+      "id": "mshhge21kp1mzkp0h6",
+      "name": "Paul Hurst",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.hurst.9216778",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-09-04",
+      "notes": "518634 Me Personal ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:19:18.697Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:17:17.177Z"
+  "lastUpdated": "2026-08-06T12:19:18.697Z"
 }
