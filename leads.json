@@ -17969,7 +17969,26 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:52:52.995Z"
+    },
+    {
+      "id": "msheqqcwl4zboemyek",
+      "name": "Rre Sesinyi",
+      "email": "sesinyi2000@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-08",
+      "notes": "Personal Me 766170",
+      "lastModified": "2026-08-06",
+      "customerSince": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T11:03:22.352Z"
     }
   ],
-  "lastUpdated": "2026-08-05T12:47:41.081Z"
+  "lastUpdated": "2026-08-06T11:03:22.352Z"
 }
