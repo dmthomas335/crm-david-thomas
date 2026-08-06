@@ -6839,9 +6839,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-08-07",
-      "notes": "Personal ",
-      "lastModified": "2026-07-08",
+      "nextFollowUp": "2026-08-12",
+      "notes": "Personal 753475 Casmer",
+      "lastModified": "2026-08-06",
       "customerSince": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:32:07.864Z"
@@ -17990,5 +17990,5 @@
       "addedAt": "2026-08-06T11:03:22.352Z"
     }
   ],
-  "lastUpdated": "2026-08-06T11:03:22.352Z"
+  "lastUpdated": "2026-08-06T11:11:29.400Z"
 }
