@@ -18061,7 +18061,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:12:57.309Z"
+    },
+    {
+      "id": "mshh8svihc41nur18go",
+      "name": "Mario Leonardo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mariusz.pi.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:13:24.654Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:12:57.309Z"
+  "lastUpdated": "2026-08-06T12:13:24.654Z"
 }
