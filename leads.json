@@ -18025,7 +18025,25 @@
       "lastModified": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:12:15.789Z"
+    },
+    {
+      "id": "mshh7rvxryqz8ndgt3d",
+      "name": "Brett Stevens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brett.stevens.9406",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:12:36.717Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:12:15.789Z"
+  "lastUpdated": "2026-08-06T12:12:36.717Z"
 }
