@@ -4723,14 +4723,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18FTEUD7ta/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T11:18:24.201Z"
     },
@@ -18247,5 +18247,5 @@
       "addedAt": "2026-08-06T12:25:11.045Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:34:43.200Z"
+  "lastUpdated": "2026-08-06T12:35:03.968Z"
 }
