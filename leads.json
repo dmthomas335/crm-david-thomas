@@ -17989,7 +17989,25 @@
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T11:03:22.352Z"
+    },
+    {
+      "id": "mshh6q4e9j0lvw6n2gq",
+      "name": "George Siaperas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.siaperas.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-06",
+      "nextFollowUp": "2026-08-13",
+      "notes": "Personal ",
+      "lastModified": "2026-08-06",
+      "dateAdded": "2026-08-06",
+      "addedAt": "2026-08-06T12:11:47.775Z"
     }
   ],
-  "lastUpdated": "2026-08-06T11:13:14.015Z"
+  "lastUpdated": "2026-08-06T12:11:47.775Z"
 }
