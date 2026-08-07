@@ -1601,13 +1601,13 @@
       "phone": "",
       "social": "https://www.facebook.com/sean.moore2",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-07",
+      "nextFollowUp": null,
       "notes": "personal joined as 2WT",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T14:50:52.612Z",
       "videoSent": true
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:27:20.973Z"
+  "lastUpdated": "2026-08-07T13:27:38.337Z"
 }
