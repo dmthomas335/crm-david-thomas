@@ -12066,14 +12066,14 @@
       "phone": "",
       "social": "https://www.facebook.com/conor.mccourt.79",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-08-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:11:47.154Z"
     },
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:19:06.150Z"
+  "lastUpdated": "2026-08-07T13:19:35.030Z"
 }
