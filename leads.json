@@ -3066,13 +3066,13 @@
       "phone": "",
       "social": "https://www.facebook.com/tree.bugatti",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-07",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:39:24.797Z",
       "videoSent": true
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:03:15.964Z"
+  "lastUpdated": "2026-08-07T13:03:36.740Z"
 }
