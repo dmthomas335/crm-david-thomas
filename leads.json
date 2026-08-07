@@ -18371,7 +18371,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:30:48.748Z"
+    },
+    {
+      "id": "msixcud9ipx2m86b89",
+      "name": "Jack Atkinson Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jackatkinsonjr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-09-07",
+      "notes": "Personal 706301 me cancelled\n",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T12:32:13.245Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:30:48.748Z"
+  "lastUpdated": "2026-08-07T12:32:13.245Z"
 }
