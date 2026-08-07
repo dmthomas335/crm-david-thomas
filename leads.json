@@ -18317,7 +18317,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:26:28.765Z"
+    },
+    {
+      "id": "msix6b4f798em1s2hqf",
+      "name": "Aaron Cosby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aarontheman.cosby",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T12:27:08.367Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:26:28.765Z"
+  "lastUpdated": "2026-08-07T12:27:08.367Z"
 }
