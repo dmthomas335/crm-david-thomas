@@ -2906,9 +2906,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-08-07",
+      "nextFollowUp": "2026-08-26",
       "notes": "personal me 518332",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:53:24.890Z",
       "videoSent": true,
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:43:11.341Z"
+  "lastUpdated": "2026-08-07T12:54:55.508Z"
 }
