@@ -18145,10 +18145,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-08-07",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
       "notes": "516557 - Brandon Munn \n",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-08-07",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:17:17.177Z"
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:56:18.060Z"
+  "lastUpdated": "2026-08-07T12:56:30.548Z"
 }
