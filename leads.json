@@ -18389,7 +18389,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:32:13.245Z"
+    },
+    {
+      "id": "msixgr9x8c7l7akq6xy",
+      "name": "Chris Jones",
+      "email": "cjtrader1414@gmail.com",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.jones.422235",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-09-09",
+      "notes": "South Lyon Michigan Personal 705611 Me Cancelled",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T12:35:15.861Z"
     }
   ],
-  "lastUpdated": "2026-08-07T12:34:18.252Z"
+  "lastUpdated": "2026-08-07T12:35:15.861Z"
 }
