@@ -18245,7 +18245,25 @@
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:25:11.045Z"
+    },
+    {
+      "id": "msix3zi77slt4m4au8y",
+      "name": "Larry Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/larry.williams.543908",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-07T12:25:19.999Z"
     }
   ],
-  "lastUpdated": "2026-08-06T12:51:53.402Z"
+  "lastUpdated": "2026-08-07T12:25:19.999Z"
 }
