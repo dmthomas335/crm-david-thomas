@@ -5251,10 +5251,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-08-07",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-09-24",
       "notes": "personal",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:37:24.636Z"
     },
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:05:21.316Z"
+  "lastUpdated": "2026-08-07T13:05:34.852Z"
 }
