@@ -17819,11 +17819,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-07",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-14",
       "notes": "Personal",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T09:16:32.682Z"
     },
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:27:38.337Z"
+  "lastUpdated": "2026-08-07T13:28:02.805Z"
 }
