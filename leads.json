@@ -13638,14 +13638,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jacob.cramer.7902",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-08-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-08-07",
       "dateAdded": "2026-07-09",
       "addedAt": "2026-07-09T11:48:36.601Z"
     },
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-07T13:21:44.918Z"
+  "lastUpdated": "2026-08-07T13:21:58.796Z"
 }
