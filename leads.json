@@ -728,11 +728,11 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-16",
+      "nextFollowUp": "2026-08-14",
       "notes": "",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-08",
       "dateAdded": "2026-05-19",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpcq303wqs43jsq59p",
@@ -18517,5 +18517,5 @@
       "addedAt": "2026-08-07T12:43:11.341Z"
     }
   ],
-  "lastUpdated": "2026-08-08T12:07:29.440Z"
+  "lastUpdated": "2026-08-08T12:07:57.175Z"
 }
