@@ -18732,7 +18732,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:24:40.795Z"
+    },
+    {
+      "id": "msn5a2d1e4g1qa2ewu7",
+      "name": "Kim Phan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ms.Unicornkim",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:25:05.269Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:24:40.795Z"
+  "lastUpdated": "2026-08-10T11:25:05.269Z"
 }
