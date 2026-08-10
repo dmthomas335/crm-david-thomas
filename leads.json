@@ -14649,11 +14649,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-10",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-09-24",
       "notes": "Personal ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:09:36.144Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:55:53.746Z"
+  "lastUpdated": "2026-08-10T12:56:11.499Z"
 }
