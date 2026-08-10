@@ -18696,7 +18696,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:23:40.731Z"
+    },
+    {
+      "id": "msn590zeeqo9zs6xqu",
+      "name": "Hemi Jahnke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hemi.jahnke",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:24:16.826Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:23:40.731Z"
+  "lastUpdated": "2026-08-10T11:24:16.826Z"
 }
