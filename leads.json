@@ -13530,14 +13530,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeffrey.pittman.16",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-10",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-09-09",
       "notes": "Personal ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T10:57:50.024Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:50:32.823Z"
+  "lastUpdated": "2026-08-10T12:51:30.480Z"
 }
