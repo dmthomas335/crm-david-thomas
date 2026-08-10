@@ -8880,10 +8880,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-08",
-      "nextFollowUp": "2026-08-10",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-12",
       "notes": "Personal ",
-      "lastModified": "2026-08-08",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:20:13.360Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:58:27.516Z"
+  "lastUpdated": "2026-08-10T12:58:46.548Z"
 }
