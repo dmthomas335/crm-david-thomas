@@ -18216,14 +18216,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100001219073949",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-08-10",
+      "nextFollowUp": null,
       "notes": "509872 MAM cancelled Check sub\n",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:23:36.852Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:57:47.004Z"
+  "lastUpdated": "2026-08-10T12:58:27.516Z"
 }
