@@ -15384,14 +15384,14 @@
       "phone": "",
       "social": "https://www.facebook.com/darryl.delatorre.16",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-10",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:46:30.555Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:56:59.099Z"
+  "lastUpdated": "2026-08-10T12:57:25.188Z"
 }
