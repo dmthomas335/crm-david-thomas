@@ -18533,7 +18533,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:17:05.177Z"
+    },
+    {
+      "id": "msn509pf2c8megx4flu",
+      "name": "Venkat Malisetty",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vmalisetty",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:17:28.227Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:17:05.178Z"
+  "lastUpdated": "2026-08-10T11:17:28.227Z"
 }
