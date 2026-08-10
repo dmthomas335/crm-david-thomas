@@ -18587,7 +18587,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:18:22.291Z"
+    },
+    {
+      "id": "msn52bs4et8on0a0cy",
+      "name": "Kerm San",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kerm.san",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:19:04.228Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:18:22.291Z"
+  "lastUpdated": "2026-08-10T11:19:04.229Z"
 }
