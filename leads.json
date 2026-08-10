@@ -7758,10 +7758,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-01",
-      "nextFollowUp": "2026-08-10",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-14",
       "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:56:58.734Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:54:01.858Z"
+  "lastUpdated": "2026-08-10T12:55:17.514Z"
 }
