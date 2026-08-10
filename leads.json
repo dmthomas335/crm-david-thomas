@@ -18641,7 +18641,26 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:19:46.014Z"
+    },
+    {
+      "id": "msn55i7kfx7i5ex3g1",
+      "name": "Steven Snowman",
+      "email": "stephen.snowman@yahoo.com",
+      "phone": "",
+      "social": "https://www.facebook.com/stephensnowman",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-12",
+      "notes": "Personal 686804 Samuel Romero",
+      "lastModified": "2026-08-10",
+      "customerSince": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:21:32.528Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:20:22.311Z"
+  "lastUpdated": "2026-08-10T11:21:32.528Z"
 }
