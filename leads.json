@@ -7831,8 +7831,8 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-08-10",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-24",
       "notes": "Email 699700 Cam ",
       "lastModified": "2026-08-10",
       "dateAdded": "2026-06-10",
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:31:38.642Z"
+  "lastUpdated": "2026-08-10T12:32:45.331Z"
 }
