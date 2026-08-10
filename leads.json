@@ -15960,14 +15960,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19YJSPgm4A/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-10",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T11:52:50.344Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:57:25.188Z"
+  "lastUpdated": "2026-08-10T12:57:47.004Z"
 }
