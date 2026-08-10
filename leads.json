@@ -7772,14 +7772,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CwDJtAjnB/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-08-10",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T18:36:02.489Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:32:51.788Z"
+  "lastUpdated": "2026-08-10T12:43:13.378Z"
 }
