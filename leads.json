@@ -11382,14 +11382,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100046759988260",
       "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": null,
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-17",
       "notes": "Personal ",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:27:58.955Z"
     },
@@ -18643,5 +18643,5 @@
       "addedAt": "2026-08-10T11:19:46.014Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:19:46.014Z"
+  "lastUpdated": "2026-08-10T11:20:22.311Z"
 }
