@@ -18515,7 +18515,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:43:11.341Z"
+    },
+    {
+      "id": "msn4zrx5q8pu6i2q1m",
+      "name": "Sean Siatan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sean.siatan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:17:05.177Z"
     }
   ],
-  "lastUpdated": "2026-08-08T12:08:27.760Z"
+  "lastUpdated": "2026-08-10T11:17:05.178Z"
 }
