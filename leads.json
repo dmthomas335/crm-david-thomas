@@ -18750,7 +18750,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:25:05.269Z"
+    },
+    {
+      "id": "msn5azav6la0nunmeb",
+      "name": "Vytautas Nacas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vnacas",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:25:47.959Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:25:05.269Z"
+  "lastUpdated": "2026-08-10T11:25:47.959Z"
 }
