@@ -18623,7 +18623,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:19:28.550Z"
+    },
+    {
+      "id": "msn5380u9wl3cqh9rkp",
+      "name": "Mario Leal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mario.leal.777",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T11:19:46.014Z"
     }
   ],
-  "lastUpdated": "2026-08-10T11:19:28.550Z"
+  "lastUpdated": "2026-08-10T11:19:46.014Z"
 }
