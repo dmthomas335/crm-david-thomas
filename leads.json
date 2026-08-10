@@ -7555,14 +7555,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EN4n2uXFy/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-08-10",
+      "nextFollowUp": null,
       "notes": "Dave T Page ",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T07:58:32.912Z"
     },
@@ -18788,5 +18788,5 @@
       "addedAt": "2026-08-10T11:26:18.206Z"
     }
   ],
-  "lastUpdated": "2026-08-10T12:44:50.772Z"
+  "lastUpdated": "2026-08-10T12:46:02.948Z"
 }
