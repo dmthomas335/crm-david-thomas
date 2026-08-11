@@ -2579,10 +2579,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-11",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-25",
       "notes": "personal 561034 Stacy Inactive ",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:27:46.630Z",
       "videoSent": true,
@@ -19059,5 +19059,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:35:24.513Z"
+  "lastUpdated": "2026-08-11T11:36:01.698Z"
 }
