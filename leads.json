@@ -18363,14 +18363,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-08-11",
+      "nextFollowUp": null,
       "notes": "746163 MAM check sub Cancelled\n",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:30:48.748Z"
     },
@@ -19061,5 +19061,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T13:41:26.171Z"
+  "lastUpdated": "2026-08-11T13:42:44.259Z"
 }
