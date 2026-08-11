@@ -17294,14 +17294,14 @@
       "phone": "",
       "social": "https://www.facebook.com/roseann.roberts.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-01",
-      "nextFollowUp": "2026-08-11",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-01",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:10:09.287Z"
     },
@@ -19059,5 +19059,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:41:37.421Z"
+  "lastUpdated": "2026-08-11T11:44:02.199Z"
 }
