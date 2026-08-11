@@ -18877,7 +18877,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:23:12.700Z"
+    },
+    {
+      "id": "msoknv71wgi285ue7ci",
+      "name": "Aaron Lipman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aaron.lipman.927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T11:23:29.581Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:23:12.700Z"
+  "lastUpdated": "2026-08-11T11:23:29.581Z"
 }
