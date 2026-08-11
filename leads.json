@@ -16776,11 +16776,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-11",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-25",
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:59:14.158Z"
     },
@@ -19060,5 +19060,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T13:37:33.206Z"
+  "lastUpdated": "2026-08-11T13:37:54.342Z"
 }
