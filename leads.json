@@ -19039,7 +19039,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:32:09.914Z"
+    },
+    {
+      "id": "msokzn29ro58cw6t7m",
+      "name": "Jilleane Louise",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jellyanloweez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:32:09.914Z"
+  "lastUpdated": "2026-08-11T11:32:38.913Z"
 }
