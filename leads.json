@@ -17101,11 +17101,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-08-11",
+      "lastAction": "Follow-up 3",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-09-23",
       "notes": "Personal ",
-      "lastModified": "2026-08-04",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T12:35:06.398Z"
     },
@@ -19061,5 +19061,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T13:40:37.739Z"
+  "lastUpdated": "2026-08-11T13:41:10.780Z"
 }
