@@ -18823,7 +18823,25 @@
       "customerSince": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:21:45.684Z"
+    },
+    {
+      "id": "msokmcr0hr01vvyqv0i",
+      "name": "Jason A Meyers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason26myers",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-11T11:22:19.020Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:21:45.684Z"
+  "lastUpdated": "2026-08-11T11:22:19.021Z"
 }
