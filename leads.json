@@ -7235,10 +7235,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-08-11",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-09-14",
       "notes": "Personal give to casmer ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-11",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T07:00:42.159Z"
     },
@@ -19059,5 +19059,5 @@
       "addedAt": "2026-08-11T11:32:38.913Z"
     }
   ],
-  "lastUpdated": "2026-08-11T11:45:17.303Z"
+  "lastUpdated": "2026-08-11T11:45:38.367Z"
 }
