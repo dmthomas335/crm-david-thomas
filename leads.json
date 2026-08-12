@@ -2866,13 +2866,13 @@
       "phone": "",
       "social": "https://www.facebook.com/mwebb38655",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "sent biz video Dave t page ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:51:24.328Z",
       "videoSent": false
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:49:02.891Z"
+  "lastUpdated": "2026-08-12T11:49:30.195Z"
 }
