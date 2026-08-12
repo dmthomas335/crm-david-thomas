@@ -19203,7 +19203,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:58:19.015Z"
+    },
+    {
+      "id": "mspz89edqqci1aztbp",
+      "name": "Mike Bradley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1CRK8uwo1N/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T10:59:01.910Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:58:19.015Z"
+  "lastUpdated": "2026-08-12T10:59:01.911Z"
 }
