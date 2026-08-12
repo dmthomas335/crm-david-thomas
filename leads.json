@@ -16687,9 +16687,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": "2026-09-04",
       "notes": "Personal 668180 Ashley",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T06:51:39.975Z",
       "customerSince": "2026-08-05"
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:47:01.818Z"
+  "lastUpdated": "2026-08-12T11:47:33.043Z"
 }
