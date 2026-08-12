@@ -2019,9 +2019,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": "2026-11-17",
       "notes": "personal",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:34:21.141Z",
       "videoSent": false
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:31:25.154Z"
+  "lastUpdated": "2026-08-12T12:32:03.730Z"
 }
