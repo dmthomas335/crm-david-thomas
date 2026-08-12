@@ -19239,7 +19239,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:59:57.746Z"
+    },
+    {
+      "id": "mspzapoq9gswtba1v2f",
+      "name": "Kdp Prateek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/18mDKDL9dS/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T11:00:56.330Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:59:57.746Z"
+  "lastUpdated": "2026-08-12T11:00:56.330Z"
 }
