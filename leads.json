@@ -14826,14 +14826,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DBbzLw96b/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:46:30.132Z"
     },
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:46:56.570Z"
+  "lastUpdated": "2026-08-12T12:47:16.547Z"
 }
