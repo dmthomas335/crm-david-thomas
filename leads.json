@@ -1312,13 +1312,13 @@
       "phone": "",
       "social": "https://www.facebook.com/tracey.loader.35",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:27:35.599Z",
       "videoSent": false
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:29:01.737Z"
+  "lastUpdated": "2026-08-12T12:29:39.185Z"
 }
