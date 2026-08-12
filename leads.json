@@ -19167,7 +19167,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:56:50.737Z"
+    },
+    {
+      "id": "mspz6j9o3a8hhiloaus",
+      "name": "Jack Gaines",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1D2enMjtmx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T10:57:41.388Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:56:50.737Z"
+  "lastUpdated": "2026-08-12T10:57:41.388Z"
 }
