@@ -17444,10 +17444,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-02",
-      "nextFollowUp": "2026-08-12",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-02",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal ",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:34:35.767Z"
     },
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T11:52:09.564Z"
+  "lastUpdated": "2026-08-12T11:52:36.029Z"
 }
