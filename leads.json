@@ -14340,14 +14340,14 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.metcalf.71",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:19:22.050Z"
     },
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:30:02.657Z"
+  "lastUpdated": "2026-08-12T12:30:22.785Z"
 }
