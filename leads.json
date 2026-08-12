@@ -19131,7 +19131,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:55:27.606Z"
+    },
+    {
+      "id": "mspz4pvhqx8m5wss8p",
+      "name": "AJ Hurst",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1BkSmLUfX9/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T10:56:16.637Z"
     }
   ],
-  "lastUpdated": "2026-08-12T10:55:27.607Z"
+  "lastUpdated": "2026-08-12T10:56:16.638Z"
 }
