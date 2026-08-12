@@ -14610,14 +14610,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steven.mathias.169",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:08:51.295Z"
     },
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:35:15.388Z"
+  "lastUpdated": "2026-08-12T12:35:37.949Z"
 }
