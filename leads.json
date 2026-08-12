@@ -13818,14 +13818,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1HMSYGaWER/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:06:58.117Z"
     },
@@ -19331,5 +19331,5 @@
       "addedAt": "2026-08-12T11:03:51.061Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:29:39.185Z"
+  "lastUpdated": "2026-08-12T12:30:02.657Z"
 }
