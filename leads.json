@@ -13383,14 +13383,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-13",
+      "nextFollowUp": null,
       "notes": "MAM 760262 cancelled",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-08-13",
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:38:12.371Z"
@@ -19385,5 +19385,5 @@
       "addedAt": "2026-08-13T11:24:39.040Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:48:27.884Z"
+  "lastUpdated": "2026-08-13T11:49:43.315Z"
 }
