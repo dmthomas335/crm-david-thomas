@@ -19347,7 +19347,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T07:27:03.376Z"
+    },
+    {
+      "id": "msrfkmbkmsrsnsyzs",
+      "name": "Sati Virdi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sati.virdi.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:24:18.560Z"
     }
   ],
-  "lastUpdated": "2026-08-13T07:28:37.322Z"
+  "lastUpdated": "2026-08-13T11:24:18.561Z"
 }
