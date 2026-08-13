@@ -19329,7 +19329,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:03:51.061Z"
+    },
+    {
+      "id": "msr73ids6vvlvjdpgyh",
+      "name": "Yolanda Reid ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1GtvrXLCYx/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-18",
+      "notes": "David T Page ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T07:27:03.376Z"
     }
   ],
-  "lastUpdated": "2026-08-12T12:48:03.755Z"
+  "lastUpdated": "2026-08-13T07:27:03.376Z"
 }
