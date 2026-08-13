@@ -15820,10 +15820,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-08-13",
-      "notes": "Personal Birthday MAM 732126",
-      "lastModified": "2026-08-11",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-09-17",
+      "notes": "Personal MAM 732126",
+      "lastModified": "2026-08-13",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:12:09.346Z",
       "customerSince": "2026-08-11"
@@ -19385,5 +19385,5 @@
       "addedAt": "2026-08-13T11:24:39.040Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:46:23.952Z"
+  "lastUpdated": "2026-08-13T11:47:29.927Z"
 }
