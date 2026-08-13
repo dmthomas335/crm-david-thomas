@@ -14052,14 +14052,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matt.jinks.50",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-13",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:17:29.806Z"
     },
@@ -19601,5 +19601,5 @@
       "addedAt": "2026-08-13T12:01:02.870Z"
     }
   ],
-  "lastUpdated": "2026-08-13T12:18:39.683Z"
+  "lastUpdated": "2026-08-13T12:20:22.243Z"
 }
