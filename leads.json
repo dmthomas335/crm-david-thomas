@@ -19419,7 +19419,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:57:13.894Z"
+    },
+    {
+      "id": "msrgri2rvrdpg63b3hk",
+      "name": "Lisa Alaine Kazempour",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lisa.thurman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:57:39.267Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:57:13.894Z"
+  "lastUpdated": "2026-08-13T11:57:39.267Z"
 }
