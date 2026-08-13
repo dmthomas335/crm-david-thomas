@@ -19545,7 +19545,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:59:32.280Z"
+    },
+    {
+      "id": "msrgub4gjm637spzznj",
+      "name": "Randy Barnes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randy.barnes.35912",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:59:50.224Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:59:32.280Z"
+  "lastUpdated": "2026-08-13T11:59:50.224Z"
 }
