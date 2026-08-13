@@ -19527,7 +19527,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:59:15.082Z"
+    },
+    {
+      "id": "msrgtxa0l6onk20aujb",
+      "name": "Ron Ben",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ron.aj.790",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:59:32.280Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:59:15.082Z"
+  "lastUpdated": "2026-08-13T11:59:32.280Z"
 }
