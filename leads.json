@@ -2884,13 +2884,13 @@
       "phone": "",
       "social": "https://www.facebook.com/CarolynsCollection",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-08-13",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-08-13",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:52:44.866Z",
       "videoSent": false
@@ -19601,5 +19601,5 @@
       "addedAt": "2026-08-13T12:01:02.870Z"
     }
   ],
-  "lastUpdated": "2026-08-13T12:12:47.786Z"
+  "lastUpdated": "2026-08-13T12:13:05.090Z"
 }
