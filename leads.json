@@ -4935,7 +4935,7 @@
     {
       "id": "mpsav5i8b70wj8ntjct",
       "name": "Alex Kerr",
-      "email": "",
+      "email": "ajckerr@gmail.com",
       "phone": "",
       "social": "",
       "source": "Facebook",
@@ -4943,10 +4943,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-13",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-09-23",
       "notes": "Joined as 2WT customer / TG 555980 Scott Morris",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-13",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:01:11.072Z",
       "customerSince": "2026-06-17"
@@ -19385,5 +19385,5 @@
       "addedAt": "2026-08-13T11:24:39.040Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:47:29.927Z"
+  "lastUpdated": "2026-08-13T11:48:21.270Z"
 }
