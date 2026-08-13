@@ -19473,7 +19473,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:58:16.035Z"
+    },
+    {
+      "id": "msrgssuqaw6u64m53x",
+      "name": "Christopher Bush",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christopher.bush.792",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:58:39.890Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:58:16.035Z"
+  "lastUpdated": "2026-08-13T11:58:39.890Z"
 }
