@@ -19401,7 +19401,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:56:53.718Z"
+    },
+    {
+      "id": "msrgqyhy7goxofoel6w",
+      "name": "Will Vai",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/will.vai.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T11:57:13.894Z"
     }
   ],
-  "lastUpdated": "2026-08-13T11:56:53.718Z"
+  "lastUpdated": "2026-08-13T11:57:13.894Z"
 }
