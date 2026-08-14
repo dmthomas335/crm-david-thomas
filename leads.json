@@ -14844,14 +14844,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CoYy2YDG5/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-14",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:47:23.211Z"
     },
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:10:15.023Z"
+  "lastUpdated": "2026-08-14T13:11:09.418Z"
 }
