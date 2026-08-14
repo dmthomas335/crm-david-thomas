@@ -1780,13 +1780,13 @@
       "phone": "",
       "social": "https://www.facebook.com/james.ndungu.145456",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-02",
-      "nextFollowUp": "2026-08-14",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-02",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-22T11:42:25.147Z",
       "videoSent": true
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:00:24.338Z"
+  "lastUpdated": "2026-08-14T13:00:35.362Z"
 }
