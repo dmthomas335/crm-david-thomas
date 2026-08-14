@@ -17044,14 +17044,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=831832509",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:33:01.289Z"
     },
@@ -19601,5 +19601,5 @@
       "addedAt": "2026-08-13T12:01:02.870Z"
     }
   ],
-  "lastUpdated": "2026-08-13T12:26:04.684Z"
+  "lastUpdated": "2026-08-14T11:23:19.163Z"
 }
