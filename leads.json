@@ -1997,13 +1997,13 @@
       "phone": "",
       "social": "https://www.facebook.com/keith.parker.3950178",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-08-14",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:32:18.261Z",
       "videoSent": true
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:00:35.362Z"
+  "lastUpdated": "2026-08-14T13:00:54.706Z"
 }
