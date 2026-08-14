@@ -19851,7 +19851,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:13:41.793Z"
+    },
+    {
+      "id": "msswsdld8pt45zf1y5j",
+      "name": "Mark Bean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mark.bean.73307",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-09-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:13:41.793Z"
+  "lastUpdated": "2026-08-14T12:14:00.145Z"
 }
