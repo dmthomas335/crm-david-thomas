@@ -19653,7 +19653,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:06:57.629Z"
+    },
+    {
+      "id": "msswjp9n7pspa4v93oi",
+      "name": "Huddson Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/huddson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:07:15.371Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:06:57.630Z"
+  "lastUpdated": "2026-08-14T12:07:15.371Z"
 }
