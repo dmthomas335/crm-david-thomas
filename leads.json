@@ -4972,7 +4972,7 @@
     {
       "id": "mpsckx088lnkk4hmn2i",
       "name": "Joshua Ryan Prunty",
-      "email": "",
+      "email": "joshua.r.prunty@outlook.com",
       "phone": "",
       "social": "https://www.facebook.com/joshua.prunty",
       "source": "Facebook",
@@ -4980,10 +4980,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-08-14",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-21",
       "notes": "Text 753925 ME\n",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:49:12.728Z",
       "customerSince": "2026-06-08"
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:48:29.379Z"
+  "lastUpdated": "2026-08-14T12:49:27.412Z"
 }
