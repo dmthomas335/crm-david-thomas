@@ -19617,7 +19617,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:06:19.438Z"
+    },
+    {
+      "id": "msswiyhhck9gpyoyrqd",
+      "name": "Jim Kulp",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.kulp.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:06:40.661Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:06:19.438Z"
+  "lastUpdated": "2026-08-14T12:06:40.661Z"
 }
