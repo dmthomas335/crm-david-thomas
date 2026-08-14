@@ -10967,14 +10967,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DqwWEkFp1/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-08-14",
+      "nextFollowUp": null,
       "notes": "Personal Joined Soriano 758693",
-      "lastModified": "2026-07-31",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T08:42:31.770Z",
       "customerSince": "2026-07-03"
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:48:11.636Z"
+  "lastUpdated": "2026-08-14T12:48:29.379Z"
 }
