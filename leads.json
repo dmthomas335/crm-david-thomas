@@ -19689,7 +19689,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:07:42.029Z"
+    },
+    {
+      "id": "msswkn9zhbbj8xucvae",
+      "name": "Sydney Taylor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sydney.taylor.75641",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-28",
+      "notes": "Birthday Personal ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:07:59.447Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:07:42.029Z"
+  "lastUpdated": "2026-08-14T12:07:59.447Z"
 }
