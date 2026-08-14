@@ -19815,7 +19815,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:12:21.107Z"
+    },
+    {
+      "id": "msswrlmqx927i3u3up",
+      "name": "Morgan Geczi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/morgan.geczi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-09-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:13:23.906Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:12:21.107Z"
+  "lastUpdated": "2026-08-14T12:13:23.906Z"
 }
