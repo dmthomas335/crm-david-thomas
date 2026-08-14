@@ -19635,7 +19635,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:06:40.661Z"
+    },
+    {
+      "id": "msswjbkt8s09oq1dx4r",
+      "name": "Ed Burgess",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/edd1108",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:06:57.629Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:06:40.661Z"
+  "lastUpdated": "2026-08-14T12:06:57.630Z"
 }
