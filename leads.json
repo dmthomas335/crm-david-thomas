@@ -19671,7 +19671,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:07:15.371Z"
+    },
+    {
+      "id": "msswk9u5oaqw64hiyh",
+      "name": "DeWayne Dantzler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dewayne.dantzler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-14",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-14",
+      "dateAdded": "2026-08-14",
+      "addedAt": "2026-08-14T12:07:42.029Z"
     }
   ],
-  "lastUpdated": "2026-08-14T12:07:15.371Z"
+  "lastUpdated": "2026-08-14T12:07:42.029Z"
 }
