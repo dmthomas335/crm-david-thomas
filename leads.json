@@ -5265,14 +5265,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-08-14",
+      "nextFollowUp": null,
       "notes": "Discord",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-08-14",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:38:41.947Z"
     },
@@ -19871,5 +19871,5 @@
       "addedAt": "2026-08-14T12:14:00.145Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:09:36.216Z"
+  "lastUpdated": "2026-08-14T13:10:15.023Z"
 }
