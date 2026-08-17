@@ -20122,7 +20122,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:40:08.858Z"
+    },
+    {
+      "id": "msx82hluc4q1b1my68n",
+      "name": "Josh Gabbard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josh.gabbard.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T12:40:52.386Z"
     }
   ],
-  "lastUpdated": "2026-08-17T12:40:08.858Z"
+  "lastUpdated": "2026-08-17T12:40:52.386Z"
 }
