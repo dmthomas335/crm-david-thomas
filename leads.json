@@ -19941,7 +19941,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:23:23.730Z"
+    },
+    {
+      "id": "msx5bac1qejrmh1egaa",
+      "name": "Shawn Walker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shawn.walker.96930",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T11:23:44.017Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:23:23.730Z"
+  "lastUpdated": "2026-08-17T11:23:44.017Z"
 }
