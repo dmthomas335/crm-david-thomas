@@ -19887,7 +19887,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T07:10:52.589Z"
+    },
+    {
+      "id": "mswwa42svd3m7p79m7j",
+      "name": "Luis Euceda ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19Mo8wZ8fZ/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-19",
+      "notes": "Personal ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T07:10:52.708Z"
     }
   ],
-  "lastUpdated": "2026-08-17T07:10:52.589Z"
+  "lastUpdated": "2026-08-17T07:11:31.515Z"
 }
