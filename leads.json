@@ -17472,20 +17472,21 @@
     {
       "id": "msbsa27etqm0wgb2ri",
       "name": "Scotty Thompson",
-      "email": "",
+      "email": "sthusky43@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/share/1DoKPtki3n/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-02",
-      "nextFollowUp": "2026-08-17",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-02",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-09-16",
+      "notes": "Personal 513571 Ashley ",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-08-02",
-      "addedAt": "2026-08-02T12:35:42.122Z"
+      "addedAt": "2026-08-02T12:35:42.122Z",
+      "customerSince": "2026-08-17"
     },
     {
       "id": "msbsamo3cm938ltnby",
@@ -20033,5 +20034,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:41:36.801Z"
+  "lastUpdated": "2026-08-17T11:44:30.506Z"
 }
