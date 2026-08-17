@@ -13926,14 +13926,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GuBECx4Yv/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-07-12",
       "addedAt": "2026-07-12T11:37:27.609Z"
     },
@@ -20034,5 +20034,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T12:36:27.559Z"
+  "lastUpdated": "2026-08-17T12:36:44.310Z"
 }
