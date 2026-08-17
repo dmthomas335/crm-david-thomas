@@ -15798,14 +15798,14 @@
       "phone": "",
       "social": "https://www.facebook.com/soe.yarzar.18",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:11:51.458Z"
     },
@@ -20034,5 +20034,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T12:37:01.855Z"
+  "lastUpdated": "2026-08-17T12:37:20.727Z"
 }
