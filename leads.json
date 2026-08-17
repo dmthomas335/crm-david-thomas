@@ -20013,7 +20013,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:24:49.508Z"
+    },
+    {
+      "id": "msx5d6ayjx9ymwzewrc",
+      "name": "Scott Burton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.burton.3910",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:24:49.508Z"
+  "lastUpdated": "2026-08-17T11:25:12.106Z"
 }
