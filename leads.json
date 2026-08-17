@@ -15564,14 +15564,14 @@
       "phone": "",
       "social": "https://www.facebook.com/smcomet",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:26:12.704Z"
     },
@@ -20034,5 +20034,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T12:36:44.310Z"
+  "lastUpdated": "2026-08-17T12:37:01.855Z"
 }
