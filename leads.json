@@ -19869,7 +19869,25 @@
       "lastModified": "2026-08-14",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:14:00.145Z"
+    },
+    {
+      "id": "mswwa3zhnjwo2lbd2j",
+      "name": "Luis Eueceda ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T07:10:52.589Z"
     }
   ],
-  "lastUpdated": "2026-08-14T13:18:08.196Z"
+  "lastUpdated": "2026-08-17T07:10:52.589Z"
 }
