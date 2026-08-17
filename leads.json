@@ -20050,7 +20050,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:37:56.129Z"
+    },
+    {
+      "id": "msx7zmekv4d4l8hqyn",
+      "name": "Shane Waits",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shane.waits",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T12:38:38.636Z"
     }
   ],
-  "lastUpdated": "2026-08-17T12:37:56.129Z"
+  "lastUpdated": "2026-08-17T12:38:38.636Z"
 }
