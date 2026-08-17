@@ -11850,14 +11850,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EX3edw9iE/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-17",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T17:07:39.712Z"
     },
@@ -20033,5 +20033,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:25:12.106Z"
+  "lastUpdated": "2026-08-17T11:38:33.816Z"
 }
