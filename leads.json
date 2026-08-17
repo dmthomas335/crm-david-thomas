@@ -19959,7 +19959,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:23:44.017Z"
+    },
+    {
+      "id": "msx5btnecj2tx7amyng",
+      "name": "Serge Kannon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sergekannon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-17",
+      "nextFollowUp": "2026-08-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-17",
+      "dateAdded": "2026-08-17",
+      "addedAt": "2026-08-17T11:24:09.050Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:23:44.017Z"
+  "lastUpdated": "2026-08-17T11:24:09.050Z"
 }
