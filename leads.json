@@ -962,13 +962,13 @@
       "phone": "",
       "social": "https://www.facebook.com/zinkthemusic",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-08-17",
+      "nextFollowUp": null,
       "notes": "sent biz pres / dave thomas page",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-08-17",
       "dateAdded": "2026-05-20",
       "videoSent": true
     },
@@ -20033,5 +20033,5 @@
       "addedAt": "2026-08-17T11:25:12.106Z"
     }
   ],
-  "lastUpdated": "2026-08-17T11:38:33.816Z"
+  "lastUpdated": "2026-08-17T11:41:36.801Z"
 }
