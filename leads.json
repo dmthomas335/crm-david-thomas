@@ -16339,14 +16339,14 @@
       "phone": "",
       "social": "https://www.facebook.com/leo.trionfo.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-18",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-08-18",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:13:05.283Z"
     },
@@ -20214,5 +20214,5 @@
       "addedAt": "2026-08-18T11:13:36.642Z"
     }
   ],
-  "lastUpdated": "2026-08-18T12:13:08.635Z"
+  "lastUpdated": "2026-08-18T12:13:29.458Z"
 }
