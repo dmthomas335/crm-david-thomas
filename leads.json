@@ -20176,7 +20176,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T11:12:49.194Z"
+    },
+    {
+      "id": "msykdm36aimz5tt4y16",
+      "name": "Ali Omar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ali.bukhsh.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T11:13:12.978Z"
     }
   ],
-  "lastUpdated": "2026-08-18T11:12:49.194Z"
+  "lastUpdated": "2026-08-18T11:13:12.978Z"
 }
