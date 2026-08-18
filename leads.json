@@ -14574,14 +14574,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100088838242712",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-08-18",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-07-28",
+      "nextFollowUp": null,
+      "notes": "Personal ",
+      "lastModified": "2026-08-18",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:07:56.983Z"
     },
@@ -20214,5 +20214,5 @@
       "addedAt": "2026-08-18T11:13:36.642Z"
     }
   ],
-  "lastUpdated": "2026-08-18T11:56:17.970Z"
+  "lastUpdated": "2026-08-18T12:00:02.258Z"
 }
