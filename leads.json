@@ -11166,14 +11166,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matt.finn.984",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-08-18",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-16",
+      "lastModified": "2026-08-18",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T14:07:02.737Z"
     },
@@ -20214,5 +20214,5 @@
       "addedAt": "2026-08-18T11:13:36.642Z"
     }
   ],
-  "lastUpdated": "2026-08-18T12:11:32.782Z"
+  "lastUpdated": "2026-08-18T12:13:08.635Z"
 }
