@@ -945,13 +945,13 @@
       "phone": "",
       "social": "https://www.facebook.com/allen.swanson.5",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "David T page",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-05-20",
       "videoSent": true
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:32:38.048Z"
+  "lastUpdated": "2026-08-19T12:34:07.345Z"
 }
