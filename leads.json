@@ -8660,14 +8660,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shawn.marks.79",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T12:16:30.815Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:35:02.817Z"
+  "lastUpdated": "2026-08-19T12:35:32.889Z"
 }
