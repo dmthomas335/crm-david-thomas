@@ -11238,14 +11238,14 @@
       "phone": "",
       "social": "https://www.facebook.com/willsantiago369",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:04:03.623Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:09:04.100Z"
+  "lastUpdated": "2026-08-19T13:09:09.772Z"
 }
