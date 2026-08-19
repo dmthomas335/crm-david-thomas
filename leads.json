@@ -7990,14 +7990,14 @@
       "phone": "",
       "social": "https://www.facebook.com/groups/2051665544894844/user/1306766862/",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:55:14.832Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:53:31.099Z"
+  "lastUpdated": "2026-08-19T12:54:01.084Z"
 }
