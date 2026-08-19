@@ -20464,7 +20464,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:14:12.727Z"
+    },
+    {
+      "id": "mt020ouf5mwj5fasb2b",
+      "name": "Mark Maclean",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mark.maclean.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:14:12.727Z"
+  "lastUpdated": "2026-08-19T12:14:49.287Z"
 }
