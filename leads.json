@@ -20302,7 +20302,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:10:08.701Z"
+    },
+    {
+      "id": "mt01v8mtxqtdawj4yl8",
+      "name": "Nadia Trikur",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nadia.trikur",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:10:34.997Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:10:08.701Z"
+  "lastUpdated": "2026-08-19T12:10:34.997Z"
 }
