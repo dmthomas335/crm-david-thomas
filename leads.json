@@ -20248,7 +20248,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:08:42.949Z"
+    },
+    {
+      "id": "mt01tefpq3o15belvw",
+      "name": "Darrell Adhiambo King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darrell.king.718689",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:09:09.205Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:08:42.949Z"
+  "lastUpdated": "2026-08-19T12:09:09.205Z"
 }
