@@ -20320,7 +20320,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:10:34.997Z"
+    },
+    {
+      "id": "mt01w5aud6100959tv9",
+      "name": "De Mc",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/de.mc.14",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:11:17.334Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:10:34.997Z"
+  "lastUpdated": "2026-08-19T12:11:17.334Z"
 }
