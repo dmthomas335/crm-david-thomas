@@ -20356,7 +20356,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:11:36.294Z"
+    },
+    {
+      "id": "mt01wx9qqvkaoahe34",
+      "name": "Jermain Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/edwin.john.1042",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:11:53.582Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:11:36.294Z"
+  "lastUpdated": "2026-08-19T12:11:53.582Z"
 }
