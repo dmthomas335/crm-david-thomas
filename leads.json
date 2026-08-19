@@ -18671,14 +18671,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Einsteineemc2",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:22:19.520Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:08:10.955Z"
+  "lastUpdated": "2026-08-19T13:08:43.637Z"
 }
