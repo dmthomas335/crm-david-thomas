@@ -20392,7 +20392,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:12:14.183Z"
+    },
+    {
+      "id": "mt01xrr3y0g313zh1ob",
+      "name": "Charity Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charity.johnson.31",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:12:33.087Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:12:14.183Z"
+  "lastUpdated": "2026-08-19T12:12:33.087Z"
 }
