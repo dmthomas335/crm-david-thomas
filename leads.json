@@ -5103,14 +5103,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18WGrVTgWQ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "David t page ",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T10:45:32.137Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:34:07.345Z"
+  "lastUpdated": "2026-08-19T12:35:02.817Z"
 }
