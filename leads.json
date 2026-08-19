@@ -12860,14 +12860,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1RdMrKiGGZ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:41:08.899Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:03:38.817Z"
+  "lastUpdated": "2026-08-19T13:03:51.233Z"
 }
