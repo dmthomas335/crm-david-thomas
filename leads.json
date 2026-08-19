@@ -15690,14 +15690,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bpvalet",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:09:40.417Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:05:53.636Z"
+  "lastUpdated": "2026-08-19T13:06:05.212Z"
 }
