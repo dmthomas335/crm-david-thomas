@@ -20230,7 +20230,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:08:07.980Z"
+    },
+    {
+      "id": "mt01su6dqg3nifcjvu",
+      "name": "Eric Brooks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.brooks.since.1982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:08:42.949Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:08:07.980Z"
+  "lastUpdated": "2026-08-19T12:08:42.949Z"
 }
