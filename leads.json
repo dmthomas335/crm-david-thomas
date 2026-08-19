@@ -17242,14 +17242,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ash.johnson.984349",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T14:25:57.137Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:09:09.772Z"
+  "lastUpdated": "2026-08-19T13:09:25.452Z"
 }
