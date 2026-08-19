@@ -19086,14 +19086,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D3Cy6Kg29/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Dave T Page ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T07:34:18.687Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:36:48.682Z"
+  "lastUpdated": "2026-08-19T12:37:55.842Z"
 }
