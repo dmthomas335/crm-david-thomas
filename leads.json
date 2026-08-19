@@ -3876,14 +3876,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tej.singh.deol007",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-17",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:22:32.582Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:57:20.943Z"
+  "lastUpdated": "2026-08-19T12:57:39.190Z"
 }
