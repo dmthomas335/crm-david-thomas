@@ -14196,14 +14196,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006437332276",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:03:52.529Z"
     },
@@ -20484,5 +20484,5 @@
       "addedAt": "2026-08-19T12:14:49.287Z"
     }
   ],
-  "lastUpdated": "2026-08-19T13:06:40.371Z"
+  "lastUpdated": "2026-08-19T13:06:58.307Z"
 }
