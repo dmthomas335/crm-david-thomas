@@ -20266,7 +20266,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:09:09.205Z"
+    },
+    {
+      "id": "mt01u0do03lbm453cye8",
+      "name": "Brett DeBeaulieu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/deblabla",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T12:09:37.644Z"
     }
   ],
-  "lastUpdated": "2026-08-19T12:09:09.205Z"
+  "lastUpdated": "2026-08-19T12:09:37.644Z"
 }
