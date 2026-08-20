@@ -20662,7 +20662,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:09:34.966Z"
+    },
+    {
+      "id": "mt1hboymv67igq5hd5f",
+      "name": "John Norback",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.norback",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-09-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:11:03.070Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:09:34.966Z"
+  "lastUpdated": "2026-08-20T12:11:03.070Z"
 }
