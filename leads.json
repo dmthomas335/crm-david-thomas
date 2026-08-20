@@ -20518,7 +20518,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T11:56:33.375Z"
+    },
+    {
+      "id": "mt1h5e668ercrxj9d0a",
+      "name": "Kason Hickson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kason.hickson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:06:09.150Z"
     }
   ],
-  "lastUpdated": "2026-08-20T11:56:48.461Z"
+  "lastUpdated": "2026-08-20T12:06:09.150Z"
 }
