@@ -17855,14 +17855,14 @@
       "phone": "",
       "social": "https://www.facebook.com/DulaneyB",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-08-20",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-08-20",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:50:41.257Z"
     },
@@ -20754,5 +20754,5 @@
       "addedAt": "2026-08-20T12:13:15.736Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:25:06.921Z"
+  "lastUpdated": "2026-08-20T13:25:22.457Z"
 }
