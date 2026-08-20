@@ -20608,7 +20608,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:07:40.366Z"
+    },
+    {
+      "id": "mt1h7tdahhdb87ys3tl",
+      "name": "Andrew Trickadee Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Trickadee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:08:02.158Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:07:40.366Z"
+  "lastUpdated": "2026-08-20T12:08:02.158Z"
 }
