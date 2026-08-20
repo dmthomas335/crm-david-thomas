@@ -20590,7 +20590,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:07:19.967Z"
+    },
+    {
+      "id": "mt1h7cjyosuzgeulief",
+      "name": "Nick Turner-Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.turnersmith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-09-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:07:40.366Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:07:19.967Z"
+  "lastUpdated": "2026-08-20T12:07:40.366Z"
 }
