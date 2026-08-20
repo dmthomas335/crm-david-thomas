@@ -20626,7 +20626,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:08:02.158Z"
+    },
+    {
+      "id": "mt1h86ge5aodgaoe76d",
+      "name": "Derek Lane",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derek.lane.451395",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-09-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:08:19.118Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:08:02.158Z"
+  "lastUpdated": "2026-08-20T12:08:19.118Z"
 }
