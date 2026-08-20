@@ -16303,14 +16303,14 @@
       "phone": "",
       "social": "https://www.facebook.com/pawpuppy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-08-20",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-08-20",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:12:19.994Z"
     },
@@ -20754,5 +20754,5 @@
       "addedAt": "2026-08-20T12:13:15.736Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:27:20.155Z"
+  "lastUpdated": "2026-08-20T13:27:34.586Z"
 }
