@@ -20572,7 +20572,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:06:50.397Z"
+    },
+    {
+      "id": "mt1h6wtbqpfwheyfbtc",
+      "name": "Parsram Sankar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/parsram.sankar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:07:19.967Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:06:50.397Z"
+  "lastUpdated": "2026-08-20T12:07:19.967Z"
 }
