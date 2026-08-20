@@ -20698,7 +20698,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:11:36.743Z"
+    },
+    {
+      "id": "mt1hdj84l9636i6xssq",
+      "name": "Zoli Berta",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zoli.berta.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T12:12:28.948Z"
     }
   ],
-  "lastUpdated": "2026-08-20T12:11:36.743Z"
+  "lastUpdated": "2026-08-20T12:12:28.948Z"
 }
