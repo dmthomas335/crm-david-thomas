@@ -16827,14 +16827,14 @@
       "phone": "",
       "social": "https://www.facebook.com/douglas.cosman",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:00:23.439Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:54:23.008Z"
+  "lastUpdated": "2026-08-21T12:54:38.064Z"
 }
