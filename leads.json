@@ -17963,14 +17963,14 @@
       "phone": "",
       "social": "https://www.facebook.com/quincy.ramirez.16",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-21",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-05",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-28",
+      "notes": "Personal ",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:52:52.995Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:24:02.991Z"
+  "lastUpdated": "2026-08-21T12:27:23.387Z"
 }
