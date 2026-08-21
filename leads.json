@@ -20914,7 +20914,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T12:06:48.279Z"
+    },
+    {
+      "id": "mt2wmxoovb9k3ezr4yj",
+      "name": "Dan Vant",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.vant.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T12:07:28.008Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:06:48.279Z"
+  "lastUpdated": "2026-08-21T12:07:28.008Z"
 }
