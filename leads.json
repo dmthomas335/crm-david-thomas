@@ -16105,14 +16105,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/161sRdpBcq3/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T11:57:42.287Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:50:39.407Z"
+  "lastUpdated": "2026-08-21T12:50:55.336Z"
 }
