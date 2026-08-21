@@ -20932,7 +20932,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T12:07:28.008Z"
+    },
+    {
+      "id": "mt2wnodcmi4vpgocsr",
+      "name": "Walter Heaggans",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/walter.heaggans",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-09-22",
+      "notes": "Personal ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T12:08:02.592Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:07:28.008Z"
+  "lastUpdated": "2026-08-21T12:08:02.592Z"
 }
