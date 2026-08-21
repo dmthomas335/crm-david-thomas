@@ -20824,7 +20824,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:33:01.581Z"
+    },
+    {
+      "id": "mt2vf5md8oxr8pyac9f",
+      "name": "Gerald Atayde",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gerald.atayde.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Birthday Personal ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T11:33:25.429Z"
     }
   ],
-  "lastUpdated": "2026-08-21T11:33:01.581Z"
+  "lastUpdated": "2026-08-21T11:33:25.429Z"
 }
