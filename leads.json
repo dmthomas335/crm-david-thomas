@@ -13310,14 +13310,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jimmie.williams.80527",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T11:31:54.418Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:51:13.014Z"
+  "lastUpdated": "2026-08-21T12:51:36.415Z"
 }
