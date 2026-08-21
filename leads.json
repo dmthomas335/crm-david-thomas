@@ -20842,7 +20842,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:33:25.429Z"
+    },
+    {
+      "id": "mt2vfrhpiby25ulbvhh",
+      "name": "Arturo Arturo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/arturo.contreras.52035",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-09-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T11:33:53.773Z"
     }
   ],
-  "lastUpdated": "2026-08-21T11:33:25.429Z"
+  "lastUpdated": "2026-08-21T11:33:53.773Z"
 }
