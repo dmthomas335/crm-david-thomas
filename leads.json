@@ -16411,14 +16411,14 @@
       "phone": "",
       "social": "https://www.facebook.com/necole7035",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:14:34.516Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:49:45.742Z"
+  "lastUpdated": "2026-08-21T12:50:02.391Z"
 }
