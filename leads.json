@@ -16953,14 +16953,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1C4QDwje4A/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Dave T Page ",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T08:03:19.456Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:20:39.317Z"
+  "lastUpdated": "2026-08-21T12:24:02.991Z"
 }
