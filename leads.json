@@ -20752,7 +20752,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:13:15.736Z"
+    },
+    {
+      "id": "mt2vdarxnqi5tng6x7",
+      "name": "Israel Ayala",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rgv.threadzz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T11:31:58.797Z"
     }
   ],
-  "lastUpdated": "2026-08-21T11:20:31.740Z"
+  "lastUpdated": "2026-08-21T11:31:58.797Z"
 }
