@@ -1435,7 +1435,7 @@
     {
       "id": "mpfhoojocbi07h51n2m",
       "name": "James W Simpson",
-      "email": "",
+      "email": "jsimp4@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/james.w.simpson",
       "source": "Facebook",
@@ -1443,12 +1443,12 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-08-22",
-      "notes": "personal",
-      "lastModified": "2026-08-20",
+      "nextFollowUp": "2026-08-24",
+      "notes": "personal joined as 2WT 706860 Me",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:51:06.180Z",
-      "videoSent": false
+      "videoSent": true
     },
     {
       "id": "mpfhrqlanzz4bwb60g",
@@ -20754,5 +20754,5 @@
       "addedAt": "2026-08-20T12:13:15.736Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:30:53.790Z"
+  "lastUpdated": "2026-08-21T11:20:31.740Z"
 }
