@@ -20860,7 +20860,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:33:53.773Z"
+    },
+    {
+      "id": "mt2vgwjr7hdxg0nlb2c",
+      "name": "Allan Clark",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100001279180242",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-09-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T11:34:46.983Z"
     }
   ],
-  "lastUpdated": "2026-08-21T11:33:53.773Z"
+  "lastUpdated": "2026-08-21T11:34:46.983Z"
 }
