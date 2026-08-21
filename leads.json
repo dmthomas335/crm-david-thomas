@@ -21004,7 +21004,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T12:09:15.425Z"
+    },
+    {
+      "id": "mt2wps5e0i8xif3nepbe",
+      "name": "B-Zuked Kevin Chatman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevinl.chatman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:09:15.425Z"
+  "lastUpdated": "2026-08-21T12:09:40.802Z"
 }
