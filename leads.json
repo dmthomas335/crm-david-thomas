@@ -17873,14 +17873,14 @@
       "phone": "",
       "social": "https://www.facebook.com/donald.cowart.35",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-08-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-08-21",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:50:59.490Z"
     },
@@ -21024,5 +21024,5 @@
       "addedAt": "2026-08-21T12:09:40.802Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:50:55.336Z"
+  "lastUpdated": "2026-08-21T12:51:13.014Z"
 }
