@@ -20788,7 +20788,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:32:27.613Z"
+    },
+    {
+      "id": "mt2ve91xpj6d36ht35i",
+      "name": "Love Shay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shay.love.752487",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T11:32:43.221Z"
     }
   ],
-  "lastUpdated": "2026-08-21T11:32:27.613Z"
+  "lastUpdated": "2026-08-21T11:32:43.221Z"
 }
