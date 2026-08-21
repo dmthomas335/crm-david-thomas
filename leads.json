@@ -20968,7 +20968,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T12:08:19.912Z"
+    },
+    {
+      "id": "mt2wonzte1nna5xjmlp",
+      "name": "Ky Boss ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyboss",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T12:08:48.761Z"
     }
   ],
-  "lastUpdated": "2026-08-21T12:08:25.865Z"
+  "lastUpdated": "2026-08-21T12:08:48.761Z"
 }
