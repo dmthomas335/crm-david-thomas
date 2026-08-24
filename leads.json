@@ -12341,10 +12341,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-08-24",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-09-23",
       "notes": "Personal Joined as 2WT 518969 Ashley",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-24",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T12:12:59.852Z",
       "customerSince": "2026-07-28"
@@ -21294,5 +21294,5 @@
       "addedAt": "2026-08-24T12:42:31.742Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:46:09.431Z"
+  "lastUpdated": "2026-08-24T12:46:14.343Z"
 }
