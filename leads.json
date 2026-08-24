@@ -21130,7 +21130,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:19:06.098Z"
+    },
+    {
+      "id": "mt77dws1axt3qn31v7m",
+      "name": "Richard Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.brown.9885",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T12:19:27.409Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:19:06.098Z"
+  "lastUpdated": "2026-08-24T12:19:27.409Z"
 }
