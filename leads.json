@@ -7411,14 +7411,14 @@
       "phone": "",
       "social": "https://www.facebook.com/laurent.zecchino",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-08-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-31",
+      "lastModified": "2026-08-24",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:22:21.073Z"
     },
@@ -21294,5 +21294,5 @@
       "addedAt": "2026-08-24T12:42:31.742Z"
     }
   ],
-  "lastUpdated": "2026-08-24T13:24:50.548Z"
+  "lastUpdated": "2026-08-24T13:25:10.965Z"
 }
