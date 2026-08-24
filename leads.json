@@ -7831,10 +7831,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-24",
-      "notes": "Email 699700 Cam ",
-      "lastModified": "2026-08-10",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-31",
+      "notes": "Email 699700 Cam cancelled",
+      "lastModified": "2026-08-24",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:56:09.249Z",
       "customerSince": "2026-08-06"
@@ -21294,5 +21294,5 @@
       "addedAt": "2026-08-24T12:42:31.742Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:42:31.743Z"
+  "lastUpdated": "2026-08-24T12:46:09.431Z"
 }
