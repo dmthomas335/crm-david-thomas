@@ -21220,7 +21220,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:21:03.804Z"
+    },
+    {
+      "id": "mt77ggwjzk9vuhfb93",
+      "name": "Anjuli Nicole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anjulinicole",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-09-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T12:21:26.803Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:21:03.804Z"
+  "lastUpdated": "2026-08-24T12:21:26.803Z"
 }
