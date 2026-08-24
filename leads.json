@@ -21040,7 +21040,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:16:25.331Z"
+    },
+    {
+      "id": "mt77bk7k4no8pdyolm6",
+      "name": "Gary Robertson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gary.robertson.142892",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-24T12:17:37.809Z"
     }
   ],
-  "lastUpdated": "2026-08-24T12:16:25.331Z"
+  "lastUpdated": "2026-08-24T12:17:37.809Z"
 }
