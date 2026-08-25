@@ -21292,7 +21292,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:42:31.742Z"
+    },
+    {
+      "id": "mt8loxoux0ud07in1of",
+      "name": "Dave Lauer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dave.lauer.507",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:47:42.606Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:39:03.445Z"
+  "lastUpdated": "2026-08-25T11:47:42.606Z"
 }
