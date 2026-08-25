@@ -16773,14 +16773,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vejen.prahanarov",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-11",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:59:14.158Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:53:59.111Z"
+  "lastUpdated": "2026-08-25T12:54:16.560Z"
 }
