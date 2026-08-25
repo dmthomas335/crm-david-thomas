@@ -18292,14 +18292,14 @@
       "phone": "",
       "social": "https://www.facebook.com/pailonjr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:26:03.806Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:55:47.377Z"
+  "lastUpdated": "2026-08-25T12:55:59.633Z"
 }
