@@ -21508,7 +21508,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:52:42.897Z"
+    },
+    {
+      "id": "mt8lw2vtfd4d7k17dw",
+      "name": "Dean Wallington",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dean.wallington.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:53:15.929Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:52:42.897Z"
+  "lastUpdated": "2026-08-25T11:53:15.929Z"
 }
