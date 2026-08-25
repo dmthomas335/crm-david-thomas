@@ -21544,7 +21544,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:53:38.458Z"
+    },
+    {
+      "id": "mt8lxbmhnbwtp7c24r",
+      "name": "Lynsey O'Brien",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lynsey.obrien.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:53:38.458Z"
+  "lastUpdated": "2026-08-25T11:54:13.913Z"
 }
