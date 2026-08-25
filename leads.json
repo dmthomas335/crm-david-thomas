@@ -14034,14 +14034,14 @@
       "phone": "",
       "social": "https://www.facebook.com/antwine.bryant.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:17:12.229Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:50:06.902Z"
+  "lastUpdated": "2026-08-25T12:50:33.086Z"
 }
