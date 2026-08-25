@@ -21454,7 +21454,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:51:00.808Z"
+    },
+    {
+      "id": "mt8ltuk83wzs2c4f2g6",
+      "name": "Leveti Lacoste",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leveti.ali.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:51:31.832Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:51:00.808Z"
+  "lastUpdated": "2026-08-25T11:51:31.832Z"
 }
