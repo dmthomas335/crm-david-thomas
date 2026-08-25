@@ -19122,14 +19122,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19NiYBzKjS/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:55:27.606Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:56:36.569Z"
+  "lastUpdated": "2026-08-25T12:56:51.834Z"
 }
