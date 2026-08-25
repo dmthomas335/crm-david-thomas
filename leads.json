@@ -21418,7 +21418,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:50:16.120Z"
+    },
+    {
+      "id": "mt8lsrufe4wd3eywevc",
+      "name": "Harry Lindgren",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/harry.lindgren.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:50:41.655Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:50:16.120Z"
+  "lastUpdated": "2026-08-25T11:50:41.655Z"
 }
