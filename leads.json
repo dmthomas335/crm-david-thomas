@@ -21490,7 +21490,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:51:52.896Z"
+    },
+    {
+      "id": "mt8lvde9zrsnfcmjwo",
+      "name": "Antony Tony Beavers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tony.beavers.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-24",
+      "notes": "Personal ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:52:42.897Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:51:52.896Z"
+  "lastUpdated": "2026-08-25T11:52:42.897Z"
 }
