@@ -21382,7 +21382,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:49:10.182Z"
+    },
+    {
+      "id": "mt8lrcdjenc767m2hwq",
+      "name": "Venka Bejgam",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/venka.bejgam",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:49:34.951Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:49:10.182Z"
+  "lastUpdated": "2026-08-25T11:49:34.951Z"
 }
