@@ -17909,14 +17909,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jerry.l.thomas.75",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:51:47.942Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:53:20.799Z"
+  "lastUpdated": "2026-08-25T12:53:39.264Z"
 }
