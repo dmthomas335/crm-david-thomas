@@ -21328,7 +21328,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:48:02.261Z"
+    },
+    {
+      "id": "mt8lpuv2uw59xu9lu6e",
+      "name": "Saitt Durakov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100001542113329",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:48:25.598Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:48:02.261Z"
+  "lastUpdated": "2026-08-25T11:48:25.598Z"
 }
