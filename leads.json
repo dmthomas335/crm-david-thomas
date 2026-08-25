@@ -21526,7 +21526,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:53:15.929Z"
+    },
+    {
+      "id": "mt8lwk9mizjszdkxiu",
+      "name": "Bobby Bostick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61552620513640",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:53:38.458Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:53:15.929Z"
+  "lastUpdated": "2026-08-25T11:53:38.458Z"
 }
