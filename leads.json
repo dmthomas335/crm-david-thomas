@@ -21472,7 +21472,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:51:31.832Z"
+    },
+    {
+      "id": "mt8luatc0keh4vlx7l0c",
+      "name": "Dale Bentien",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dale.bentien",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-09-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T11:51:52.896Z"
     }
   ],
-  "lastUpdated": "2026-08-25T11:51:31.832Z"
+  "lastUpdated": "2026-08-25T11:51:52.896Z"
 }
