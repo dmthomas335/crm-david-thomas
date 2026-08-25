@@ -15348,14 +15348,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100078964251324",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T11:45:45.802Z"
     },
@@ -21564,5 +21564,5 @@
       "addedAt": "2026-08-25T11:54:13.913Z"
     }
   ],
-  "lastUpdated": "2026-08-25T12:52:14.967Z"
+  "lastUpdated": "2026-08-25T12:52:35.871Z"
 }
