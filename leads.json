@@ -6224,11 +6224,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Follow-up 6+",
-      "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-10-16",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-02",
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:07:08.905Z"
     },
@@ -21691,5 +21691,5 @@
       "addedAt": "2026-08-26T11:16:09.280Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:21:20.202Z"
+  "lastUpdated": "2026-08-26T11:22:57.660Z"
 }
