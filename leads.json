@@ -11094,14 +11094,14 @@
       "phone": "",
       "social": "https://www.facebook.com/edwin.kamara.773",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T10:01:13.673Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T12:53:48.976Z"
+  "lastUpdated": "2026-08-26T12:54:17.344Z"
 }
