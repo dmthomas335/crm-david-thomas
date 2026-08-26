@@ -16737,14 +16737,14 @@
       "phone": "",
       "social": "https://www.facebook.com/merlici.iulia",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:58:21.222Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:00:45.460Z"
+  "lastUpdated": "2026-08-26T13:02:11.844Z"
 }
