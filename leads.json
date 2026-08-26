@@ -13406,10 +13406,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-08-26",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-24",
       "notes": "Toni 760586",
-      "lastModified": "2026-07-27",
+      "lastModified": "2026-08-26",
       "customerSince": "2026-07-07",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T12:40:38.261Z"
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:50:30.676Z"
+  "lastUpdated": "2026-08-26T11:58:03.856Z"
 }
