@@ -21743,7 +21743,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:25:41.544Z"
+    },
+    {
+      "id": "mta0dn0ggh13v3uuzs",
+      "name": "Shaun Gilliland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gilli.shaun",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:26:35.968Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:25:41.544Z"
+  "lastUpdated": "2026-08-26T11:26:35.968Z"
 }
