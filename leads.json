@@ -21670,7 +21670,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:15:41.945Z"
+    },
+    {
+      "id": "mta007ggjnlu6uxmock",
+      "name": "Hector Uribarri",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hector.uribarri",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:16:09.280Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:15:41.945Z"
+  "lastUpdated": "2026-08-26T11:16:09.280Z"
 }
