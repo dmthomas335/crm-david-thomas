@@ -19081,21 +19081,22 @@
     },
     {
       "id": "msprwzlrk0nh8thnwq",
-      "name": "Mick Hailey",
-      "email": "",
+      "name": "Mick Michael Hailey",
+      "email": "mhailey62@hotmail.co.uk",
       "phone": "",
       "social": "https://www.facebook.com/share/1D3Cy6Kg29/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Customer",
       "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": null,
-      "notes": "Dave T Page ",
-      "lastModified": "2026-08-19",
+      "temperature": "Hot",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-28",
+      "notes": "Personal Me 769288",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T07:34:18.687Z"
+      "addedAt": "2026-08-12T07:34:18.687Z",
+      "customerSince": "2026-08-26"
     },
     {
       "id": "mspz2tu2ry4jq1v0g9",
@@ -21690,5 +21691,5 @@
       "addedAt": "2026-08-26T11:16:09.280Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:16:09.280Z"
+  "lastUpdated": "2026-08-26T11:21:20.202Z"
 }
