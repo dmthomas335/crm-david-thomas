@@ -17531,14 +17531,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EDwLzxnHt/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:37:06.468Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:09:25.321Z"
+  "lastUpdated": "2026-08-26T13:10:13.624Z"
 }
