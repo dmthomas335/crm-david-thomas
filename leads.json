@@ -3336,13 +3336,13 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14f7iYot7Pu/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "David T page",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:40:30.198Z",
       "videoSent": true
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:47:25.042Z"
+  "lastUpdated": "2026-08-26T11:47:56.723Z"
 }
