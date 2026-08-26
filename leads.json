@@ -18310,14 +18310,14 @@
       "phone": "",
       "social": "https://www.facebook.com/erralph",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:26:28.765Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:10:38.537Z"
+  "lastUpdated": "2026-08-26T13:10:57.785Z"
 }
