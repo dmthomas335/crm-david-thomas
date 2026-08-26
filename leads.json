@@ -21634,7 +21634,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:14:52.097Z"
+    },
+    {
+      "id": "mt9zz3ahpzjj4jkzuw",
+      "name": "Henri Du Plessis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/henri.duplessis.90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:15:17.225Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:14:52.097Z"
+  "lastUpdated": "2026-08-26T11:15:17.225Z"
 }
