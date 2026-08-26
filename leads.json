@@ -10066,14 +10066,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tim.welting",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:20:30.587Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:00:11.525Z"
+  "lastUpdated": "2026-08-26T13:00:45.460Z"
 }
