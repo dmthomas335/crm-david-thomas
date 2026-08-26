@@ -15600,14 +15600,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mandeep.s.ubhi.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:26:54.336Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:02:31.133Z"
+  "lastUpdated": "2026-08-26T13:02:54.525Z"
 }
