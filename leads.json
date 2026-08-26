@@ -21689,7 +21689,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:16:09.280Z"
+    },
+    {
+      "id": "mta09ymtzs0ghvq8bpj",
+      "name": "Howard Redmond",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100039677381026",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-27",
+      "notes": "Personal ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:23:44.405Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:22:57.660Z"
+  "lastUpdated": "2026-08-26T11:23:44.405Z"
 }
