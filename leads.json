@@ -21761,7 +21761,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:26:35.968Z"
+    },
+    {
+      "id": "mta0edm8rrukeq5eu9",
+      "name": "Phill Barnes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/phill.barnes.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:27:10.448Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:26:35.968Z"
+  "lastUpdated": "2026-08-26T11:27:10.448Z"
 }
