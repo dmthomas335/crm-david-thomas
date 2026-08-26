@@ -3516,13 +3516,13 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.till.180",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-10",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:17:56.968Z",
       "videoSent": true
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T12:52:35.448Z"
+  "lastUpdated": "2026-08-26T12:53:36.128Z"
 }
