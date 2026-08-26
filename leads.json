@@ -21779,7 +21779,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:27:10.448Z"
+    },
+    {
+      "id": "mta0frew9b575uk55o6",
+      "name": "Schola Ndugo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/schola.ndugo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:28:14.984Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:27:10.448Z"
+  "lastUpdated": "2026-08-26T11:28:14.984Z"
 }
