@@ -21797,7 +21797,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:28:14.984Z"
+    },
+    {
+      "id": "mta0gi01z9sm9ja17tq",
+      "name": "Sarah Hale",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarah.hale.7758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Nurture",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal ",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T11:28:49.441Z"
     }
   ],
-  "lastUpdated": "2026-08-26T11:28:23.359Z"
+  "lastUpdated": "2026-08-26T11:28:49.441Z"
 }
