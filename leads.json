@@ -18562,14 +18562,14 @@
       "phone": "",
       "social": "https://www.facebook.com/albarnhill",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:17:59.291Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:10:57.785Z"
+  "lastUpdated": "2026-08-26T13:11:18.058Z"
 }
