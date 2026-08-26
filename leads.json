@@ -17945,14 +17945,14 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.greedy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:52:27.667Z"
     },
@@ -21835,5 +21835,5 @@
       "addedAt": "2026-08-26T11:30:42.226Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:10:13.624Z"
+  "lastUpdated": "2026-08-26T13:10:38.537Z"
 }
