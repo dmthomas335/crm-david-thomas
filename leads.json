@@ -5287,10 +5287,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-08-27",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-09-28",
       "notes": "personal Linda Estelle 526531",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-08-27",
       "customerSince": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:40:50.869Z"
@@ -21979,5 +21979,5 @@
       "addedAt": "2026-08-27T11:51:49.798Z"
     }
   ],
-  "lastUpdated": "2026-08-27T11:51:49.798Z"
+  "lastUpdated": "2026-08-27T12:01:12.804Z"
 }
