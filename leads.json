@@ -21905,7 +21905,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T11:50:09.876Z"
+    },
+    {
+      "id": "mtbgoaisgx7sb4r7p3",
+      "name": "Antonio R Cordova",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/antonio.r.cordova",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T11:50:33.028Z"
     }
   ],
-  "lastUpdated": "2026-08-27T11:50:09.876Z"
+  "lastUpdated": "2026-08-27T11:50:33.028Z"
 }
