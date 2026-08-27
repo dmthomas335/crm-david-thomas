@@ -22031,7 +22031,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T12:24:35.063Z"
+    },
+    {
+      "id": "mtbhxabrui7jptbrn9b",
+      "name": "John Sky Osmialowski",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.skye",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-09-30",
+      "notes": "Personal ",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T12:25:32.295Z"
     }
   ],
-  "lastUpdated": "2026-08-27T12:24:35.063Z"
+  "lastUpdated": "2026-08-27T12:25:32.295Z"
 }
