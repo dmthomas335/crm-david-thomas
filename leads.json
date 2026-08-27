@@ -7736,14 +7736,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.hubers.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-08-27",
-      "notes": "Personal ",
-      "lastModified": "2026-07-24",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-27",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:55:06.485Z"
     },
@@ -22105,5 +22105,5 @@
       "addedAt": "2026-08-27T12:32:30.051Z"
     }
   ],
-  "lastUpdated": "2026-08-27T12:40:45.407Z"
+  "lastUpdated": "2026-08-27T12:41:11.159Z"
 }
