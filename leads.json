@@ -22049,7 +22049,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T12:25:32.295Z"
+    },
+    {
+      "id": "mtbhxrcf2c81lriukl",
+      "name": "Marion Manning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marion.manning.146",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T12:25:54.351Z"
     }
   ],
-  "lastUpdated": "2026-08-27T12:25:32.295Z"
+  "lastUpdated": "2026-08-27T12:25:54.351Z"
 }
