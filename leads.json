@@ -21833,7 +21833,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:30:42.226Z"
+    },
+    {
+      "id": "mtbgmfzpts2dqt18sqt",
+      "name": "Chad King",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chadking4",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-09-10",
+      "notes": "Personal ",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T11:49:06.805Z"
     }
   ],
-  "lastUpdated": "2026-08-26T13:12:30.338Z"
+  "lastUpdated": "2026-08-27T11:49:06.805Z"
 }
