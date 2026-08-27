@@ -15889,14 +15889,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DBhBiQtkm/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-08-27",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-27",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T12:20:49.871Z"
     },
@@ -22105,5 +22105,5 @@
       "addedAt": "2026-08-27T12:32:30.051Z"
     }
   ],
-  "lastUpdated": "2026-08-27T12:44:44.307Z"
+  "lastUpdated": "2026-08-27T12:45:06.010Z"
 }
