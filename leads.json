@@ -22176,7 +22176,26 @@
       "customerSince": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:16:30.886Z"
+    },
+    {
+      "id": "mtcx2zrzam77axcgltk",
+      "name": "Jared Ketchersid",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jared.ketchersid",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Closed",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-09-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-28",
+      "customerSince": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T12:17:38.975Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:16:30.886Z"
+  "lastUpdated": "2026-08-28T12:17:38.975Z"
 }
