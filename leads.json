@@ -10517,14 +10517,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lawrence.botha.1",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T11:02:26.186Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:56:41.204Z"
+  "lastUpdated": "2026-08-28T12:57:02.037Z"
 }
