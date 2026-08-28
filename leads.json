@@ -22213,7 +22213,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:18:01.031Z"
+    },
+    {
+      "id": "mtcx3xgvbmr2zayy7ud",
+      "name": "Mario Larrimore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mario.larrimore",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-09-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T12:18:22.639Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:18:01.031Z"
+  "lastUpdated": "2026-08-28T12:18:22.639Z"
 }
