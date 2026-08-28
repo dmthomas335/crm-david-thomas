@@ -19231,14 +19231,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Gf8capZ5y/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:59:57.746Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:48:54.816Z"
+  "lastUpdated": "2026-08-28T12:49:15.915Z"
 }
