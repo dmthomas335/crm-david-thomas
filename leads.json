@@ -20545,14 +20545,14 @@
       "phone": "",
       "social": "https://www.facebook.com/earle.kramer.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:06:27.285Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:51:54.765Z"
+  "lastUpdated": "2026-08-28T12:52:09.110Z"
 }
