@@ -4489,14 +4489,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cathal.rowley",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:25:34.448Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:53:36.015Z"
+  "lastUpdated": "2026-08-28T12:53:47.424Z"
 }
