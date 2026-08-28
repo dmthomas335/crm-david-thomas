@@ -19609,14 +19609,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ruffi.lopez",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-21",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:06:19.438Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:59:46.824Z"
+  "lastUpdated": "2026-08-28T13:00:02.513Z"
 }
