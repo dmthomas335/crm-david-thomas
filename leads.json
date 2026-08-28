@@ -9958,14 +9958,14 @@
       "phone": "",
       "social": "https://www.facebook.com/omar.villalon.35728",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:18:11.286Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:55:38.802Z"
+  "lastUpdated": "2026-08-28T12:55:58.596Z"
 }
