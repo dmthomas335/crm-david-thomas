@@ -20761,14 +20761,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rgv.threadzz",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-21",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:31:58.797Z"
     },
@@ -22269,5 +22269,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-28T12:52:09.110Z"
+  "lastUpdated": "2026-08-28T12:52:25.686Z"
 }
