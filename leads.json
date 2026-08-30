@@ -14534,20 +14534,21 @@
     {
       "id": "mrou2nxkiebpc30gyh",
       "name": "Peter Collin Lazarus",
-      "email": "",
+      "email": "lazarus.peter@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/peter.c.lazarus",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
+      "temperature": "Hot",
+      "lastAction": "Closed",
       "lastContact": "2026-08-24",
       "nextFollowUp": "2026-09-07",
-      "notes": "Personal ",
-      "lastModified": "2026-08-24",
+      "notes": "Personal Soriano 771169 ",
+      "lastModified": "2026-08-30",
       "dateAdded": "2026-07-17",
-      "addedAt": "2026-07-17T11:07:14.216Z"
+      "addedAt": "2026-07-17T11:07:14.216Z",
+      "customerSince": "2026-08-30"
     },
     {
       "id": "mrou35hi6g4ibf8g9yg",
@@ -22269,5 +22270,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-30T11:58:06.673Z"
+  "lastUpdated": "2026-08-30T12:01:02.512Z"
 }
