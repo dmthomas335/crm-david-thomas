@@ -6221,14 +6221,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1AtKutaQQ5/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "2WT",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-02",
-      "notes": "Personal ",
-      "lastModified": "2026-08-26",
+      "lastContact": "2026-08-30",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-08-30",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:07:08.905Z"
     },
@@ -22270,5 +22270,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-30T12:01:02.512Z"
+  "lastUpdated": "2026-08-30T12:02:15.718Z"
 }
