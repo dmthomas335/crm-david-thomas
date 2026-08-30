@@ -17816,20 +17816,21 @@
     {
       "id": "msfvhhyi2r7qh5tsycn",
       "name": "Linda Jackson ",
-      "email": "",
+      "email": "lkjaja@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/share/19cDgXNmr8/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-31",
-      "notes": "Personal",
-      "lastModified": "2026-08-12",
+      "lastContact": "2026-08-30",
+      "nextFollowUp": "2026-09-01",
+      "notes": "Personal Soriano 770897",
+      "lastModified": "2026-08-30",
       "dateAdded": "2026-08-05",
-      "addedAt": "2026-08-05T09:16:32.682Z"
+      "addedAt": "2026-08-05T09:16:32.682Z",
+      "customerSince": "2026-08-30"
     },
     {
       "id": "msfyu06sipvsrpp1vd",
@@ -22270,5 +22271,5 @@
       "addedAt": "2026-08-28T12:19:16.153Z"
     }
   ],
-  "lastUpdated": "2026-08-30T12:02:15.718Z"
+  "lastUpdated": "2026-08-30T12:04:33.136Z"
 }
