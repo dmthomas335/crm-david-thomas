@@ -7832,9 +7832,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-08-31",
+      "nextFollowUp": "2026-09-30",
       "notes": "Email 699700 Cam cancelled",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-08-31",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T10:56:09.249Z",
       "customerSince": "2026-08-06"
@@ -22525,5 +22525,5 @@
       "addedAt": "2026-08-31T11:16:44.453Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:16:44.453Z"
+  "lastUpdated": "2026-08-31T11:30:36.347Z"
 }
