@@ -22451,7 +22451,25 @@
       "lastModified": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:15:10.988Z"
+    },
+    {
+      "id": "mth56lzajsuxvi57c0i",
+      "name": "Paris Lamar Bell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paris.jackson1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-31",
+      "dateAdded": "2026-08-31",
+      "addedAt": "2026-08-31T11:15:29.350Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:15:10.988Z"
+  "lastUpdated": "2026-08-31T11:15:29.350Z"
 }
