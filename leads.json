@@ -7936,14 +7936,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kristi.kindy",
       "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": false,
-      "temperature": "Warm",
+      "status": "2WT",
+      "videoSent": true,
+      "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-08-30",
-      "nextFollowUp": "2026-08-31",
-      "notes": "Personal ",
-      "lastModified": "2026-08-30",
+      "nextFollowUp": "2026-09-04",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-08-31",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:49:44.166Z"
     },
@@ -22543,5 +22543,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-08-31T12:42:11.614Z"
+  "lastUpdated": "2026-08-31T12:43:50.464Z"
 }
