@@ -17893,14 +17893,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jason.schiffmiller",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-17",
+      "lastModified": "2026-08-31",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T10:51:24.130Z"
     },
@@ -22543,5 +22543,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-08-31T12:23:48.545Z"
+  "lastUpdated": "2026-08-31T12:24:05.232Z"
 }
