@@ -22342,7 +22342,25 @@
       "lastModified": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:11:02.178Z"
+    },
+    {
+      "id": "mth51cjuez8u5r245js",
+      "name": "Andy Swints",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andy.swints",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-31",
+      "dateAdded": "2026-08-31",
+      "addedAt": "2026-08-31T11:11:23.850Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:11:02.178Z"
+  "lastUpdated": "2026-08-31T11:11:23.850Z"
 }
