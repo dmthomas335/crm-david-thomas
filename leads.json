@@ -22433,7 +22433,25 @@
       "lastModified": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:14:53.356Z"
+    },
+    {
+      "id": "mth567t8q6r2e95wm8",
+      "name": "Leo Cobb",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leo.cobb.547",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-31",
+      "dateAdded": "2026-08-31",
+      "addedAt": "2026-08-31T11:15:10.988Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:14:53.356Z"
+  "lastUpdated": "2026-08-31T11:15:10.988Z"
 }
