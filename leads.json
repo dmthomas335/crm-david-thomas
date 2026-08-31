@@ -16936,14 +16936,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kris.campbell.868559",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-08-31",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-08-31",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T11:02:47.776Z"
     },
@@ -22543,5 +22543,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-08-31T12:40:27.361Z"
+  "lastUpdated": "2026-08-31T12:40:46.930Z"
 }
