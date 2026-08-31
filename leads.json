@@ -22505,7 +22505,25 @@
       "lastModified": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:16:22.485Z"
+    },
+    {
+      "id": "mth587xhnyw2hwtjrm",
+      "name": "Admir Kapllani",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/admir.kapllani",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-31",
+      "dateAdded": "2026-08-31",
+      "addedAt": "2026-08-31T11:16:44.453Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:16:22.485Z"
+  "lastUpdated": "2026-08-31T11:16:44.453Z"
 }
