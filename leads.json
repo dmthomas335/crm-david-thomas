@@ -22415,7 +22415,25 @@
       "customerSince": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:12:51.964Z"
+    },
+    {
+      "id": "mth55u7g1w9qm8u0gi3",
+      "name": "LaMarcus Polo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Mufukin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-08-31",
+      "dateAdded": "2026-08-31",
+      "addedAt": "2026-08-31T11:14:53.356Z"
     }
   ],
-  "lastUpdated": "2026-08-31T11:12:51.964Z"
+  "lastUpdated": "2026-08-31T11:14:53.356Z"
 }
