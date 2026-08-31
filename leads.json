@@ -9782,10 +9782,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-30",
-      "nextFollowUp": "2026-08-31",
+      "lastContact": "2026-08-31",
+      "nextFollowUp": "2026-09-30",
       "notes": "Personal ",
-      "lastModified": "2026-08-30",
+      "lastModified": "2026-08-31",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:48:42.569Z"
     },
@@ -22543,5 +22543,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-08-31T12:43:50.464Z"
+  "lastUpdated": "2026-08-31T12:44:22.345Z"
 }
