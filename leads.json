@@ -2943,9 +2943,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-01",
+      "nextFollowUp": "2026-09-29",
       "notes": "Message on discord Joined as 2WT / David Andrews / 514199",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-09-01",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z",
       "videoSent": true,
@@ -22834,5 +22834,5 @@
       "addedAt": "2026-09-01T11:47:19.376Z"
     }
   ],
-  "lastUpdated": "2026-09-01T12:18:19.273Z"
+  "lastUpdated": "2026-09-01T12:18:48.018Z"
 }
