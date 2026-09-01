@@ -2558,16 +2558,17 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100013415648285",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-10-08",
-      "notes": "joined / personal",
-      "lastModified": "2026-08-13",
+      "nextFollowUp": "2026-09-01",
+      "notes": "joined / personal joined as 2WT ",
+      "lastModified": "2026-09-01",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:44:56.159Z",
-      "videoSent": false
+      "videoSent": true,
+      "customerSince": "2026-09-01"
     },
     {
       "id": "mpl4gxja7rexzdfxkrg",
@@ -22545,5 +22546,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-09-01T07:37:42.052Z"
+  "lastUpdated": "2026-09-01T07:38:28.801Z"
 }
