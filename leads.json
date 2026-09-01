@@ -13527,7 +13527,7 @@
     {
       "id": "mrbyrwlk0eobtrduyr5n",
       "name": "Jeffrey Pittman",
-      "email": "",
+      "email": "jeffreyj06@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/jeffrey.pittman.16",
       "source": "Facebook",
@@ -13535,9 +13535,9 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-09-01",
-      "notes": "Personal ",
+      "lastContact": "2026-09-01",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal 772123 Me",
       "lastModified": "2026-09-01",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T10:57:50.024Z",
@@ -22834,5 +22834,5 @@
       "addedAt": "2026-09-01T11:47:19.376Z"
     }
   ],
-  "lastUpdated": "2026-09-01T11:52:02.505Z"
+  "lastUpdated": "2026-09-01T11:52:57.393Z"
 }
