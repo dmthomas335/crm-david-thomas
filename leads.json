@@ -22616,7 +22616,25 @@
       "lastModified": "2026-09-01",
       "dateAdded": "2026-09-01",
       "addedAt": "2026-09-01T11:41:07.740Z"
+    },
+    {
+      "id": "mtiljy0j2zzuuxf8ht3",
+      "name": "A Home Ed Journey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cimpoeru.alexandra",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-01",
+      "nextFollowUp": "2026-09-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-01",
+      "dateAdded": "2026-09-01",
+      "addedAt": "2026-09-01T11:41:31.507Z"
     }
   ],
-  "lastUpdated": "2026-09-01T11:41:07.740Z"
+  "lastUpdated": "2026-09-01T11:41:31.507Z"
 }
