@@ -19922,9 +19922,9 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": "2026-09-01",
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-01",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T07:13:51.455Z"
     },
@@ -22543,5 +22543,5 @@
       "addedAt": "2026-08-31T11:34:11.015Z"
     }
   ],
-  "lastUpdated": "2026-08-31T12:44:22.345Z"
+  "lastUpdated": "2026-09-01T07:35:17.350Z"
 }
