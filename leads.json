@@ -16490,10 +16490,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-09-02",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-09",
       "notes": "Soriano 764274 cancelled",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-09-02",
       "customerSince": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T11:32:27.064Z"
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:00:17.304Z"
+  "lastUpdated": "2026-09-02T14:01:10.871Z"
 }
