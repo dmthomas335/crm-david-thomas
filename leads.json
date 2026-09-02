@@ -22995,7 +22995,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T13:56:48.144Z"
+    },
+    {
+      "id": "mtk5vikukncx33irn3",
+      "name": "Jon Knight",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jon.TriMan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-10-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T13:58:09.870Z"
     }
   ],
-  "lastUpdated": "2026-09-02T13:56:48.144Z"
+  "lastUpdated": "2026-09-02T13:58:09.870Z"
 }
