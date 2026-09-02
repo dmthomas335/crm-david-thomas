@@ -16324,14 +16324,14 @@
       "phone": "",
       "social": "https://www.facebook.com/craig.baker.33234",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:12:44.547Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:25:45.176Z"
+  "lastUpdated": "2026-09-02T14:26:01.489Z"
 }
