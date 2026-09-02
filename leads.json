@@ -14216,14 +14216,14 @@
       "phone": "",
       "social": "https://www.facebook.com/marcos.salinas.520",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-14",
       "addedAt": "2026-07-14T11:04:12.714Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:15:17.648Z"
+  "lastUpdated": "2026-09-02T14:15:37.257Z"
 }
