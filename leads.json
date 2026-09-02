@@ -19470,14 +19470,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100087961839628",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:58:16.035Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:42:04.323Z"
+  "lastUpdated": "2026-09-02T14:42:17.900Z"
 }
