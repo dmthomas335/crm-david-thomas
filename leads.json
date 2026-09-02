@@ -15117,14 +15117,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DDpirNnGT/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T13:01:08.084Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:16:24.866Z"
+  "lastUpdated": "2026-09-02T14:16:42.482Z"
 }
