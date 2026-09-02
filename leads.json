@@ -7196,14 +7196,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1B49x7avwk/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-07",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-15",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:19:43.360Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:10:03.237Z"
+  "lastUpdated": "2026-09-02T14:11:01.910Z"
 }
