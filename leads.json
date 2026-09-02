@@ -22941,7 +22941,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:14:30.304Z"
+    },
+    {
+      "id": "mtk0dzggsj73jw36iwo",
+      "name": "Maryann Andrew",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maryann.andrew.869949",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-16",
+      "notes": "Personal ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T11:24:33.856Z"
     }
   ],
-  "lastUpdated": "2026-09-02T11:14:30.304Z"
+  "lastUpdated": "2026-09-02T11:24:33.856Z"
 }
