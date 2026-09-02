@@ -17119,14 +17119,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1H6JkrxocT/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T08:14:00.235Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:24:42.241Z"
+  "lastUpdated": "2026-09-02T14:24:57.296Z"
 }
