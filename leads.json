@@ -16378,14 +16378,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ChrstineMHill",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:13:58.868Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:16:03.161Z"
+  "lastUpdated": "2026-09-02T14:16:24.866Z"
 }
