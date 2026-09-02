@@ -17714,14 +17714,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mathieu.gassy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T12:00:06.781Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:24:57.296Z"
+  "lastUpdated": "2026-09-02T14:25:15.064Z"
 }
