@@ -19308,14 +19308,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DLLbWg7W6/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:03:21.300Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:41:47.947Z"
+  "lastUpdated": "2026-09-02T14:42:04.323Z"
 }
