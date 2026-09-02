@@ -22887,7 +22887,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:13:07.494Z"
+    },
+    {
+      "id": "mtjzzquugnumvo3d1v8",
+      "name": "Lussion Griggs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lussion.griggs",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T11:13:29.526Z"
     }
   ],
-  "lastUpdated": "2026-09-02T11:13:07.494Z"
+  "lastUpdated": "2026-09-02T11:13:29.526Z"
 }
