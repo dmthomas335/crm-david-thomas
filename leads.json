@@ -20461,14 +20461,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ryan.sanders.9883",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:14:12.727Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:07:29.739Z"
+  "lastUpdated": "2026-09-02T14:08:20.932Z"
 }
