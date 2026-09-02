@@ -23031,7 +23031,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T13:58:35.264Z"
+    },
+    {
+      "id": "mtk5wp1jwk5jgiyy8b",
+      "name": "Neil Fox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/neil.fox.351",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T13:59:04.903Z"
     }
   ],
-  "lastUpdated": "2026-09-02T13:58:35.264Z"
+  "lastUpdated": "2026-09-02T13:59:04.903Z"
 }
