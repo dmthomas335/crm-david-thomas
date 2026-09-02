@@ -22869,7 +22869,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:12:39.087Z"
+    },
+    {
+      "id": "mtjzz9uu2f1sefrbn65",
+      "name": "Jillian Mazzariello-Ahee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jillian.ahee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T11:13:07.494Z"
     }
   ],
-  "lastUpdated": "2026-09-02T11:12:39.087Z"
+  "lastUpdated": "2026-09-02T11:13:07.494Z"
 }
