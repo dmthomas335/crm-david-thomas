@@ -23049,7 +23049,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T13:59:04.903Z"
+    },
+    {
+      "id": "mtk5xn8ogvwhwwrbtbm",
+      "name": "Carl Sheppard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carl.sheppard.121",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-02",
+      "nextFollowUp": "2026-09-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-02",
+      "dateAdded": "2026-09-02",
+      "addedAt": "2026-09-02T13:59:49.224Z"
     }
   ],
-  "lastUpdated": "2026-09-02T13:59:04.903Z"
+  "lastUpdated": "2026-09-02T13:59:49.224Z"
 }
