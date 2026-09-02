@@ -16234,14 +16234,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kyle.gray724",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:10:26.141Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:23:20.759Z"
+  "lastUpdated": "2026-09-02T14:24:36.648Z"
 }
