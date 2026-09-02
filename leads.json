@@ -19668,14 +19668,14 @@
       "phone": "",
       "social": "https://www.facebook.com/huddson",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:07:15.371Z"
     },
@@ -23087,5 +23087,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:42:17.900Z"
+  "lastUpdated": "2026-09-02T14:42:34.667Z"
 }
