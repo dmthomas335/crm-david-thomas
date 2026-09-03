@@ -2033,13 +2033,13 @@
       "phone": "",
       "social": "https://www.facebook.com/colweir4444",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-14",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:35:02.763Z",
       "videoSent": false
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:31:26.343Z"
+  "lastUpdated": "2026-09-03T12:31:39.368Z"
 }
