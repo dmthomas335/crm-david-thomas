@@ -9779,16 +9779,17 @@
       "phone": "",
       "social": "https://www.facebook.com/marco.a.zamora.539273",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Customer",
+      "videoSent": true,
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-09-30",
-      "notes": "Personal ",
-      "lastModified": "2026-08-31",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal me ",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-06-17",
-      "addedAt": "2026-06-17T10:48:42.569Z"
+      "addedAt": "2026-06-17T10:48:42.569Z",
+      "customerSince": "2026-09-03"
     },
     {
       "id": "mqj5yej5pnz8lmrzqoa",
@@ -23087,5 +23088,5 @@
       "addedAt": "2026-09-02T14:00:17.304Z"
     }
   ],
-  "lastUpdated": "2026-09-02T14:42:51.540Z"
+  "lastUpdated": "2026-09-03T07:32:41.280Z"
 }
