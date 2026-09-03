@@ -23212,7 +23212,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:15:23.606Z"
+    },
+    {
+      "id": "mtlfirtaoagnou6ogaj",
+      "name": "Martin D Paroz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mparoz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T11:15:57.646Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:15:23.606Z"
+  "lastUpdated": "2026-09-03T11:15:57.646Z"
 }
