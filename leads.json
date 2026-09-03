@@ -5321,14 +5321,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carlosturnerjr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T11:44:51.205Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:34:43.905Z"
+  "lastUpdated": "2026-09-03T12:35:04.217Z"
 }
