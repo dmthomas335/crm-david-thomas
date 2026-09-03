@@ -23158,7 +23158,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:14:11.661Z"
+    },
+    {
+      "id": "mtlfgz5hv0qzakruea",
+      "name": "Kate Cathlyn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/katecathlyn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T11:14:33.845Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:14:11.661Z"
+  "lastUpdated": "2026-09-03T11:14:33.845Z"
 }
