@@ -23104,7 +23104,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T07:33:36.678Z"
+    },
+    {
+      "id": "mtlffhs60xp3m0z0ti4",
+      "name": "Verniecee Whitaker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/verniecee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T11:13:24.678Z"
     }
   ],
-  "lastUpdated": "2026-09-03T07:34:11.894Z"
+  "lastUpdated": "2026-09-03T11:13:24.678Z"
 }
