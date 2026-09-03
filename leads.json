@@ -23140,7 +23140,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:13:46.868Z"
+    },
+    {
+      "id": "mtlfgi19gip8em0lwi6",
+      "name": "Itamar Magori",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/itamar.magori",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T11:14:11.661Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:13:46.868Z"
+  "lastUpdated": "2026-09-03T11:14:11.661Z"
 }
