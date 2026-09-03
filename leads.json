@@ -23099,7 +23099,7 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-03",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": "2026-09-10",
       "notes": "Personal ",
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:40:05.563Z"
+  "lastUpdated": "2026-09-03T12:40:32.764Z"
 }
