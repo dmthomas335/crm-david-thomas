@@ -8331,7 +8331,7 @@
     {
       "id": "mq9jfospg4dqlgiidta",
       "name": "John Healy",
-      "email": "",
+      "email": "john.cdboyne@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/johnhealyireland",
       "source": "Facebook",
@@ -8342,7 +8342,7 @@
       "lastContact": "2026-07-29",
       "nextFollowUp": "2026-09-03",
       "notes": "Personal 2WT 520349 Brucey",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T13:33:11.113Z",
       "customerSince": "2026-07-08"
@@ -23232,5 +23232,5 @@
       "addedAt": "2026-09-03T11:15:57.646Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:18:53.805Z"
+  "lastUpdated": "2026-09-03T11:19:13.333Z"
 }
