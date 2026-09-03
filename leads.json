@@ -8227,14 +8227,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CAfh8Ucsm/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:47:22.022Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:35:04.217Z"
+  "lastUpdated": "2026-09-03T12:35:23.489Z"
 }
