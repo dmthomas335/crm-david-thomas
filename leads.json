@@ -21704,14 +21704,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100039677381026",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:23:44.405Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:43:06.365Z"
+  "lastUpdated": "2026-09-03T12:43:30.637Z"
 }
