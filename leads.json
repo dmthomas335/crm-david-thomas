@@ -863,10 +863,10 @@
       "status": "Watched",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-09-03",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-17",
       "notes": "sent biz pres/ will give trading a try / david t page",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:41:31.954Z"
+  "lastUpdated": "2026-09-03T11:42:12.324Z"
 }
