@@ -20264,14 +20264,14 @@
       "phone": "",
       "social": "https://www.facebook.com/darrell.king.718689",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:09:09.205Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:41:27.060Z"
+  "lastUpdated": "2026-09-03T12:41:49.645Z"
 }
