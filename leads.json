@@ -18211,9 +18211,9 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": "2026-10-26",
       "notes": "513133 Stephen Thomas ",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-09-03",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:21:51.587Z"
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:40:48.601Z"
+  "lastUpdated": "2026-09-03T11:40:57.786Z"
 }
