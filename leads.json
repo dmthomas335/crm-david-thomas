@@ -23086,7 +23086,25 @@
       "lastModified": "2026-09-02",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T14:00:17.304Z"
+    },
+    {
+      "id": "mtl7ktuunf2x87bm11",
+      "name": "Anthony L Arrington",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/186LMsPJy4/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-09-03",
+      "notes": "Personal ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T07:33:36.678Z"
     }
   ],
-  "lastUpdated": "2026-09-03T07:32:41.280Z"
+  "lastUpdated": "2026-09-03T07:33:36.679Z"
 }
