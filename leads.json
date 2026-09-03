@@ -20588,14 +20588,14 @@
       "phone": "",
       "social": "https://www.facebook.com/parsram.sankar",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:07:19.967Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:40:32.764Z"
+  "lastUpdated": "2026-09-03T12:40:49.725Z"
 }
