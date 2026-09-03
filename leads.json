@@ -23302,7 +23302,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:29:31.013Z"
+    },
+    {
+      "id": "mtlg0onseu53k2nv4c",
+      "name": "Donna Taylor Menefee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/donna.taylormenefee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-03",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-03",
+      "dateAdded": "2026-09-03",
+      "addedAt": "2026-09-03T11:29:53.368Z"
     }
   ],
-  "lastUpdated": "2026-09-03T11:29:31.013Z"
+  "lastUpdated": "2026-09-03T11:29:53.368Z"
 }
