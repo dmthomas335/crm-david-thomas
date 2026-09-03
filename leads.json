@@ -18713,14 +18713,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hemi.jahnke",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-03",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-09-03",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:24:16.826Z"
     },
@@ -23358,5 +23358,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-03T12:42:19.428Z"
+  "lastUpdated": "2026-09-03T12:42:42.574Z"
 }
