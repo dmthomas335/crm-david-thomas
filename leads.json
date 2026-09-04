@@ -4982,9 +4982,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-09-04",
-      "notes": "Text 753925 ME\n",
-      "lastModified": "2026-08-21",
+      "nextFollowUp": "2027-02-23",
+      "notes": "Text 753925 ME cancelled\n",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:49:12.728Z",
       "customerSince": "2026-06-08"
@@ -23359,5 +23359,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T11:55:44.028Z"
+  "lastUpdated": "2026-09-04T11:56:43.485Z"
 }
