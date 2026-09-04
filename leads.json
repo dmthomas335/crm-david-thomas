@@ -199,9 +199,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-04",
+      "nextFollowUp": "2026-10-14",
       "notes": "@jenjuling TG Said not interested",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -23359,5 +23359,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T12:49:03.287Z"
+  "lastUpdated": "2026-09-04T12:49:15.238Z"
 }
