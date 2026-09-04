@@ -12394,16 +12394,17 @@
       "phone": "",
       "social": "https://www.facebook.com/misty.rose.18",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": "2026-09-04",
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-07-01",
-      "addedAt": "2026-07-01T12:48:01.886Z"
+      "addedAt": "2026-07-01T12:48:01.886Z",
+      "customerSince": "2026-09-04"
     },
     {
       "id": "mr24xz2r1jcglwfy58h",
@@ -23358,5 +23359,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T11:04:34.647Z"
+  "lastUpdated": "2026-09-04T11:05:28.919Z"
 }
