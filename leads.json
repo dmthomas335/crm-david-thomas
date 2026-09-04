@@ -22188,7 +22188,7 @@
     {
       "id": "mtcx2zrzam77axcgltk",
       "name": "Jared Ketchersid",
-      "email": "",
+      "email": "jwketchersid@aol.com",
       "phone": "",
       "social": "https://www.facebook.com/jared.ketchersid",
       "source": "Facebook",
@@ -22196,10 +22196,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-09-04",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-28",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal Birthday 730516 Me",
+      "lastModified": "2026-09-04",
       "customerSince": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:17:38.975Z"
@@ -23359,5 +23359,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T12:29:15.562Z"
+  "lastUpdated": "2026-09-04T12:30:57.740Z"
 }
