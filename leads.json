@@ -2561,10 +2561,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-09-04",
+      "lastContact": "2026-09-04",
+      "nextFollowUp": "2026-09-18",
       "notes": "joined / personal joined as 2WT / brucey 517449",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-09-04",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:44:56.159Z",
       "videoSent": true,
@@ -23359,5 +23359,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T12:31:42.892Z"
+  "lastUpdated": "2026-09-04T12:31:51.699Z"
 }
