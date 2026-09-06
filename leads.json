@@ -10627,16 +10627,17 @@
       "phone": "",
       "social": "https://www.facebook.com/rob.riege.1",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
-      "temperature": "Warm",
+      "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-09-10",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-11",
+      "lastContact": "2026-09-06",
+      "nextFollowUp": "2026-09-07",
+      "notes": "Personal joined as 2WT ",
+      "lastModified": "2026-09-06",
       "dateAdded": "2026-06-23",
-      "addedAt": "2026-06-23T12:46:00.760Z"
+      "addedAt": "2026-06-23T12:46:00.760Z",
+      "customerSince": "2026-09-06"
     },
     {
       "id": "mqrr0tcwqj2or89lis",
@@ -23359,5 +23360,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-04T12:56:18.179Z"
+  "lastUpdated": "2026-09-06T12:47:24.273Z"
 }
