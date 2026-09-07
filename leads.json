@@ -20667,10 +20667,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-09-07",
-      "notes": "Personal Birthday 539460 Ashley Cancelled",
-      "lastModified": "2026-08-20",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal 539460 Ashley Cancelled",
+      "lastModified": "2026-09-07",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:09:34.966Z"
     },
@@ -23361,5 +23361,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-07T12:57:07.528Z"
+  "lastUpdated": "2026-09-07T12:57:13.806Z"
 }
