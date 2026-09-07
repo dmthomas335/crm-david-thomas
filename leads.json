@@ -19888,14 +19888,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19Mo8wZ8fZ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-09-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-09-07",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T07:10:52.708Z"
     },
@@ -23361,5 +23361,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-07T13:00:40.120Z"
+  "lastUpdated": "2026-09-07T13:01:07.336Z"
 }
