@@ -18752,14 +18752,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ms.Unicornkim",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-09-07",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-09-07",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:25:05.269Z"
     },
@@ -23361,5 +23361,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-07T13:01:47.985Z"
+  "lastUpdated": "2026-09-07T13:02:09.427Z"
 }
