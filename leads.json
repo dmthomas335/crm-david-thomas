@@ -10624,7 +10624,7 @@
     {
       "id": "mqqn18vs3ewpbfbdqte",
       "name": "Rob Riege",
-      "email": "",
+      "email": "rsriege66@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/rob.riege.1",
       "source": "Facebook",
@@ -10632,10 +10632,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-06",
-      "nextFollowUp": "2026-09-07",
-      "notes": "Personal joined as 2WT ",
-      "lastModified": "2026-09-06",
+      "lastContact": "2026-09-07",
+      "nextFollowUp": "2026-09-08",
+      "notes": "Personal joined as 2WT Me 511014",
+      "lastModified": "2026-09-07",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:46:00.760Z",
       "customerSince": "2026-09-06"
@@ -23361,5 +23361,5 @@
       "addedAt": "2026-09-03T11:31:23.319Z"
     }
   ],
-  "lastUpdated": "2026-09-07T12:48:49.656Z"
+  "lastUpdated": "2026-09-07T12:49:30.985Z"
 }
