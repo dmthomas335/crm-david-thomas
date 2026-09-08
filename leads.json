@@ -20505,10 +20505,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-09-08",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-15",
       "notes": "Personal 515194 Paul Johnson joined as 2WT",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T11:55:03.151Z"
     },
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:33:29.227Z"
+  "lastUpdated": "2026-09-08T11:33:35.485Z"
 }
