@@ -10633,9 +10633,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-09-08",
+      "nextFollowUp": "2026-09-11",
       "notes": "Personal joined as 2WT Me 511014",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:46:00.760Z",
       "customerSince": "2026-09-06"
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:21:32.028Z"
+  "lastUpdated": "2026-09-08T11:21:55.176Z"
 }
