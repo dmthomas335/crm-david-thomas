@@ -23539,7 +23539,25 @@
       "lastModified": "2026-09-08",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T11:06:12.276Z"
+    },
+    {
+      "id": "mtskdzx0inhdacoq8yg",
+      "name": "Randy Haumschild",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randy.haumschild",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-08",
+      "dateAdded": "2026-09-08",
+      "addedAt": "2026-09-08T11:06:36.180Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:06:12.276Z"
+  "lastUpdated": "2026-09-08T11:06:36.180Z"
 }
