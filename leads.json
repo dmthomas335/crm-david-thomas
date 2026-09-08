@@ -11692,14 +11692,14 @@
       "phone": "",
       "social": "https://www.facebook.com/samsr128",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-09-08",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:38:33.501Z"
     },
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:32:07.889Z"
+  "lastUpdated": "2026-09-08T11:33:29.227Z"
 }
