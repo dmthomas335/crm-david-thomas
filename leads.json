@@ -11188,14 +11188,14 @@
       "phone": "",
       "social": "https://www.facebook.com/juliemarie.jones.7",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-08",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T14:09:07.691Z"
     },
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:30:39.081Z"
+  "lastUpdated": "2026-09-08T11:30:52.761Z"
 }
