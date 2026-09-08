@@ -5001,10 +5001,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-09-08",
-      "notes": "personal",
-      "lastModified": "2026-08-06",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-22",
+      "notes": "personal Birthday ",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:50:49.350Z"
     },
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:29:39.554Z"
+  "lastUpdated": "2026-09-08T11:30:11.922Z"
 }
