@@ -2999,10 +2999,10 @@
       "status": "Watched",
       "temperature": "Warm",
       "lastAction": "Follow-up 6+",
-      "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-08",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-10-08",
       "notes": "says joining june or july",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-09-08",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:22:43.836Z",
       "videoSent": false
@@ -23631,5 +23631,5 @@
       "addedAt": "2026-09-08T11:09:11.944Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:30:11.922Z"
+  "lastUpdated": "2026-09-08T11:30:39.081Z"
 }
