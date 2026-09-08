@@ -23359,7 +23359,25 @@
       "lastModified": "2026-09-03",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:31:23.319Z"
+    },
+    {
+      "id": "mtsk846yvgh7razl0e",
+      "name": "Jason Baldwin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.baldwin.129",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-08",
+      "dateAdded": "2026-09-08",
+      "addedAt": "2026-09-08T11:02:01.786Z"
     }
   ],
-  "lastUpdated": "2026-09-07T13:04:30.979Z"
+  "lastUpdated": "2026-09-08T11:02:01.786Z"
 }
