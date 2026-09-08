@@ -23485,7 +23485,25 @@
       "lastModified": "2026-09-08",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T11:04:49.291Z"
+    },
+    {
+      "id": "mtskc90qgsh7kk2riis",
+      "name": "Danny Bernal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/danny.bernal.648203",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-08",
+      "nextFollowUp": "2026-09-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-08",
+      "dateAdded": "2026-09-08",
+      "addedAt": "2026-09-08T11:05:14.666Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:04:49.291Z"
+  "lastUpdated": "2026-09-08T11:05:14.666Z"
 }
