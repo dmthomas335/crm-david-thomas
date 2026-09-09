@@ -16490,14 +16490,14 @@
       "phone": "",
       "social": "https://www.facebook.com/traderhotrod",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-02",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": null,
       "notes": "Soriano 764274 cancelled",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-09-09",
       "customerSince": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T11:32:27.064Z"
@@ -23901,5 +23901,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:23:50.000Z"
+  "lastUpdated": "2026-09-09T11:26:18.390Z"
 }
