@@ -12829,14 +12829,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19AWMn8nqs/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-09-09",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:40:08.004Z"
     },
@@ -23902,5 +23902,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T12:46:54.437Z"
+  "lastUpdated": "2026-09-09T12:47:11.301Z"
 }
