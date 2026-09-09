@@ -15715,14 +15715,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kelly.bowen.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-09",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:09:58.697Z"
     },
@@ -23902,5 +23902,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T13:27:47.829Z"
+  "lastUpdated": "2026-09-09T13:27:57.709Z"
 }
