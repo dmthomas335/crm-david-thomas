@@ -23773,7 +23773,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:19:22.565Z"
+    },
+    {
+      "id": "mtu0avjpgdc5wqe7u9v",
+      "name": "David Lockwood",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100005562439232",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T11:19:50.581Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:19:22.565Z"
+  "lastUpdated": "2026-09-09T11:19:50.581Z"
 }
