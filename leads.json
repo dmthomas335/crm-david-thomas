@@ -23791,7 +23791,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:19:50.581Z"
+    },
+    {
+      "id": "mtu0cmwuy327vbf4nip",
+      "name": "Quan Morton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/quan.morton.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T11:21:12.702Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:19:50.581Z"
+  "lastUpdated": "2026-09-09T11:21:12.702Z"
 }
