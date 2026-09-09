@@ -21437,14 +21437,14 @@
       "phone": "",
       "social": "https://www.facebook.com/harry.lindgren.33",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-09-09",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:50:41.655Z"
     },
@@ -23902,5 +23902,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:55:58.504Z"
+  "lastUpdated": "2026-09-09T12:42:46.020Z"
 }
