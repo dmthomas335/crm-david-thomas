@@ -23719,7 +23719,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:17:48.603Z"
+    },
+    {
+      "id": "mtu08qjn9e5p0a9tp55",
+      "name": "Jake Rainford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jake.rainford.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T11:18:10.787Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:17:48.603Z"
+  "lastUpdated": "2026-09-09T11:18:10.787Z"
 }
