@@ -22117,20 +22117,21 @@
     {
       "id": "mtcwzixlao4ik6cw0nq",
       "name": "Steve Hughes",
-      "email": "",
+      "email": "stevehughes855@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/steve.hughes.393950",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Hot",
+      "lastAction": "Closed",
       "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-10-21",
-      "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "nextFollowUp": "2026-10-27",
+      "notes": "Personal Simon Roberts 516368",
+      "lastModified": "2026-09-09",
       "dateAdded": "2026-08-28",
-      "addedAt": "2026-08-28T12:14:57.177Z"
+      "addedAt": "2026-08-28T12:14:57.177Z",
+      "customerSince": "2026-09-09"
     },
     {
       "id": "mtcx053t6fus5iy006",
@@ -23901,5 +23902,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:28:54.312Z"
+  "lastUpdated": "2026-09-09T11:45:56.281Z"
 }
