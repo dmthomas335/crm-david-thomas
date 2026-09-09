@@ -23629,7 +23629,25 @@
       "lastModified": "2026-09-08",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T11:09:11.944Z"
+    },
+    {
+      "id": "mttztwm6h1ys7xjb49l",
+      "name": "Mike Comer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.comer.33",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T11:06:38.814Z"
     }
   ],
-  "lastUpdated": "2026-09-08T11:38:26.285Z"
+  "lastUpdated": "2026-09-09T11:06:38.814Z"
 }
