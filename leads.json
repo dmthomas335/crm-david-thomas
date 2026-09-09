@@ -23755,7 +23755,25 @@
       "lastModified": "2026-09-09",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:18:32.524Z"
+    },
+    {
+      "id": "mtu0a9xh9sbe1mhcfdh",
+      "name": "James E Glover",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.e.glover.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-09",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-09",
+      "dateAdded": "2026-09-09",
+      "addedAt": "2026-09-09T11:19:22.565Z"
     }
   ],
-  "lastUpdated": "2026-09-09T11:18:32.524Z"
+  "lastUpdated": "2026-09-09T11:19:22.565Z"
 }
