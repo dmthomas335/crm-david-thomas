@@ -18414,9 +18414,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-09",
+      "nextFollowUp": "2026-12-09",
       "notes": "South Lyon Michigan Personal 705611 Me Cancelled",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-09",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:35:15.861Z"
     },
@@ -23902,5 +23902,5 @@
       "addedAt": "2026-09-09T11:23:50.000Z"
     }
   ],
-  "lastUpdated": "2026-09-09T12:45:45.989Z"
+  "lastUpdated": "2026-09-09T12:46:09.517Z"
 }
