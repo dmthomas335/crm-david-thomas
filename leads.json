@@ -23918,7 +23918,26 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:08:25.484Z"
+    },
+    {
+      "id": "mtvfdwwkm82u7i1a9j",
+      "name": "Terrance Duncan",
+      "email": "terrance.duncan@gmail.com",
+      "phone": "",
+      "social": "https://www.facebook.com/terranceduncan1",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Closed",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-14",
+      "notes": "Personal 519810 Ashley",
+      "lastModified": "2026-09-10",
+      "customerSince": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:09:52.724Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:08:25.484Z"
+  "lastUpdated": "2026-09-10T11:09:52.724Z"
 }
