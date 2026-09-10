@@ -24045,7 +24045,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:17:56.921Z"
+    },
+    {
+      "id": "mtvfp0fclf0tmpbnaj",
+      "name": "Charles Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charles.johnson.853943",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:18:30.504Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:17:56.921Z"
+  "lastUpdated": "2026-09-10T11:18:30.504Z"
 }
