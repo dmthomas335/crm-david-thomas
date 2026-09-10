@@ -24009,7 +24009,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:16:07.887Z"
+    },
+    {
+      "id": "mtvfmjrzj4j974ujnp8",
+      "name": "James Joynson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.joynson.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:16:35.615Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:16:07.887Z"
+  "lastUpdated": "2026-09-10T11:16:35.615Z"
 }
