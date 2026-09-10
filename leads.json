@@ -24117,7 +24117,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:19:32.528Z"
+    },
+    {
+      "id": "mtvfqsmo9gxrm48ut75",
+      "name": "Andrew Clamp",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrew.clamp.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:19:53.712Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:19:32.528Z"
+  "lastUpdated": "2026-09-10T11:19:53.712Z"
 }
