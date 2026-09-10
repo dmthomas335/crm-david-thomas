@@ -24135,7 +24135,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:19:53.712Z"
+    },
+    {
+      "id": "mtvfrjd54rozxggla4d",
+      "name": "Michael Alder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.alder.796",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:20:28.361Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:19:53.712Z"
+  "lastUpdated": "2026-09-10T11:20:28.362Z"
 }
