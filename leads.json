@@ -24063,7 +24063,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:18:30.504Z"
+    },
+    {
+      "id": "mtvfpi685uw09owia6s",
+      "name": "Ed Glinecki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ed.glinecki",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:18:53.504Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:18:30.504Z"
+  "lastUpdated": "2026-09-10T11:18:53.504Z"
 }
