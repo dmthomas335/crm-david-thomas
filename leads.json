@@ -23955,7 +23955,25 @@
       "lastModified": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:12:43.056Z"
+    },
+    {
+      "id": "mtvfkrlb13zhlktrfjsg",
+      "name": "Evan Bragg",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/evan.bragg.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2026-09-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-10",
+      "dateAdded": "2026-09-10",
+      "addedAt": "2026-09-10T11:15:12.431Z"
     }
   ],
-  "lastUpdated": "2026-09-10T11:12:43.056Z"
+  "lastUpdated": "2026-09-10T11:15:12.431Z"
 }
