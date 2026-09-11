@@ -24279,7 +24279,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:26:02.528Z"
+    },
+    {
+      "id": "mtwvf7jzlssgw05z53",
+      "name": "Jordan Murray",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.murray.7737",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:26:33.215Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:26:02.528Z"
+  "lastUpdated": "2026-09-11T11:26:33.215Z"
 }
