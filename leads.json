@@ -7255,10 +7255,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-09-11",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-25",
       "notes": "Personal Email",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T10:46:07.657Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:55:53.143Z"
+  "lastUpdated": "2026-09-11T12:56:20.855Z"
 }
