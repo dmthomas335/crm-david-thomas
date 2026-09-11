@@ -18265,14 +18265,14 @@
       "phone": "",
       "social": "https://www.facebook.com/larry.williams.543908",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:25:19.999Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:58:49.025Z"
+  "lastUpdated": "2026-09-11T12:59:18.531Z"
 }
