@@ -24333,7 +24333,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:27:29.368Z"
+    },
+    {
+      "id": "mtwvh6oxv2avqr0l7sc",
+      "name": "Diana Fielitz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/diana.fielitz.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:28:05.409Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:27:29.368Z"
+  "lastUpdated": "2026-09-11T11:28:05.409Z"
 }
