@@ -17736,14 +17736,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dee.brown.349118",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T12:00:26.625Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:58:34.914Z"
+  "lastUpdated": "2026-09-11T12:58:49.025Z"
 }
