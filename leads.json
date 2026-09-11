@@ -16653,14 +16653,14 @@
       "phone": "",
       "social": "https://www.facebook.com/greg.hidalgo.94",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T12:03:59.890Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T13:00:11.164Z"
+  "lastUpdated": "2026-09-11T13:00:22.756Z"
 }
