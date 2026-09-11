@@ -24351,7 +24351,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:28:05.409Z"
+    },
+    {
+      "id": "mtwvhx29u0ph1qu21qa",
+      "name": "Adrian Lopez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alamofieldservices",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-10-12",
+      "notes": "Personal ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:28:39.585Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:28:05.409Z"
+  "lastUpdated": "2026-09-11T11:28:39.585Z"
 }
