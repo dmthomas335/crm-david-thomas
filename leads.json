@@ -24315,7 +24315,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:27:03.328Z"
+    },
+    {
+      "id": "mtwvgevshktlioxjzfj",
+      "name": "Andrew Luk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrewluk88",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:27:29.368Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:27:03.328Z"
+  "lastUpdated": "2026-09-11T11:27:29.368Z"
 }
