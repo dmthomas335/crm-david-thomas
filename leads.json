@@ -24405,7 +24405,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:29:34.161Z"
+    },
+    {
+      "id": "mtwvjopmt1u29b7j818",
+      "name": "Shaun Macdonald",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shaun.macdonald.948",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:30:02.074Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:29:34.161Z"
+  "lastUpdated": "2026-09-11T11:30:02.074Z"
 }
