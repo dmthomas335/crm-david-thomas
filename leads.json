@@ -21621,10 +21621,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-11",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-18",
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:14:27.128Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T13:01:57.534Z"
+  "lastUpdated": "2026-09-11T13:02:23.070Z"
 }
