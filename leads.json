@@ -18153,14 +18153,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bobowidowicz00",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-09-11",
-      "notes": "516557 - Brandon Munn \n",
-      "lastModified": "2026-08-28",
+      "nextFollowUp": null,
+      "notes": "516557 - Brandon Munn \ncancelled ",
+      "lastModified": "2026-09-11",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:17:17.177Z"
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:31:16.816Z"
+  "lastUpdated": "2026-09-11T11:31:37.344Z"
 }
