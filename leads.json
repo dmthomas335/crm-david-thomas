@@ -22291,9 +22291,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": "2026-09-28",
       "notes": "Personal Me 771304",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-09-11",
       "customerSince": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:09:24.731Z"
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:42:22.537Z"
+  "lastUpdated": "2026-09-11T12:42:54.260Z"
 }
