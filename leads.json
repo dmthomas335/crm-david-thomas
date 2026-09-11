@@ -24423,7 +24423,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:30:02.074Z"
+    },
+    {
+      "id": "mtwvk4xewy51ng2nuo",
+      "name": "David Jackson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100083706819545",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-11",
+      "dateAdded": "2026-09-11",
+      "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T11:30:02.074Z"
+  "lastUpdated": "2026-09-11T11:30:23.090Z"
 }
