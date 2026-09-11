@@ -8485,10 +8485,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
-      "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-09-11",
+      "lastContact": "2026-09-11",
+      "nextFollowUp": "2026-09-18",
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:36:45.805Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:57:29.393Z"
+  "lastUpdated": "2026-09-11T12:57:52.897Z"
 }
