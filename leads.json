@@ -18450,9 +18450,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-11",
+      "nextFollowUp": "2026-11-05",
       "notes": "Personal 523972 Josh Jarsen Cancelled\n",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-11",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:37:28.045Z"
     },
@@ -24443,5 +24443,5 @@
       "addedAt": "2026-09-11T11:30:23.090Z"
     }
   ],
-  "lastUpdated": "2026-09-11T12:54:47.958Z"
+  "lastUpdated": "2026-09-11T12:55:10.598Z"
 }
