@@ -24495,7 +24495,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:18:21.768Z"
+    },
+    {
+      "id": "mu15golkfe2qp01t894",
+      "name": "Nathan Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nathan.bennett.73700",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": null,
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:18:42.824Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:18:21.768Z"
+  "lastUpdated": "2026-09-14T11:18:42.824Z"
 }
