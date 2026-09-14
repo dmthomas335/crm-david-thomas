@@ -24477,7 +24477,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:17:59.686Z"
+    },
+    {
+      "id": "mu15g8coru01gqjdf5",
+      "name": "Hector Velez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hector.velez.3133719",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:18:21.768Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:17:59.686Z"
+  "lastUpdated": "2026-09-14T11:18:21.768Z"
 }
