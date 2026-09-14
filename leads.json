@@ -24531,7 +24531,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:19:15.936Z"
+    },
+    {
+      "id": "mu15i8u98f1yfxn18fc",
+      "name": "Gabriel Moreno Herrera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gabemorenoh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-22",
+      "notes": "Personal ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:19:55.713Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:19:15.936Z"
+  "lastUpdated": "2026-09-14T11:19:55.713Z"
 }
