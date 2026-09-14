@@ -24585,7 +24585,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:27:27.183Z"
+    },
+    {
+      "id": "mu15sac6eg5mletp9qq",
+      "name": "Kenny Barber",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenny.barber.71577",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:27:44.214Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:27:27.183Z"
+  "lastUpdated": "2026-09-14T11:27:44.214Z"
 }
