@@ -24657,7 +24657,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:28:49.213Z"
+    },
+    {
+      "id": "mu15ubcv4ojbitlhahd",
+      "name": "Reinhard Schutte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/reinhard.schutte.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-10-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:29:18.847Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:28:49.213Z"
+  "lastUpdated": "2026-09-14T11:29:18.847Z"
 }
