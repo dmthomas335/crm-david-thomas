@@ -24441,7 +24441,25 @@
       "lastModified": "2026-09-11",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:30:23.090Z"
+    },
+    {
+      "id": "mu15fbagpz5hxbddwr7",
+      "name": "CE MG",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ce.mg.943453",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-09-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:17:38.920Z"
     }
   ],
-  "lastUpdated": "2026-09-12T11:04:34.316Z"
+  "lastUpdated": "2026-09-14T11:17:38.921Z"
 }
