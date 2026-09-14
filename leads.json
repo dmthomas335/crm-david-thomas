@@ -24693,7 +24693,25 @@
       "lastModified": "2026-09-14",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:29:49.606Z"
+    },
+    {
+      "id": "mu15vevy4ly5qt6sbv9",
+      "name": "James Isaacs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/J.W.Isaacs72",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-14",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-14",
+      "dateAdded": "2026-09-14",
+      "addedAt": "2026-09-14T11:30:10.078Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:29:49.606Z"
+  "lastUpdated": "2026-09-14T11:30:10.078Z"
 }
