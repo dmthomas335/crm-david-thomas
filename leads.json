@@ -23931,9 +23931,9 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-14",
+      "nextFollowUp": "2026-09-25",
       "notes": "Personal 519810 Ashley",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-14",
       "customerSince": "2026-09-10",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:09:52.724Z"
@@ -24713,5 +24713,5 @@
       "addedAt": "2026-09-14T11:30:10.078Z"
     }
   ],
-  "lastUpdated": "2026-09-14T11:32:46.509Z"
+  "lastUpdated": "2026-09-14T11:34:11.806Z"
 }
