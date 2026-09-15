@@ -24964,7 +24964,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:46:24.461Z"
+    },
+    {
+      "id": "mu2lx23ysfmhhmd4ym",
+      "name": "Courtney Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/courtney.brown.142240",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-15",
+      "notes": "wanted SP alerts Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:46:24.461Z"
+  "lastUpdated": "2026-09-15T11:47:06.862Z"
 }
