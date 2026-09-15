@@ -208,19 +208,20 @@
     {
       "id": "mpbfwxa6yrx7jeqyogh",
       "name": "Richard Cronan",
-      "email": "",
+      "email": "richard.cronan@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/richard.j.cronan",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Customer",
       "temperature": "Warm",
-      "lastAction": "Nurture",
+      "lastAction": "Closed",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-10-20",
-      "notes": "Personal ",
-      "lastModified": "2026-08-21",
+      "nextFollowUp": "2026-10-23",
+      "notes": "Personal Ashley 694627 ",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": true,
+      "customerSince": "2026-09-15"
     },
     {
       "id": "mpbfyjbz4f9i0u3gmph",
@@ -24713,5 +24714,5 @@
       "addedAt": "2026-09-14T11:30:10.078Z"
     }
   ],
-  "lastUpdated": "2026-09-14T12:01:57.148Z"
+  "lastUpdated": "2026-09-15T11:14:50.268Z"
 }
