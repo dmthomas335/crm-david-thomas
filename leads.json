@@ -10431,14 +10431,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mike.spears.5686",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-22T11:16:54.934Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:55:13.242Z"
+  "lastUpdated": "2026-09-15T11:55:33.480Z"
 }
