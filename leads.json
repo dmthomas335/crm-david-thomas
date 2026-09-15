@@ -12402,9 +12402,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": "2026-09-29",
       "notes": "Personal joined as 2WT 523165 Ricky J",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T12:48:01.886Z",
       "customerSince": "2026-09-04"
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:47:40.316Z"
+  "lastUpdated": "2026-09-15T11:47:53.805Z"
 }
