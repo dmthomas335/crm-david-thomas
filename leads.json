@@ -21222,14 +21222,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hannah.shope.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:21:03.804Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:52:47.847Z"
+  "lastUpdated": "2026-09-15T11:53:14.752Z"
 }
