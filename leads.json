@@ -2269,13 +2269,13 @@
       "phone": "",
       "social": "https://www.facebook.com/larry.schmitz.9",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal / 2WT joined as customer ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:19:08.572Z",
       "videoSent": true
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T12:11:47.945Z"
+  "lastUpdated": "2026-09-15T12:12:06.425Z"
 }
