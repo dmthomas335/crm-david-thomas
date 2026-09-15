@@ -24802,7 +24802,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:25:02.154Z"
+    },
+    {
+      "id": "mu2l573mm3o6846hls",
+      "name": "Chuck Hodgson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chuck.hodgson.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:25:26.962Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:25:02.154Z"
+  "lastUpdated": "2026-09-15T11:25:26.962Z"
 }
