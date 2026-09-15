@@ -18486,10 +18486,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-15",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-13",
       "notes": "Personal 519855 Miguel Loza Cancelled",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:40:08.734Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:55:33.480Z"
+  "lastUpdated": "2026-09-15T11:56:12.369Z"
 }
