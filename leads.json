@@ -23104,9 +23104,9 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": "2026-09-18",
       "notes": "Personal ",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T07:33:36.678Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T12:00:32.219Z"
+  "lastUpdated": "2026-09-15T12:00:53.443Z"
 }
