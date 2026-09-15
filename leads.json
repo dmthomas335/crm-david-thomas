@@ -19655,14 +19655,14 @@
       "phone": "",
       "social": "https://www.facebook.com/edd1108",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:06:57.629Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:59:52.027Z"
+  "lastUpdated": "2026-09-15T12:00:12.715Z"
 }
