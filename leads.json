@@ -24946,7 +24946,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:28:28.575Z"
+    },
+    {
+      "id": "mu2lw5e5vfm9h0b4bl",
+      "name": "Marion Burleigh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marion.burleigh.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:46:24.461Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:28:28.575Z"
+  "lastUpdated": "2026-09-15T11:46:24.461Z"
 }
