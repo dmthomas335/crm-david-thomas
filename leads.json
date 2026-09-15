@@ -3234,10 +3234,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-09-15",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-14",
       "notes": "Personal ",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:12:05.841Z",
       "videoSent": false
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:47:53.805Z"
+  "lastUpdated": "2026-09-15T11:48:42.469Z"
 }
