@@ -24910,7 +24910,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:27:41.132Z"
+    },
+    {
+      "id": "mu2l8lsnr195cd7567",
+      "name": "Carl Parchment",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carl.parchment",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:28:05.975Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:27:41.132Z"
+  "lastUpdated": "2026-09-15T11:28:05.975Z"
 }
