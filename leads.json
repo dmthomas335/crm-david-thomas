@@ -15086,14 +15086,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14istFb2NHr/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-20T07:31:03.234Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:49:48.165Z"
+  "lastUpdated": "2026-09-15T11:50:41.118Z"
 }
