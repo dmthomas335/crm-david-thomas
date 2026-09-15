@@ -24784,7 +24784,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:24:45.066Z"
+    },
+    {
+      "id": "mu2l4nyil3xhikreaj9",
+      "name": "Vahe Hi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100068915508706",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-09-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:25:02.154Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:24:45.066Z"
+  "lastUpdated": "2026-09-15T11:25:02.154Z"
 }
