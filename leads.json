@@ -20502,14 +20502,14 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.weisz.3",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal 515194 Paul Johnson joined as 2WT",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-09-15",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T11:55:03.151Z"
     },
@@ -24984,5 +24984,5 @@
       "addedAt": "2026-09-15T11:47:06.862Z"
     }
   ],
-  "lastUpdated": "2026-09-15T12:01:10.004Z"
+  "lastUpdated": "2026-09-15T12:11:15.113Z"
 }
