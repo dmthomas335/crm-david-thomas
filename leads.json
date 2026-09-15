@@ -24856,7 +24856,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:26:13.340Z"
+    },
+    {
+      "id": "mu2l6wm4ha1gtksxl0p",
+      "name": "Yarla Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yarla.rodriguez.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:26:46.684Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:26:13.340Z"
+  "lastUpdated": "2026-09-15T11:26:46.684Z"
 }
