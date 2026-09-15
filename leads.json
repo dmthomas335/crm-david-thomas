@@ -24928,7 +24928,25 @@
       "lastModified": "2026-09-15",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:28:05.975Z"
+    },
+    {
+      "id": "mu2l938f1tt37658kn5",
+      "name": "Roger Swaim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/roger.swaim",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-15",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-15",
+      "dateAdded": "2026-09-15",
+      "addedAt": "2026-09-15T11:28:28.575Z"
     }
   ],
-  "lastUpdated": "2026-09-15T11:28:05.975Z"
+  "lastUpdated": "2026-09-15T11:28:28.575Z"
 }
