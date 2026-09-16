@@ -19871,14 +19871,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mark.bean.73307",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-09-16",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-09",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:14:00.145Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:57:59.788Z"
+  "lastUpdated": "2026-09-16T12:58:15.916Z"
 }
