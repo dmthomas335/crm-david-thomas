@@ -21096,14 +21096,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sal.miranda.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-15",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:18:18.088Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:51:01.335Z"
+  "lastUpdated": "2026-09-16T12:51:18.241Z"
 }
