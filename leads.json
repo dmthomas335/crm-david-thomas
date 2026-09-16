@@ -25162,7 +25162,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:36:17.727Z"
+    },
+    {
+      "id": "mu40zffzfyrt1k4s7r",
+      "name": "Tracy Burson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tracy.burson.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T11:36:37.871Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:36:17.727Z"
+  "lastUpdated": "2026-09-16T11:36:37.871Z"
 }
