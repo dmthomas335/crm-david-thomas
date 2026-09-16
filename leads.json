@@ -25090,7 +25090,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:34:19.005Z"
+    },
+    {
+      "id": "mu40wycda6jqsjpr3ch",
+      "name": "Robert Guilbeault",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.guilbeault.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T11:34:42.397Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:34:19.005Z"
+  "lastUpdated": "2026-09-16T11:34:42.397Z"
 }
