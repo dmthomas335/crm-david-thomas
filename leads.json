@@ -25234,7 +25234,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T12:20:25.537Z"
+    },
+    {
+      "id": "mu42kgq115eo3m3jicn",
+      "name": "Vincent Chad Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vincent.c.rivera.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:20:25.537Z"
+  "lastUpdated": "2026-09-16T12:20:58.921Z"
 }
