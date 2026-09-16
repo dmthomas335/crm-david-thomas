@@ -25216,7 +25216,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:37:38.465Z"
+    },
+    {
+      "id": "mu42jqypkdaapu72o8",
+      "name": "Darin Usher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61581335042857",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T12:20:25.537Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:37:38.465Z"
+  "lastUpdated": "2026-09-16T12:20:25.537Z"
 }
