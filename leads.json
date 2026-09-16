@@ -25144,7 +25144,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:35:55.414Z"
+    },
+    {
+      "id": "mu40yzwf5stkizrrd8",
+      "name": "Sarah Parish Flannery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sarah.parish.flannery",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T11:36:17.727Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:35:55.414Z"
+  "lastUpdated": "2026-09-16T11:36:17.727Z"
 }
