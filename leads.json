@@ -25108,7 +25108,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:34:42.397Z"
+    },
+    {
+      "id": "mu40xc71efhp0gaxwd",
+      "name": "Michelle Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michelle.jones.881214",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T11:35:00.349Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:34:42.397Z"
+  "lastUpdated": "2026-09-16T11:35:00.349Z"
 }
