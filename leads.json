@@ -18284,14 +18284,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.grimes.3994",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-09-16",
+      "nextFollowUp": null,
       "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-09-09",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:25:39.909Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:57:42.619Z"
+  "lastUpdated": "2026-09-16T12:57:59.788Z"
 }
