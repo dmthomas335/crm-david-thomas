@@ -25036,7 +25036,25 @@
       "lastModified": "2026-09-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:32:53.757Z"
+    },
+    {
+      "id": "mu40v0tgrg7fx5b6br",
+      "name": "Aric Mc",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/whitesandbeaches",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-16",
+      "dateAdded": "2026-09-16",
+      "addedAt": "2026-09-16T11:33:12.292Z"
     }
   ],
-  "lastUpdated": "2026-09-16T11:32:53.757Z"
+  "lastUpdated": "2026-09-16T11:33:12.292Z"
 }
