@@ -9045,10 +9045,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-02",
-      "nextFollowUp": "2026-09-16",
-      "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-09-23",
+      "notes": "Personal delete",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-14T13:02:48.550Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:58:46.564Z"
+  "lastUpdated": "2026-09-16T12:59:01.299Z"
 }
