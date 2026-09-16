@@ -21402,14 +21402,14 @@
       "phone": "",
       "social": "https://www.facebook.com/venka.bejgam",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-16",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:49:34.951Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:55:28.258Z"
+  "lastUpdated": "2026-09-16T12:55:42.570Z"
 }
