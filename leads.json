@@ -5687,10 +5687,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-09-16",
+      "lastContact": "2026-09-16",
+      "nextFollowUp": "2026-10-16",
       "notes": "personal said they live paycheck to paycheck ",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-09-16",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:34:40.962Z"
     },
@@ -25254,5 +25254,5 @@
       "addedAt": "2026-09-16T12:20:58.921Z"
     }
   ],
-  "lastUpdated": "2026-09-16T12:45:25.460Z"
+  "lastUpdated": "2026-09-16T12:46:28.325Z"
 }
