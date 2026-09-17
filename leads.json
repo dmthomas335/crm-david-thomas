@@ -25342,7 +25342,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:12:56.265Z"
+    },
+    {
+      "id": "mu5fl3pe15mt446bwnl",
+      "name": "Dave Gallagher",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:13:09.890Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:12:56.265Z"
+  "lastUpdated": "2026-09-17T11:13:09.890Z"
 }
