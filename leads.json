@@ -21042,14 +21042,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100011168117085",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:16:25.331Z"
     },
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:43:32.865Z"
+  "lastUpdated": "2026-09-17T11:43:49.841Z"
 }
