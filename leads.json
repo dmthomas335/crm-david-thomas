@@ -2545,9 +2545,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": "2026-10-06",
       "notes": "joined as 2WT / personal / Me 512419 CANCELLED",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:43:32.787Z",
       "videoSent": true,
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:19:30.419Z"
+  "lastUpdated": "2026-09-17T11:20:30.636Z"
 }
