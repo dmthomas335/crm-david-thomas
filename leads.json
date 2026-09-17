@@ -861,13 +861,13 @@
       "phone": "",
       "social": "https://www.facebook.com/calebnosa",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-03",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": null,
       "notes": "sent biz pres/ will give trading a try / david t page",
-      "lastModified": "2026-09-03",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:21:40.061Z"
+  "lastUpdated": "2026-09-17T11:22:26.245Z"
 }
