@@ -19570,9 +19570,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-03",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": "2026-10-07",
       "notes": "Personal  ",
-      "lastModified": "2026-09-03",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:59:50.224Z"
     },
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:39:23.774Z"
+  "lastUpdated": "2026-09-17T11:40:22.272Z"
 }
