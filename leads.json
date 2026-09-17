@@ -25450,7 +25450,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:15:49.371Z"
+    },
+    {
+      "id": "mu5fpchgpfyc74ywdb",
+      "name": "Darian Campbell",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-10-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:16:27.892Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:15:49.371Z"
+  "lastUpdated": "2026-09-17T11:16:27.892Z"
 }
