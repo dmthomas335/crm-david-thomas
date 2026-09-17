@@ -25270,7 +25270,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:11:43.418Z"
+    },
+    {
+      "id": "mu5fjj1d75f9ggtrt5o",
+      "name": "Ravi Shastry",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:11:56.449Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:11:43.418Z"
+  "lastUpdated": "2026-09-17T11:11:56.449Z"
 }
