@@ -7342,14 +7342,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lance.pixler",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T11:20:21.304Z"
     },
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:33:23.867Z"
+  "lastUpdated": "2026-09-17T11:34:27.820Z"
 }
