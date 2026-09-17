@@ -25504,7 +25504,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:17:14.164Z"
+    },
+    {
+      "id": "mu5fqyf0vtlw7sak32o",
+      "name": "Jeremy Newman",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:17:14.164Z"
+  "lastUpdated": "2026-09-17T11:17:42.972Z"
 }
