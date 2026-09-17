@@ -9297,10 +9297,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-09-17",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-10-16",
       "notes": "Personal Joined as 2WT / 511116 Joseph ",
-      "lastModified": "2026-08-18",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:13:06.949Z",
       "customerSince": "2026-08-04"
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:21:23.197Z"
+  "lastUpdated": "2026-09-17T11:21:30.213Z"
 }
