@@ -25468,7 +25468,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:16:27.892Z"
+    },
+    {
+      "id": "mu5fpuackzxjo3znud",
+      "name": "Richard Rick Fearce",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:16:50.964Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:16:27.892Z"
+  "lastUpdated": "2026-09-17T11:16:50.964Z"
 }
