@@ -24306,14 +24306,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-09-17",
+      "nextFollowUp": null,
       "notes": "IG",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-09-17",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:27:03.328Z"
     },
@@ -25524,5 +25524,5 @@
       "addedAt": "2026-09-17T11:17:42.972Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:41:57.416Z"
+  "lastUpdated": "2026-09-17T11:42:13.088Z"
 }
