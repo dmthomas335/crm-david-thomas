@@ -25306,7 +25306,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:12:09.337Z"
+    },
+    {
+      "id": "mu5fk96avdniuyl1ngr",
+      "name": "Alejandro Moreno",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-17",
+      "nextFollowUp": "2026-09-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-17",
+      "dateAdded": "2026-09-17",
+      "addedAt": "2026-09-17T11:12:30.322Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:12:09.337Z"
+  "lastUpdated": "2026-09-17T11:12:30.322Z"
 }
