@@ -25774,7 +25774,25 @@
       "lastModified": "2026-09-18",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:50:30.018Z"
+    },
+    {
+      "id": "mu6wd88b600drcfc4xq",
+      "name": "Randy Cousins",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-18",
+      "dateAdded": "2026-09-18",
+      "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T11:50:30.018Z"
+  "lastUpdated": "2026-09-18T11:50:42.155Z"
 }
