@@ -18118,14 +18118,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100085074006158",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-18",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:14:03.886Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:49:32.856Z"
+  "lastUpdated": "2026-09-18T12:50:33.201Z"
 }
