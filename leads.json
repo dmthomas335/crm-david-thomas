@@ -23104,9 +23104,9 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-09-18",
-      "notes": "Personal ",
-      "lastModified": "2026-09-17",
+      "nextFollowUp": "2026-09-21",
+      "notes": "Personal joined as 2WT",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T07:33:36.678Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:55:23.109Z"
+  "lastUpdated": "2026-09-18T12:55:54.100Z"
 }
