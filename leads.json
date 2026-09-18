@@ -12708,10 +12708,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Follow-up 5",
-      "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-09-18",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-10-21",
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:32:01.409Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:46:42.047Z"
+  "lastUpdated": "2026-09-18T12:46:50.799Z"
 }
