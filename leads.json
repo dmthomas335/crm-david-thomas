@@ -22200,10 +22200,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-18",
-      "notes": "Personal Birthday 730516 Me",
-      "lastModified": "2026-09-04",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday 730516 Me cancelled ",
+      "lastModified": "2026-09-18",
       "customerSince": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:17:38.975Z"
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:31:01.941Z"
+  "lastUpdated": "2026-09-18T12:37:24.393Z"
 }
