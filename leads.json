@@ -18356,14 +18356,14 @@
       "phone": "",
       "social": "https://www.facebook.com/johnney.massey",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-18",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:27:32.502Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:54:31.299Z"
+  "lastUpdated": "2026-09-18T12:54:45.180Z"
 }
