@@ -25666,7 +25666,25 @@
       "lastModified": "2026-09-18",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:40:31.107Z"
+    },
+    {
+      "id": "mu6wb88r44j86guidhf",
+      "name": "James Hamley",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-10-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-18",
+      "dateAdded": "2026-09-18",
+      "addedAt": "2026-09-18T11:49:08.859Z"
     }
   ],
-  "lastUpdated": "2026-09-18T11:42:49.909Z"
+  "lastUpdated": "2026-09-18T11:49:08.859Z"
 }
