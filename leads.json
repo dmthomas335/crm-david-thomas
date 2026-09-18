@@ -24180,14 +24180,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ddschwindt",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-18",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:23:03.985Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:41:46.133Z"
+  "lastUpdated": "2026-09-18T12:43:06.509Z"
 }
