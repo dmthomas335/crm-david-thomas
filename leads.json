@@ -19821,10 +19821,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-09-18",
-      "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal delete",
+      "lastModified": "2026-09-18",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:12:21.107Z"
     },
@@ -25794,5 +25794,5 @@
       "addedAt": "2026-09-18T11:50:42.155Z"
     }
   ],
-  "lastUpdated": "2026-09-18T12:50:33.201Z"
+  "lastUpdated": "2026-09-18T12:52:09.218Z"
 }
