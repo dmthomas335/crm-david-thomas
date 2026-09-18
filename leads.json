@@ -9551,9 +9551,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-09-22",
+      "nextFollowUp": "2026-09-23",
       "notes": "Personal 748848 Me cancelled",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-09-18",
       "customerSince": "2026-06-16",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T15:52:50.864Z"
@@ -25668,5 +25668,5 @@
       "addedAt": "2026-09-18T11:40:31.107Z"
     }
   ],
-  "lastUpdated": "2026-09-18T11:40:58.947Z"
+  "lastUpdated": "2026-09-18T11:41:13.827Z"
 }
