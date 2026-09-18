@@ -25522,7 +25522,25 @@
       "lastModified": "2026-09-17",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:17:42.972Z"
+    },
+    {
+      "id": "mu6vy31gf82fri48z3",
+      "name": "Mike Walker",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-09-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-18",
+      "dateAdded": "2026-09-18",
+      "addedAt": "2026-09-18T11:38:55.588Z"
     }
   ],
-  "lastUpdated": "2026-09-17T11:44:07.089Z"
+  "lastUpdated": "2026-09-18T11:38:55.589Z"
 }
