@@ -25702,7 +25702,25 @@
       "lastModified": "2026-09-18",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:49:26.017Z"
+    },
+    {
+      "id": "mu6wbyg9y9uw5tkl8yf",
+      "name": "Victoria Lopez",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-18",
+      "nextFollowUp": "2026-10-20",
+      "notes": "Personal ",
+      "lastModified": "2026-09-18",
+      "dateAdded": "2026-09-18",
+      "addedAt": "2026-09-18T11:49:42.825Z"
     }
   ],
-  "lastUpdated": "2026-09-18T11:49:26.017Z"
+  "lastUpdated": "2026-09-18T11:49:42.825Z"
 }
