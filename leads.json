@@ -16275,14 +16275,14 @@
       "phone": "",
       "social": "https://www.facebook.com/moosewing",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-09-21",
+      "nextFollowUp": null,
       "notes": "Personal  delete",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:11:26.746Z"
     },
@@ -26064,5 +26064,5 @@
       "addedAt": "2026-09-21T11:47:52.749Z"
     }
   ],
-  "lastUpdated": "2026-09-21T12:05:15.976Z"
+  "lastUpdated": "2026-09-21T12:05:29.165Z"
 }
