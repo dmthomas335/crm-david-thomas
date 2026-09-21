@@ -25882,7 +25882,25 @@
       "lastModified": "2026-09-21",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:43:17.314Z"
+    },
+    {
+      "id": "mub6fnbpp2eyqlfn64",
+      "name": "Ryan Winter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/RyanWinter0918",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T11:43:35.893Z"
     }
   ],
-  "lastUpdated": "2026-09-21T11:43:17.315Z"
+  "lastUpdated": "2026-09-21T11:43:35.893Z"
 }
