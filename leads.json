@@ -9642,9 +9642,9 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-09-21",
-      "notes": "Personal ",
-      "lastModified": "2026-08-06",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:07:09.477Z"
     },
@@ -26064,5 +26064,5 @@
       "addedAt": "2026-09-21T11:47:52.749Z"
     }
   ],
-  "lastUpdated": "2026-09-21T11:53:59.175Z"
+  "lastUpdated": "2026-09-21T11:54:35.111Z"
 }
