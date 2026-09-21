@@ -22725,10 +22725,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-09-21",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-09-01",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-09-01",
       "addedAt": "2026-09-01T11:44:26.470Z"
     },
@@ -26064,5 +26064,5 @@
       "addedAt": "2026-09-21T11:47:52.749Z"
     }
   ],
-  "lastUpdated": "2026-09-21T11:49:47.845Z"
+  "lastUpdated": "2026-09-21T11:53:14.582Z"
 }
