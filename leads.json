@@ -7793,16 +7793,17 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1E2vUzdiyy/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-10-08",
-      "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-21",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-24",
+      "notes": "Personal joined as 2WT Soriano 681604",
+      "lastModified": "2026-09-21",
       "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T07:54:32.694Z"
+      "addedAt": "2026-06-10T07:54:32.694Z",
+      "customerSince": "2026-09-21"
     },
     {
       "id": "mq7rywq8mn544ifs2x",
@@ -26064,5 +26065,5 @@
       "addedAt": "2026-09-21T11:47:52.749Z"
     }
   ],
-  "lastUpdated": "2026-09-21T12:06:58.213Z"
+  "lastUpdated": "2026-09-21T14:41:57.039Z"
 }
