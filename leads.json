@@ -25936,7 +25936,25 @@
       "lastModified": "2026-09-21",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:44:18.476Z"
+    },
+    {
+      "id": "mub6gzczi3pe4m7k0cm",
+      "name": "Nadine Castro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nadine.castro",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T11:44:38.147Z"
     }
   ],
-  "lastUpdated": "2026-09-21T11:44:18.476Z"
+  "lastUpdated": "2026-09-21T11:44:38.147Z"
 }
