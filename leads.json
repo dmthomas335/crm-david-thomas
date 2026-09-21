@@ -25954,7 +25954,25 @@
       "lastModified": "2026-09-21",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:44:38.147Z"
+    },
+    {
+      "id": "mub6hl6krd7svtefhh",
+      "name": "Adrian Nicolae Stanel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stanel.adrian",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T11:45:06.428Z"
     }
   ],
-  "lastUpdated": "2026-09-21T11:44:38.147Z"
+  "lastUpdated": "2026-09-21T11:45:06.428Z"
 }
