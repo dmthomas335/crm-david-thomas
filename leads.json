@@ -26081,7 +26081,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:21:08.403Z"
+    },
+    {
+      "id": "mucl8e472uv10tdzhrh",
+      "name": "Chakhree Phuangbuppha",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chakhree.phuangbuppha",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-09-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:25:37.783Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:21:08.403Z"
+  "lastUpdated": "2026-09-22T11:25:37.783Z"
 }
