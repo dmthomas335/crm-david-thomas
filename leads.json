@@ -26189,7 +26189,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:27:30.713Z"
+    },
+    {
+      "id": "muclbaaiehgotottmzd",
+      "name": "Jo Maxted",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jo4chelsea",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:27:52.794Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:27:30.713Z"
+  "lastUpdated": "2026-09-22T11:27:52.794Z"
 }
