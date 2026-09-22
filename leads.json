@@ -26279,7 +26279,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:29:24.601Z"
+    },
+    {
+      "id": "muclfhrotwfacvuiba",
+      "name": "Glenn Wells",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/endtimefighter",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:31:09.108Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:30:22.491Z"
+  "lastUpdated": "2026-09-22T11:31:09.108Z"
 }
