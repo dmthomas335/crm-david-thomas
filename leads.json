@@ -26225,7 +26225,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:28:13.794Z"
+    },
+    {
+      "id": "muclc7ei6b1wtehm20q",
+      "name": "Paul Weatherford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100079262318485",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:28:35.706Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:28:13.794Z"
+  "lastUpdated": "2026-09-22T11:28:35.706Z"
 }
