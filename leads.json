@@ -26063,7 +26063,25 @@
       "lastModified": "2026-09-21",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:47:52.749Z"
+    },
+    {
+      "id": "mucl2m9fif5pye3kic",
+      "name": "Wilter Bett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wiliter.chemutai.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-09-29",
+      "notes": "David T Page ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:21:08.403Z"
     }
   ],
-  "lastUpdated": "2026-09-21T14:41:57.039Z"
+  "lastUpdated": "2026-09-22T11:21:08.403Z"
 }
