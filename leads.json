@@ -26135,7 +26135,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:26:23.473Z"
+    },
+    {
+      "id": "mucl9v4ax1jmzkze5gj",
+      "name": "Kevin Dawson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.dawson.906",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Birthday Personal ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:26:46.474Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:26:23.473Z"
+  "lastUpdated": "2026-09-22T11:26:46.474Z"
 }
