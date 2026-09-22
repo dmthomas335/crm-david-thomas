@@ -26207,7 +26207,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:27:52.794Z"
+    },
+    {
+      "id": "muclbqhui3yhpd7p4of",
+      "name": "Carl Matischok",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carl.smiler.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:28:13.794Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:27:52.794Z"
+  "lastUpdated": "2026-09-22T11:28:13.794Z"
 }
