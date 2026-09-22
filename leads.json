@@ -26099,7 +26099,25 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:25:37.783Z"
+    },
+    {
+      "id": "mucl8x0okv446nlb67k",
+      "name": "Jeffery Randal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mr.jefferyj.randall",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": "2026-10-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T11:26:02.280Z"
     }
   ],
-  "lastUpdated": "2026-09-22T11:25:37.783Z"
+  "lastUpdated": "2026-09-22T11:26:02.280Z"
 }
