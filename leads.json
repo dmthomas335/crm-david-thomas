@@ -18230,16 +18230,17 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100001219073949",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Closed",
-      "lastContact": "2026-08-06",
-      "nextFollowUp": null,
-      "notes": "509872 MAM cancelled Check sub\n",
-      "lastModified": "2026-08-10",
+      "lastContact": "2026-09-23",
+      "nextFollowUp": "2026-10-23",
+      "notes": "509872 MAM Check sub\n",
+      "lastModified": "2026-09-23",
       "dateAdded": "2026-08-06",
-      "addedAt": "2026-08-06T12:23:36.852Z"
+      "addedAt": "2026-08-06T12:23:36.852Z",
+      "customerSince": "2026-09-23"
     },
     {
       "id": "mshhnxxh36ava5wh01h",
@@ -26587,5 +26588,5 @@
       "addedAt": "2026-09-23T10:57:39.504Z"
     }
   ],
-  "lastUpdated": "2026-09-23T12:42:07.306Z"
+  "lastUpdated": "2026-09-23T12:46:49.562Z"
 }
