@@ -10634,10 +10634,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-09-23",
+      "lastContact": "2026-09-23",
+      "nextFollowUp": "2026-09-30",
       "notes": "Personal joined as 2WT Me 511014",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T12:46:00.760Z",
       "customerSince": "2026-09-06"
@@ -26588,5 +26588,5 @@
       "addedAt": "2026-09-23T10:57:39.504Z"
     }
   ],
-  "lastUpdated": "2026-09-23T12:49:55.094Z"
+  "lastUpdated": "2026-09-23T12:50:41.872Z"
 }
