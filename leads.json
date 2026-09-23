@@ -473,10 +473,10 @@
       "status": "Sent Video",
       "temperature": "Warm",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-09-23",
-      "notes": "said end of june i think",
-      "lastModified": "2026-07-30",
+      "lastContact": "2026-09-23",
+      "nextFollowUp": "2026-10-23",
+      "notes": "said end of june i think delete ",
+      "lastModified": "2026-09-23",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -26588,5 +26588,5 @@
       "addedAt": "2026-09-23T10:57:39.504Z"
     }
   ],
-  "lastUpdated": "2026-09-23T13:12:21.022Z"
+  "lastUpdated": "2026-09-23T13:12:44.856Z"
 }
