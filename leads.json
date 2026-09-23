@@ -20828,14 +20828,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.grey.129",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-09-23",
+      "nextFollowUp": null,
       "notes": "Personal delete",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-09-23",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:33:01.581Z"
     },
@@ -26588,5 +26588,5 @@
       "addedAt": "2026-09-23T10:57:39.504Z"
     }
   ],
-  "lastUpdated": "2026-09-23T12:57:21.728Z"
+  "lastUpdated": "2026-09-23T12:57:37.489Z"
 }
