@@ -26263,24 +26263,6 @@
       "addedAt": "2026-09-22T11:29:01.570Z"
     },
     {
-      "id": "mucld94phwe973y5sg8",
-      "name": "James Mazey",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-06",
-      "notes": "",
-      "lastModified": "2026-09-22",
-      "dateAdded": "2026-09-22",
-      "addedAt": "2026-09-22T11:29:24.601Z"
-    },
-    {
       "id": "muclfhrotwfacvuiba",
       "name": "Glenn Wells",
       "email": "",
@@ -26353,5 +26335,5 @@
       "addedAt": "2026-09-23T10:46:23.679Z"
     }
   ],
-  "lastUpdated": "2026-09-23T10:46:23.679Z"
+  "lastUpdated": "2026-09-23T10:46:30.532Z"
 }
