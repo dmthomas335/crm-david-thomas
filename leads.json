@@ -26712,7 +26712,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:35:57.362Z"
+    },
+    {
+      "id": "mufgk8qk5n81tsu0hox",
+      "name": "Timothy Kendricks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/timothy.kendricks",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:38:11.132Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:35:57.362Z"
+  "lastUpdated": "2026-09-24T11:38:11.132Z"
 }
