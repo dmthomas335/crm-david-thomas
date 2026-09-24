@@ -233,10 +233,10 @@
       "status": "Sent Video",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-24",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-08",
       "notes": "@carobiz TG sent biz pres",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:57:05.612Z"
+  "lastUpdated": "2026-09-24T12:14:03.167Z"
 }
