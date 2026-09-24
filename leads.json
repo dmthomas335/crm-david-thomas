@@ -26820,7 +26820,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:39:57.853Z"
+    },
+    {
+      "id": "mufgmxr85q96vflvu",
+      "name": "Scott Twait",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.twait",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:40:16.868Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:39:57.853Z"
+  "lastUpdated": "2026-09-24T11:40:16.868Z"
 }
