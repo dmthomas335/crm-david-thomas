@@ -20000,14 +20000,14 @@
       "phone": "",
       "social": "https://www.facebook.com/keanu.clarke",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:24:26.121Z"
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T12:19:19.810Z"
+  "lastUpdated": "2026-09-24T12:19:36.570Z"
 }
