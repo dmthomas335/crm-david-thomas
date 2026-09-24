@@ -9909,14 +9909,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kevin.roots.77",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-09-24",
+      "nextFollowUp": null,
       "notes": "Personal delete?",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:16:57.268Z"
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:52:09.185Z"
+  "lastUpdated": "2026-09-24T11:53:08.506Z"
 }
