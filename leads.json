@@ -26748,7 +26748,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:38:35.267Z"
+    },
+    {
+      "id": "mufgl4v0yhp8o6o6x6k",
+      "name": "Chris Kearns",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.kearns.902",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:38:52.764Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:38:35.267Z"
+  "lastUpdated": "2026-09-24T11:38:52.764Z"
 }
