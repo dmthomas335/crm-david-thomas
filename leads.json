@@ -16150,14 +16150,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DKvvvNXMk/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T11:58:35.658Z"
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T12:17:09.664Z"
+  "lastUpdated": "2026-09-24T12:17:33.960Z"
 }
