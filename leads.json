@@ -26766,7 +26766,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:38:52.764Z"
+    },
+    {
+      "id": "mufglltikgkqtm9aach",
+      "name": "Nelson Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nelson.gonzalez.217474",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:39:14.742Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:38:52.764Z"
+  "lastUpdated": "2026-09-24T11:39:14.742Z"
 }
