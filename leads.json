@@ -26622,7 +26622,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:32:52.736Z"
+    },
+    {
+      "id": "mufgf02foa158n71upc",
+      "name": "Danny Claringbold",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100014408681877",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-08",
+      "notes": "Personal ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:34:06.615Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:33:43.334Z"
+  "lastUpdated": "2026-09-24T11:34:06.615Z"
 }
