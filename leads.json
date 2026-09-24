@@ -7616,10 +7616,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-24",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-23",
       "notes": " Joined Ashley 757720 Personal ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T08:09:00.343Z",
       "customerSince": "2026-06-26"
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:42:01.884Z"
+  "lastUpdated": "2026-09-24T11:42:36.923Z"
 }
