@@ -20198,14 +20198,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ali.bukhsh.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-09-24",
+      "nextFollowUp": null,
       "notes": "Personal delete?",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T11:13:12.978Z"
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:53:08.506Z"
+  "lastUpdated": "2026-09-24T11:53:26.290Z"
 }
