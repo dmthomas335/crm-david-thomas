@@ -10486,14 +10486,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Km5Hvrh7F/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-09-24",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-06-22",
       "addedAt": "2026-06-23T06:57:16.801Z"
     },
@@ -26858,5 +26858,5 @@
       "addedAt": "2026-09-24T11:40:52.029Z"
     }
   ],
-  "lastUpdated": "2026-09-24T12:14:20.862Z"
+  "lastUpdated": "2026-09-24T12:14:29.126Z"
 }
