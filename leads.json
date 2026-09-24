@@ -26784,7 +26784,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:39:14.742Z"
+    },
+    {
+      "id": "mufgm2dietv5k2ob8z",
+      "name": "Gaz Thedj",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gazthedj",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-24",
+      "nextFollowUp": "2026-10-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-24",
+      "dateAdded": "2026-09-24",
+      "addedAt": "2026-09-24T11:39:36.198Z"
     }
   ],
-  "lastUpdated": "2026-09-24T11:39:14.742Z"
+  "lastUpdated": "2026-09-24T11:39:36.198Z"
 }
