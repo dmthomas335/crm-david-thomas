@@ -26970,7 +26970,25 @@
       "lastModified": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:03:49.740Z"
+    },
+    {
+      "id": "mugwxgu4ymmp8db6h1g",
+      "name": "James Black",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.black1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T12:04:08.188Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:03:49.740Z"
+  "lastUpdated": "2026-09-25T12:04:08.188Z"
 }
