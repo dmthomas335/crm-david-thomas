@@ -25533,16 +25533,16 @@
       "name": "Mike Walker",
       "email": "",
       "phone": "",
-      "social": "",
+      "social": "https://www.facebook.com/mike.walker.37017794",
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-09-25",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-09-18",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-26",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:38:55.588Z"
     },
@@ -27135,5 +27135,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:14:21.054Z"
+  "lastUpdated": "2026-09-25T12:15:01.796Z"
 }
