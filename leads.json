@@ -19388,14 +19388,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.dobbins.71",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:24:39.040Z"
     },
@@ -27135,5 +27135,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:33:23.739Z"
+  "lastUpdated": "2026-09-25T12:33:46.035Z"
 }
