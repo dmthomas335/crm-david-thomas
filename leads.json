@@ -20483,20 +20483,21 @@
     {
       "id": "mt020ouf5mwj5fasb2b",
       "name": "Mark Maclean",
-      "email": "",
+      "email": "Mark.E.71Luna@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/mark.maclean.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-09-25",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-09-18",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal casmer 515314",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-08-19",
-      "addedAt": "2026-08-19T12:14:49.287Z"
+      "addedAt": "2026-08-19T12:14:49.287Z",
+      "customerSince": "2026-09-25"
     },
     {
       "id": "mt1gr4a7ejzwpupa87p",
@@ -27134,5 +27135,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:11:26.025Z"
+  "lastUpdated": "2026-09-25T12:14:21.054Z"
 }
