@@ -9887,20 +9887,21 @@
     {
       "id": "mqkm9uas45dkgz0u5k9",
       "name": "Louis Jackson ",
-      "email": "",
+      "email": "loujacks21@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/share/1CfGuia8rs/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-10-29",
-      "notes": "Personal ",
-      "lastModified": "2026-08-06",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-09-26",
+      "notes": "Personal 776584 Ashley",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-06-19",
-      "addedAt": "2026-06-19T07:38:05.092Z"
+      "addedAt": "2026-06-19T07:38:05.092Z",
+      "customerSince": "2026-09-25"
     },
     {
       "id": "mqku3b5gobdyav4hk4q",
@@ -26876,5 +26877,5 @@
       "addedAt": "2026-09-25T11:14:41.312Z"
     }
   ],
-  "lastUpdated": "2026-09-25T11:14:41.312Z"
+  "lastUpdated": "2026-09-25T11:15:31.039Z"
 }
