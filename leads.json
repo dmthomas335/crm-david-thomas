@@ -27060,7 +27060,25 @@
       "lastModified": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:05:39.206Z"
+    },
+    {
+      "id": "mugwzzstua4hy2nsio",
+      "name": "Raymond Zachery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/raymond.zachery",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T12:06:06.077Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:05:39.206Z"
+  "lastUpdated": "2026-09-25T12:06:06.077Z"
 }
