@@ -26894,7 +26894,26 @@
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:29:18.218Z"
+    },
+    {
+      "id": "mugw9o42z0aysm725la",
+      "name": "Matthew Eaton",
+      "email": "mattnjeneaton@hotmail.com",
+      "phone": "",
+      "social": "https://www.facebook.com/matthew.eaton.5076",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Hot",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-02",
+      "notes": "665760 casmer cancelled Personal ",
+      "lastModified": "2026-09-25",
+      "customerSince": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T11:45:37.874Z"
     }
   ],
-  "lastUpdated": "2026-09-25T11:29:18.219Z"
+  "lastUpdated": "2026-09-25T11:45:37.874Z"
 }
