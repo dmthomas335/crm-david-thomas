@@ -26856,7 +26856,25 @@
       "lastModified": "2026-09-24",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:40:52.029Z"
+    },
+    {
+      "id": "mugv5vkw6ld4se9idiw",
+      "name": "Luis Diaz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luis.diaz.923",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Nurture",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-28",
+      "notes": "702923 Casmer \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t cancelled Personal ",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T11:14:41.312Z"
     }
   ],
-  "lastUpdated": "2026-09-24T12:20:53.850Z"
+  "lastUpdated": "2026-09-25T11:14:41.312Z"
 }
