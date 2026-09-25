@@ -25353,7 +25353,7 @@
       "name": "Dave Gallagher",
       "email": "",
       "phone": "",
-      "social": "",
+      "social": "https://www.facebook.com/dave.gallagher.754",
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
@@ -25362,7 +25362,7 @@
       "lastContact": "2026-09-17",
       "nextFollowUp": "2026-10-01",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:13:09.890Z"
     },
@@ -27063,5 +27063,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:37:04.776Z"
+  "lastUpdated": "2026-09-25T12:37:16.312Z"
 }
