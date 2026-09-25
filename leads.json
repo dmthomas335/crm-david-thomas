@@ -26952,7 +26952,25 @@
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:51:16.031Z"
+    },
+    {
+      "id": "mugwx2loiv85gawbij",
+      "name": "James Burge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.burge.925",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T12:03:49.740Z"
     }
   ],
-  "lastUpdated": "2026-09-25T11:51:16.031Z"
+  "lastUpdated": "2026-09-25T12:03:49.740Z"
 }
