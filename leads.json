@@ -26411,24 +26411,6 @@
       "addedAt": "2026-09-23T10:49:40.300Z"
     },
     {
-      "id": "mudzejh0pu4z4tccylo",
-      "name": "Mohammad Khan ",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-23",
-      "nextFollowUp": "2026-09-30",
-      "notes": "",
-      "lastModified": "2026-09-23",
-      "dateAdded": "2026-09-23",
-      "addedAt": "2026-09-23T10:50:05.460Z"
-    },
-    {
       "id": "mudzhp2vjwwuw4f0ola",
       "name": "Andrius Volskis",
       "email": "",
@@ -27081,5 +27063,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:36:29.221Z"
+  "lastUpdated": "2026-09-25T12:36:32.989Z"
 }
