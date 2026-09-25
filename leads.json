@@ -878,13 +878,13 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.stewart.12764",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-09-25",
+      "nextFollowUp": null,
       "notes": "sent biz pres / waiting til after sale of house / David t page delete?",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -27135,5 +27135,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:16:31.286Z"
+  "lastUpdated": "2026-09-25T12:16:58.238Z"
 }
