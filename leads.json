@@ -22936,20 +22936,21 @@
     {
       "id": "mtk011r4kji86yiswer",
       "name": "Jessica Marisa Colbert",
-      "email": "",
+      "email": "colbertjessica5@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/jessica.colbert.735",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Warm",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-10-08",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-09-22",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-02",
+      "notes": "Personal cancelled casmer 747967",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-09-02",
-      "addedAt": "2026-09-02T11:14:30.304Z"
+      "addedAt": "2026-09-02T11:14:30.304Z",
+      "customerSince": "2026-09-25"
     },
     {
       "id": "mtk0dzggsj73jw36iwo",
@@ -26915,5 +26916,5 @@
       "addedAt": "2026-09-25T11:45:37.874Z"
     }
   ],
-  "lastUpdated": "2026-09-25T11:45:37.874Z"
+  "lastUpdated": "2026-09-25T11:47:06.729Z"
 }
