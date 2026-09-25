@@ -22960,14 +22960,14 @@
       "phone": "",
       "social": "https://www.facebook.com/maryann.andrew.869949",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-09-25",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:24:33.856Z"
     },
@@ -27135,5 +27135,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:35:14.885Z"
+  "lastUpdated": "2026-09-25T12:35:30.181Z"
 }
