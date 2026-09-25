@@ -26988,7 +26988,25 @@
       "lastModified": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:04:08.188Z"
+    },
+    {
+      "id": "mugwxx3hirkg6g85x1",
+      "name": "Raul Lopez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/raul.lopez.135136",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T12:04:29.261Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:04:08.188Z"
+  "lastUpdated": "2026-09-25T12:04:29.261Z"
 }
