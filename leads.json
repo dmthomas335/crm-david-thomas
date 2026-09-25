@@ -14551,10 +14551,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-09-25",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-26",
       "notes": "Personal Soriano 771169 ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-09-25",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:07:14.216Z",
       "customerSince": "2026-08-30"
@@ -27134,5 +27134,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-25T12:11:12.339Z"
+  "lastUpdated": "2026-09-25T12:11:21.057Z"
 }
