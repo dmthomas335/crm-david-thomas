@@ -26933,7 +26933,26 @@
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:48:56.346Z"
+    },
+    {
+      "id": "mugwgx1bg7e9dwzpj3v",
+      "name": "Jorge Haro",
+      "email": "mayharo2004@yahoo.com",
+      "phone": "",
+      "social": "https://www.facebook.com/mayharo",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Warm",
+      "lastAction": "Closed",
+      "lastContact": "2026-09-25",
+      "nextFollowUp": "2026-10-09",
+      "notes": "563777 casmer ",
+      "lastModified": "2026-09-25",
+      "customerSince": "2026-09-25",
+      "dateAdded": "2026-09-25",
+      "addedAt": "2026-09-25T11:51:16.031Z"
     }
   ],
-  "lastUpdated": "2026-09-25T11:48:56.346Z"
+  "lastUpdated": "2026-09-25T11:51:16.031Z"
 }
