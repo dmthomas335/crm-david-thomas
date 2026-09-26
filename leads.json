@@ -21806,10 +21806,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-09-30",
+      "lastContact": "2026-09-26",
+      "nextFollowUp": "2026-10-01",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-09-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:28:14.984Z"
     },
@@ -27063,5 +27063,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-26T11:14:57.978Z"
+  "lastUpdated": "2026-09-26T11:15:15.361Z"
 }
