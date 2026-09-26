@@ -26817,10 +26817,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-09-26",
-      "notes": "703380 Paul cancelled Personal ",
-      "lastModified": "2026-09-25",
+      "lastContact": "2026-09-26",
+      "nextFollowUp": "2026-09-30",
+      "notes": "703380 Paul Personal ",
+      "lastModified": "2026-09-26",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:29:18.218Z"
@@ -27063,5 +27063,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-26T11:27:02.629Z"
+  "lastUpdated": "2026-09-26T11:27:18.791Z"
 }
