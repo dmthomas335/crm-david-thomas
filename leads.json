@@ -7940,16 +7940,17 @@
       "phone": "",
       "social": "https://www.facebook.com/kristi.kindy",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-10-16",
-      "notes": "Personal joined as 2WT",
-      "lastModified": "2026-09-16",
+      "nextFollowUp": "2026-10-13",
+      "notes": "Personal joined as 2WT BB",
+      "lastModified": "2026-09-27",
       "dateAdded": "2026-06-10",
-      "addedAt": "2026-06-10T11:49:44.166Z"
+      "addedAt": "2026-06-10T11:49:44.166Z",
+      "customerSince": "2026-09-27"
     },
     {
       "id": "mq80blymtoi7suish5q",
@@ -27063,5 +27064,5 @@
       "addedAt": "2026-09-25T12:07:31.201Z"
     }
   ],
-  "lastUpdated": "2026-09-27T10:29:23.869Z"
+  "lastUpdated": "2026-09-27T10:31:28.091Z"
 }
