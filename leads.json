@@ -27224,7 +27224,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:39:36.102Z"
+    },
+    {
+      "id": "mul6e0n4g7fpy86ir3",
+      "name": "John Beaumont-Clarke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.beaumontclarke",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:40:01.600Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:39:36.102Z"
+  "lastUpdated": "2026-09-28T11:40:01.600Z"
 }
