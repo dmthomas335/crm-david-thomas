@@ -27062,7 +27062,25 @@
       "lastModified": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:07:31.201Z"
+    },
+    {
+      "id": "mul69wsk4xjw8qzvykl",
+      "name": "Ianache Vlahos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yanny89",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:36:49.988Z"
     }
   ],
-  "lastUpdated": "2026-09-28T07:28:47.763Z"
+  "lastUpdated": "2026-09-28T11:36:49.988Z"
 }
