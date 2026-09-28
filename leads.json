@@ -27206,7 +27206,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:39:13.422Z"
+    },
+    {
+      "id": "mul6dgyughhdjd6vpi",
+      "name": "Chris Allison",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.allison.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:39:36.102Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:39:13.422Z"
+  "lastUpdated": "2026-09-28T11:39:36.102Z"
 }
