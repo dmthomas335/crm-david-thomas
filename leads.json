@@ -24100,10 +24100,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-09-28",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-09-10",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:19:13.232Z"
     },
@@ -27280,5 +27280,5 @@
       "addedAt": "2026-09-28T11:40:34.430Z"
     }
   ],
-  "lastUpdated": "2026-09-28T12:24:06.724Z"
+  "lastUpdated": "2026-09-28T12:24:32.690Z"
 }
