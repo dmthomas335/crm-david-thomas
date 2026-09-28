@@ -27152,7 +27152,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:38:04.189Z"
+    },
+    {
+      "id": "mul6bzl1d0lqum7gj5q",
+      "name": "Venus Seleme",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/venus.seleme",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:38:26.917Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:38:04.189Z"
+  "lastUpdated": "2026-09-28T11:38:26.917Z"
 }
