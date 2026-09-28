@@ -21641,14 +21641,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100084660501626",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-09-28",
+      "nextFollowUp": null,
       "notes": "Personal delete",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-09-28",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:14:52.097Z"
     },
@@ -27280,5 +27280,5 @@
       "addedAt": "2026-09-28T11:40:34.430Z"
     }
   ],
-  "lastUpdated": "2026-09-28T12:27:27.413Z"
+  "lastUpdated": "2026-09-28T12:27:36.061Z"
 }
