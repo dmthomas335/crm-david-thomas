@@ -27188,7 +27188,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:38:44.597Z"
+    },
+    {
+      "id": "mul6czgue0ge3p35ror",
+      "name": "Ray Hudgins Jr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/RayHudginsJr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:39:13.422Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:38:44.597Z"
+  "lastUpdated": "2026-09-28T11:39:13.422Z"
 }
