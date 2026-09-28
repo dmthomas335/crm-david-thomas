@@ -27242,7 +27242,25 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:40:01.600Z"
+    },
+    {
+      "id": "mul6eg3b2fpl9cmp9fa",
+      "name": "Eric Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.moore.58910",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-28",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-28",
+      "dateAdded": "2026-09-28",
+      "addedAt": "2026-09-28T11:40:21.623Z"
     }
   ],
-  "lastUpdated": "2026-09-28T11:40:01.600Z"
+  "lastUpdated": "2026-09-28T11:40:21.623Z"
 }
