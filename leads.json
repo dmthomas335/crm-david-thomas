@@ -7721,14 +7721,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jonathan.lundlee",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:53:59.844Z"
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:32:09.312Z"
+  "lastUpdated": "2026-09-29T11:32:21.744Z"
 }
