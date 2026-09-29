@@ -453,13 +453,13 @@
       "phone": "",
       "social": "https://www.facebook.com/calvin.passie",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-09-29",
+      "nextFollowUp": null,
       "notes": "sent biz pres / personal",
-      "lastModified": "2026-07-09",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:25:09.884Z"
+  "lastUpdated": "2026-09-29T11:26:49.031Z"
 }
