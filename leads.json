@@ -27386,7 +27386,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:05:14.588Z"
+    },
+    {
+      "id": "mumklmdoom4w0fu1yxp",
+      "name": "Logan Dueblack",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/logan.logie.503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:05:37.164Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:05:14.588Z"
+  "lastUpdated": "2026-09-29T11:05:37.164Z"
 }
