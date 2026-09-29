@@ -27278,7 +27278,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:03:14.698Z"
+    },
+    {
+      "id": "mumkiynw2rvohmg7lzk",
+      "name": "Cindie Cole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cindie.cole.36",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:03:33.116Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:03:14.698Z"
+  "lastUpdated": "2026-09-29T11:03:33.116Z"
 }
