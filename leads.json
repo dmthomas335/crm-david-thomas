@@ -26079,11 +26079,11 @@
       "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-09-29",
+      "lastAction": "Nurture",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-06",
       "notes": "David T Page ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:21:08.403Z"
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:11:28.397Z"
+  "lastUpdated": "2026-09-29T11:12:13.981Z"
 }
