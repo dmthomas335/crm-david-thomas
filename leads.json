@@ -555,13 +555,13 @@
       "phone": "",
       "social": "https://www.facebook.com/richard.stone.3551",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-09-29",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:32:21.744Z"
+  "lastUpdated": "2026-09-29T11:32:40.169Z"
 }
