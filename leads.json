@@ -27314,7 +27314,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:03:49.499Z"
+    },
+    {
+      "id": "mumkjrrw06944h1f06vh",
+      "name": "Doug Kruep",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dkruep",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:04:10.844Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:03:49.499Z"
+  "lastUpdated": "2026-09-29T11:04:10.844Z"
 }
