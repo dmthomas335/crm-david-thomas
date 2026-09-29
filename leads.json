@@ -27422,7 +27422,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:06:15.670Z"
+    },
+    {
+      "id": "mumkmuq5gwqvozq8c1c",
+      "name": "Timothy Pitts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/youngmnystyfresh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:06:34.637Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:06:15.670Z"
+  "lastUpdated": "2026-09-29T11:06:34.637Z"
 }
