@@ -21259,20 +21259,21 @@
     {
       "id": "mt784uuemltcp1ux6qb",
       "name": "Travis Dosser",
-      "email": "",
+      "email": "tcdosser2010@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/travis.dosser.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-09-29",
-      "notes": "Personal ",
-      "lastModified": "2026-08-24",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-13",
+      "notes": "Personal 512438 Me",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-08-24",
-      "addedAt": "2026-08-24T12:40:24.614Z"
+      "addedAt": "2026-08-24T12:40:24.614Z",
+      "customerSince": "2026-09-29"
     },
     {
       "id": "mt785fs5yvle7q4pv1a",
@@ -27514,5 +27515,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:35:01.498Z"
+  "lastUpdated": "2026-09-29T11:35:33.458Z"
 }
