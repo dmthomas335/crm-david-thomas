@@ -27440,7 +27440,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:06:34.637Z"
+    },
+    {
+      "id": "mumkp0e6irn8gg53qm",
+      "name": "Kotie Naude",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kotie.naude.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:08:15.294Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:06:34.637Z"
+  "lastUpdated": "2026-09-29T11:08:15.294Z"
 }
