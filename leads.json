@@ -17379,14 +17379,14 @@
       "phone": "",
       "social": "https://www.facebook.com/liviu.tomita",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-09-29",
-      "notes": "Personal ",
-      "lastModified": "2026-09-16",
+      "nextFollowUp": "2026-10-28",
+      "notes": "Personal how's trading going?",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:11:42.793Z"
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:33:45.114Z"
+  "lastUpdated": "2026-09-29T11:34:18.377Z"
 }
