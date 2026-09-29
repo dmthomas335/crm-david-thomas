@@ -20849,14 +20849,14 @@
       "phone": "",
       "social": "https://www.facebook.com/gerald.atayde.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-09-29",
+      "nextFollowUp": null,
       "notes": "Personal delete",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:33:25.429Z"
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:14:12.992Z"
+  "lastUpdated": "2026-09-29T11:14:30.135Z"
 }
