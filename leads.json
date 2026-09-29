@@ -11786,14 +11786,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andresjcorreav",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-22",
-      "nextFollowUp": "2026-09-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T11:40:31.768Z"
     },
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:31:29.034Z"
+  "lastUpdated": "2026-09-29T11:31:46.288Z"
 }
