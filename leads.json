@@ -27118,24 +27118,6 @@
       "addedAt": "2026-09-28T11:37:28.013Z"
     },
     {
-      "id": "mul6b2c290zn2r3avi9",
-      "name": "Brandon Todd Loudermilk",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-09-30",
-      "notes": "",
-      "lastModified": "2026-09-28",
-      "dateAdded": "2026-09-28",
-      "addedAt": "2026-09-28T11:37:43.826Z"
-    },
-    {
       "id": "mul6bi1ppms2oyfad8",
       "name": "Carlos Pazos",
       "email": "",
@@ -27262,5 +27244,5 @@
       "addedAt": "2026-09-28T11:40:21.623Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:02:29.304Z"
+  "lastUpdated": "2026-09-29T11:02:33.808Z"
 }
