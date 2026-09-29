@@ -2944,10 +2944,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-09-29",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-11-04",
       "notes": "Message on discord Joined as 2WT / David Andrews / 514199",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-09-29",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:20:41.851Z",
       "videoSent": true,
@@ -27514,5 +27514,5 @@
       "addedAt": "2026-09-29T11:09:18.208Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:16:18.048Z"
+  "lastUpdated": "2026-09-29T11:16:26.472Z"
 }
