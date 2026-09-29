@@ -27368,7 +27368,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:04:51.723Z"
+    },
+    {
+      "id": "mumkl4yktkczlcs2g3",
+      "name": "Alvina Saulala",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alvina.saulala",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": "2026-10-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T11:05:14.588Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:04:51.723Z"
+  "lastUpdated": "2026-09-29T11:05:14.588Z"
 }
