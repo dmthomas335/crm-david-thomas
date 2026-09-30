@@ -16771,10 +16771,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-09-30",
-      "notes": "Personal ",
-      "lastModified": "2026-09-16",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T10:58:51.903Z"
     },
@@ -27768,5 +27768,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:11:53.686Z"
+  "lastUpdated": "2026-09-30T12:12:30.318Z"
 }
