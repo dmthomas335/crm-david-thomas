@@ -8580,9 +8580,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-09-30",
-      "notes": "Personal send recap",
-      "lastModified": "2026-08-21",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal send recap still trade? ",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z"
     },
@@ -27768,5 +27768,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:08:31.427Z"
+  "lastUpdated": "2026-09-30T12:09:04.371Z"
 }
