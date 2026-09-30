@@ -19228,14 +19228,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CRK8uwo1N/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T10:59:01.910Z"
     },
@@ -27768,5 +27768,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:10:12.555Z"
+  "lastUpdated": "2026-09-30T12:10:29.741Z"
 }
