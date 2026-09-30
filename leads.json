@@ -23646,14 +23646,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mike.comer.33",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:06:38.814Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:56:59.019Z"
+  "lastUpdated": "2026-09-30T11:57:16.163Z"
 }
