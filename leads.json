@@ -27729,7 +27729,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:35:51.197Z"
+    },
+    {
+      "id": "muo14jydqak2hztfkt",
+      "name": "Andy Hinesly",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-04",
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T11:36:00.517Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:35:51.197Z"
+  "lastUpdated": "2026-09-30T11:36:00.517Z"
 }
