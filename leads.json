@@ -9512,14 +9512,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dong.mang.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:46:31.352Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:59:55.717Z"
+  "lastUpdated": "2026-09-30T12:00:02.701Z"
 }
