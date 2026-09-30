@@ -5755,14 +5755,14 @@
       "phone": "",
       "social": "https://www.facebook.com/adrian.thistleton.3",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:12:19.301Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:00:10.790Z"
+  "lastUpdated": "2026-09-30T12:00:17.917Z"
 }
