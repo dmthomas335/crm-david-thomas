@@ -27621,7 +27621,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:34:07.573Z"
+    },
+    {
+      "id": "muo12k5yonsbwhwd0ii",
+      "name": "Danny West",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/danny.west.104",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T11:34:27.478Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:34:07.573Z"
+  "lastUpdated": "2026-09-30T11:34:27.478Z"
 }
