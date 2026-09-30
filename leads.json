@@ -25591,14 +25591,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/191dRw1unK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-27",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:39:35.004Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:54:44.442Z"
+  "lastUpdated": "2026-09-30T11:55:30.498Z"
 }
