@@ -26820,9 +26820,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-26",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": "2026-10-21",
       "notes": "703380 Paul Personal ",
-      "lastModified": "2026-09-26",
+      "lastModified": "2026-09-30",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:29:18.218Z"
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:43:26.009Z"
+  "lastUpdated": "2026-09-30T11:44:00.385Z"
 }
