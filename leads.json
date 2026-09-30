@@ -4528,14 +4528,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jordan.pavlik3",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-28",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-07-28",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:27:54.937Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:59:14.964Z"
+  "lastUpdated": "2026-09-30T11:59:24.453Z"
 }
