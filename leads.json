@@ -27513,7 +27513,25 @@
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:09:18.208Z"
+    },
+    {
+      "id": "muo0ze7srrl6o8i0vn8",
+      "name": "Ken Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenwrobinson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T11:31:59.800Z"
     }
   ],
-  "lastUpdated": "2026-09-29T11:47:35.714Z"
+  "lastUpdated": "2026-09-30T11:31:59.800Z"
 }
