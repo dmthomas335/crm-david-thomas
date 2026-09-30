@@ -27693,7 +27693,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:35:26.989Z"
+    },
+    {
+      "id": "muo1443i77ut0ioze5i",
+      "name": "Joseph Barker",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-04",
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T11:35:39.966Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:35:26.989Z"
+  "lastUpdated": "2026-09-30T11:35:39.966Z"
 }
