@@ -1567,13 +1567,13 @@
       "phone": "",
       "social": "https://www.facebook.com/ivandiaz.gulbutt.7",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T14:48:37.867Z",
       "videoSent": true
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:00:17.917Z"
+  "lastUpdated": "2026-09-30T12:00:40.293Z"
 }
