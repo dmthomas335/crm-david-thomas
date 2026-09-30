@@ -27263,24 +27263,6 @@
       "addedAt": "2026-09-29T11:03:01.580Z"
     },
     {
-      "id": "mumkikga5lo71gvu19r",
-      "name": "Debbie Baker",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-29",
-      "nextFollowUp": null,
-      "notes": "",
-      "lastModified": "2026-09-29",
-      "dateAdded": "2026-09-29",
-      "addedAt": "2026-09-29T11:03:14.698Z"
-    },
-    {
       "id": "mumkiynw2rvohmg7lzk",
       "name": "Cindie Cole",
       "email": "",
@@ -27749,5 +27731,5 @@
       "addedAt": "2026-09-30T11:36:00.517Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:36:00.517Z"
+  "lastUpdated": "2026-09-30T11:36:10.502Z"
 }
