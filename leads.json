@@ -2233,13 +2233,13 @@
       "phone": "",
       "social": "https://www.facebook.com/melissa.smithwhiting",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-07-20",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:14:22.986Z",
       "videoSent": false
@@ -27768,5 +27768,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:03:02.080Z"
+  "lastUpdated": "2026-09-30T12:03:18.519Z"
 }
