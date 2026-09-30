@@ -24835,14 +24835,14 @@
       "phone": "",
       "social": "https://www.facebook.com/justin.humphreys.12",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-15",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:25:51.203Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:53:12.936Z"
+  "lastUpdated": "2026-09-30T11:53:25.472Z"
 }
