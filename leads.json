@@ -20074,14 +20074,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shane.waits",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:38:38.636Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:01:55.318Z"
+  "lastUpdated": "2026-09-30T12:02:03.783Z"
 }
