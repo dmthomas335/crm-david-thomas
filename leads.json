@@ -21930,14 +21930,14 @@
       "phone": "",
       "social": "https://www.facebook.com/antonio.r.cordova",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T11:50:33.028Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:47:18.421Z"
+  "lastUpdated": "2026-09-30T11:47:48.581Z"
 }
