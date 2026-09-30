@@ -14494,14 +14494,14 @@
       "phone": "",
       "social": "https://www.facebook.com/GinaUrso713",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T11:43:14.705Z"
     },
@@ -27767,5 +27767,5 @@
       "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:00:40.293Z"
+  "lastUpdated": "2026-09-30T12:00:46.262Z"
 }
