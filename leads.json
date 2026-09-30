@@ -27598,12 +27598,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-10-05",
       "notes": "",
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:33:24.499Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:33:24.499Z"
+  "lastUpdated": "2026-09-30T11:33:32.700Z"
 }
