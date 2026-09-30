@@ -27639,7 +27639,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:34:27.478Z"
+    },
+    {
+      "id": "muo130eey2t88j23gl",
+      "name": "Ricky Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ricky.smith.169",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T11:34:48.518Z"
     }
   ],
-  "lastUpdated": "2026-09-30T11:34:27.478Z"
+  "lastUpdated": "2026-09-30T11:34:48.518Z"
 }
