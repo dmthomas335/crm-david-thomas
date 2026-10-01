@@ -27570,24 +27570,6 @@
       "addedAt": "2026-09-30T11:33:01.380Z"
     },
     {
-      "id": "muo117kj7t37yo76x6a",
-      "name": "Rashmeeta Matharu",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-05",
-      "notes": "",
-      "lastModified": "2026-09-30",
-      "dateAdded": "2026-09-30",
-      "addedAt": "2026-09-30T11:33:24.499Z"
-    },
-    {
       "id": "muo124t1gkz1v3qmf66",
       "name": "Danson Foley",
       "email": "",
@@ -27660,5 +27642,5 @@
       "addedAt": "2026-09-30T11:35:09.597Z"
     }
   ],
-  "lastUpdated": "2026-10-01T15:41:37.946Z"
+  "lastUpdated": "2026-10-01T15:41:41.841Z"
 }
