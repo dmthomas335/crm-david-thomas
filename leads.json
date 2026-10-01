@@ -27748,25 +27748,7 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:36:42.518Z"
-    },
-    {
-      "id": "muo15myvso46key67gh",
-      "name": "Mark Smith",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-04",
-      "notes": "",
-      "lastModified": "2026-09-30",
-      "dateAdded": "2026-09-30",
-      "addedAt": "2026-09-30T11:36:51.079Z"
     }
   ],
-  "lastUpdated": "2026-09-30T12:13:35.688Z"
+  "lastUpdated": "2026-10-01T15:41:18.168Z"
 }
