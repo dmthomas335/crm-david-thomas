@@ -16459,14 +16459,14 @@
       "phone": "",
       "social": "https://www.facebook.com/adam.goodling.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:15:13.646Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:57:52.428Z"
+  "lastUpdated": "2026-10-02T12:58:10.994Z"
 }
