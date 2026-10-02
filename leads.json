@@ -24620,14 +24620,14 @@
       "phone": "",
       "social": "https://www.facebook.com/pm2084",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:28:26.925Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T13:09:58.874Z"
+  "lastUpdated": "2026-10-02T13:10:09.384Z"
 }
