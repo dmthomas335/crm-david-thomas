@@ -26839,10 +26839,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-10-02",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-16",
       "notes": "665760 casmer cancelled Personal ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-10-02",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:45:37.874Z"
@@ -27912,5 +27912,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:55:16.190Z"
+  "lastUpdated": "2026-10-02T12:55:52.715Z"
 }
