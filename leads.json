@@ -9568,14 +9568,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1FHh2rBMhg/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-10-01",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T09:12:05.104Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T13:21:11.622Z"
+  "lastUpdated": "2026-10-02T13:21:23.580Z"
 }
