@@ -27784,7 +27784,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:49:43.463Z"
+    },
+    {
+      "id": "muqynlo3e6h9doespbo",
+      "name": "Deon Taylor",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-07",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-02T12:50:08.883Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:49:43.463Z"
+  "lastUpdated": "2026-10-02T12:50:08.883Z"
 }
