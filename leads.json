@@ -27748,7 +27748,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:48:32.861Z"
+    },
+    {
+      "id": "muqymh1eoq3y2s356we",
+      "name": "Johnathan Luque Santolalla",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/johnnathanl1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-02T12:49:16.226Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:48:32.861Z"
+  "lastUpdated": "2026-10-02T12:49:16.226Z"
 }
