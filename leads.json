@@ -27694,7 +27694,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:47:22.127Z"
+    },
+    {
+      "id": "muqykfpz48a6ee3o6r",
+      "name": "Anthonmy Arrington",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-06",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-02T12:47:41.208Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:47:22.127Z"
+  "lastUpdated": "2026-10-02T12:47:41.208Z"
 }
