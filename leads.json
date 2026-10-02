@@ -16622,14 +16622,14 @@
       "phone": "",
       "social": "https://www.facebook.com/R0B3RTL4W",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-28T12:03:19.534Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T13:15:31.732Z"
+  "lastUpdated": "2026-10-02T13:15:48.822Z"
 }
