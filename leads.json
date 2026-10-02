@@ -27640,7 +27640,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:35:09.597Z"
+    },
+    {
+      "id": "muqyixn6a9zveh4ge3m",
+      "name": "Kare Lai",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-07",
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-02T12:46:31.122Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:44:30.906Z"
+  "lastUpdated": "2026-10-02T12:46:31.122Z"
 }
