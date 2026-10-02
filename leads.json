@@ -13472,9 +13472,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-19",
+      "nextFollowUp": "2026-10-05",
       "notes": "Me 760625 Personal ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-02",
       "customerSince": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T10:46:18.466Z"
@@ -27642,5 +27642,5 @@
       "addedAt": "2026-09-30T11:35:09.597Z"
     }
   ],
-  "lastUpdated": "2026-10-02T07:19:35.419Z"
+  "lastUpdated": "2026-10-02T12:44:30.906Z"
 }
