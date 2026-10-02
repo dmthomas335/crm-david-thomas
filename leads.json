@@ -23845,14 +23845,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100073940175838",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-09",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:22:10.488Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T13:08:59.481Z"
+  "lastUpdated": "2026-10-02T13:09:15.006Z"
 }
