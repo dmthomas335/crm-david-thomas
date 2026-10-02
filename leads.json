@@ -27658,7 +27658,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:46:31.122Z"
+    },
+    {
+      "id": "muqyjg8zqvxpnb8bvig",
+      "name": "Eric Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.allen.9085",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-02T12:46:55.235Z"
     }
   ],
-  "lastUpdated": "2026-10-02T12:46:31.122Z"
+  "lastUpdated": "2026-10-02T12:46:55.235Z"
 }
