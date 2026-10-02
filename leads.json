@@ -17402,10 +17402,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-09-02",
-      "nextFollowUp": "2026-10-02",
-      "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:24:51.710Z"
     },
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-02T13:17:50.177Z"
+  "lastUpdated": "2026-10-02T13:18:08.168Z"
 }
