@@ -26114,12 +26114,12 @@
       "phone": "",
       "social": "https://www.facebook.com/gpmin",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-02",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
       "lastModified": "2026-10-03",
       "dateAdded": "2026-09-22",
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-03T08:49:00.917Z"
+  "lastUpdated": "2026-10-03T08:49:07.659Z"
 }
