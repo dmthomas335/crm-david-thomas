@@ -12618,12 +12618,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/17vNFCK7WG/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-09-16",
+      "nextFollowUp": null,
       "notes": "Personal ",
       "lastModified": "2026-10-03",
       "dateAdded": "2026-07-03",
@@ -27894,5 +27894,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-03T08:48:43.868Z"
+  "lastUpdated": "2026-10-03T08:48:54.433Z"
 }
