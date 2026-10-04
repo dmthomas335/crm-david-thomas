@@ -27678,24 +27678,6 @@
       "addedAt": "2026-10-02T12:47:22.127Z"
     },
     {
-      "id": "muqykfpz48a6ee3o6r",
-      "name": "Anthonmy Arrington",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-06",
-      "notes": "",
-      "lastModified": "2026-10-02",
-      "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:47:41.208Z"
-    },
-    {
       "id": "muqyljkt9y05x27phcf",
       "name": "Jim Beaver",
       "email": "",
@@ -27822,5 +27804,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-04T10:22:35.944Z"
+  "lastUpdated": "2026-10-04T10:22:41.557Z"
 }
