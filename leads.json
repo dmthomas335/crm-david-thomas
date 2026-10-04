@@ -27624,24 +27624,6 @@
       "addedAt": "2026-09-30T11:35:09.597Z"
     },
     {
-      "id": "muqyixn6a9zveh4ge3m",
-      "name": "Kare Lai",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-07",
-      "notes": "",
-      "lastModified": "2026-10-02",
-      "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:46:31.122Z"
-    },
-    {
       "id": "muqyjg8zqvxpnb8bvig",
       "name": "Eric Allen",
       "email": "",
@@ -27804,5 +27786,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-04T10:22:41.557Z"
+  "lastUpdated": "2026-10-04T10:22:47.990Z"
 }
