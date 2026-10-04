@@ -27696,24 +27696,6 @@
       "addedAt": "2026-10-02T12:47:41.208Z"
     },
     {
-      "id": "muqykqavaxcj3zku8c7",
-      "name": "Hinesly",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-07",
-      "notes": "",
-      "lastModified": "2026-10-02",
-      "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:47:54.919Z"
-    },
-    {
       "id": "muqyljkt9y05x27phcf",
       "name": "Jim Beaver",
       "email": "",
@@ -27840,5 +27822,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-04T10:22:29.397Z"
+  "lastUpdated": "2026-10-04T10:22:35.944Z"
 }
