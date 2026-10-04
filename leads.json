@@ -27858,24 +27858,6 @@
       "addedAt": "2026-10-02T12:52:08.008Z"
     },
     {
-      "id": "muqyqx6544mtcqnbpae",
-      "name": "Michael Brandon",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-21",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-02",
-      "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:52:43.757Z"
-    },
-    {
       "id": "muqys2xv4ljj2lbtczq",
       "name": "Russell Pearce",
       "email": "",
@@ -27894,5 +27876,5 @@
       "addedAt": "2026-10-02T12:53:37.891Z"
     }
   ],
-  "lastUpdated": "2026-10-03T08:49:07.659Z"
+  "lastUpdated": "2026-10-04T10:22:17.355Z"
 }
