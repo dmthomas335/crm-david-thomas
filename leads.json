@@ -5290,10 +5290,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-05",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-14",
       "notes": "personal Linda Estelle 526531 cancelled ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-05",
       "customerSince": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:40:50.869Z"
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:10:41.324Z"
+  "lastUpdated": "2026-10-05T12:11:22.420Z"
 }
