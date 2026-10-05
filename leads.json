@@ -27910,7 +27910,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:41:16.166Z"
+    },
+    {
+      "id": "muv6j504slm8bp8hn7",
+      "name": "Kingsley Erusiafe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kingsley.erusiafe",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:41:42.292Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:41:16.166Z"
+  "lastUpdated": "2026-10-05T11:41:42.292Z"
 }
