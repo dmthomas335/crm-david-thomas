@@ -21989,10 +21989,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-10-05",
-      "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T12:11:24.268Z"
     },
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:34:12.350Z"
+  "lastUpdated": "2026-10-05T12:34:29.114Z"
 }
