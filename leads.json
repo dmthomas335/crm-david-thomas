@@ -16698,10 +16698,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-10-05",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-19",
       "notes": "Personal 668180 Ashley",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T06:51:39.975Z",
       "customerSince": "2026-08-05"
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:10:00.464Z"
+  "lastUpdated": "2026-10-05T12:10:09.731Z"
 }
