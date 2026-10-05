@@ -28000,7 +28000,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:43:38.707Z"
+    },
+    {
+      "id": "muv6m3j8xry1lgn450b",
+      "name": "Joseph Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joseph.thomas.338211",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:44:00.357Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:43:38.707Z"
+  "lastUpdated": "2026-10-05T11:44:00.357Z"
 }
