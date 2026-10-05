@@ -27964,7 +27964,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:42:41.501Z"
+    },
+    {
+      "id": "muv6kus0045hazhnmo54",
+      "name": "Jordan Stanley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jordan.stanley.581",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:43:02.352Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:42:41.501Z"
+  "lastUpdated": "2026-10-05T11:43:02.352Z"
 }
