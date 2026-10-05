@@ -19087,10 +19087,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-05",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-11-04",
       "notes": "David T Page delete?",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T07:33:29.088Z"
     },
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:12:45.905Z"
+  "lastUpdated": "2026-10-05T12:13:40.886Z"
 }
