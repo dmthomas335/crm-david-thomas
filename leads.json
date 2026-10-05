@@ -27874,7 +27874,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:40:26.862Z"
+    },
+    {
+      "id": "muv6i46uqpt22l8ua1j",
+      "name": "Fred Perron",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fred.perron.52",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:40:54.582Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:40:26.862Z"
+  "lastUpdated": "2026-10-05T11:40:54.582Z"
 }
