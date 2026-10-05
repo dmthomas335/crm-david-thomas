@@ -27982,7 +27982,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:43:02.352Z"
+    },
+    {
+      "id": "muv6lmtvvpr3xwq2eh9",
+      "name": "Jarrett Olson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jarrett.olson.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:43:38.707Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:43:02.352Z"
+  "lastUpdated": "2026-10-05T11:43:38.707Z"
 }
