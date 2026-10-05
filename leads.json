@@ -22344,7 +22344,7 @@
     },
     {
       "id": "mth51cjuez8u5r245js",
-      "name": "Andy Swints",
+      "name": "Andy Swinton",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/andy.swints",
@@ -22353,10 +22353,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-05",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-09-15",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-09",
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:11:23.850Z"
     },
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:15:34.934Z"
+  "lastUpdated": "2026-10-05T12:16:35.652Z"
 }
