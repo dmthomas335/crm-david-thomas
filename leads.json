@@ -18018,10 +18018,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-10-05",
-      "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:11:47.775Z"
     },
@@ -28056,5 +28056,5 @@
       "addedAt": "2026-10-05T11:44:33.668Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:32:52.190Z"
+  "lastUpdated": "2026-10-05T12:32:59.384Z"
 }
