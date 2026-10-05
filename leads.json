@@ -27838,7 +27838,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:38:14.376Z"
+    },
+    {
+      "id": "muv6h9u2zb0dglygju",
+      "name": "Dawn Mazey",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-09",
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:40:15.242Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:38:14.376Z"
+  "lastUpdated": "2026-10-05T11:40:15.242Z"
 }
