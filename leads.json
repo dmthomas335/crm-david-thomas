@@ -27784,7 +27784,25 @@
       "lastModified": "2026-10-02",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:53:37.891Z"
+    },
+    {
+      "id": "muv6bc5odb1p0ddzxt",
+      "name": "Darnell Gilbert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darnell.gilbert.754",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": "2026-10-12",
+      "notes": "Personal ",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T11:35:38.316Z"
     }
   ],
-  "lastUpdated": "2026-10-05T11:34:49.551Z"
+  "lastUpdated": "2026-10-05T11:35:38.316Z"
 }
