@@ -9604,14 +9604,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1E6uZCuzKE/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-10-06",
-      "notes": "Personal ",
-      "lastModified": "2026-08-18",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": null,
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T09:16:33.347Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:12:41.650Z"
+  "lastUpdated": "2026-10-06T11:13:22.320Z"
 }
