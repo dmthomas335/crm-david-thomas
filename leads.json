@@ -26618,14 +26618,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100065219883781",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:35:57.362Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:11:31.681Z"
+  "lastUpdated": "2026-10-06T11:11:37.602Z"
 }
