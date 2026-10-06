@@ -25898,14 +25898,14 @@
       "phone": "",
       "social": "https://www.facebook.com/gary.pfuhl.16",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:43:57.508Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:00:22.211Z"
+  "lastUpdated": "2026-10-06T11:01:00.264Z"
 }
