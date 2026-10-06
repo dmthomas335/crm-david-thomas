@@ -25196,14 +25196,14 @@
       "phone": "",
       "social": "https://www.facebook.com/thomas.good.3557",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-23",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-23",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:37:38.465Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:11:37.602Z"
+  "lastUpdated": "2026-10-06T11:12:00.962Z"
 }
