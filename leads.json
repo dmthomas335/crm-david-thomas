@@ -27858,24 +27858,6 @@
       "addedAt": "2026-10-05T11:40:15.242Z"
     },
     {
-      "id": "muv6hisurcnmjw3k1",
-      "name": "Tesla Bynum",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
-      "notes": "",
-      "lastModified": "2026-10-05",
-      "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:40:26.862Z"
-    },
-    {
       "id": "muv6i46uqpt22l8ua1j",
       "name": "Fred Perron",
       "email": "",
@@ -28020,5 +28002,5 @@
       "addedAt": "2026-10-06T10:12:47.142Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:13:03.473Z"
+  "lastUpdated": "2026-10-06T10:13:07.491Z"
 }
