@@ -26064,10 +26064,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-06",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
       "notes": "David T Page ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:21:08.403Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:55:58.946Z"
+  "lastUpdated": "2026-10-06T10:56:56.526Z"
 }
