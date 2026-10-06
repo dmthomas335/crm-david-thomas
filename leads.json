@@ -2544,10 +2544,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-10-06",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-20",
       "notes": "joined as 2WT / personal / Me 512419 CANCELLED",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:43:32.787Z",
       "videoSent": true,
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:49:53.013Z"
+  "lastUpdated": "2026-10-06T10:49:59.581Z"
 }
