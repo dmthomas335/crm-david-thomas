@@ -19949,14 +19949,14 @@
       "phone": "",
       "social": "https://www.facebook.com/luis.alana.50",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:23:23.730Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:11:10.861Z"
+  "lastUpdated": "2026-10-06T11:11:31.681Z"
 }
