@@ -6206,14 +6206,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BLwFy49Rt/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:03:44.036Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:08:20.142Z"
+  "lastUpdated": "2026-10-06T11:08:36.645Z"
 }
