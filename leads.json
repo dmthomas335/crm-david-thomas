@@ -15558,14 +15558,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ian.temple.9",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-06",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-13",
       "notes": "Personal delete ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:25:45.584Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:52:23.360Z"
+  "lastUpdated": "2026-10-06T10:53:09.620Z"
 }
