@@ -17001,14 +17001,14 @@
       "phone": "",
       "social": "https://www.facebook.com/gloynab",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:32:00.993Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:51:20.457Z"
+  "lastUpdated": "2026-10-06T10:52:02.346Z"
 }
