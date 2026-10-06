@@ -1370,10 +1370,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-06",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-09",
       "notes": "personal joined as 2WT Ashley 536221 Kendall Matthews",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:45:17.711Z",
       "videoSent": true,
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:49:59.581Z"
+  "lastUpdated": "2026-10-06T10:50:29.800Z"
 }
