@@ -17832,14 +17832,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19cDgXNmr8/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-01",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal Soriano 770897",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T09:16:32.682Z",
       "customerSince": "2026-08-30"
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:50:29.800Z"
+  "lastUpdated": "2026-10-06T10:50:47.202Z"
 }
