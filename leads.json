@@ -24098,14 +24098,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lumberbax666",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:19:32.528Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:54:14.187Z"
+  "lastUpdated": "2026-10-06T10:54:31.455Z"
 }
