@@ -8290,10 +8290,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
-      "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-10-06",
-      "notes": "Personal",
-      "lastModified": "2026-08-27",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-27",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:49:20.189Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:14:11.809Z"
+  "lastUpdated": "2026-10-06T11:14:33.551Z"
 }
