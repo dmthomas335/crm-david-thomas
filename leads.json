@@ -28090,7 +28090,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T10:15:38.413Z"
+    },
+    {
+      "id": "muwiwqzi94rhogo997a",
+      "name": "Doug Fuller",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/doug.fuller.376",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T10:15:58.878Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:15:38.413Z"
+  "lastUpdated": "2026-10-06T10:15:58.878Z"
 }
