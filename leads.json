@@ -28108,7 +28108,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T10:15:58.878Z"
+    },
+    {
+      "id": "muwix82emdk0ndtvus",
+      "name": "Pete Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pete.robinson.1428",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T10:16:21.014Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:15:58.878Z"
+  "lastUpdated": "2026-10-06T10:16:21.014Z"
 }
