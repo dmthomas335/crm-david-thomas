@@ -28020,24 +28020,6 @@
       "addedAt": "2026-10-05T11:44:00.357Z"
     },
     {
-      "id": "muv6mbz04w3yhrf17lk",
-      "name": "Kenneth Zink",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
-      "notes": "",
-      "lastModified": "2026-10-05",
-      "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:44:11.292Z"
-    },
-    {
       "id": "muwisn1iorkj7lxuuxi",
       "name": "Keri Lewis",
       "email": "",
@@ -28056,5 +28038,5 @@
       "addedAt": "2026-10-06T10:12:47.142Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:12:54.465Z"
+  "lastUpdated": "2026-10-06T10:12:58.743Z"
 }
