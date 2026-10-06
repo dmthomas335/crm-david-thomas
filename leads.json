@@ -178,13 +178,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jennifer.hinton.921",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "sent biz pres / personal",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T11:08:36.645Z"
+  "lastUpdated": "2026-10-06T11:08:44.553Z"
 }
