@@ -28144,7 +28144,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T10:16:40.091Z"
+    },
+    {
+      "id": "muwiydw66i1k1tlojne",
+      "name": "Gavin Stephens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100070215093059",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T10:17:15.222Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:16:40.091Z"
+  "lastUpdated": "2026-10-06T10:17:15.222Z"
 }
