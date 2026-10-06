@@ -28216,7 +28216,25 @@
       "lastModified": "2026-10-06",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T10:19:01.860Z"
+    },
+    {
+      "id": "muwj1c1cd1pozyop8n4",
+      "name": "Sheldon A Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sheldon.a.smith.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:19:01.861Z"
+  "lastUpdated": "2026-10-06T10:19:32.784Z"
 }
