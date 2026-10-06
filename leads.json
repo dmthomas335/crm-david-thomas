@@ -2960,13 +2960,13 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.n.kelly.73",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "joined 2WT / joined as customer 509830 Ashley cancelled",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:21:27.836Z",
       "videoSent": true,
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:20:21.634Z"
+  "lastUpdated": "2026-10-06T10:49:32.453Z"
 }
