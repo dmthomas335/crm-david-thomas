@@ -20616,14 +20616,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nick.turnersmith",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-10-06",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-23",
+      "lastModified": "2026-10-06",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:07:40.366Z"
     },
@@ -28236,5 +28236,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-06T10:50:47.202Z"
+  "lastUpdated": "2026-10-06T10:51:20.457Z"
 }
