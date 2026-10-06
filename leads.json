@@ -28054,7 +28054,25 @@
       "lastModified": "2026-10-05",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:44:33.668Z"
+    },
+    {
+      "id": "muwisn1iorkj7lxuuxi",
+      "name": "Keri Lewis",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-06",
+      "nextFollowUp": "2026-10-10",
+      "notes": "",
+      "lastModified": "2026-10-06",
+      "dateAdded": "2026-10-06",
+      "addedAt": "2026-10-06T10:12:47.142Z"
     }
   ],
-  "lastUpdated": "2026-10-05T12:37:48.392Z"
+  "lastUpdated": "2026-10-06T10:12:47.143Z"
 }
