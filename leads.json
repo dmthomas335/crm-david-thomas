@@ -18672,9 +18672,9 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": "2026-11-03",
       "notes": "Personal 686804 Samuel Romero",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-07",
       "customerSince": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:21:32.528Z"
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:45:37.696Z"
+  "lastUpdated": "2026-10-07T11:45:54.768Z"
 }
