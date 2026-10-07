@@ -113,9 +113,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": "2026-12-15",
       "notes": "personal 752803 Casmer check sub\n\n",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-05-18",
       "videoSent": false,
       "customerSince": "2026-06-02"
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:36:26.300Z"
+  "lastUpdated": "2026-10-07T11:43:40.814Z"
 }
