@@ -5791,14 +5791,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dianna.kreisher",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:15:47.151Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:01:52.642Z"
+  "lastUpdated": "2026-10-07T12:02:00.005Z"
 }
