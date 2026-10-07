@@ -28234,7 +28234,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:29:35.888Z"
+    },
+    {
+      "id": "muy0zjkj3gnsj5bknmv",
+      "name": "Andy North",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:29:48.499Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:29:35.888Z"
+  "lastUpdated": "2026-10-07T11:29:48.499Z"
 }
