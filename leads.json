@@ -21553,14 +21553,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lynsey.obrien.12",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:54:13.913Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:52:04.228Z"
+  "lastUpdated": "2026-10-07T11:52:50.164Z"
 }
