@@ -13158,14 +13158,14 @@
       "phone": "",
       "social": "https://www.facebook.com/josh.gutierrez795",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:57:47.320Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:13:00.015Z"
+  "lastUpdated": "2026-10-07T12:13:17.234Z"
 }
