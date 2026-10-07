@@ -22407,10 +22407,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-10-07",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-11-06",
       "notes": "Personal Casmer 515449 no response",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-10-07",
       "customerSince": "2026-08-31",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:12:51.964Z"
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:45:54.768Z"
+  "lastUpdated": "2026-10-07T11:46:10.904Z"
 }
