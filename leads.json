@@ -28360,7 +28360,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:32:39.739Z"
+    },
+    {
+      "id": "muy1429n1uj3lrmt7h9",
+      "name": "Jason Yutze",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.yutze.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:33:19.355Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:32:39.739Z"
+  "lastUpdated": "2026-10-07T11:33:19.355Z"
 }
