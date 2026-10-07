@@ -28378,7 +28378,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:33:19.355Z"
+    },
+    {
+      "id": "muy14id39iudob56qjp",
+      "name": "Jerry Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jerrydhernandez",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:33:40.215Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:33:19.355Z"
+  "lastUpdated": "2026-10-07T11:33:40.215Z"
 }
