@@ -28396,7 +28396,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:33:40.215Z"
+    },
+    {
+      "id": "muy16iso00ubabu1z9di",
+      "name": "Gabriel Rivera",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100004499730530",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:35:14.088Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:33:40.215Z"
+  "lastUpdated": "2026-10-07T11:35:14.088Z"
 }
