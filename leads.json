@@ -28270,7 +28270,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:30:33.458Z"
+    },
+    {
+      "id": "muy1103kyqskw51pf0k",
+      "name": "Darnell G",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-11",
+      "notes": "",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:30:56.576Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:30:33.458Z"
+  "lastUpdated": "2026-10-07T11:30:56.576Z"
 }
