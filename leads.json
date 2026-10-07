@@ -20670,14 +20670,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ygmoses20",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal 539460 Ashley Cancelled",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:09:34.966Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:02:14.980Z"
+  "lastUpdated": "2026-10-07T12:02:23.432Z"
 }
