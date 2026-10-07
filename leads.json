@@ -20742,14 +20742,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carl.johnson.959721",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:12:54.332Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:51:27.309Z"
+  "lastUpdated": "2026-10-07T11:52:04.228Z"
 }
