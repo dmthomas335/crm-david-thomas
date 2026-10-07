@@ -6842,10 +6842,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-07",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-14",
       "notes": "Personal 753475 Casmer cancelled ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-10-07",
       "customerSince": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-06T09:32:07.864Z"
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:43:56.465Z"
+  "lastUpdated": "2026-10-07T11:44:44.260Z"
 }
