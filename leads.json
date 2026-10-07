@@ -933,9 +933,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-04",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": "2026-12-09",
       "notes": "sent biz pres David T Page ",
-      "lastModified": "2026-09-03",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:47:25.375Z"
+  "lastUpdated": "2026-10-07T11:47:37.954Z"
 }
