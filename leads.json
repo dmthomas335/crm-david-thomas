@@ -28038,24 +28038,6 @@
       "addedAt": "2026-10-06T10:14:53.815Z"
     },
     {
-      "id": "muwivmd1jb5g5c7rfh",
-      "name": "Stephen Snowman",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-10-10",
-      "notes": "",
-      "lastModified": "2026-10-06",
-      "dateAdded": "2026-10-06",
-      "addedAt": "2026-10-06T10:15:06.229Z"
-    },
-    {
       "id": "muwiwb71nscny2qe02o",
       "name": "Nathan Mcnaughton",
       "email": "",
@@ -28218,5 +28200,5 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:28:35.595Z"
+  "lastUpdated": "2026-10-07T11:28:40.801Z"
 }
