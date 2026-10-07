@@ -24908,14 +24908,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carl.parchment",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-15",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:28:05.975Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:53:38.548Z"
+  "lastUpdated": "2026-10-07T11:54:03.897Z"
 }
