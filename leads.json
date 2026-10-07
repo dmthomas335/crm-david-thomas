@@ -26366,14 +26366,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1cn2eJ8jpJ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-23",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-23",
       "addedAt": "2026-09-23T10:49:05.493Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:02:23.432Z"
+  "lastUpdated": "2026-10-07T12:02:32.123Z"
 }
