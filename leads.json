@@ -24674,14 +24674,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100075792030141",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:29:49.606Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:53:22.811Z"
+  "lastUpdated": "2026-10-07T11:53:38.548Z"
 }
