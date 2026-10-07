@@ -7905,14 +7905,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vincent.coney.9",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-24",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:15:22.044Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:06:53.882Z"
+  "lastUpdated": "2026-10-07T12:07:16.018Z"
 }
