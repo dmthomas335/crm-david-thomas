@@ -18397,14 +18397,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jackatkinsonjr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal 706301 me cancelled\n",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:32:13.245Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:14:40.083Z"
+  "lastUpdated": "2026-10-07T12:14:58.250Z"
 }
