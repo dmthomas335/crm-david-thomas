@@ -27490,10 +27490,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-07",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-09-30",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:31:59.800Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:00:08.755Z"
+  "lastUpdated": "2026-10-07T12:00:35.474Z"
 }
