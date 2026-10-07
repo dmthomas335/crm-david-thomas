@@ -20309,14 +20309,14 @@
       "phone": "",
       "social": "https://www.facebook.com/iceberg.williams.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:10:08.701Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:15:34.157Z"
+  "lastUpdated": "2026-10-07T12:15:47.001Z"
 }
