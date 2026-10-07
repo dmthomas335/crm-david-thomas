@@ -28342,7 +28342,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:32:18.978Z"
+    },
+    {
+      "id": "muy137p7zhurffegocn",
+      "name": "Harold Kneightly",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:32:39.739Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:32:18.978Z"
+  "lastUpdated": "2026-10-07T11:32:39.739Z"
 }
