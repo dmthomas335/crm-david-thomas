@@ -23647,14 +23647,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100013790318066",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:15:05.060Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:15:47.001Z"
+  "lastUpdated": "2026-10-07T12:16:34.923Z"
 }
