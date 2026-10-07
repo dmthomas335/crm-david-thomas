@@ -8196,14 +8196,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18j3BpNAuj/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T10:46:17.406Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:50:07.225Z"
+  "lastUpdated": "2026-10-07T11:50:27.629Z"
 }
