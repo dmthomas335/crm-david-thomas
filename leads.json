@@ -13544,10 +13544,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-23",
-      "nextFollowUp": "2026-10-07",
-      "notes": "Personal 772123 Me",
-      "lastModified": "2026-09-23",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-14",
+      "notes": "Personal 772123 Me cancelled ",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T10:57:50.024Z",
       "customerSince": "2026-09-01"
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:44:44.260Z"
+  "lastUpdated": "2026-10-07T11:45:18.348Z"
 }
