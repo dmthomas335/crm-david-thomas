@@ -25322,14 +25322,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100058157904983",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "Personal  delete still trade? ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-10-07",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:12:56.265Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:51:12.822Z"
+  "lastUpdated": "2026-10-07T11:51:27.309Z"
 }
