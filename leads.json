@@ -28450,7 +28450,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:36:01.958Z"
+    },
+    {
+      "id": "muy182ik9j6mtrbk3kl",
+      "name": "Cathy Kiernan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cathy.kiernan",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:36:01.958Z"
+  "lastUpdated": "2026-10-07T11:36:26.300Z"
 }
