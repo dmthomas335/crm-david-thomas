@@ -28252,7 +28252,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:29:48.499Z"
+    },
+    {
+      "id": "muy10i9eiabbyeizw9",
+      "name": "Steve Adams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.adams.3572",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:30:33.458Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:29:48.499Z"
+  "lastUpdated": "2026-10-07T11:30:33.458Z"
 }
