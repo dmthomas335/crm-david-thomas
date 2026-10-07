@@ -28414,7 +28414,25 @@
       "lastModified": "2026-10-07",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:35:14.088Z"
+    },
+    {
+      "id": "muy1755m2z33n1id24c",
+      "name": "Freddie Banks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009852258768",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-07",
+      "nextFollowUp": "2026-10-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-07",
+      "dateAdded": "2026-10-07",
+      "addedAt": "2026-10-07T11:35:43.066Z"
     }
   ],
-  "lastUpdated": "2026-10-07T11:35:14.088Z"
+  "lastUpdated": "2026-10-07T11:35:43.066Z"
 }
