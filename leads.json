@@ -26546,14 +26546,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100014408681877",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:34:06.615Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:12:33.440Z"
+  "lastUpdated": "2026-10-08T11:12:38.727Z"
 }
