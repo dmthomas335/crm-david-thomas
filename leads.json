@@ -23954,14 +23954,14 @@
       "phone": "",
       "social": "https://www.facebook.com/evan.bragg.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-17",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:15:12.431Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T10:53:38.712Z"
+  "lastUpdated": "2026-10-08T10:54:08.902Z"
 }
