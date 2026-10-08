@@ -28720,7 +28720,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T09:55:31.062Z"
+    },
+    {
+      "id": "muzd2km49fw3c46d6a",
+      "name": "Michelle Briggs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michelle.johnson.14661",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T09:55:51.388Z"
     }
   ],
-  "lastUpdated": "2026-10-08T09:55:31.062Z"
+  "lastUpdated": "2026-10-08T09:55:51.388Z"
 }
