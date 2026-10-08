@@ -28558,7 +28558,25 @@
       "lastModified": "2026-10-08",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T09:49:52.908Z"
+    },
+    {
+      "id": "muzcx7nfqb38oqbbezs",
+      "name": "George Doyle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/george.doyle.568",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-08",
+      "dateAdded": "2026-10-08",
+      "addedAt": "2026-10-08T09:51:41.307Z"
     }
   ],
-  "lastUpdated": "2026-10-08T09:49:52.908Z"
+  "lastUpdated": "2026-10-08T09:51:41.307Z"
 }
