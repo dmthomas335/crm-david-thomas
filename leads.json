@@ -14658,14 +14658,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jesse.l.terry",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:09:36.144Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T10:49:09.638Z"
+  "lastUpdated": "2026-10-08T10:49:29.879Z"
 }
