@@ -17344,14 +17344,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stilian.pencev1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:11:04.320Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:09:16.351Z"
+  "lastUpdated": "2026-10-08T11:09:32.346Z"
 }
