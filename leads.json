@@ -230,13 +230,13 @@
       "phone": "",
       "social": "",
       "source": "Other",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "@carobiz TG sent biz pres",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-05-18",
       "videoSent": true
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:12:24.747Z"
+  "lastUpdated": "2026-10-08T11:12:33.440Z"
 }
