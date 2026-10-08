@@ -2997,13 +2997,13 @@
       "phone": "",
       "social": "https://www.facebook.com/SamBurnsDick",
       "source": "Facebook",
-      "status": "Watched",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "says joining june or july",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:22:43.836Z",
       "videoSent": false
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:10:20.134Z"
+  "lastUpdated": "2026-10-08T11:10:38.204Z"
 }
