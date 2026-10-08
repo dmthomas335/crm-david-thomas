@@ -28200,24 +28200,6 @@
       "addedAt": "2026-10-06T10:19:32.784Z"
     },
     {
-      "id": "muy0yfaxp4h0ptrfbwi",
-      "name": "Ron Ruban",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-11",
-      "notes": "",
-      "lastModified": "2026-10-07",
-      "dateAdded": "2026-10-07",
-      "addedAt": "2026-10-07T11:28:56.313Z"
-    },
-    {
       "id": "muy0z9u8yzu00q1upf",
       "name": "Monie Yamat",
       "email": "",
@@ -28758,5 +28740,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T09:56:13.212Z"
+  "lastUpdated": "2026-10-08T09:56:31.357Z"
 }
