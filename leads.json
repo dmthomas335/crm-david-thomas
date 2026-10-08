@@ -24926,14 +24926,14 @@
       "phone": "",
       "social": "https://www.facebook.com/roger.swaim",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-15",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:28:28.575Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T10:58:39.972Z"
+  "lastUpdated": "2026-10-08T11:00:57.853Z"
 }
