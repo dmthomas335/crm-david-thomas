@@ -5594,13 +5594,13 @@
       "social": "https://www.facebook.com/lee.cotten.5",
       "source": "Facebook",
       "status": "Nurture",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-14",
-      "notes": "personal delete ",
-      "lastModified": "2026-10-07",
+      "lastContact": "2026-10-08",
+      "nextFollowUp": "2026-10-22",
+      "notes": "personal ",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:32:22.305Z"
     },
@@ -28470,5 +28470,5 @@
       "addedAt": "2026-10-07T11:36:26.300Z"
     }
   ],
-  "lastUpdated": "2026-10-07T12:17:19.988Z"
+  "lastUpdated": "2026-10-08T09:47:05.402Z"
 }
