@@ -18939,14 +18939,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brian.b.wells.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-15",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:24:19.189Z"
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:11:15.535Z"
+  "lastUpdated": "2026-10-08T11:11:58.641Z"
 }
