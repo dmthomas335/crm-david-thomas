@@ -844,13 +844,13 @@
       "phone": "",
       "social": "https://www.facebook.com/lotuskoiservicesllc",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-08",
+      "nextFollowUp": null,
       "notes": "sent biz vid / personal",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-10-08",
       "dateAdded": "2026-05-19",
       "videoSent": true
     },
@@ -28686,5 +28686,5 @@
       "addedAt": "2026-10-08T09:56:13.212Z"
     }
   ],
-  "lastUpdated": "2026-10-08T11:10:06.830Z"
+  "lastUpdated": "2026-10-08T11:10:20.134Z"
 }
