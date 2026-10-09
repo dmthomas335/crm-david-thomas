@@ -26384,14 +26384,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19kdD2uCJs/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-06",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-09-23",
       "addedAt": "2026-09-23T10:49:40.300Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:03:26.010Z"
+  "lastUpdated": "2026-10-09T10:03:33.444Z"
 }
