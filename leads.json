@@ -22890,14 +22890,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lussion.griggs",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:13:29.526Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:03:13.504Z"
+  "lastUpdated": "2026-10-09T10:03:20.138Z"
 }
