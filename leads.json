@@ -28918,7 +28918,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:28:06.271Z"
+    },
+    {
+      "id": "mv0rjqsp90bnwcphtd",
+      "name": "Kon Kipo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kon.kippo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:28:53.353Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:28:06.271Z"
+  "lastUpdated": "2026-10-09T09:28:53.353Z"
 }
