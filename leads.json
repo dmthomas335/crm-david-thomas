@@ -25862,14 +25862,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dariet.wallace",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:43:17.314Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:02:55.014Z"
+  "lastUpdated": "2026-10-09T10:03:01.640Z"
 }
