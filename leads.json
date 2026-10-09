@@ -20057,14 +20057,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charles.fiasco",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:37:56.129Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:04:32.071Z"
+  "lastUpdated": "2026-10-09T10:04:38.368Z"
 }
