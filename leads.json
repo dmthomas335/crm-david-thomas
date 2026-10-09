@@ -28882,7 +28882,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:27:45.590Z"
+    },
+    {
+      "id": "mv0riil2ica95ja66ga",
+      "name": "Matt Denard",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-16",
+      "notes": "",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:27:56.054Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:27:45.590Z"
+  "lastUpdated": "2026-10-09T09:27:56.054Z"
 }
