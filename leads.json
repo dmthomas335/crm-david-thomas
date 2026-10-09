@@ -20021,14 +20021,14 @@
       "phone": "",
       "social": "https://www.facebook.com/krishma.patel.x",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:24:49.508Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:00:16.000Z"
+  "lastUpdated": "2026-10-09T10:02:32.960Z"
 }
