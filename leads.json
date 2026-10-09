@@ -26855,14 +26855,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mayharo",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "563777 casmer ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-10-09",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:51:16.031Z"
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:59:03.933Z"
+  "lastUpdated": "2026-10-09T09:59:34.494Z"
 }
