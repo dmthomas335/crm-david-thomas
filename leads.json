@@ -28846,7 +28846,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:27:04.712Z"
+    },
+    {
+      "id": "mv0rhz9pco9kci5wyeg",
+      "name": "Paul Orlando",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.orlando.917778",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-27",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:27:31.021Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:27:04.712Z"
+  "lastUpdated": "2026-10-09T09:27:31.021Z"
 }
