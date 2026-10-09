@@ -28774,7 +28774,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:25:05.102Z"
+    },
+    {
+      "id": "mv0rfe1bm3isj71qry",
+      "name": "Michael Etheridge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.etheridge.560",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:25:30.191Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:25:05.102Z"
+  "lastUpdated": "2026-10-09T09:25:30.191Z"
 }
