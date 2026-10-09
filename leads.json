@@ -14405,14 +14405,14 @@
       "phone": "",
       "social": "https://www.facebook.com/claudia.long.54",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T11:40:44.319Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:09:59.562Z"
+  "lastUpdated": "2026-10-09T10:10:05.978Z"
 }
