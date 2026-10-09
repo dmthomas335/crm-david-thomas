@@ -17398,14 +17398,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1FRHBsLKgx/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:24:51.710Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:02:32.960Z"
+  "lastUpdated": "2026-10-09T10:02:40.474Z"
 }
