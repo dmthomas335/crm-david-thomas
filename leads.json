@@ -22440,14 +22440,14 @@
       "phone": "",
       "social": "https://www.facebook.com/leo.cobb.547",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:15:10.988Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:03:07.648Z"
+  "lastUpdated": "2026-10-09T10:03:13.504Z"
 }
