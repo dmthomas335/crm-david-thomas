@@ -28828,7 +28828,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:26:32.033Z"
+    },
+    {
+      "id": "mv0rheywdpfq2d4mkuf",
+      "name": "Paul Hurst",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:27:04.712Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:26:32.033Z"
+  "lastUpdated": "2026-10-09T09:27:04.712Z"
 }
