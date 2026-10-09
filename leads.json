@@ -28720,7 +28720,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:23:57.643Z"
+    },
+    {
+      "id": "mv0rdz2yz6dfbxbyw6j",
+      "name": "Tyler Sorensen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tylersorensen4",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:24:24.154Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:23:57.643Z"
+  "lastUpdated": "2026-10-09T09:24:24.155Z"
 }
