@@ -17146,14 +17146,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1LrWeFKVG8/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-07-31T08:15:29.652Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:59:34.494Z"
+  "lastUpdated": "2026-10-09T10:00:16.000Z"
 }
