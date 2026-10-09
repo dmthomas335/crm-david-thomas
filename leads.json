@@ -28702,7 +28702,25 @@
       "lastModified": "2026-10-09",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:23:24.068Z"
+    },
+    {
+      "id": "mv0rdemjoaz9n3lnpaj",
+      "name": "Derek Price",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/delaiahband",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-09",
+      "dateAdded": "2026-10-09",
+      "addedAt": "2026-10-09T09:23:57.643Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:23:24.068Z"
+  "lastUpdated": "2026-10-09T09:23:57.643Z"
 }
