@@ -21985,14 +21985,14 @@
       "phone": "",
       "social": "https://www.facebook.com/wasif.mumtaz.121",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T12:11:24.268Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:03:01.640Z"
+  "lastUpdated": "2026-10-09T10:03:07.648Z"
 }
