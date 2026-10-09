@@ -13471,10 +13471,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-09",
-      "notes": "Me 760625 Personal cancelled ",
-      "lastModified": "2026-10-05",
+      "lastContact": "2026-10-09",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Me 760625 Personal cancelled delete ",
+      "lastModified": "2026-10-09",
       "customerSince": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T10:46:18.466Z"
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T09:57:11.317Z"
+  "lastUpdated": "2026-10-09T09:58:40.695Z"
 }
