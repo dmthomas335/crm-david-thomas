@@ -22258,14 +22258,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carvella.campbell.14",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-09",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:19:16.153Z"
     },
@@ -28956,5 +28956,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-09T10:02:48.630Z"
+  "lastUpdated": "2026-10-09T10:02:55.014Z"
 }
