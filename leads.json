@@ -28740,24 +28740,6 @@
       "addedAt": "2026-10-09T09:24:24.154Z"
     },
     {
-      "id": "mv0reaar32v5q3yx1wd",
-      "name": "Cindy Proctor",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-13",
-      "notes": "",
-      "lastModified": "2026-10-09",
-      "dateAdded": "2026-10-09",
-      "addedAt": "2026-10-09T09:24:38.691Z"
-    },
-    {
       "id": "mv0reuoe1llhynsrjgo",
       "name": "Mitchell Naidu",
       "email": "",
@@ -28884,5 +28866,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-10T10:29:02.412Z"
+  "lastUpdated": "2026-10-10T10:29:08.035Z"
 }
