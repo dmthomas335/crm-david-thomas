@@ -28830,24 +28830,6 @@
       "addedAt": "2026-10-09T09:26:32.033Z"
     },
     {
-      "id": "mv0rheywdpfq2d4mkuf",
-      "name": "Paul Hurst",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-26",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-09",
-      "dateAdded": "2026-10-09",
-      "addedAt": "2026-10-09T09:27:04.712Z"
-    },
-    {
       "id": "mv0rhz9pco9kci5wyeg",
       "name": "Paul Orlando",
       "email": "",
@@ -28902,5 +28884,5 @@
       "addedAt": "2026-10-09T09:29:27.392Z"
     }
   ],
-  "lastUpdated": "2026-10-10T10:28:57.158Z"
+  "lastUpdated": "2026-10-10T10:29:02.412Z"
 }
