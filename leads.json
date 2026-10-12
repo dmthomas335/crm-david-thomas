@@ -27648,14 +27648,14 @@
       "phone": "",
       "social": "https://www.facebook.com/trevor.wedgeworth.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:47:22.127Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:59:51.667Z"
+  "lastUpdated": "2026-10-12T11:59:59.421Z"
 }
