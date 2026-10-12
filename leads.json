@@ -25286,14 +25286,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14uZMxdoQm9/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:12:09.337Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:46:54.457Z"
+  "lastUpdated": "2026-10-12T11:47:43.825Z"
 }
