@@ -21589,14 +21589,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tony.hatcher.355",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:14:08.328Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:46:32.873Z"
+  "lastUpdated": "2026-10-12T11:46:49.476Z"
 }
