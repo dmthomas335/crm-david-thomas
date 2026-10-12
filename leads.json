@@ -1367,13 +1367,13 @@
       "phone": "",
       "social": "https://www.facebook.com/girldatssammy",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "personal joined as 2WT Ashley 536221 Kendall Matthews",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:45:17.711Z",
       "videoSent": true,
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:43:07.583Z"
+  "lastUpdated": "2026-10-12T11:43:17.006Z"
 }
