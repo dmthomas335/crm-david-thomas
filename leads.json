@@ -23936,14 +23936,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=1262476046",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "David T Page ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:12:43.056Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:43:42.994Z"
+  "lastUpdated": "2026-10-12T11:44:14.431Z"
 }
