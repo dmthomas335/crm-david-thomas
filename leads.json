@@ -18740,14 +18740,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sandra.nyire",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:24:40.795Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:45:59.001Z"
+  "lastUpdated": "2026-10-12T11:46:32.873Z"
 }
