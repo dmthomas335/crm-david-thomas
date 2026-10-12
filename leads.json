@@ -29080,7 +29080,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:36:11.282Z"
+    },
+    {
+      "id": "mv56fjckxqb346akg4c",
+      "name": "Erick Dockery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.d.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T11:36:36.020Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:36:11.282Z"
+  "lastUpdated": "2026-10-12T11:36:36.020Z"
 }
