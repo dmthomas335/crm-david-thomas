@@ -29098,7 +29098,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:36:36.020Z"
+    },
+    {
+      "id": "mv56fzhn34ejffttrg6",
+      "name": "Dave Goodall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dave.goodall.5811",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-11-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:36:36.020Z"
+  "lastUpdated": "2026-10-12T11:36:56.939Z"
 }
