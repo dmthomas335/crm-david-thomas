@@ -29008,7 +29008,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:33:46.038Z"
+    },
+    {
+      "id": "mv56d30cjape1466w6s",
+      "name": "Paul Lopes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.lopes.5264",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-12",
+      "notes": "David T Page ",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T11:34:41.532Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:33:46.038Z"
+  "lastUpdated": "2026-10-12T11:34:41.532Z"
 }
