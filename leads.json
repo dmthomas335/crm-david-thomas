@@ -17999,10 +17999,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-10-12",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-11-11",
       "notes": "Personal Me 766170 cancelled",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-10-12",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T11:03:22.352Z"
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:43:00.045Z"
+  "lastUpdated": "2026-10-12T11:43:07.583Z"
 }
