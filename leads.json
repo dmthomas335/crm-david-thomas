@@ -28954,7 +28954,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:32:24.541Z"
+    },
+    {
+      "id": "mv56b473fnkxmjcd96",
+      "name": "John Pye",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100002294003742",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T11:33:09.759Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:32:24.541Z"
+  "lastUpdated": "2026-10-12T11:33:09.759Z"
 }
