@@ -18014,14 +18014,14 @@
       "phone": "",
       "social": "https://www.facebook.com/george.siaperas.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-12",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-08-06",
       "addedAt": "2026-08-06T12:11:47.775Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:46:49.476Z"
+  "lastUpdated": "2026-10-12T11:46:54.457Z"
 }
