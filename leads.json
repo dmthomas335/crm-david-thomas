@@ -27796,10 +27796,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-10-12",
-      "notes": "Personal ",
-      "lastModified": "2026-10-05",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-10-12",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:35:38.316Z"
     },
@@ -29118,5 +29118,5 @@
       "addedAt": "2026-10-12T11:36:56.939Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:59:59.421Z"
+  "lastUpdated": "2026-10-12T12:01:21.969Z"
 }
