@@ -29062,7 +29062,25 @@
       "lastModified": "2026-10-12",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:35:41.645Z"
+    },
+    {
+      "id": "mv56f09evcn8ywh42gj",
+      "name": "Chris Beattie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.beattie.1650",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-12",
+      "nextFollowUp": "2026-10-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-12",
+      "dateAdded": "2026-10-12",
+      "addedAt": "2026-10-12T11:36:11.282Z"
     }
   ],
-  "lastUpdated": "2026-10-12T11:35:41.645Z"
+  "lastUpdated": "2026-10-12T11:36:11.282Z"
 }
