@@ -28902,24 +28902,6 @@
       "addedAt": "2026-10-12T11:30:56.392Z"
     },
     {
-      "id": "mv568j9112v5uxtvrf6",
-      "name": "Jona Friend",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-17",
-      "notes": "",
-      "lastModified": "2026-10-12",
-      "dateAdded": "2026-10-12",
-      "addedAt": "2026-10-12T11:31:09.301Z"
-    },
-    {
       "id": "mv5697nkb18x7jz8sw6",
       "name": "Haupuru Makiri",
       "email": "",
@@ -29334,5 +29316,5 @@
       "addedAt": "2026-10-13T11:18:45.982Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:19:07.394Z"
+  "lastUpdated": "2026-10-13T11:19:12.992Z"
 }
