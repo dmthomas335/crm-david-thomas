@@ -28992,24 +28992,6 @@
       "addedAt": "2026-10-12T11:33:37.208Z"
     },
     {
-      "id": "mv56bw6ul4qy4p3tmug",
-      "name": "Kim Thomas",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-16",
-      "notes": "",
-      "lastModified": "2026-10-12",
-      "dateAdded": "2026-10-12",
-      "addedAt": "2026-10-12T11:33:46.038Z"
-    },
-    {
       "id": "mv56d30cjape1466w6s",
       "name": "Paul Lopes",
       "email": "",
@@ -29352,5 +29334,5 @@
       "addedAt": "2026-10-13T11:18:45.982Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:19:02.218Z"
+  "lastUpdated": "2026-10-13T11:19:07.394Z"
 }
