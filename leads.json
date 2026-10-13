@@ -21374,14 +21374,14 @@
       "phone": "",
       "social": "https://www.facebook.com/JASONMAYHEW1978",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-10-13",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:49:10.182Z"
     },
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:45:11.672Z"
+  "lastUpdated": "2026-10-13T11:45:26.198Z"
 }
