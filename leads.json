@@ -29350,7 +29350,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:18:23.842Z"
+    },
+    {
+      "id": "mv6l8gdar6or01hpij",
+      "name": "Anthony Oyabal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nota.oyabal",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": null,
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T11:18:45.982Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:18:23.842Z"
+  "lastUpdated": "2026-10-13T11:18:45.982Z"
 }
