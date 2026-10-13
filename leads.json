@@ -29314,7 +29314,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:17:36.703Z"
+    },
+    {
+      "id": "mv6l7g7ajg5r75b5nn",
+      "name": "Claire Hong",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/claire.hong.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T11:17:59.110Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:17:36.703Z"
+  "lastUpdated": "2026-10-13T11:17:59.110Z"
 }
