@@ -7945,10 +7945,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-10-13",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": "2026-10-27",
       "notes": "Personal joined as 2WT BB",
-      "lastModified": "2026-09-27",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:49:44.166Z",
       "customerSince": "2026-09-27"
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:25:15.497Z"
+  "lastUpdated": "2026-10-13T11:27:47.298Z"
 }
