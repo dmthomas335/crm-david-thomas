@@ -21266,12 +21266,12 @@
       "phone": "",
       "social": "https://www.facebook.com/craig.thomas.16718",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-24",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-12-07",
       "notes": "Personal ",
       "lastModified": "2026-10-13",
       "dateAdded": "2026-08-24",
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:39:59.884Z"
+  "lastUpdated": "2026-10-13T11:40:27.197Z"
 }
