@@ -29278,7 +29278,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:16:42.428Z"
+    },
+    {
+      "id": "mv6l67e788qxhf9ugkc",
+      "name": "Chris Ellis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.ellis.75491",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T11:17:01.039Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:16:42.428Z"
+  "lastUpdated": "2026-10-13T11:17:01.039Z"
 }
