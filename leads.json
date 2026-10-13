@@ -29332,7 +29332,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:17:59.110Z"
+    },
+    {
+      "id": "mv6l7zaal3bqgtlfor",
+      "name": "Joe Deertay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DirtyJoeDeertay",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T11:18:23.842Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:17:59.110Z"
+  "lastUpdated": "2026-10-13T11:18:23.842Z"
 }
