@@ -29046,24 +29046,6 @@
       "addedAt": "2026-10-12T11:35:25.546Z"
     },
     {
-      "id": "mv56ede5lgf8ctdpem",
-      "name": "Kim Keadle",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-17",
-      "notes": "",
-      "lastModified": "2026-10-12",
-      "dateAdded": "2026-10-12",
-      "addedAt": "2026-10-12T11:35:41.645Z"
-    },
-    {
       "id": "mv56f09evcn8ywh42gj",
       "name": "Chris Beattie",
       "email": "",
@@ -29370,5 +29352,5 @@
       "addedAt": "2026-10-13T11:18:45.982Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:18:45.982Z"
+  "lastUpdated": "2026-10-13T11:19:02.218Z"
 }
