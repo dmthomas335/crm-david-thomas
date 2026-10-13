@@ -26727,14 +26727,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=1245184852",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-13",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-09-24",
       "addedAt": "2026-09-24T11:39:57.853Z"
     },
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:41:44.144Z"
+  "lastUpdated": "2026-10-13T11:42:19.216Z"
 }
