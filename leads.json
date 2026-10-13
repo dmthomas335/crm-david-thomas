@@ -29152,7 +29152,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:11:45.741Z"
+    },
+    {
+      "id": "mv6l0bxnj54qpdb6d1g",
+      "name": "Scott McCrindle",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.mccrindle.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-13",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-13",
+      "dateAdded": "2026-10-13",
+      "addedAt": "2026-10-13T11:12:26.987Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:11:45.741Z"
+  "lastUpdated": "2026-10-13T11:12:26.987Z"
 }
