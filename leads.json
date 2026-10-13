@@ -27325,14 +27325,14 @@
       "phone": "",
       "social": "https://www.facebook.com/iammikegamble",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-13",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:04:51.723Z"
     },
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:42:55.592Z"
+  "lastUpdated": "2026-10-13T11:43:24.993Z"
 }
