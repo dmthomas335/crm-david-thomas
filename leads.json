@@ -21266,14 +21266,14 @@
       "phone": "",
       "social": "https://www.facebook.com/craig.thomas.16718",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-10-13",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-08-24",
+      "nextFollowUp": null,
+      "notes": "Personal ",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:40:51.749Z"
     },
@@ -29317,5 +29317,5 @@
       "addedAt": "2026-10-13T11:19:45.156Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:38:42.233Z"
+  "lastUpdated": "2026-10-13T11:39:59.884Z"
 }
