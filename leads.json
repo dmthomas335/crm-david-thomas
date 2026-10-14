@@ -20094,14 +20094,14 @@
       "phone": "",
       "social": "https://www.facebook.com/zhivko.asenov.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:39:00.778Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:39:20.741Z"
+  "lastUpdated": "2026-10-14T11:39:53.440Z"
 }
