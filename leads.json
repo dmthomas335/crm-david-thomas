@@ -29227,24 +29227,6 @@
       "addedAt": "2026-10-13T11:17:01.039Z"
     },
     {
-      "id": "mv6l6ywvd163a2pl6cv",
-      "name": "Morris Djswing Allen",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-11-02",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-13",
-      "dateAdded": "2026-10-13",
-      "addedAt": "2026-10-13T11:17:36.703Z"
-    },
-    {
       "id": "mv6l7g7ajg5r75b5nn",
       "name": "Claire Hong",
       "email": "",
@@ -29551,5 +29533,5 @@
       "addedAt": "2026-10-14T11:30:53.145Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:30:53.145Z"
+  "lastUpdated": "2026-10-14T11:31:01.091Z"
 }
