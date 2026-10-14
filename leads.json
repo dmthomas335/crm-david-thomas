@@ -589,13 +589,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jeff.turner.125",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "personal delete ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:39:59.623Z"
+  "lastUpdated": "2026-10-14T11:40:18.615Z"
 }
