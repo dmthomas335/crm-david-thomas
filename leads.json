@@ -18542,14 +18542,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sean.siatan",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:17:05.177Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:37:08.271Z"
+  "lastUpdated": "2026-10-14T11:38:59.107Z"
 }
