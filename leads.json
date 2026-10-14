@@ -29531,7 +29531,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:30:53.145Z"
+    },
+    {
+      "id": "mv815i51zh32sk7dvvo",
+      "name": "Leonid Khod",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leonid.kho",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:32:08.341Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:31:01.091Z"
+  "lastUpdated": "2026-10-14T11:32:08.341Z"
 }
