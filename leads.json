@@ -15001,14 +15001,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1HYEfwJt1o/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:51:45.353Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:40:18.615Z"
+  "lastUpdated": "2026-10-14T11:40:39.701Z"
 }
