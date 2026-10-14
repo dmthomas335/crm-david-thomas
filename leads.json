@@ -29513,7 +29513,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:30:07.665Z"
+    },
+    {
+      "id": "mv813e3vl7ko44pyyx",
+      "name": "Williams Dickson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dickson.williams1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:30:29.803Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:30:07.665Z"
+  "lastUpdated": "2026-10-14T11:30:29.803Z"
 }
