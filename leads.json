@@ -195,13 +195,13 @@
       "phone": "",
       "social": "",
       "source": "Other",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "@jenjuling TG Said not interested",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-05-18",
       "videoSent": false
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:47:44.399Z"
+  "lastUpdated": "2026-10-14T11:47:53.981Z"
 }
