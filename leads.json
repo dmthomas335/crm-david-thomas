@@ -23234,14 +23234,14 @@
       "phone": "",
       "social": "https://www.facebook.com/slee02",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-03",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-03",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:28:03.885Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:44:00.121Z"
+  "lastUpdated": "2026-10-14T11:44:08.580Z"
 }
