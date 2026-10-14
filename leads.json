@@ -29333,7 +29333,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T07:08:46.042Z"
+    },
+    {
+      "id": "mv80yf3pjy3ge97kwxm",
+      "name": "Adam Smith",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AdamSmithhhhhhh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-11-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:26:37.813Z"
     }
   ],
-  "lastUpdated": "2026-10-14T07:08:46.043Z"
+  "lastUpdated": "2026-10-14T11:26:37.814Z"
 }
