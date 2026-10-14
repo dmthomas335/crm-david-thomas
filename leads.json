@@ -29315,7 +29315,25 @@
       "lastModified": "2026-10-13",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:19:45.156Z"
+    },
+    {
+      "id": "mv7rqt0a45a0p2tlxug",
+      "name": "Shane Rudy ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1DLe7xi4BL/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T07:08:46.042Z"
     }
   ],
-  "lastUpdated": "2026-10-13T11:47:11.107Z"
+  "lastUpdated": "2026-10-14T07:08:46.043Z"
 }
