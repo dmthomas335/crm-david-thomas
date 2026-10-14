@@ -16989,9 +16989,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-14",
-      "notes": "Personal delete ",
-      "lastModified": "2026-09-30",
+      "nextFollowUp": "2026-12-17",
+      "notes": "Personal merry chrsitmas",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-07-30",
       "addedAt": "2026-07-30T11:31:37.802Z"
     },
@@ -18547,7 +18547,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-10-14",
       "notes": "Personal delete ",
       "lastModified": "2026-10-14",
       "dateAdded": "2026-08-10",
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:38:59.107Z"
+  "lastUpdated": "2026-10-14T11:39:20.741Z"
 }
