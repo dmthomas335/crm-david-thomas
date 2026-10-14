@@ -3231,13 +3231,13 @@
       "phone": "",
       "social": "https://www.facebook.com/snhojekim",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-15",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:12:05.841Z",
       "videoSent": false
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:48:07.111Z"
+  "lastUpdated": "2026-10-14T11:48:12.952Z"
 }
