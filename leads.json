@@ -29351,7 +29351,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:26:37.813Z"
+    },
+    {
+      "id": "mv80yv9azc8lrq5xrw",
+      "name": "Dean Wallington",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:26:58.750Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:26:37.814Z"
+  "lastUpdated": "2026-10-14T11:26:58.750Z"
 }
