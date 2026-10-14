@@ -29405,7 +29405,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:27:36.707Z"
+    },
+    {
+      "id": "mv8107ldbqskhcrlgvl",
+      "name": "Eddie Garza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eddie.garza.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-10-22",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:28:01.393Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:27:36.707Z"
+  "lastUpdated": "2026-10-14T11:28:01.393Z"
 }
