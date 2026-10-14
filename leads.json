@@ -14316,14 +14316,14 @@
       "phone": "",
       "social": "https://www.facebook.com/TheXfaktor",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:18:34.762Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:47:53.981Z"
+  "lastUpdated": "2026-10-14T11:48:00.671Z"
 }
