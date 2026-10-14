@@ -25359,14 +25359,14 @@
       "phone": "",
       "social": "https://www.facebook.com/pascal.latulippe.98",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-26",
+      "lastModified": "2026-10-14",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:14:28.586Z"
     },
@@ -29569,5 +29569,5 @@
       "addedAt": "2026-10-14T11:32:27.929Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:43:02.855Z"
+  "lastUpdated": "2026-10-14T11:43:53.703Z"
 }
