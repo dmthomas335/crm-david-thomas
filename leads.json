@@ -29369,7 +29369,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:26:58.750Z"
+    },
+    {
+      "id": "mv80zb7q3s92lzup1ft",
+      "name": "Barry Grove",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/barry.grove.503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-10-21",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:27:19.430Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:26:58.750Z"
+  "lastUpdated": "2026-10-14T11:27:19.430Z"
 }
