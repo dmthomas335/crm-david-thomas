@@ -29495,7 +29495,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:29:57.000Z"
+    },
+    {
+      "id": "mv812x0x2uhy7qk5221",
+      "name": "Ernest Eyo",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-14",
+      "nextFollowUp": "2026-10-18",
+      "notes": "",
+      "lastModified": "2026-10-14",
+      "dateAdded": "2026-10-14",
+      "addedAt": "2026-10-14T11:30:07.665Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:29:57.000Z"
+  "lastUpdated": "2026-10-14T11:30:07.665Z"
 }
