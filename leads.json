@@ -29730,7 +29730,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:35:29.984Z"
+    },
+    {
+      "id": "mv9cfkuxc4i9z3qf4c",
+      "name": "Carlos Turner Jr",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:35:40.377Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:35:29.984Z"
+  "lastUpdated": "2026-10-15T09:35:40.377Z"
 }
