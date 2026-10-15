@@ -13428,20 +13428,21 @@
     {
       "id": "mraosm5suq28fhlf9s",
       "name": "Hrafnkell Elisson",
-      "email": "",
+      "email": "Hrafnkellelisson@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/hrafnkell.elisson",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Customer",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Nurture",
-      "lastContact": "2026-09-02",
-      "nextFollowUp": "2026-10-20",
-      "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastAction": "Closed",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal 781681 Me",
+      "lastModified": "2026-10-15",
       "dateAdded": "2026-07-07",
-      "addedAt": "2026-07-07T13:30:40.816Z"
+      "addedAt": "2026-07-07T13:30:40.816Z",
+      "customerSince": "2026-10-15"
     },
     {
       "id": "mrbqxqc2r2ei4mql8a8",
@@ -29587,5 +29588,5 @@
       "addedAt": "2026-10-15T09:20:26.442Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:24:20.784Z"
+  "lastUpdated": "2026-10-15T09:26:22.055Z"
 }
