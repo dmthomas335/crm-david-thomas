@@ -29676,7 +29676,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:32:03.122Z"
+    },
+    {
+      "id": "mv9cbdongu31tchncuv",
+      "name": "Harold Harris",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/haroldharris57",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:32:24.455Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:32:03.122Z"
+  "lastUpdated": "2026-10-15T09:32:24.455Z"
 }
