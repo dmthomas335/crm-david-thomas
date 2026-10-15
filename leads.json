@@ -29640,7 +29640,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:27:50.509Z"
+    },
+    {
+      "id": "mv9caetokvm7tu2zmjb",
+      "name": "Dan Kirby",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mrdankirby",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:31:39.276Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:27:50.509Z"
+  "lastUpdated": "2026-10-15T09:31:39.276Z"
 }
