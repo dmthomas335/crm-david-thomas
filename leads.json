@@ -29676,7 +29676,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:34:11.705Z"
+    },
+    {
+      "id": "mv9ce7ehenq2n1fyswt",
+      "name": "Anderson Ngulube",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anderson.ngulube.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-11-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:34:36.281Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:34:11.705Z"
+  "lastUpdated": "2026-10-15T09:34:36.281Z"
 }
