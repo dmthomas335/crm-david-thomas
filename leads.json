@@ -29567,7 +29567,25 @@
       "lastModified": "2026-10-14",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:32:27.929Z"
+    },
+    {
+      "id": "mv9bvznui78wieaqjcb",
+      "name": "Samantha Tutalo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samantha.tutalo",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-10-16",
+      "notes": "Personal ",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:20:26.442Z"
     }
   ],
-  "lastUpdated": "2026-10-14T11:49:14.209Z"
+  "lastUpdated": "2026-10-15T09:20:26.443Z"
 }
