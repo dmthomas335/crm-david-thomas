@@ -29604,7 +29604,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:27:03.943Z"
+    },
+    {
+      "id": "mv9c4z810l6n2t8ux2ho",
+      "name": "Moha Maclin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mahamed.dauud",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-15",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-15",
+      "dateAdded": "2026-10-15",
+      "addedAt": "2026-10-15T09:27:25.777Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:27:03.943Z"
+  "lastUpdated": "2026-10-15T09:27:25.777Z"
 }
