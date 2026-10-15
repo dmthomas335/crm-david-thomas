@@ -29462,24 +29462,6 @@
       "addedAt": "2026-10-14T11:30:29.803Z"
     },
     {
-      "id": "mv813w49gicgr49c1oo",
-      "name": "Joshua Inacio",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-14",
-      "nextFollowUp": "2026-10-18",
-      "notes": "",
-      "lastModified": "2026-10-14",
-      "dateAdded": "2026-10-14",
-      "addedAt": "2026-10-14T11:30:53.145Z"
-    },
-    {
       "id": "mv815i51zh32sk7dvvo",
       "name": "Leonid Khod",
       "email": "",
@@ -29660,5 +29642,5 @@
       "addedAt": "2026-10-15T09:32:37.169Z"
     }
   ],
-  "lastUpdated": "2026-10-15T09:33:08.588Z"
+  "lastUpdated": "2026-10-15T09:33:13.884Z"
 }
