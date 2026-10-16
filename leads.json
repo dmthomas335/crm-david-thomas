@@ -29910,7 +29910,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:54:08.862Z"
+    },
+    {
+      "id": "mvasjhwmwizx4hnz0ej",
+      "name": "John Maldonado",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-20",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:54:23.206Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:54:08.862Z"
+  "lastUpdated": "2026-10-16T09:54:23.206Z"
 }
