@@ -26134,14 +26134,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kevin.dawson.906",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": null,
       "notes": "Birthday still trade? ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:26:46.474Z"
     },
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:33:15.034Z"
+  "lastUpdated": "2026-10-16T10:33:34.717Z"
 }
