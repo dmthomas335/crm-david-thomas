@@ -29964,7 +29964,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:55:10.579Z"
+    },
+    {
+      "id": "mvasl1bxupbrqolfz58",
+      "name": "Kevin Ratcliff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/RatcliffATL",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-12-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:55:35.037Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:55:10.580Z"
+  "lastUpdated": "2026-10-16T09:55:35.037Z"
 }
