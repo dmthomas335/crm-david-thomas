@@ -29874,7 +29874,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:53:15.212Z"
+    },
+    {
+      "id": "mvasil05nimemtm1tps",
+      "name": "Deepak Sharma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/d8437756000",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:53:40.565Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:53:15.212Z"
+  "lastUpdated": "2026-10-16T09:53:40.565Z"
 }
