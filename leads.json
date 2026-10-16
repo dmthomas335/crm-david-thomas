@@ -24280,14 +24280,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jordan.murray.7737",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:26:33.215Z"
     },
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:35:16.562Z"
+  "lastUpdated": "2026-10-16T10:35:22.730Z"
 }
