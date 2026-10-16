@@ -19500,14 +19500,14 @@
       "phone": "",
       "social": "https://www.facebook.com/christopher.bush.792",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:58:39.890Z"
     },
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:21:20.732Z"
+  "lastUpdated": "2026-10-16T10:21:45.320Z"
 }
