@@ -29856,7 +29856,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:52:44.483Z"
+    },
+    {
+      "id": "mvasi1fwd1jke7d5lnc",
+      "name": "Matthew Gschmeidler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matthew.gschmeidler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:53:15.212Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:52:44.483Z"
+  "lastUpdated": "2026-10-16T09:53:15.212Z"
 }
