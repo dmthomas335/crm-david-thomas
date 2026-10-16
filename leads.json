@@ -29928,7 +29928,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:54:23.206Z"
+    },
+    {
+      "id": "mvasjsgkh6t6l8s4ku9",
+      "name": "Rebecca Grant",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-19",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:54:36.884Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:54:23.206Z"
+  "lastUpdated": "2026-10-16T09:54:36.884Z"
 }
