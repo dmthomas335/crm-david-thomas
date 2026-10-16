@@ -29982,7 +29982,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:55:35.037Z"
+    },
+    {
+      "id": "mvaslaj2weas0y0kz3",
+      "name": "Jill Spoelma",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-21",
+      "notes": "",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:55:46.958Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:55:35.037Z"
+  "lastUpdated": "2026-10-16T09:55:46.958Z"
 }
