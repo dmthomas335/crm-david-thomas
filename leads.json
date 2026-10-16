@@ -30018,7 +30018,25 @@
       "lastModified": "2026-10-16",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:56:29.048Z"
+    },
+    {
+      "id": "mvasmmaww074l0152c",
+      "name": "Rodrigo Salgado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rodrigo.salgado.503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:56:29.048Z"
+  "lastUpdated": "2026-10-16T09:56:48.872Z"
 }
