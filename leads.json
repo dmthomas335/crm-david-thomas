@@ -20455,14 +20455,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.armit.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:13:32.383Z"
     },
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:32:18.496Z"
+  "lastUpdated": "2026-10-16T10:32:23.142Z"
 }
