@@ -25216,14 +25216,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61581335042857",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-10-16",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T12:20:25.537Z"
     },
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:35:04.198Z"
+  "lastUpdated": "2026-10-16T10:35:16.562Z"
 }
