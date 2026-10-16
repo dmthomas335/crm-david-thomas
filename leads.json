@@ -26823,10 +26823,10 @@
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-16",
-      "notes": "665760 casmer cancelled Personal ",
-      "lastModified": "2026-10-02",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-11-17",
+      "notes": "665760 casmer Personal check sub",
+      "lastModified": "2026-10-16",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:45:37.874Z"
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:17:40.561Z"
+  "lastUpdated": "2026-10-16T10:18:41.724Z"
 }
