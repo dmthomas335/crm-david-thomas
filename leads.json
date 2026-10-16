@@ -19936,10 +19936,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-16",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
       "notes": "Personal joined as 2WT 555474 Stacy ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-10-16",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T07:13:51.455Z",
       "customerSince": "2026-09-01"
@@ -30002,5 +30002,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T10:19:23.630Z"
+  "lastUpdated": "2026-10-16T10:19:40.190Z"
 }
