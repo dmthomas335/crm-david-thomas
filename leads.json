@@ -29766,7 +29766,25 @@
       "lastModified": "2026-10-15",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:36:19.255Z"
+    },
+    {
+      "id": "mvasen9f1sbnkhtcdbz",
+      "name": "Lati Culverson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lati.culverson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-16",
+      "nextFollowUp": "2026-10-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-16",
+      "dateAdded": "2026-10-16",
+      "addedAt": "2026-10-16T09:50:36.868Z"
     }
   ],
-  "lastUpdated": "2026-10-16T08:16:12.752Z"
+  "lastUpdated": "2026-10-16T09:50:36.868Z"
 }
