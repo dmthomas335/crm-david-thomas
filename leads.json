@@ -29624,24 +29624,6 @@
       "addedAt": "2026-10-15T09:32:24.455Z"
     },
     {
-      "id": "mv9cbnhtpzrymoaok3o",
-      "name": "Joey Rios",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-10-18",
-      "notes": "",
-      "lastModified": "2026-10-15",
-      "dateAdded": "2026-10-15",
-      "addedAt": "2026-10-15T09:32:37.169Z"
-    },
-    {
       "id": "mv9cd0bmriqfjec2ege",
       "name": "Travis Dunn",
       "email": "",
@@ -30038,5 +30020,5 @@
       "addedAt": "2026-10-16T09:56:48.872Z"
     }
   ],
-  "lastUpdated": "2026-10-16T09:56:48.872Z"
+  "lastUpdated": "2026-10-16T09:57:00.816Z"
 }
