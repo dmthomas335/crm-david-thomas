@@ -30180,7 +30180,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:19:26.174Z"
+    },
+    {
+      "id": "mvf5x403iq83kscxoec",
+      "name": "Jae Ma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/glowwithjae",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:19:58.083Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:19:26.174Z"
+  "lastUpdated": "2026-10-19T11:19:58.083Z"
 }
