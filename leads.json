@@ -4186,14 +4186,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1LafDtWeQD/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-19",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-10-19",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T13:31:19.526Z"
     },
@@ -30200,5 +30200,5 @@
       "addedAt": "2026-10-19T11:23:22.361Z"
     }
   ],
-  "lastUpdated": "2026-10-19T12:01:05.976Z"
+  "lastUpdated": "2026-10-19T12:01:22.301Z"
 }
