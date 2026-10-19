@@ -29750,24 +29750,6 @@
       "addedAt": "2026-10-16T09:50:36.868Z"
     },
     {
-      "id": "mvasfmgmkjjmvqff3h",
-      "name": "Sarah Moya",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-10-19",
-      "notes": "",
-      "lastModified": "2026-10-16",
-      "dateAdded": "2026-10-16",
-      "addedAt": "2026-10-16T09:51:22.486Z"
-    },
-    {
       "id": "mvasgbn0a10nbuh18nh",
       "name": "George Wagner",
       "email": "",
@@ -30200,5 +30182,5 @@
       "addedAt": "2026-10-19T11:21:10.090Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:21:36.573Z"
+  "lastUpdated": "2026-10-19T11:21:43.896Z"
 }
