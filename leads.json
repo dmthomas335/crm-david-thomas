@@ -30180,7 +30180,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:21:10.090Z"
+    },
+    {
+      "id": "mvf61hmhmg2zqxcksqh",
+      "name": "Russian Name",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nikos.tsoulfas.3",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-10-26",
+      "notes": "Personal ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:23:22.361Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:21:43.896Z"
+  "lastUpdated": "2026-10-19T11:23:22.361Z"
 }
