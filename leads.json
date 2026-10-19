@@ -30198,7 +30198,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:19:58.083Z"
+    },
+    {
+      "id": "mvf5xnxphzi9d0503bo",
+      "name": "Loy Sampaio",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/loyjoy107",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:20:23.917Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:19:58.083Z"
+  "lastUpdated": "2026-10-19T11:20:23.917Z"
 }
