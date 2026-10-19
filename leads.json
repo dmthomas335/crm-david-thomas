@@ -30162,7 +30162,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:18:58.046Z"
+    },
+    {
+      "id": "mvf5wfdqeejl3l4yfzp",
+      "name": "Manveer Singh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100055951492375",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:19:26.174Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:18:58.046Z"
+  "lastUpdated": "2026-10-19T11:19:26.174Z"
 }
