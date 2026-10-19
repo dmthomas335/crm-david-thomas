@@ -7708,10 +7708,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-10-19",
-      "notes": "Personal ",
-      "lastModified": "2026-10-01",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-18",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-10-19",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:51:55.659Z"
     },
@@ -30200,5 +30200,5 @@
       "addedAt": "2026-10-19T11:23:22.361Z"
     }
   ],
-  "lastUpdated": "2026-10-19T12:01:22.301Z"
+  "lastUpdated": "2026-10-19T12:01:28.967Z"
 }
