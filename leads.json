@@ -30018,7 +30018,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:13:24.808Z"
+    },
+    {
+      "id": "mvf5p8nztlkzihp3c7r",
+      "name": "Jonathan Ward",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thewwards",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": null,
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:13:50.879Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:13:24.808Z"
+  "lastUpdated": "2026-10-19T11:13:50.879Z"
 }
