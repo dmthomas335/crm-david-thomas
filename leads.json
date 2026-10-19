@@ -30072,7 +30072,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:14:54.129Z"
+    },
+    {
+      "id": "mvf5rknj6sv1af9ykue",
+      "name": "Marcus Jackson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marcus.jackson.94402",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:15:39.727Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:14:54.130Z"
+  "lastUpdated": "2026-10-19T11:15:39.727Z"
 }
