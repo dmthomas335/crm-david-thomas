@@ -29876,24 +29876,6 @@
       "addedAt": "2026-10-16T09:54:08.862Z"
     },
     {
-      "id": "mvaskigjamizx4nrkyn",
-      "name": "Gary March",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-10-30",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-16",
-      "dateAdded": "2026-10-16",
-      "addedAt": "2026-10-16T09:55:10.579Z"
-    },
-    {
       "id": "mvasl1bxupbrqolfz58",
       "name": "Kevin Ratcliff",
       "email": "",
@@ -30218,5 +30200,5 @@
       "addedAt": "2026-10-19T11:21:10.090Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:21:32.904Z"
+  "lastUpdated": "2026-10-19T11:21:36.573Z"
 }
