@@ -30108,7 +30108,25 @@
       "lastModified": "2026-10-19",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:15:58.707Z"
+    },
+    {
+      "id": "mvf5t1u9pz7kfdqvmtm",
+      "name": "Sandijs Dzalba",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-19",
+      "nextFollowUp": "2026-11-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-19",
+      "dateAdded": "2026-10-19",
+      "addedAt": "2026-10-19T11:16:48.657Z"
     }
   ],
-  "lastUpdated": "2026-10-19T11:15:58.707Z"
+  "lastUpdated": "2026-10-19T11:16:48.657Z"
 }
