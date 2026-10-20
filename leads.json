@@ -30252,7 +30252,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:16:35.271Z"
+    },
+    {
+      "id": "mvgl92q0ejqk7bm3so",
+      "name": "Tylando Tucker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tylando.tucker.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:16:56.712Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:16:35.271Z"
+  "lastUpdated": "2026-10-20T11:16:56.712Z"
 }
