@@ -30360,7 +30360,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:20:20.915Z"
+    },
+    {
+      "id": "mvgldtwevvi75p4tphj",
+      "name": "Maurice Horn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/maurice.horn.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:20:38.558Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:20:20.915Z"
+  "lastUpdated": "2026-10-20T11:20:38.558Z"
 }
