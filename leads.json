@@ -1085,10 +1085,10 @@
       "status": "Customer",
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-20",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-11-03",
       "notes": "Personal 751352 Paul Johnson",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-05-20",
       "videoSent": true,
       "customerSince": "2026-05-28"
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:24:09.273Z"
+  "lastUpdated": "2026-10-20T11:24:15.628Z"
 }
