@@ -30056,24 +30056,6 @@
       "addedAt": "2026-10-19T11:18:09.684Z"
     },
     {
-      "id": "mvf5vtoe0jl8nsv12zfu",
-      "name": "Mark Arabaje",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-19",
-      "nextFollowUp": "2026-11-03",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-19",
-      "dateAdded": "2026-10-19",
-      "addedAt": "2026-10-19T11:18:58.046Z"
-    },
-    {
       "id": "mvf5wfdqeejl3l4yfzp",
       "name": "Manveer Singh",
       "email": "",
@@ -30290,5 +30272,5 @@
       "addedAt": "2026-10-20T11:17:26.969Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:17:36.752Z"
+  "lastUpdated": "2026-10-20T11:17:44.828Z"
 }
