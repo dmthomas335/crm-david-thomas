@@ -3825,14 +3825,14 @@
       "phone": "",
       "social": "https://www.facebook.com/vincent.wilson.148",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-10-20",
+      "nextFollowUp": null,
       "notes": "joined as 2WT customer / personal",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T10:56:31.064Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:48:46.330Z"
+  "lastUpdated": "2026-10-20T11:49:39.091Z"
 }
