@@ -30270,7 +30270,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:18:21.026Z"
+    },
+    {
+      "id": "mvglbd36qehhcnqqed9",
+      "name": "Dave Cook",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DJCJR",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:18:43.458Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:18:21.026Z"
+  "lastUpdated": "2026-10-20T11:18:43.458Z"
 }
