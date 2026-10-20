@@ -30378,7 +30378,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:20:38.558Z"
+    },
+    {
+      "id": "mvglejmiedmmchxyit",
+      "name": "James Scooter Baker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamessb2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:21:11.898Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:20:38.558Z"
+  "lastUpdated": "2026-10-20T11:21:11.898Z"
 }
