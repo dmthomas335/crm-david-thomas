@@ -27758,14 +27758,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michaelsankovich1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-20",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:52:08.008Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:48:07.970Z"
+  "lastUpdated": "2026-10-20T11:48:15.272Z"
 }
