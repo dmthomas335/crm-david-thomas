@@ -30234,7 +30234,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:16:11.122Z"
+    },
+    {
+      "id": "mvgl8m6fbgpo704v0dd",
+      "name": "Amber Cundy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amber.cundy.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:16:35.271Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:16:11.122Z"
+  "lastUpdated": "2026-10-20T11:16:35.271Z"
 }
