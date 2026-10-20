@@ -30216,7 +30216,25 @@
       "lastModified": "2026-10-20",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:15:51.880Z"
+    },
+    {
+      "id": "mvgl83jmn4324nm8sz",
+      "name": "Robinson Puche",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ropuche",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-10-28",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T11:16:11.122Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:15:51.880Z"
+  "lastUpdated": "2026-10-20T11:16:11.122Z"
 }
