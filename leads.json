@@ -643,10 +643,10 @@
       "status": "Nurture",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-10-20",
-      "notes": "said too busy but in future",
-      "lastModified": "2026-08-19",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": "2026-11-19",
+      "notes": "said too busy but in future Birthday ",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:59:25.805Z"
+  "lastUpdated": "2026-10-20T11:59:42.006Z"
 }
