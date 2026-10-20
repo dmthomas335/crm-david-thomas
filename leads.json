@@ -21230,14 +21230,14 @@
       "phone": "",
       "social": "https://www.facebook.com/anjulinicole",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-10-20",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-10-20",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-24T12:21:26.803Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-20T11:32:27.390Z"
+  "lastUpdated": "2026-10-20T11:32:53.844Z"
 }
