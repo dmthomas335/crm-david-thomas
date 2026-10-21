@@ -7960,14 +7960,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dan.r.olsen.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:50:21.934Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:27:43.396Z"
+  "lastUpdated": "2026-10-21T11:28:09.360Z"
 }
