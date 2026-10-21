@@ -20419,14 +20419,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charity.johnson.31",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:12:33.087Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:32:39.409Z"
+  "lastUpdated": "2026-10-21T11:33:55.278Z"
 }
