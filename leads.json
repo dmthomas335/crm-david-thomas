@@ -29306,14 +29306,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DLe7xi4BL/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-14",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T07:08:46.042Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:34:48.574Z"
+  "lastUpdated": "2026-10-21T11:34:59.273Z"
 }
