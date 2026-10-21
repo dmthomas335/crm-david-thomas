@@ -22424,14 +22424,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Mufukin",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal Still trade?",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:14:53.356Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:21:44.155Z"
+  "lastUpdated": "2026-10-21T11:22:07.649Z"
 }
