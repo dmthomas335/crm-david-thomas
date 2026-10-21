@@ -30576,7 +30576,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:43:36.107Z"
+    },
+    {
+      "id": "mvi1nrhxal3czy19t7h",
+      "name": "Shawn Parsons",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shawn.parsons.5437",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:44:02.037Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:43:36.107Z"
+  "lastUpdated": "2026-10-21T11:44:02.037Z"
 }
