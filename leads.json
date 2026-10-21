@@ -20041,14 +20041,14 @@
       "phone": "",
       "social": "https://www.facebook.com/scott.burton.3910",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T11:25:12.106Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:17:43.126Z"
+  "lastUpdated": "2026-10-21T11:18:04.427Z"
 }
