@@ -12709,14 +12709,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DKrxxcCed/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:32:01.409Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:34:02.466Z"
+  "lastUpdated": "2026-10-21T11:34:14.400Z"
 }
