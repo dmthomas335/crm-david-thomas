@@ -5124,14 +5124,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18cn3bBeHX/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T10:59:58.985Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:28:58.015Z"
+  "lastUpdated": "2026-10-21T11:29:57.180Z"
 }
