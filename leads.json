@@ -30218,24 +30218,6 @@
       "addedAt": "2026-10-20T11:16:56.712Z"
     },
     {
-      "id": "mvgl9q2hpw1c9b3ysk",
-      "name": "Ken Torres",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-10-24",
-      "notes": "",
-      "lastModified": "2026-10-20",
-      "dateAdded": "2026-10-20",
-      "addedAt": "2026-10-20T11:17:26.969Z"
-    },
-    {
       "id": "mvglavs231mg3xlaka7",
       "name": "Paul Jobling",
       "email": "",
@@ -30686,5 +30668,5 @@
       "addedAt": "2026-10-21T11:46:09.154Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:46:24.477Z"
+  "lastUpdated": "2026-10-21T11:46:29.059Z"
 }
