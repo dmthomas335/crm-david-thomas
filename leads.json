@@ -30450,7 +30450,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:36:51.205Z"
+    },
+    {
+      "id": "mvi1eu7mk2jj0jiu1y",
+      "name": "Lgithstar",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-10-26",
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:37:05.650Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:36:51.205Z"
+  "lastUpdated": "2026-10-21T11:37:05.650Z"
 }
