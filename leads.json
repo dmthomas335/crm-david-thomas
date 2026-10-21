@@ -5142,14 +5142,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1JQUrk1Nns/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:00:35.352Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:28:09.360Z"
+  "lastUpdated": "2026-10-21T11:28:30.404Z"
 }
