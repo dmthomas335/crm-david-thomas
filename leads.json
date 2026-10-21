@@ -9242,14 +9242,14 @@
       "phone": "",
       "social": "https://www.facebook.com/imacdougall8",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:11:59.733Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:29:57.180Z"
+  "lastUpdated": "2026-10-21T11:30:14.045Z"
 }
