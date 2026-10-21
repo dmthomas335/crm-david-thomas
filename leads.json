@@ -28298,14 +28298,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:32:39.739Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:27:02.467Z"
+  "lastUpdated": "2026-10-21T11:27:11.015Z"
 }
