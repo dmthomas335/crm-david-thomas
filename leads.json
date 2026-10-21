@@ -7978,12 +7978,12 @@
       "phone": "",
       "social": "https://www.facebook.com/kevin.brolly.14",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2027-01-27",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
       "lastModified": "2026-10-21",
       "dateAdded": "2026-06-10",
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:19:40.138Z"
+  "lastUpdated": "2026-10-21T11:20:17.041Z"
 }
