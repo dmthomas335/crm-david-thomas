@@ -30684,7 +30684,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:45:58.802Z"
+    },
+    {
+      "id": "mvi1qhkyw3yabcivvvb",
+      "name": "Todd Stark",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-10-25",
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:46:09.154Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:45:58.802Z"
+  "lastUpdated": "2026-10-21T11:46:09.154Z"
 }
