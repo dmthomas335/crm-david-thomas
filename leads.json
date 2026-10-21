@@ -5809,14 +5809,14 @@
       "phone": "",
       "social": "https://www.facebook.com/workwithdan",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "personal  still trade? ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T12:23:03.746Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:20:58.252Z"
+  "lastUpdated": "2026-10-21T11:21:44.155Z"
 }
