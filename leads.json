@@ -21303,14 +21303,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dave.lauer.507",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-01",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:47:42.606Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:32:18.552Z"
+  "lastUpdated": "2026-10-21T11:32:39.409Z"
 }
