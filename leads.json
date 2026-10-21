@@ -30486,7 +30486,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:37:34.175Z"
+    },
+    {
+      "id": "mvi1g0o363uhvcyo6kw",
+      "name": "Greg Stampley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/greg.stampley.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-11-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:38:00.675Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:37:34.175Z"
+  "lastUpdated": "2026-10-21T11:38:00.675Z"
 }
