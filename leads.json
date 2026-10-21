@@ -7758,14 +7758,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sara.williams.921230",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal Joined as 2WT",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T12:56:58.734Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:31:44.302Z"
+  "lastUpdated": "2026-10-21T11:31:52.882Z"
 }
