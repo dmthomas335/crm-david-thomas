@@ -14768,14 +14768,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/194UXKdrKA/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-10-21",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-21",
       "dateAdded": "2026-07-18",
       "addedAt": "2026-07-18T11:15:31.916Z"
     },
@@ -30416,5 +30416,5 @@
       "addedAt": "2026-10-20T11:21:31.013Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:31:30.096Z"
+  "lastUpdated": "2026-10-21T11:31:44.302Z"
 }
