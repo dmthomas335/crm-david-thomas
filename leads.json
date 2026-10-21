@@ -30612,7 +30612,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:44:20.665Z"
+    },
+    {
+      "id": "mvi1opq5x8cqftwcdh",
+      "name": "Matt Lardiere",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-11-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:44:46.397Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:44:20.665Z"
+  "lastUpdated": "2026-10-21T11:44:46.397Z"
 }
