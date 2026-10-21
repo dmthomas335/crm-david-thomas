@@ -30522,7 +30522,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:38:28.625Z"
+    },
+    {
+      "id": "mvi1h2jratq1r1k38qa",
+      "name": "Dorit Vaknine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/doritsam90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:38:49.767Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:38:28.625Z"
+  "lastUpdated": "2026-10-21T11:38:49.767Z"
 }
