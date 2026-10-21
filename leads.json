@@ -30504,7 +30504,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:38:00.675Z"
+    },
+    {
+      "id": "mvi1gm8h3jupnfv9vcx",
+      "name": "Daniel Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.w.jones.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T11:38:28.625Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:38:00.675Z"
+  "lastUpdated": "2026-10-21T11:38:28.625Z"
 }
