@@ -30756,7 +30756,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:27:06.216Z"
+    },
+    {
+      "id": "mvjed888hzbosw6j26",
+      "name": "Chad Jacob Merrill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ChaddyChad",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:27:31.688Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:27:06.216Z"
+  "lastUpdated": "2026-10-22T10:27:31.688Z"
 }
