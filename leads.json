@@ -30810,7 +30810,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:34:50.152Z"
+    },
+    {
+      "id": "mvjeny3hq1m4qb2wn1e",
+      "name": "Jason Brensinger JB Justice",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jb.justice.164020",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal Text Jason Brensinger ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:34:50.152Z"
+  "lastUpdated": "2026-10-22T10:35:51.773Z"
 }
