@@ -8900,14 +8900,14 @@
       "phone": "",
       "social": "https://www.facebook.com/demetri.rankins",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-17",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-08",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T09:20:58.193Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:43:00.769Z"
+  "lastUpdated": "2026-10-22T11:43:15.602Z"
 }
