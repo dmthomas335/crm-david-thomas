@@ -3303,13 +3303,13 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1LKk73NCaZ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "David T Page",
-      "lastModified": "2026-09-14",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T17:49:44.229Z",
       "videoSent": true
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:44:59.977Z"
+  "lastUpdated": "2026-10-22T11:45:46.963Z"
 }
