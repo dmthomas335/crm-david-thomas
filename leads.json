@@ -30810,7 +30810,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:27:58.576Z"
+    },
+    {
+      "id": "mvjegnjdiwmqf5530hs",
+      "name": "Matthew Eaton",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:30:11.497Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:27:58.576Z"
+  "lastUpdated": "2026-10-22T10:30:11.497Z"
 }
