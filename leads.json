@@ -6026,14 +6026,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Jinh84",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-16",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:02:58.393Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:42:54.039Z"
+  "lastUpdated": "2026-10-22T11:43:00.769Z"
 }
