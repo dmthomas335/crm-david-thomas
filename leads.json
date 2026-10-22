@@ -30648,7 +30648,25 @@
       "lastModified": "2026-10-21",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:46:09.154Z"
+    },
+    {
+      "id": "mvjeab2uus5ub1wwdwo",
+      "name": "Greg Gabica",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gregory.m.gabica",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-10-29",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:25:15.414Z"
     }
   ],
-  "lastUpdated": "2026-10-21T11:46:33.642Z"
+  "lastUpdated": "2026-10-22T10:25:15.414Z"
 }
