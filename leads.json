@@ -4600,14 +4600,14 @@
       "phone": "",
       "social": "https://www.facebook.com/DJSwing2u",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:31:55.932Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:45:46.963Z"
+  "lastUpdated": "2026-10-22T11:45:53.829Z"
 }
