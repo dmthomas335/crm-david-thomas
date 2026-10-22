@@ -20221,14 +20221,14 @@
       "phone": "",
       "social": "https://www.facebook.com/arnelabadxoxo",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T11:13:36.642Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:43:28.492Z"
+  "lastUpdated": "2026-10-22T11:43:42.160Z"
 }
