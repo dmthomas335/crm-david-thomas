@@ -30702,7 +30702,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:26:01.923Z"
+    },
+    {
+      "id": "mvjebppswq7ve1rqvqc",
+      "name": "Mohamed Mire",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mohamed.mire.338",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Birthday Personal ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:26:21.040Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:26:01.923Z"
+  "lastUpdated": "2026-10-22T10:26:21.040Z"
 }
