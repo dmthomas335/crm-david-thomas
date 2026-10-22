@@ -30684,7 +30684,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:25:42.187Z"
+    },
+    {
+      "id": "mvjebayri47mbz640sb",
+      "name": "Brian Jardine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/basehit500",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:26:01.923Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:25:42.187Z"
+  "lastUpdated": "2026-10-22T10:26:01.923Z"
 }
