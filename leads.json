@@ -17494,10 +17494,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-08",
-      "nextFollowUp": "2026-10-22",
-      "notes": "Personal 513571 Ashley cancelled ",
-      "lastModified": "2026-10-08",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-12-10",
+      "notes": "Personal 513571 Ashley ",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-08-02",
       "addedAt": "2026-08-02T12:35:42.122Z",
       "customerSince": "2026-08-17"
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:41:47.545Z"
+  "lastUpdated": "2026-10-22T10:42:48.291Z"
 }
