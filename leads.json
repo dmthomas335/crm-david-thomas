@@ -30846,7 +30846,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:30:38.610Z"
+    },
+    {
+      "id": "mvjeic7hg8cy8r7lxlu",
+      "name": "Fawad Ali",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fawad.ali.750",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:31:30.125Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:30:38.610Z"
+  "lastUpdated": "2026-10-22T10:31:30.125Z"
 }
