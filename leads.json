@@ -21645,14 +21645,14 @@
       "phone": "",
       "social": "https://www.facebook.com/henri.duplessis.90",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-08",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:15:17.225Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:44:25.669Z"
+  "lastUpdated": "2026-10-22T10:44:43.362Z"
 }
