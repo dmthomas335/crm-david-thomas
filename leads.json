@@ -20582,14 +20582,14 @@
       "phone": "",
       "social": "https://www.facebook.com/patricia.shull.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T12:06:50.397Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:44:43.950Z"
+  "lastUpdated": "2026-10-22T11:44:59.977Z"
 }
