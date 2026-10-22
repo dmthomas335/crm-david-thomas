@@ -30720,7 +30720,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:26:21.040Z"
+    },
+    {
+      "id": "mvjec8s1scvno4f95vj",
+      "name": "Paresh Tailor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paresh.tailor1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:26:45.745Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:26:21.040Z"
+  "lastUpdated": "2026-10-22T10:26:45.745Z"
 }
