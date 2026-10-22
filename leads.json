@@ -30792,7 +30792,25 @@
       "lastModified": "2026-10-22",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:32:06.214Z"
+    },
+    {
+      "id": "mvjemmjs5ppg9e7wq3",
+      "name": "Darren Boles",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Wildarbol",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T10:34:50.152Z"
     }
   ],
-  "lastUpdated": "2026-10-22T10:34:15.133Z"
+  "lastUpdated": "2026-10-22T10:34:50.152Z"
 }
