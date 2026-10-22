@@ -28892,14 +28892,14 @@
       "phone": "",
       "social": "https://www.facebook.com/MasterTheArtOfGiving",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-22",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-10-22",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:31:40.928Z"
     },
@@ -30830,5 +30830,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:14:28.574Z"
+  "lastUpdated": "2026-10-22T11:15:26.512Z"
 }
