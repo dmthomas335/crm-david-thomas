@@ -30846,7 +30846,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:00:55.072Z"
+    },
+    {
+      "id": "mvksv8uf7q9rf3qcv66",
+      "name": "Michael Siuta",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/msiuta",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:01:13.095Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:00:55.072Z"
+  "lastUpdated": "2026-10-23T10:01:13.095Z"
 }
