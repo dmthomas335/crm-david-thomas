@@ -18543,14 +18543,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sean.siatan",
       "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
       "nextFollowUp": "2026-10-14",
       "notes": "Personal delete ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-10-23",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:17:05.177Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:30:18.180Z"
+  "lastUpdated": "2026-10-23T10:30:23.894Z"
 }
