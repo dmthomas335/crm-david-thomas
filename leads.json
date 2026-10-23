@@ -18543,12 +18543,12 @@
       "phone": "",
       "social": "https://www.facebook.com/sean.siatan",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-14",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
       "lastModified": "2026-10-23",
       "dateAdded": "2026-08-10",
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:30:38.414Z"
+  "lastUpdated": "2026-10-23T10:30:49.006Z"
 }
