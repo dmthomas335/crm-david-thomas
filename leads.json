@@ -17689,14 +17689,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1FBjpSc1xQ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-23",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-10-23",
       "dateAdded": "2026-08-04",
       "addedAt": "2026-08-04T07:26:31.026Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:15:11.578Z"
+  "lastUpdated": "2026-10-23T10:15:36.688Z"
 }
