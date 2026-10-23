@@ -26842,10 +26842,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-23",
-      "notes": "511382 casmer cancelled check sub",
-      "lastModified": "2026-10-09",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-11-22",
+      "notes": "511382 casmer check sub",
+      "lastModified": "2026-10-23",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:48:56.346Z"
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:12:37.843Z"
+  "lastUpdated": "2026-10-23T10:13:03.526Z"
 }
