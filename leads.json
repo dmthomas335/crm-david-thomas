@@ -30918,7 +30918,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:02:53.652Z"
+    },
+    {
+      "id": "mvksxwk02ounxj9xjfb",
+      "name": "John Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-10-27",
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:03:17.136Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:02:53.652Z"
+  "lastUpdated": "2026-10-23T10:03:17.136Z"
 }
