@@ -30704,24 +30704,6 @@
       "addedAt": "2026-10-22T10:27:40.638Z"
     },
     {
-      "id": "mvjedsz4grhjhgnv254",
-      "name": "Josh Shaver",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-10-26",
-      "notes": "",
-      "lastModified": "2026-10-22",
-      "dateAdded": "2026-10-22",
-      "addedAt": "2026-10-22T10:27:58.576Z"
-    },
-    {
       "id": "mvjeh8gibktjpschzr6",
       "name": "Peter Dunning",
       "email": "",
@@ -30794,5 +30776,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-23T09:23:33.585Z"
+  "lastUpdated": "2026-10-23T09:23:38.686Z"
 }
