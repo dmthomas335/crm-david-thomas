@@ -30972,7 +30972,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:03:37.798Z"
+    },
+    {
+      "id": "mvksylw68k3j735cc5f",
+      "name": "Darrel Therm",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-10-30",
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:03:49.974Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:03:37.798Z"
+  "lastUpdated": "2026-10-23T10:03:49.974Z"
 }
