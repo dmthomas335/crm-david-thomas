@@ -30810,7 +30810,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:00:10.970Z"
+    },
+    {
+      "id": "mvksufwr4qnabknc3lg",
+      "name": "Anthony Greene",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anthony.greene.103314",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:00:35.595Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:00:10.970Z"
+  "lastUpdated": "2026-10-23T10:00:35.595Z"
 }
