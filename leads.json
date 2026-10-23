@@ -30722,24 +30722,6 @@
       "addedAt": "2026-10-22T10:27:58.576Z"
     },
     {
-      "id": "mvjegnjdiwmqf5530hs",
-      "name": "Matthew Eaton",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-11-25",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-22",
-      "dateAdded": "2026-10-22",
-      "addedAt": "2026-10-22T10:30:11.497Z"
-    },
-    {
       "id": "mvjeh8gibktjpschzr6",
       "name": "Peter Dunning",
       "email": "",
@@ -30812,5 +30794,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-23T09:23:27.423Z"
+  "lastUpdated": "2026-10-23T09:23:33.585Z"
 }
