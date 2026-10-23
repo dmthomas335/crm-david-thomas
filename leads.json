@@ -6459,14 +6459,14 @@
       "phone": "",
       "social": "https://www.facebook.com/trevor.berry.7549",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-10-23",
+      "nextFollowUp": null,
       "notes": "personal still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-23",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:15:25.300Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:17:22.826Z"
+  "lastUpdated": "2026-10-23T10:17:51.451Z"
 }
