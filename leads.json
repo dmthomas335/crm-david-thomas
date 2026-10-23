@@ -2833,11 +2833,11 @@
       "phone": "",
       "social": "https://www.facebook.com/paulo.rocha.733",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-10-07",
+      "nextFollowUp": null,
       "notes": "joined as 2WT",
       "lastModified": "2026-10-23",
       "dateAdded": "2026-05-25",
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:30:32.470Z"
+  "lastUpdated": "2026-10-23T10:30:38.414Z"
 }
