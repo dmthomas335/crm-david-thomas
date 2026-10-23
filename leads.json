@@ -23685,14 +23685,14 @@
       "phone": "",
       "social": "https://www.facebook.com/neshkoneshevjr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-09",
-      "nextFollowUp": "2026-10-23",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-10-23",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:17:21.835Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:20:09.445Z"
+  "lastUpdated": "2026-10-23T10:20:16.224Z"
 }
