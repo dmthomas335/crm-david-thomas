@@ -30792,7 +30792,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T09:59:36.388Z"
+    },
+    {
+      "id": "mvkstwwq5e0m1i5rm8a",
+      "name": "Keenan Chad Glandon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/keenan.glandon.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:00:10.970Z"
     }
   ],
-  "lastUpdated": "2026-10-23T09:59:36.388Z"
+  "lastUpdated": "2026-10-23T10:00:10.970Z"
 }
