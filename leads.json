@@ -31008,7 +31008,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:03:58.554Z"
+    },
+    {
+      "id": "mvksz7snjgejso8emi",
+      "name": "Peter Troy",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-10-30",
+      "notes": "",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:03:58.554Z"
+  "lastUpdated": "2026-10-23T10:04:18.359Z"
 }
