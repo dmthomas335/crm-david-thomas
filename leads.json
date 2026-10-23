@@ -30900,7 +30900,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:02:31.731Z"
+    },
+    {
+      "id": "mvksxefo6vu1kkks9ru",
+      "name": "Navel Bo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bo.navel1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-23",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-23",
+      "dateAdded": "2026-10-23",
+      "addedAt": "2026-10-23T10:02:53.652Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:02:31.731Z"
+  "lastUpdated": "2026-10-23T10:02:53.652Z"
 }
