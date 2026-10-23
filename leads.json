@@ -30776,24 +30776,6 @@
       "addedAt": "2026-10-22T10:31:30.125Z"
     },
     {
-      "id": "mvjej41ytecx5prwqzr",
-      "name": "Paul M Jackson",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-11-18",
-      "notes": "Personal ",
-      "lastModified": "2026-10-22",
-      "dateAdded": "2026-10-22",
-      "addedAt": "2026-10-22T10:32:06.214Z"
-    },
-    {
       "id": "mvjemmjs5ppg9e7wq3",
       "name": "Darren Boles",
       "email": "",
@@ -30830,5 +30812,5 @@
       "addedAt": "2026-10-22T10:35:51.773Z"
     }
   ],
-  "lastUpdated": "2026-10-22T11:47:37.208Z"
+  "lastUpdated": "2026-10-23T09:23:27.423Z"
 }
