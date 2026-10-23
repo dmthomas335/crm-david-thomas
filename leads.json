@@ -4096,14 +4096,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D3QZTyuat/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-07-13",
-      "nextFollowUp": "2026-12-09",
+      "nextFollowUp": null,
       "notes": "David Thomas page ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-10-23",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T12:09:35.658Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:04:18.359Z"
+  "lastUpdated": "2026-10-23T10:06:07.231Z"
 }
