@@ -29522,14 +29522,14 @@
       "phone": "",
       "social": "https://www.facebook.com/warren.wheatley.1",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-11-23",
-      "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-22",
+      "nextFollowUp": "2026-10-26",
+      "notes": "Personal ",
+      "lastModified": "2026-10-24",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:27:03.943Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-23T10:41:26.069Z"
+  "lastUpdated": "2026-10-24T09:40:23.173Z"
 }
