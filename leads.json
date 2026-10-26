@@ -29526,10 +29526,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-10-26",
-      "notes": "Personal ",
-      "lastModified": "2026-10-24",
+      "lastContact": "2026-10-26",
+      "nextFollowUp": "2026-10-30",
+      "notes": "Personal delete ",
+      "lastModified": "2026-10-26",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:27:03.943Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:03:45.561Z"
+  "lastUpdated": "2026-10-26T12:03:58.932Z"
 }
