@@ -28946,14 +28946,14 @@
       "phone": "",
       "social": "https://www.facebook.com/TheKidneyboy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-26",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-10-26",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:33:37.208Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-26T11:55:04.289Z"
+  "lastUpdated": "2026-10-26T11:55:14.559Z"
 }
