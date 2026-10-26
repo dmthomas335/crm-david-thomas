@@ -30920,24 +30920,6 @@
       "addedAt": "2026-10-23T10:02:53.652Z"
     },
     {
-      "id": "mvksz7snjgejso8emi",
-      "name": "Peter Troy",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-10-30",
-      "notes": "",
-      "lastModified": "2026-10-23",
-      "dateAdded": "2026-10-23",
-      "addedAt": "2026-10-23T10:04:18.359Z"
-    },
-    {
       "id": "mvp7nwndptk939ueoy",
       "name": "Matthew Obolurin",
       "email": "",
@@ -31082,5 +31064,5 @@
       "addedAt": "2026-10-26T12:08:38.580Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:09:08.261Z"
+  "lastUpdated": "2026-10-26T12:09:12.636Z"
 }
