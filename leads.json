@@ -31116,7 +31116,25 @@
       "lastModified": "2026-10-26",
       "dateAdded": "2026-10-26",
       "addedAt": "2026-10-26T12:08:01.399Z"
+    },
+    {
+      "id": "mvp7q9wm9kdo682a4s",
+      "name": "Sarah Faith Lanois",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SarahFaithLanois",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-26",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-26",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T12:08:20.134Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:08:01.399Z"
+  "lastUpdated": "2026-10-26T12:08:20.134Z"
 }
