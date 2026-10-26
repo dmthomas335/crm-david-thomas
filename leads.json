@@ -30920,24 +30920,6 @@
       "addedAt": "2026-10-23T10:02:53.652Z"
     },
     {
-      "id": "mvksylw68k3j735cc5f",
-      "name": "Darrel Therm",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-10-30",
-      "notes": "",
-      "lastModified": "2026-10-23",
-      "dateAdded": "2026-10-23",
-      "addedAt": "2026-10-23T10:03:49.974Z"
-    },
-    {
       "id": "mvksysiikrjd49bsegr",
       "name": "Dan Rent",
       "email": "",
@@ -31118,5 +31100,5 @@
       "addedAt": "2026-10-26T12:08:38.580Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:09:01.546Z"
+  "lastUpdated": "2026-10-26T12:09:05.033Z"
 }
