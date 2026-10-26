@@ -31044,7 +31044,25 @@
       "lastModified": "2026-10-26",
       "dateAdded": "2026-10-26",
       "addedAt": "2026-10-26T12:06:29.641Z"
+    },
+    {
+      "id": "mvp7odfwio17z8l2u8",
+      "name": "Hiten Parekh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hiten.parekh.104",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-26",
+      "nextFollowUp": "2026-11-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-26",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T12:06:51.404Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:06:29.641Z"
+  "lastUpdated": "2026-10-26T12:06:51.404Z"
 }
