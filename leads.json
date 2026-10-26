@@ -31026,7 +31026,25 @@
       "lastModified": "2026-10-23",
       "dateAdded": "2026-10-23",
       "addedAt": "2026-10-23T10:04:18.359Z"
+    },
+    {
+      "id": "mvp7nwndptk939ueoy",
+      "name": "Matthew Obolurin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matt4wealth",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-26",
+      "nextFollowUp": "2026-11-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-26",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T12:06:29.641Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:04:50.935Z"
+  "lastUpdated": "2026-10-26T12:06:29.641Z"
 }
