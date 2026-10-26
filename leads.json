@@ -18959,14 +18959,14 @@
       "phone": "",
       "social": "https://www.facebook.com/awesomepetemcbride",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-10-26",
+      "nextFollowUp": null,
       "notes": "Personal  ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-10-26",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:24:39.438Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:02:12.579Z"
+  "lastUpdated": "2026-10-26T12:02:21.103Z"
 }
