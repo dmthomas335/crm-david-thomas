@@ -30920,24 +30920,6 @@
       "addedAt": "2026-10-23T10:02:53.652Z"
     },
     {
-      "id": "mvksy426ceq07ny2i27",
-      "name": "Trent Ballard",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-10-28",
-      "notes": "",
-      "lastModified": "2026-10-23",
-      "dateAdded": "2026-10-23",
-      "addedAt": "2026-10-23T10:03:26.862Z"
-    },
-    {
       "id": "mvksychyptpvoru9wai",
       "name": "Mike Tent",
       "email": "",
@@ -31154,5 +31136,5 @@
       "addedAt": "2026-10-26T12:08:38.580Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:08:53.956Z"
+  "lastUpdated": "2026-10-26T12:08:58.231Z"
 }
