@@ -264,13 +264,13 @@
       "phone": "",
       "social": "https://www.facebook.com/johnathan.glass.5",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-26",
+      "nextFollowUp": null,
       "notes": "Personal cancelled 513713 Stacy delete ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-10-26",
       "dateAdded": "2026-05-18",
       "videoSent": false,
       "customerSince": "2026-06-08"
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-26T11:47:15.629Z"
+  "lastUpdated": "2026-10-26T11:47:36.320Z"
 }
