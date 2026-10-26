@@ -31098,7 +31098,25 @@
       "lastModified": "2026-10-26",
       "dateAdded": "2026-10-26",
       "addedAt": "2026-10-26T12:10:21.741Z"
+    },
+    {
+      "id": "mvp7t2rmmy74gl1vy3",
+      "name": "Joel Smith",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-26",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-26",
+      "dateAdded": "2026-10-26",
+      "addedAt": "2026-10-26T12:10:30.850Z"
     }
   ],
-  "lastUpdated": "2026-10-26T12:10:21.741Z"
+  "lastUpdated": "2026-10-26T12:10:30.850Z"
 }
