@@ -25126,14 +25126,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rodnays.completecycles",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-10-26",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-10-26",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:35:55.414Z"
     },
@@ -31028,5 +31028,5 @@
       "addedAt": "2026-10-23T10:04:18.359Z"
     }
   ],
-  "lastUpdated": "2026-10-26T11:48:38.677Z"
+  "lastUpdated": "2026-10-26T11:48:57.049Z"
 }
