@@ -31188,7 +31188,25 @@
       "lastModified": "2026-10-27",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:26:10.942Z"
+    },
+    {
+      "id": "mvqlojfj6ut9zetgo85",
+      "name": "Stephen Clarke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/apostlestephenclarke",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T11:26:39.967Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:26:10.942Z"
+  "lastUpdated": "2026-10-27T11:26:39.967Z"
 }
