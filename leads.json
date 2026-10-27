@@ -31224,7 +31224,25 @@
       "lastModified": "2026-10-27",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:27:01.631Z"
+    },
+    {
+      "id": "mvqlpegsqkx1o4sa4ik",
+      "name": "Darick Huffman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darick.huffman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T11:27:20.188Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:27:01.631Z"
+  "lastUpdated": "2026-10-27T11:27:20.188Z"
 }
