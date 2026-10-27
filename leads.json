@@ -31134,7 +31134,25 @@
       "lastModified": "2026-10-27",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:25:18.269Z"
+    },
+    {
+      "id": "mvqln6jc1li2uo8gqzj",
+      "name": "Jonathan Kalis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathan.kalis.56",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-04",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T11:25:36.600Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:25:18.269Z"
+  "lastUpdated": "2026-10-27T11:25:36.600Z"
 }
