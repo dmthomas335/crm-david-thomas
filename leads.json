@@ -31296,7 +31296,25 @@
       "lastModified": "2026-10-27",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:28:19.271Z"
+    },
+    {
+      "id": "mvqlquxkt0bz98qt5q",
+      "name": "Peter Gruber",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-03",
+      "notes": "",
+      "lastModified": "2026-10-27",
+      "dateAdded": "2026-10-27",
+      "addedAt": "2026-10-27T11:28:28.184Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:28:19.271Z"
+  "lastUpdated": "2026-10-27T11:28:28.184Z"
 }
