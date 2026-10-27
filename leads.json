@@ -12673,14 +12673,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1P1Fo34bM4/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-03T09:23:52.971Z"
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:34:57.392Z"
+  "lastUpdated": "2026-10-27T11:35:12.967Z"
 }
