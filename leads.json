@@ -27236,14 +27236,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Dkei.Espinoza",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:03:01.580Z"
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:35:12.967Z"
+  "lastUpdated": "2026-10-27T11:35:27.406Z"
 }
