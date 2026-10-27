@@ -29058,10 +29058,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-10-27",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-26",
       "notes": "David T Page ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:05:32.447Z"
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:35:57.949Z"
+  "lastUpdated": "2026-10-27T11:37:03.285Z"
 }
