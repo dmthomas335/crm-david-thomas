@@ -30992,24 +30992,6 @@
       "addedAt": "2026-10-26T12:07:40.454Z"
     },
     {
-      "id": "mvp7pvg7koiygs5s4aj",
-      "name": "Joy Casimiro Sabalbaro",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-10-31",
-      "notes": "",
-      "lastModified": "2026-10-26",
-      "dateAdded": "2026-10-26",
-      "addedAt": "2026-10-26T12:08:01.399Z"
-    },
-    {
       "id": "mvp7q9wm9kdo682a4s",
       "name": "Sarah Faith Lanois",
       "email": "",
@@ -31154,5 +31136,5 @@
       "addedAt": "2026-10-26T12:12:24.357Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:20:13.218Z"
+  "lastUpdated": "2026-10-27T11:20:17.031Z"
 }
