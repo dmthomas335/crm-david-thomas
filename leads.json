@@ -25756,14 +25756,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.howard.3139",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:50:30.018Z"
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:42:31.338Z"
+  "lastUpdated": "2026-10-27T11:42:39.157Z"
 }
