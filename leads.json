@@ -4027,10 +4027,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-08-20",
-      "nextFollowUp": "2026-10-27",
+      "lastContact": "2026-10-27",
+      "nextFollowUp": "2026-11-26",
       "notes": "personal Joined 527600 Valeria Rodriguez Marquez no response",
-      "lastModified": "2026-09-23",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:27:09.802Z",
       "customerSince": "2026-07-14"
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:29:23.515Z"
+  "lastUpdated": "2026-10-27T11:30:55.812Z"
 }
