@@ -22514,14 +22514,14 @@
       "phone": "",
       "social": "https://www.facebook.com/admir.kapllani",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-31",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:16:44.453Z"
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:37:35.248Z"
+  "lastUpdated": "2026-10-27T11:38:08.945Z"
 }
