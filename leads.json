@@ -674,13 +674,13 @@
       "phone": "",
       "social": "https://www.facebook.com/willy.torres.391",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-20",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-10-27",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -31388,5 +31388,5 @@
       "addedAt": "2026-10-27T11:29:23.515Z"
     }
   ],
-  "lastUpdated": "2026-10-27T11:42:04.436Z"
+  "lastUpdated": "2026-10-27T11:42:10.066Z"
 }
