@@ -13267,14 +13267,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18VRpHavyn/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-07-14",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-16",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-07",
       "addedAt": "2026-07-07T07:10:26.514Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:50:31.881Z"
+  "lastUpdated": "2026-10-28T11:50:38.081Z"
 }
