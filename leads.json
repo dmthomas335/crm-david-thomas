@@ -23974,14 +23974,14 @@
       "phone": "",
       "social": "https://www.facebook.com/glen.cox.589",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:15:46.087Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:49:45.036Z"
+  "lastUpdated": "2026-10-28T11:49:50.780Z"
 }
