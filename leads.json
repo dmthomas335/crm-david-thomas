@@ -21483,14 +21483,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dale.bentien",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T11:51:52.896Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:35:53.217Z"
+  "lastUpdated": "2026-10-28T11:36:20.177Z"
 }
