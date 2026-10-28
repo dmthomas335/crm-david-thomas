@@ -14461,14 +14461,14 @@
       "phone": "",
       "social": "https://www.facebook.com/helpingotherssucceed2016",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-16",
       "addedAt": "2026-07-16T11:42:25.712Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:53:42.329Z"
+  "lastUpdated": "2026-10-28T11:53:58.677Z"
 }
