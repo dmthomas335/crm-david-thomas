@@ -10092,14 +10092,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kunal.khakhar",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-19T11:26:30.107Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:40:07.645Z"
+  "lastUpdated": "2026-10-28T11:40:13.580Z"
 }
