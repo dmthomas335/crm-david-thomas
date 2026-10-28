@@ -28816,20 +28816,21 @@
     {
       "id": "mv0rjqsp90bnwcphtd",
       "name": "Kon Kipo",
-      "email": "",
+      "email": "kontuna01@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/kon.kippo",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-10-28",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-09",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-27",
+      "notes": "Personal 780136 MAM Check sub",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-10-09",
-      "addedAt": "2026-10-09T09:28:53.353Z"
+      "addedAt": "2026-10-09T09:28:53.353Z",
+      "customerSince": "2026-10-28"
     },
     {
       "id": "mv0rkh28xixq9km0bun",
@@ -31514,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:45:25.171Z"
+  "lastUpdated": "2026-10-28T11:46:33.965Z"
 }
