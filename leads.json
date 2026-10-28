@@ -6513,14 +6513,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1LmcC9abpH/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T07:29:58.367Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:19.125Z"
+  "lastUpdated": "2026-10-28T11:48:27.962Z"
 }
