@@ -31332,7 +31332,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:39:14.662Z"
+    },
+    {
+      "id": "mvrzg45g6jle8wxco1v",
+      "name": "John Caroselli",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/195KPwTkh2/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:39:47.716Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:39:14.662Z"
+  "lastUpdated": "2026-10-28T10:39:47.716Z"
 }
