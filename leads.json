@@ -31386,7 +31386,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:40:58.354Z"
+    },
+    {
+      "id": "mvrzif5kg9ec6tfjr4",
+      "name": "Halo Bt ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:41:35.288Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:40:58.354Z"
+  "lastUpdated": "2026-10-28T10:41:35.288Z"
 }
