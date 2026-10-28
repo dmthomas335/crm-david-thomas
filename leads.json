@@ -22172,10 +22172,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-28",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-26",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-28",
       "customerSince": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:16:30.886Z"
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:33:21.839Z"
+  "lastUpdated": "2026-10-28T11:33:29.156Z"
 }
