@@ -31368,7 +31368,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:40:27.731Z"
+    },
+    {
+      "id": "mvrzhmnm1o69tv9dsa4",
+      "name": "Marie Shoff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1FgsdB1fxe/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:40:58.354Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:40:27.731Z"
+  "lastUpdated": "2026-10-28T10:40:58.354Z"
 }
