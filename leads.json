@@ -14714,14 +14714,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andy.legault.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:10:56.504Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:46.408Z"
+  "lastUpdated": "2026-10-28T11:48:51.959Z"
 }
