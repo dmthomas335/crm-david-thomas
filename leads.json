@@ -7817,10 +7817,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-09-07",
-      "nextFollowUp": "2026-10-28",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-04",
       "notes": "Personal joined/given to Soriano 755343",
-      "lastModified": "2026-09-07",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T07:56:32.432Z",
       "customerSince": "2026-06-15"
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:43:07.455Z"
+  "lastUpdated": "2026-10-28T11:33:21.839Z"
 }
