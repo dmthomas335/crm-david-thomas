@@ -31350,7 +31350,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:39:47.716Z"
+    },
+    {
+      "id": "mvrzgz0zde2vpzr6njf",
+      "name": "Jeremy Parker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1HRYomZTnw/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:40:27.731Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:39:47.716Z"
+  "lastUpdated": "2026-10-28T10:40:27.731Z"
 }
