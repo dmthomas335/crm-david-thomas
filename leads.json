@@ -11032,14 +11032,14 @@
       "phone": "",
       "social": "https://www.facebook.com/raymond.green.5623",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T09:59:39.561Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:53:11.716Z"
+  "lastUpdated": "2026-10-28T11:53:42.329Z"
 }
