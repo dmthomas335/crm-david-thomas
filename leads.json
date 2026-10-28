@@ -17382,14 +17382,14 @@
       "phone": "",
       "social": "https://www.facebook.com/liviu.tomita",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal how's trading going?",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:11:42.793Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:57.416Z"
+  "lastUpdated": "2026-10-28T11:49:03.215Z"
 }
