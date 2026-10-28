@@ -3555,13 +3555,13 @@
       "phone": "",
       "social": "https://www.facebook.com/1254jon",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T12:52:48.485Z",
       "videoSent": false
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:51:14.961Z"
+  "lastUpdated": "2026-10-28T11:51:32.959Z"
 }
