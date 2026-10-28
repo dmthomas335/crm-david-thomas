@@ -6044,14 +6044,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stuart.britt.5",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "personal Birthday ",
-      "lastModified": "2026-08-13",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:03:26.185Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:41:27.222Z"
+  "lastUpdated": "2026-10-28T11:41:38.165Z"
 }
