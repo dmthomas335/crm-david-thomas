@@ -26786,10 +26786,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-10-28",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-12-22",
       "notes": "702923 Casmer \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t cancelled Personal ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T11:14:41.312Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:53:58.677Z"
+  "lastUpdated": "2026-10-28T11:54:25.369Z"
 }
