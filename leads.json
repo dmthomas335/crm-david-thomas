@@ -28874,14 +28874,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.metcalf.5209",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:30:56.392Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:39:51.492Z"
+  "lastUpdated": "2026-10-28T11:40:07.645Z"
 }
