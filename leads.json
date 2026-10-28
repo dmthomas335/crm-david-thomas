@@ -20816,14 +20816,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shay.love.752487",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T11:32:43.221Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:53:00.606Z"
+  "lastUpdated": "2026-10-28T11:53:11.716Z"
 }
