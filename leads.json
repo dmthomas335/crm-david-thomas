@@ -31314,7 +31314,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:38:42.509Z"
+    },
+    {
+      "id": "mvrzfenakbiz8re82zb",
+      "name": "John Lockwood ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/19m8fGRMZb/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:39:14.662Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:38:42.509Z"
+  "lastUpdated": "2026-10-28T10:39:14.662Z"
 }
