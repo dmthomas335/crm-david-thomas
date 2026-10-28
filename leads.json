@@ -14011,14 +14011,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.allen.1029770",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-27",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-13",
       "addedAt": "2026-07-13T11:16:24.766Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:51:50.075Z"
+  "lastUpdated": "2026-10-28T11:52:13.919Z"
 }
