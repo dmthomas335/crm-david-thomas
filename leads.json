@@ -31440,7 +31440,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:42:09.880Z"
+    },
+    {
+      "id": "mvrzjhweykh359bq0j",
+      "name": "John Garry ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-10-31",
+      "notes": "",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:42:25.502Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:42:09.880Z"
+  "lastUpdated": "2026-10-28T10:42:25.502Z"
 }
