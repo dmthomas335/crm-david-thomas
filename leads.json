@@ -22150,14 +22150,14 @@
       "phone": "",
       "social": "https://www.facebook.com/suresh.subrahmanyan",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-08",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:15:55.803Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:49:50.780Z"
+  "lastUpdated": "2026-10-28T11:49:58.912Z"
 }
