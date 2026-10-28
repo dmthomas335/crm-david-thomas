@@ -7217,14 +7217,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/14c5EhZdRwi/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-06-07",
       "addedAt": "2026-06-07T11:26:55.490Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:33.378Z"
+  "lastUpdated": "2026-10-28T11:48:39.043Z"
 }
