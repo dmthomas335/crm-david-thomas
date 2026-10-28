@@ -4998,14 +4998,14 @@
       "phone": "",
       "social": "https://www.facebook.com/younglife93",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-08",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "personal still trade? ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T12:50:49.350Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:38:26.825Z"
+  "lastUpdated": "2026-10-28T11:38:43.650Z"
 }
