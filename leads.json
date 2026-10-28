@@ -3033,13 +3033,13 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.r.firth",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 6+",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-09-04",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T11:38:31.541Z",
       "videoSent": true
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:52:13.919Z"
+  "lastUpdated": "2026-10-28T11:52:41.448Z"
 }
