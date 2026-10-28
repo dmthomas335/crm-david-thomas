@@ -15867,14 +15867,14 @@
       "phone": "",
       "social": "https://www.facebook.com/sherman.hand",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-24",
       "addedAt": "2026-07-24T11:12:56.035Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:51.959Z"
+  "lastUpdated": "2026-10-28T11:48:57.416Z"
 }
