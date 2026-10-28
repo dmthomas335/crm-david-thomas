@@ -14389,14 +14389,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jam.roca.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-15",
       "addedAt": "2026-07-15T11:19:58.019Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:49:58.912Z"
+  "lastUpdated": "2026-10-28T11:50:24.992Z"
 }
