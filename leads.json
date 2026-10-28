@@ -19536,14 +19536,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dc.breezy.37",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Birthday still trade? ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:59:15.082Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:40:25.704Z"
+  "lastUpdated": "2026-10-28T11:40:32.632Z"
 }
