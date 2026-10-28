@@ -31278,7 +31278,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:37:17.830Z"
+    },
+    {
+      "id": "mvrze232c7t9rawui1",
+      "name": "Bobby Charlie Carz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1JZCFTgDYK/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-28",
+      "dateAdded": "2026-10-28",
+      "addedAt": "2026-10-28T10:38:11.726Z"
     }
   ],
-  "lastUpdated": "2026-10-28T10:37:17.831Z"
+  "lastUpdated": "2026-10-28T10:38:11.726Z"
 }
