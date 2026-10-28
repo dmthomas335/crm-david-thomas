@@ -19103,14 +19103,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D3Cy6Kg29/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal Me 769288 cancelled ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T07:34:18.687Z",
       "customerSince": "2026-08-26"
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:34:02.402Z"
+  "lastUpdated": "2026-10-28T11:34:32.679Z"
 }
