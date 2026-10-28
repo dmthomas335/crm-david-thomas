@@ -16443,14 +16443,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.hampton.99469",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T12:14:53.724Z"
     },
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:52:41.448Z"
+  "lastUpdated": "2026-10-28T11:53:00.606Z"
 }
