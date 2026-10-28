@@ -23775,14 +23775,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100005562439232",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal  still trade? ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-09-09",
       "addedAt": "2026-09-09T11:19:50.581Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:38:43.650Z"
+  "lastUpdated": "2026-10-28T11:39:25.332Z"
 }
