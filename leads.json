@@ -3249,13 +3249,13 @@
       "phone": "",
       "social": "https://www.facebook.com/joanne.s.blackmore",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:13:02.964Z",
       "videoSent": false
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:48:09.216Z"
+  "lastUpdated": "2026-10-28T11:48:19.125Z"
 }
