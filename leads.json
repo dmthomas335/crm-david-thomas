@@ -22910,14 +22910,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steven.dempsey.712",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-14",
-      "nextFollowUp": "2026-10-28",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-09-02",
       "addedAt": "2026-09-02T11:14:03.776Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:36:20.177Z"
+  "lastUpdated": "2026-10-28T11:37:00.886Z"
 }
