@@ -19306,10 +19306,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-10-28",
+      "lastContact": "2026-10-28",
+      "nextFollowUp": "2026-11-11",
       "notes": "Personal delete?",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-10-28",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:02:46.368Z"
     },
@@ -31514,5 +31514,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-28T11:37:00.886Z"
+  "lastUpdated": "2026-10-28T11:37:07.136Z"
 }
