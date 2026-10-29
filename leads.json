@@ -31513,7 +31513,25 @@
       "lastModified": "2026-10-29",
       "dateAdded": "2026-10-29",
       "addedAt": "2026-10-29T11:33:42.501Z"
+    },
+    {
+      "id": "mvtgtpmaxsy68113l2i",
+      "name": "Austin White",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lilaustin.white",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T11:34:01.714Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:33:42.501Z"
+  "lastUpdated": "2026-10-29T11:34:01.714Z"
 }
