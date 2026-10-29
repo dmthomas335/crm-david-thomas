@@ -25396,14 +25396,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tesla.bynum",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-26",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:15:13.770Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:02:27.786Z"
+  "lastUpdated": "2026-10-29T12:03:01.779Z"
 }
