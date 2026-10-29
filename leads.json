@@ -25792,14 +25792,14 @@
       "phone": "",
       "social": "https://www.facebook.com/boyesdog",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "David T Page Birthday still trade? ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:20:31.639Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:57:56.154Z"
+  "lastUpdated": "2026-10-29T11:58:17.078Z"
 }
