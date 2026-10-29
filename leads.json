@@ -11518,14 +11518,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CqwTGXPyq/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-06-27",
       "addedAt": "2026-06-27T10:18:00.018Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:01:17.956Z"
+  "lastUpdated": "2026-10-29T12:01:35.448Z"
 }
