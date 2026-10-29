@@ -31387,7 +31387,25 @@
       "lastModified": "2026-10-28",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:40:58.354Z"
+    },
+    {
+      "id": "mvtgq405vzic6zmxe7q",
+      "name": "Jaquan Lewis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jaquan.lewis1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-05",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T11:31:13.733Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:30:53.873Z"
+  "lastUpdated": "2026-10-29T11:31:13.733Z"
 }
