@@ -29203,10 +29203,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-10-29",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-13",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-27",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:16:42.428Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:06:02.287Z"
+  "lastUpdated": "2026-10-29T12:06:25.735Z"
 }
