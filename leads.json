@@ -29095,8 +29095,8 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-10-30",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-03",
       "notes": "Personal Birthday still trade? Jeff customer ",
       "lastModified": "2026-10-29",
       "dateAdded": "2026-10-13",
@@ -31515,5 +31515,5 @@
       "addedAt": "2026-10-28T10:43:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-29T07:04:13.064Z"
+  "lastUpdated": "2026-10-29T07:04:30.549Z"
 }
