@@ -12148,14 +12148,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61566410205195",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:13:38.413Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:09:03.870Z"
+  "lastUpdated": "2026-10-29T12:09:10.175Z"
 }
