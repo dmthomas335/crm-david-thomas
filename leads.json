@@ -25774,14 +25774,14 @@
       "phone": "",
       "social": "https://www.facebook.com/randy.cousins.73",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:50:42.155Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:03:01.779Z"
+  "lastUpdated": "2026-10-29T12:03:21.450Z"
 }
