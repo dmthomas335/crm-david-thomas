@@ -5593,14 +5593,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lee.cotten.5",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "personal delete ",
-      "lastModified": "2026-10-22",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T11:32:22.305Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:59:00.516Z"
+  "lastUpdated": "2026-10-29T11:59:27.121Z"
 }
