@@ -11356,14 +11356,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeffrey.poarch.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-06-26",
       "addedAt": "2026-06-26T11:25:17.474Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:09:59.692Z"
+  "lastUpdated": "2026-10-29T12:10:22.340Z"
 }
