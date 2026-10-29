@@ -31405,7 +31405,25 @@
       "lastModified": "2026-10-29",
       "dateAdded": "2026-10-29",
       "addedAt": "2026-10-29T11:31:13.733Z"
+    },
+    {
+      "id": "mvtgqhtaoorthzqkrys",
+      "name": "Barry Goodman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/barry.goodman.338",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T11:31:31.630Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:31:13.733Z"
+  "lastUpdated": "2026-10-29T11:31:31.630Z"
 }
