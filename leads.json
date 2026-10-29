@@ -18814,14 +18814,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jesusalvarado4182",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-11T11:19:10.475Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:00:22.511Z"
+  "lastUpdated": "2026-10-29T12:01:12.266Z"
 }
