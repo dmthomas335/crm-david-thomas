@@ -2634,13 +2634,13 @@
       "phone": "",
       "social": "https://www.facebook.com/4lisamarie",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-24",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Message on TG / joined as 2WT customer",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:29:35.343Z",
       "videoSent": true
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:09:16.231Z"
+  "lastUpdated": "2026-10-29T12:09:20.862Z"
 }
