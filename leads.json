@@ -6441,14 +6441,14 @@
       "phone": "",
       "social": "https://www.facebook.com/FelixWareJr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T10:14:41.828Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:09:46.739Z"
+  "lastUpdated": "2026-10-29T12:09:59.692Z"
 }
