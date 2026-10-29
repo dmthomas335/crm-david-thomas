@@ -31423,7 +31423,25 @@
       "lastModified": "2026-10-29",
       "dateAdded": "2026-10-29",
       "addedAt": "2026-10-29T11:31:31.630Z"
+    },
+    {
+      "id": "mvtgqzlrsqt3ml38wz9",
+      "name": "Nate Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nate.jones.90857",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-29",
+      "nextFollowUp": "2026-11-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-29",
+      "dateAdded": "2026-10-29",
+      "addedAt": "2026-10-29T11:31:54.687Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:31:31.630Z"
+  "lastUpdated": "2026-10-29T11:31:54.687Z"
 }
