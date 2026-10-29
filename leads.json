@@ -708,13 +708,13 @@
       "phone": "",
       "social": "https://www.facebook.com/kendrick.ephriam",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-03",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-05-19",
       "videoSent": false
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:09:20.862Z"
+  "lastUpdated": "2026-10-29T12:09:29.578Z"
 }
