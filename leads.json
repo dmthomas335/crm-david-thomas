@@ -4564,14 +4564,14 @@
       "phone": "",
       "social": "https://www.facebook.com/doluilleam.macleod",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T13:29:43.906Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:08:38.067Z"
+  "lastUpdated": "2026-10-29T12:08:48.945Z"
 }
