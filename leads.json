@@ -22041,14 +22041,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.skye",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T12:25:32.295Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:02:10.252Z"
+  "lastUpdated": "2026-10-29T12:02:27.786Z"
 }
