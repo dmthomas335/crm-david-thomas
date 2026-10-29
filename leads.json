@@ -24442,14 +24442,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ce.mg.943453",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:17:38.920Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T11:59:49.009Z"
+  "lastUpdated": "2026-10-29T12:00:07.528Z"
 }
