@@ -30567,14 +30567,14 @@
       "phone": "",
       "social": "https://www.facebook.com/gregory.m.gabica",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-10-29",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-22",
+      "lastModified": "2026-10-29",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:25:15.414Z"
     },
@@ -31659,5 +31659,5 @@
       "addedAt": "2026-10-29T11:37:31.176Z"
     }
   ],
-  "lastUpdated": "2026-10-29T12:07:34.807Z"
+  "lastUpdated": "2026-10-29T12:07:40.927Z"
 }
