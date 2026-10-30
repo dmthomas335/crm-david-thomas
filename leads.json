@@ -24406,14 +24406,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shaun.macdonald.948",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-09-11",
       "addedAt": "2026-09-11T11:30:02.074Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:56:52.712Z"
+  "lastUpdated": "2026-10-30T11:57:07.638Z"
 }
