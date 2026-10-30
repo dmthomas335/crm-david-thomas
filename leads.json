@@ -31837,7 +31837,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:37:59.069Z"
+    },
+    {
+      "id": "mvuwf1xkp1mmjo8ixxj",
+      "name": "Paul Zondlo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/pzondlo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:38:17.864Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:37:59.069Z"
+  "lastUpdated": "2026-10-30T11:38:17.864Z"
 }
