@@ -20496,9 +20496,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": "2026-12-08",
       "notes": "Personal casmer 515314",
-      "lastModified": "2026-10-16",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:14:49.287Z",
       "customerSince": "2026-09-25"
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:48:42.362Z"
+  "lastUpdated": "2026-10-30T11:48:55.516Z"
 }
