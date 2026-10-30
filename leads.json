@@ -31801,7 +31801,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:37:05.863Z"
+    },
+    {
+      "id": "mvuwe0hb7idel2161sp",
+      "name": "Aurio Semedo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aurio.semedo",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:37:29.327Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:37:05.863Z"
+  "lastUpdated": "2026-10-30T11:37:29.327Z"
 }
