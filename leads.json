@@ -28172,12 +28172,12 @@
       "phone": "",
       "social": "https://www.facebook.com/nathalie.n.veys",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-10-27",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-06",
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T12:06:28.344Z"
+  "lastUpdated": "2026-10-30T12:06:35.139Z"
 }
