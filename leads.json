@@ -8810,14 +8810,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1EB3crMEzw/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-23",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal Dave T Page ",
-      "lastModified": "2026-08-11",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-13T08:42:26.441Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T12:03:17.366Z"
+  "lastUpdated": "2026-10-30T12:04:59.415Z"
 }
