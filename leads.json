@@ -30585,14 +30585,14 @@
       "phone": "",
       "social": "https://www.facebook.com/KennyRLee",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-22",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-22",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-10-22",
       "addedAt": "2026-10-22T10:25:42.187Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:57:07.638Z"
+  "lastUpdated": "2026-10-30T11:57:16.245Z"
 }
