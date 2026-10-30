@@ -31693,7 +31693,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:34:35.066Z"
+    },
+    {
+      "id": "mvuwaypmoy1ufzsl95e",
+      "name": "Michael Pixler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.pixler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:35:07.066Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:34:35.066Z"
+  "lastUpdated": "2026-10-30T11:35:07.066Z"
 }
