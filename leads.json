@@ -22297,14 +22297,14 @@
       "phone": "",
       "social": "https://www.facebook.com/phillip.payne.77312",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-08-31",
       "addedAt": "2026-08-31T11:10:12.042Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:53:30.550Z"
+  "lastUpdated": "2026-10-30T11:53:45.637Z"
 }
