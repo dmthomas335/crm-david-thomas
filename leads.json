@@ -1151,13 +1151,13 @@
       "phone": "",
       "social": "https://www.facebook.com/drew.gilpin.3",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-12",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-05-20",
       "videoSent": false
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T12:05:07.322Z"
+  "lastUpdated": "2026-10-30T12:05:14.251Z"
 }
