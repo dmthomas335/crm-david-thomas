@@ -1404,13 +1404,13 @@
       "phone": "",
       "social": "https://www.facebook.com/josh.dunkin.9",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal 704558 Me Cancelled",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:54:15.684Z",
       "videoSent": false
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T12:05:14.251Z"
+  "lastUpdated": "2026-10-30T12:05:20.283Z"
 }
