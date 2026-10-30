@@ -25810,14 +25810,14 @@
       "phone": "",
       "social": "https://www.facebook.com/christy.smith.5815",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:41:44.378Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:51:40.853Z"
+  "lastUpdated": "2026-10-30T11:52:08.099Z"
 }
