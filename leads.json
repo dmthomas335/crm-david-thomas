@@ -31765,7 +31765,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:36:25.403Z"
+    },
+    {
+      "id": "mvuwd2vbhnxn5hbn4n5",
+      "name": "Travis Holte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100077114990161",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:36:45.767Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:36:25.403Z"
+  "lastUpdated": "2026-10-30T11:36:45.767Z"
 }
