@@ -31587,24 +31587,6 @@
       "addedAt": "2026-10-29T11:36:15.600Z"
     },
     {
-      "id": "mvtgy78ok3i0b9di3b9",
-      "name": "Salvador Miranda ",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-29",
-      "nextFollowUp": "2026-11-02",
-      "notes": "",
-      "lastModified": "2026-10-29",
-      "dateAdded": "2026-10-29",
-      "addedAt": "2026-10-29T11:37:31.176Z"
-    },
-    {
       "id": "mvuw9pos0nsxbddkj1no",
       "name": "Matt Ruisz Jr",
       "email": "",
@@ -31803,5 +31785,5 @@
       "addedAt": "2026-10-30T11:38:17.864Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:38:34.397Z"
+  "lastUpdated": "2026-10-30T11:38:39.661Z"
 }
