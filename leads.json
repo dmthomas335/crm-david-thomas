@@ -31675,7 +31675,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:34:08.716Z"
+    },
+    {
+      "id": "mvuwaa0q2ioouica7kh",
+      "name": "Steve Firely",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.firely",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:34:35.066Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:34:08.716Z"
+  "lastUpdated": "2026-10-30T11:34:35.066Z"
 }
