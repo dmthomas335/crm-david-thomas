@@ -31729,7 +31729,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:35:31.340Z"
+    },
+    {
+      "id": "mvuwc20fj8we58g0hci",
+      "name": "Brian Lawton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.lawton.39",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-06",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:35:57.999Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:35:31.340Z"
+  "lastUpdated": "2026-10-30T11:35:57.999Z"
 }
