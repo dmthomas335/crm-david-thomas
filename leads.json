@@ -9590,10 +9590,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-07-10",
-      "nextFollowUp": "2026-10-30",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-13",
+      "notes": "Personal still trade? delete ",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T09:15:00.486Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:52:31.972Z"
+  "lastUpdated": "2026-10-30T11:52:39.678Z"
 }
