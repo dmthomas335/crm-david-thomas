@@ -31551,24 +31551,6 @@
       "addedAt": "2026-10-29T11:34:23.269Z"
     },
     {
-      "id": "mvtgv7dn9ggm0r3q109",
-      "name": "Danny Yoon",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-29",
-      "nextFollowUp": "2026-11-03",
-      "notes": "",
-      "lastModified": "2026-10-29",
-      "dateAdded": "2026-10-29",
-      "addedAt": "2026-10-29T11:35:11.387Z"
-    },
-    {
       "id": "mvtgw423a4ysp0s1hug",
       "name": "Miguel Loza",
       "email": "",
@@ -31821,5 +31803,5 @@
       "addedAt": "2026-10-30T11:38:17.864Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:38:30.778Z"
+  "lastUpdated": "2026-10-30T11:38:34.397Z"
 }
