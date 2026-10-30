@@ -31819,7 +31819,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:37:29.327Z"
+    },
+    {
+      "id": "mvuwenfh9wdv00lfji",
+      "name": "David Eisenhofer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.eisenhofer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:37:59.069Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:37:29.327Z"
+  "lastUpdated": "2026-10-30T11:37:59.069Z"
 }
