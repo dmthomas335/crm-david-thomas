@@ -31747,7 +31747,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:35:57.999Z"
+    },
+    {
+      "id": "mvuwcn5nlfsuf8rtn",
+      "name": "Nick W Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.w.allen.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:36:25.403Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:35:57.999Z"
+  "lastUpdated": "2026-10-30T11:36:25.403Z"
 }
