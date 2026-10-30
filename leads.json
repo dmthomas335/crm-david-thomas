@@ -31801,7 +31801,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:38:55.721Z"
+    },
+    {
+      "id": "mvuwg12cyfudyo898f",
+      "name": "Tim Hols",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-04",
+      "notes": "",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:39:03.396Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:38:55.721Z"
+  "lastUpdated": "2026-10-30T11:39:03.396Z"
 }
