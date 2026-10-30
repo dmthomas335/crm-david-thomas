@@ -980,13 +980,13 @@
       "phone": "",
       "social": "https://www.facebook.com/brad.coleman.737563",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "told about 2 week promo joined as 2WT",
-      "lastModified": "2026-08-27",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-05-20",
       "videoSent": true
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T12:04:59.415Z"
+  "lastUpdated": "2026-10-30T12:05:07.322Z"
 }
