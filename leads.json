@@ -29217,14 +29217,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.ellis.75491",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-10-30",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-10-30",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:17:01.039Z"
     },
@@ -31857,5 +31857,5 @@
       "addedAt": "2026-10-30T11:39:20.624Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:54:41.214Z"
+  "lastUpdated": "2026-10-30T11:54:58.521Z"
 }
