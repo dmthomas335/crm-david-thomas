@@ -31551,24 +31551,6 @@
       "addedAt": "2026-10-29T11:34:23.269Z"
     },
     {
-      "id": "mvtguy29kmkcarn332b",
-      "name": "Neil Simpson",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-29",
-      "nextFollowUp": "2026-11-02",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-29",
-      "dateAdded": "2026-10-29",
-      "addedAt": "2026-10-29T11:34:59.313Z"
-    },
-    {
       "id": "mvtgv7dn9ggm0r3q109",
       "name": "Danny Yoon",
       "email": "",
@@ -31839,5 +31821,5 @@
       "addedAt": "2026-10-30T11:38:17.864Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:38:26.812Z"
+  "lastUpdated": "2026-10-30T11:38:30.778Z"
 }
