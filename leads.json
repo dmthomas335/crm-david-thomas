@@ -31783,7 +31783,25 @@
       "lastModified": "2026-10-30",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:36:45.767Z"
+    },
+    {
+      "id": "mvuwdidjmpvl8tehyv",
+      "name": "George Roberts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100006589816144",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-30",
+      "nextFollowUp": "2026-11-13",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-10-30",
+      "dateAdded": "2026-10-30",
+      "addedAt": "2026-10-30T11:37:05.863Z"
     }
   ],
-  "lastUpdated": "2026-10-30T11:36:45.767Z"
+  "lastUpdated": "2026-10-30T11:37:05.863Z"
 }
