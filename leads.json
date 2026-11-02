@@ -24046,14 +24046,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charles.johnson.853943",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-10",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:18:30.504Z"
     },
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:40:36.299Z"
+  "lastUpdated": "2026-11-02T13:40:54.232Z"
 }
