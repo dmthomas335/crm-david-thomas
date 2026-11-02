@@ -25252,14 +25252,14 @@
       "phone": "",
       "social": "https://www.facebook.com/victoringramjr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:11:43.418Z"
     },
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:41:28.544Z"
+  "lastUpdated": "2026-11-02T13:41:46.397Z"
 }
