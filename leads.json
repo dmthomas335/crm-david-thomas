@@ -25558,14 +25558,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19q7tbzgZ5/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:39:21.018Z"
     },
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:41:46.397Z"
+  "lastUpdated": "2026-11-02T13:42:20.476Z"
 }
