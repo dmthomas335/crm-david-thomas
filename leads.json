@@ -31873,7 +31873,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:14:09.020Z"
+    },
+    {
+      "id": "mvza6cb7uy7zlp4x3mc",
+      "name": "Mikey Naranjo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/miguel.naranjo.1614",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T13:14:30.739Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:14:09.021Z"
+  "lastUpdated": "2026-11-02T13:14:30.739Z"
 }
