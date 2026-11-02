@@ -28712,14 +28712,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tylersorensen4",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:24:24.154Z"
     },
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:39:53.683Z"
+  "lastUpdated": "2026-11-02T13:40:12.265Z"
 }
