@@ -12402,14 +12402,14 @@
       "phone": "",
       "social": "https://www.facebook.com/misty.rose.18",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-09-11",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal joined as 2WT 523165 Ricky J",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T12:48:01.886Z",
       "customerSince": "2026-09-04"
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:34:28.207Z"
+  "lastUpdated": "2026-11-02T13:36:09.267Z"
 }
