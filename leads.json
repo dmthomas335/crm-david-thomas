@@ -32089,7 +32089,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:20:36.670Z"
+    },
+    {
+      "id": "mvzaeovte97y8wyzulk",
+      "name": "James Irvin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.irvin.543908",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-16",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T13:21:00.281Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:20:36.670Z"
+  "lastUpdated": "2026-11-02T13:21:00.281Z"
 }
