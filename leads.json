@@ -31909,7 +31909,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:14:59.083Z"
+    },
+    {
+      "id": "mvza8bv1a1xe19epa1e",
+      "name": "Stephen Moore",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephen.moore.14473",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T13:16:03.469Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:14:59.083Z"
+  "lastUpdated": "2026-11-02T13:16:03.469Z"
 }
