@@ -32017,7 +32017,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:18:27.224Z"
+    },
+    {
+      "id": "mvzactuxfmibf6vr8c",
+      "name": "Gary Wedel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gary.wedel.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-20",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T13:19:33.417Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:18:43.080Z"
+  "lastUpdated": "2026-11-02T13:19:33.417Z"
 }
