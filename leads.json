@@ -24478,14 +24478,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hector.velez.3133719",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-11-02",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-11-02",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:18:21.768Z"
     },
@@ -32074,5 +32074,5 @@
       "addedAt": "2026-11-02T13:34:28.207Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:41:12.678Z"
+  "lastUpdated": "2026-11-02T13:41:28.544Z"
 }
