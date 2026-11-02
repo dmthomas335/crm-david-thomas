@@ -31963,7 +31963,25 @@
       "lastModified": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:16:50.143Z"
+    },
+    {
+      "id": "mvzaa3apyyl7qou052",
+      "name": "Nau Renh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dawt.midawt",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-02",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-02",
+      "dateAdded": "2026-11-02",
+      "addedAt": "2026-11-02T13:17:25.681Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:16:50.143Z"
+  "lastUpdated": "2026-11-02T13:17:25.681Z"
 }
