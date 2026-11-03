@@ -12220,14 +12220,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1D22BS6ULm/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-03",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-01T10:51:47.876Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:47:27.488Z"
+  "lastUpdated": "2026-11-03T13:48:35.074Z"
 }
