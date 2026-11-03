@@ -32216,7 +32216,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T12:45:06.159Z"
+    },
+    {
+      "id": "mw0oktrqvudxi2r3vxm",
+      "name": "Dennis Blanchard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dennis.blanchard.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-12-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T12:45:27.350Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:45:06.159Z"
+  "lastUpdated": "2026-11-03T12:45:27.350Z"
 }
