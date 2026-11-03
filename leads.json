@@ -28730,14 +28730,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mitchell.naidu.35",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-03",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-10-09",
       "addedAt": "2026-10-09T09:25:05.102Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:55:11.032Z"
+  "lastUpdated": "2026-11-03T13:55:30.401Z"
 }
