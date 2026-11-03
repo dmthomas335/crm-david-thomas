@@ -3429,13 +3429,13 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006780554714",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-08-18",
-      "nextFollowUp": "2026-11-03",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T11:14:55.511Z",
       "videoSent": true
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T14:03:07.938Z"
+  "lastUpdated": "2026-11-03T14:03:16.299Z"
 }
