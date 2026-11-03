@@ -32072,7 +32072,25 @@
       "customerSince": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:34:28.207Z"
+    },
+    {
+      "id": "mw0oghr9ikqor8jywt",
+      "name": "Carlos Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlosdish",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T12:42:05.157Z"
     }
   ],
-  "lastUpdated": "2026-11-02T13:49:57.458Z"
+  "lastUpdated": "2026-11-03T12:42:05.157Z"
 }
