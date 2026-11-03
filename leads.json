@@ -31130,9 +31130,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-03",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-27",
+      "nextFollowUp": "2027-03-18",
+      "notes": "Personal ",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:25:18.269Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T14:01:44.224Z"
+  "lastUpdated": "2026-11-03T14:02:32.826Z"
 }
