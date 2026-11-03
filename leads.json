@@ -32234,7 +32234,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T12:45:27.350Z"
+    },
+    {
+      "id": "mw0olg78fm78bxrtxqm",
+      "name": "Paul Davies",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100000473006401",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-12-01",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T12:45:56.420Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:45:27.350Z"
+  "lastUpdated": "2026-11-03T12:45:56.420Z"
 }
