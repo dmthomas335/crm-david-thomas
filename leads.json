@@ -32288,7 +32288,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T12:46:20.340Z"
+    },
+    {
+      "id": "mw0omagytsaihmn7c08",
+      "name": "Scott Clayson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T12:46:35.650Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:46:20.340Z"
+  "lastUpdated": "2026-11-03T12:46:35.650Z"
 }
