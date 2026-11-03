@@ -10999,10 +10999,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-03",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
       "notes": "Personal 780923 Casmer ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T08:54:25.750Z",
       "customerSince": "2026-10-13"
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:46:41.906Z"
+  "lastUpdated": "2026-11-03T13:47:02.211Z"
 }
