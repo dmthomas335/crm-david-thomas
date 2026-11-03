@@ -31965,24 +31965,6 @@
       "addedAt": "2026-11-02T13:19:33.417Z"
     },
     {
-      "id": "mvzad379tq2nz0umile",
-      "name": "Levi Francis",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-06",
-      "notes": "",
-      "lastModified": "2026-11-02",
-      "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:19:45.525Z"
-    },
-    {
       "id": "mvzadr0fkpsc131rcx",
       "name": "Altair Mclean",
       "email": "",
@@ -32290,5 +32272,5 @@
       "addedAt": "2026-11-03T12:46:35.650Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:46:58.099Z"
+  "lastUpdated": "2026-11-03T12:47:02.313Z"
 }
