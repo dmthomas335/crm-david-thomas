@@ -32037,24 +32037,6 @@
       "addedAt": "2026-11-02T13:21:00.281Z"
     },
     {
-      "id": "mvzaffi0jn5bxwhuah9",
-      "name": "Roger Smith",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-07",
-      "notes": "",
-      "lastModified": "2026-11-02",
-      "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:21:34.776Z"
-    },
-    {
       "id": "mvzaw0a7vvzw5z2aidp",
       "name": "Joshua Hughes",
       "email": "ghughes486@gmail.com",
@@ -32308,5 +32290,5 @@
       "addedAt": "2026-11-03T12:46:35.650Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:46:35.650Z"
+  "lastUpdated": "2026-11-03T12:46:58.099Z"
 }
