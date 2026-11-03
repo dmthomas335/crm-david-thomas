@@ -29095,10 +29095,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-29",
-      "nextFollowUp": "2026-11-03",
-      "notes": "Personal Birthday still trade? Jeff customer ",
-      "lastModified": "2026-10-29",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-12-03",
+      "notes": "Personal  Jeff customer ",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:12:26.987Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:55:30.401Z"
+  "lastUpdated": "2026-11-03T13:56:14.086Z"
 }
