@@ -1962,13 +1962,13 @@
       "phone": "",
       "social": "https://www.facebook.com/tdk28",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-03",
+      "nextFollowUp": null,
       "notes": "joined as 2WT Personal  customer / ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:08:10.067Z",
       "videoSent": true
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T14:04:21.877Z"
+  "lastUpdated": "2026-11-03T14:04:31.299Z"
 }
