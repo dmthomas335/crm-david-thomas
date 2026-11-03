@@ -27272,14 +27272,14 @@
       "phone": "",
       "social": "https://www.facebook.com/wade.butler.5494",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-11-03",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-08",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:03:49.499Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:54:10.962Z"
+  "lastUpdated": "2026-11-03T13:54:29.111Z"
 }
