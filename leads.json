@@ -28374,10 +28374,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-03",
-      "notes": "Personal Birthday delete ",
-      "lastModified": "2026-10-27",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-12-03",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-10-07",
       "addedAt": "2026-10-07T11:35:43.066Z"
     },
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T13:48:57.722Z"
+  "lastUpdated": "2026-11-03T13:49:19.999Z"
 }
