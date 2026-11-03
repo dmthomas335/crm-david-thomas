@@ -32126,7 +32126,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T12:42:48.686Z"
+    },
+    {
+      "id": "mw0oi2z08ex0b72oth8",
+      "name": "Samuel Agholar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samuelonboard",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-03",
+      "dateAdded": "2026-11-03",
+      "addedAt": "2026-11-03T12:43:19.308Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:42:48.686Z"
+  "lastUpdated": "2026-11-03T12:43:19.308Z"
 }
