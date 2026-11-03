@@ -8036,10 +8036,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Closed",
-      "lastContact": "2026-08-28",
-      "nextFollowUp": "2026-11-03",
+      "lastContact": "2026-11-03",
+      "nextFollowUp": "2026-11-10",
       "notes": "Personal Me 758186 cancelled ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-11-03",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T07:58:29.322Z",
       "customerSince": "2026-06-29"
@@ -32308,5 +32308,5 @@
       "addedAt": "2026-11-03T12:47:32.159Z"
     }
   ],
-  "lastUpdated": "2026-11-03T12:47:32.159Z"
+  "lastUpdated": "2026-11-03T13:45:32.926Z"
 }
