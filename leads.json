@@ -31143,14 +31143,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jonathan.kalis.56",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
       "nextFollowUp": "2026-11-04",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:25:36.600Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T12:04:04.385Z"
+  "lastUpdated": "2026-11-04T12:04:18.847Z"
 }
