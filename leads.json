@@ -30477,14 +30477,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kenneth.waters.501",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:39:10.160Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T12:01:16.403Z"
+  "lastUpdated": "2026-11-04T12:01:34.964Z"
 }
