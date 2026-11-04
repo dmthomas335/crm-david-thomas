@@ -32378,7 +32378,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T10:44:28.993Z"
+    },
+    {
+      "id": "mw1zpscbtgomctdw1qa",
+      "name": "Kim Brown ",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1ESpQ5aRJp/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-12-02",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T10:45:00.731Z"
     }
   ],
-  "lastUpdated": "2026-11-04T10:44:28.994Z"
+  "lastUpdated": "2026-11-04T10:45:00.731Z"
 }
