@@ -4330,14 +4330,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeff.walpole.31",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "personal ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:16:16.141Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T12:05:23.156Z"
+  "lastUpdated": "2026-11-04T12:05:40.682Z"
 }
