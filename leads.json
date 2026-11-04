@@ -19446,14 +19446,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lisa.thurman",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal  delete ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T11:57:39.267Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:43:21.588Z"
+  "lastUpdated": "2026-11-04T11:44:00.950Z"
 }
