@@ -9789,9 +9789,9 @@
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-11-04",
-      "notes": "Personal me 772630",
-      "lastModified": "2026-10-05",
+      "nextFollowUp": "2027-01-27",
+      "notes": "Personal me 772630 cancelled coming back",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:48:42.569Z",
       "customerSince": "2026-09-03"
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:37:16.785Z"
+  "lastUpdated": "2026-11-04T11:37:47.491Z"
 }
