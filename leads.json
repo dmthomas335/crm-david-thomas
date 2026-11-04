@@ -31251,14 +31251,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CNP535mLP/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-28",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:36:00.459Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T12:04:18.847Z"
+  "lastUpdated": "2026-11-04T12:04:38.816Z"
 }
