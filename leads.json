@@ -27056,14 +27056,14 @@
       "phone": "",
       "social": "https://www.facebook.com/yanny89",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:36:49.988Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:55:57.748Z"
+  "lastUpdated": "2026-11-04T11:56:14.497Z"
 }
