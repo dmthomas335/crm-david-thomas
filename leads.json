@@ -9405,14 +9405,14 @@
       "phone": "",
       "social": "https://www.facebook.com/terry.matthews.92505",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-06-16",
       "addedAt": "2026-06-16T11:24:36.244Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:46:32.316Z"
+  "lastUpdated": "2026-11-04T11:46:56.347Z"
 }
