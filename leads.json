@@ -25018,14 +25018,14 @@
       "phone": "",
       "social": "https://www.facebook.com/neil.ramsden.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal  still trade? ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:32:53.757Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:47:11.337Z"
+  "lastUpdated": "2026-11-04T11:47:28.195Z"
 }
