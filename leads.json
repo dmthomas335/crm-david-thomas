@@ -2583,9 +2583,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-04",
-      "notes": "personal 561034 Stacy ",
-      "lastModified": "2026-10-21",
+      "nextFollowUp": "2026-12-08",
+      "notes": "personal 561034 Stacy no response",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T11:27:46.630Z",
       "videoSent": true,
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:38:30.285Z"
+  "lastUpdated": "2026-11-04T11:38:59.947Z"
 }
