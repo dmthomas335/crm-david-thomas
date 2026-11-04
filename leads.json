@@ -30045,14 +30045,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100055951492375",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:19:26.174Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:59:51.138Z"
+  "lastUpdated": "2026-11-04T12:00:37.334Z"
 }
