@@ -20365,14 +20365,14 @@
       "phone": "",
       "social": "https://www.facebook.com/AnnaCasaleDR",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal  delete ",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T12:11:36.294Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:44:42.026Z"
+  "lastUpdated": "2026-11-04T11:44:58.878Z"
 }
