@@ -30135,14 +30135,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nikos.tsoulfas.3",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-30",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-30",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:23:22.361Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:44:35.520Z"
+  "lastUpdated": "2026-11-04T11:44:42.026Z"
 }
