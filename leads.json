@@ -19085,14 +19085,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BfimKGZJF/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "David T Page delete?",
-      "lastModified": "2026-10-05",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T07:33:29.088Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:42:44.422Z"
+  "lastUpdated": "2026-11-04T11:43:21.588Z"
 }
