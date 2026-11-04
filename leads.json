@@ -32029,10 +32029,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Closed",
-      "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-04",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-11",
       "notes": "786204 ashley IG",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-04",
       "customerSince": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:34:28.207Z"
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:40:24.452Z"
+  "lastUpdated": "2026-11-04T11:41:51.431Z"
 }
