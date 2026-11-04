@@ -29613,14 +29613,14 @@
       "phone": "",
       "social": "https://www.facebook.com/haroldharris57",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-15",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-10-15",
       "addedAt": "2026-10-15T09:32:24.455Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T11:59:34.078Z"
+  "lastUpdated": "2026-11-04T11:59:51.138Z"
 }
