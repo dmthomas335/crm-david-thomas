@@ -32468,7 +32468,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T10:46:17.104Z"
+    },
+    {
+      "id": "mw1zrqm8on6vtama7l",
+      "name": "Henry Stay",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-18",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T10:46:31.808Z"
     }
   ],
-  "lastUpdated": "2026-11-04T10:46:17.104Z"
+  "lastUpdated": "2026-11-04T10:46:31.808Z"
 }
