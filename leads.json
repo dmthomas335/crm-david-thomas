@@ -32270,7 +32270,25 @@
       "lastModified": "2026-11-03",
       "dateAdded": "2026-11-03",
       "addedAt": "2026-11-03T12:46:35.650Z"
+    },
+    {
+      "id": "mw1zm3e65y28ewf73ei",
+      "name": "Joe Stanfield",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1X2Wv5o3qX/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T10:42:08.430Z"
     }
   ],
-  "lastUpdated": "2026-11-04T10:14:37.688Z"
+  "lastUpdated": "2026-11-04T10:42:08.430Z"
 }
