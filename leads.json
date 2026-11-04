@@ -32432,7 +32432,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T10:45:48.234Z"
+    },
+    {
+      "id": "mw1zr4crk3pcndqs2k",
+      "name": "Larry S Mith ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-04",
+      "nextFollowUp": "2026-12-04",
+      "notes": "",
+      "lastModified": "2026-11-04",
+      "dateAdded": "2026-11-04",
+      "addedAt": "2026-11-04T10:46:02.955Z"
     }
   ],
-  "lastUpdated": "2026-11-04T10:45:48.234Z"
+  "lastUpdated": "2026-11-04T10:46:02.955Z"
 }
