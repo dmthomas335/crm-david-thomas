@@ -7487,14 +7487,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charles.anderson.315",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-14",
-      "nextFollowUp": "2026-11-04",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-11-04",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T13:36:21.436Z"
     },
@@ -32524,5 +32524,5 @@
       "addedAt": "2026-11-04T10:47:03.717Z"
     }
   ],
-  "lastUpdated": "2026-11-04T12:07:03.185Z"
+  "lastUpdated": "2026-11-04T12:07:14.762Z"
 }
