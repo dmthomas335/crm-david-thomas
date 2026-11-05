@@ -32218,24 +32218,6 @@
       "addedAt": "2026-11-03T12:45:56.420Z"
     },
     {
-      "id": "mw0olynodollp7ld8og",
-      "name": "Peter Dunning",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-11-10",
-      "notes": "",
-      "lastModified": "2026-11-03",
-      "dateAdded": "2026-11-03",
-      "addedAt": "2026-11-03T12:46:20.340Z"
-    },
-    {
       "id": "mw1zm3e65y28ewf73ei",
       "name": "Joe Stanfield",
       "email": "",
@@ -32344,5 +32326,5 @@
       "addedAt": "2026-11-04T10:45:00.731Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:07:37.435Z"
+  "lastUpdated": "2026-11-05T08:07:44.960Z"
 }
