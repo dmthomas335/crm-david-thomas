@@ -27021,14 +27021,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bonerjes.calvio",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:06:46.414Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:45:15.938Z"
+  "lastUpdated": "2026-11-05T12:45:30.944Z"
 }
