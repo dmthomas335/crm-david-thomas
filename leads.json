@@ -32469,7 +32469,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T12:20:26.387Z"
+    },
+    {
+      "id": "mw3ikrx6v6tafcnqcr",
+      "name": "Gerard Loughlin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gerard.loughlin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T12:20:45.786Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:20:26.387Z"
+  "lastUpdated": "2026-11-05T12:20:45.786Z"
 }
