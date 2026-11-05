@@ -5273,7 +5273,7 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": "2026-11-19",
       "notes": "Discord",
       "lastModified": "2026-11-05",
       "dateAdded": "2026-05-31",
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:40:22.256Z"
+  "lastUpdated": "2026-11-05T12:40:29.464Z"
 }
