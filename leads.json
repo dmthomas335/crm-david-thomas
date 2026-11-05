@@ -32325,7 +32325,25 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T10:45:00.731Z"
+    },
+    {
+      "id": "mw3ihfb9izbss81xzs",
+      "name": "Bryan Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/TheFlowStateLife",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T12:18:09.477Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:33:53.944Z"
+  "lastUpdated": "2026-11-05T12:18:09.477Z"
 }
