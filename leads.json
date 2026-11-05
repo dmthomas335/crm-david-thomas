@@ -8504,14 +8504,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jason.ramsay.52",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-09",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:37:05.252Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:41:15.408Z"
+  "lastUpdated": "2026-11-05T12:41:41.443Z"
 }
