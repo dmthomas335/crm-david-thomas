@@ -32397,7 +32397,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T12:19:18.860Z"
+    },
+    {
+      "id": "mw3ij99mxwdznum672f",
+      "name": "David Hill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.hill.316416",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-19",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T12:19:34.954Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:19:18.860Z"
+  "lastUpdated": "2026-11-05T12:19:34.954Z"
 }
