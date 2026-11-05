@@ -32415,7 +32415,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T12:19:34.954Z"
+    },
+    {
+      "id": "mw3ijlsktrqsdo446u",
+      "name": "Kevin Solis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevin.solis.16",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-12",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T12:19:51.188Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:19:34.954Z"
+  "lastUpdated": "2026-11-05T12:19:51.188Z"
 }
