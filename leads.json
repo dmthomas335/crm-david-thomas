@@ -32523,7 +32523,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T12:21:31.744Z"
+    },
+    {
+      "id": "mw3im01ox9ea6x7njx8",
+      "name": "John Harris",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": "2026-11-10",
+      "notes": "",
+      "lastModified": "2026-11-05",
+      "dateAdded": "2026-11-05",
+      "addedAt": "2026-11-05T12:21:42.972Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:21:31.744Z"
+  "lastUpdated": "2026-11-05T12:21:42.972Z"
 }
