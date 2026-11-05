@@ -1259,13 +1259,13 @@
       "phone": "",
       "social": "https://www.facebook.com/perri.agnew",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-18",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-09-18",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T11:24:51.126Z",
       "videoSent": true
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:59:33.554Z"
+  "lastUpdated": "2026-11-05T13:00:16.707Z"
 }
