@@ -30460,14 +30460,14 @@
       "phone": "",
       "social": "https://www.facebook.com/doritsam90",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-10-21",
       "addedAt": "2026-10-21T11:38:49.767Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:51:18.171Z"
+  "lastUpdated": "2026-11-05T12:52:21.944Z"
 }
