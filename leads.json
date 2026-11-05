@@ -32486,25 +32486,7 @@
       "lastModified": "2026-11-04",
       "dateAdded": "2026-11-04",
       "addedAt": "2026-11-04T10:46:31.808Z"
-    },
-    {
-      "id": "mw1zrzsttucoel83cx",
-      "name": "Hey Man",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-04",
-      "nextFollowUp": "2026-11-18",
-      "notes": "",
-      "lastModified": "2026-11-04",
-      "dateAdded": "2026-11-04",
-      "addedAt": "2026-11-04T10:46:43.709Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:06:21.988Z"
+  "lastUpdated": "2026-11-05T08:06:28.533Z"
 }
