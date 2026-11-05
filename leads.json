@@ -2851,13 +2851,13 @@
       "phone": "",
       "social": "https://www.facebook.com/rickcurci",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-11-05",
+      "lastContact": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "send trend trap personal",
-      "lastModified": "2026-08-26",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:50:21.335Z",
       "videoSent": false
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:56:49.456Z"
+  "lastUpdated": "2026-11-05T12:57:30.724Z"
 }
