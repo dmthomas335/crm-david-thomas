@@ -13904,14 +13904,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18c2sKNqxJ/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-07-11",
       "addedAt": "2026-07-11T10:25:11.581Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:58:16.411Z"
+  "lastUpdated": "2026-11-05T12:58:29.888Z"
 }
