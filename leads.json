@@ -32308,24 +32308,6 @@
       "addedAt": "2026-11-04T10:42:45.261Z"
     },
     {
-      "id": "mw1znax3b89tymxf1u6",
-      "name": "David Smith ",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-04",
-      "nextFollowUp": "2026-11-19",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-04",
-      "dateAdded": "2026-11-04",
-      "addedAt": "2026-11-04T10:43:04.839Z"
-    },
-    {
       "id": "mw1znpgosekszhomum",
       "name": "Darren Branch ",
       "email": "",
@@ -32398,5 +32380,5 @@
       "addedAt": "2026-11-04T10:45:00.731Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:06:53.368Z"
+  "lastUpdated": "2026-11-05T08:07:20.081Z"
 }
