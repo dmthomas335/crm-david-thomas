@@ -32254,24 +32254,6 @@
       "addedAt": "2026-11-03T12:46:20.340Z"
     },
     {
-      "id": "mw0omagytsaihmn7c08",
-      "name": "Scott Clayson",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-11-10",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-03",
-      "dateAdded": "2026-11-03",
-      "addedAt": "2026-11-03T12:46:35.650Z"
-    },
-    {
       "id": "mw1zm3e65y28ewf73ei",
       "name": "Joe Stanfield",
       "email": "",
@@ -32380,5 +32362,5 @@
       "addedAt": "2026-11-04T10:45:00.731Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:07:20.081Z"
+  "lastUpdated": "2026-11-05T08:07:32.715Z"
 }
