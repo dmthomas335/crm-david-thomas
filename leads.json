@@ -26985,14 +26985,14 @@
       "phone": "",
       "social": "https://www.facebook.com/raymond.zachery",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-04",
-      "nextFollowUp": "2026-11-18",
-      "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-04",
+      "nextFollowUp": "2026-11-12",
+      "notes": "Personal",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-09-25",
       "addedAt": "2026-09-25T12:06:06.077Z"
     },
@@ -32327,5 +32327,5 @@
       "addedAt": "2026-11-04T10:45:00.731Z"
     }
   ],
-  "lastUpdated": "2026-11-05T08:31:43.979Z"
+  "lastUpdated": "2026-11-05T08:33:53.944Z"
 }
