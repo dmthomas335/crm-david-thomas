@@ -24245,12 +24245,12 @@
       "phone": "",
       "social": "https://www.facebook.com/william.cabell.948",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-19",
+      "nextFollowUp": null,
       "notes": "Personal still trade? delete ",
       "lastModified": "2026-11-05",
       "dateAdded": "2026-09-11",
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T13:01:24.611Z"
+  "lastUpdated": "2026-11-05T14:11:21.338Z"
 }
