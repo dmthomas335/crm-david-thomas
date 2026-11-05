@@ -27075,14 +27075,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nipits",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-06",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:37:08.387Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:47:33.309Z"
+  "lastUpdated": "2026-11-05T12:47:52.581Z"
 }
