@@ -18454,14 +18454,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mohamed.kabbani1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal 523972 Josh Jarsen Cancelled\n",
-      "lastModified": "2026-09-11",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-07T12:37:28.045Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:55:51.885Z"
+  "lastUpdated": "2026-11-05T12:56:16.612Z"
 }
