@@ -2778,13 +2778,13 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Email",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:15:01.139Z",
       "videoSent": false
@@ -2855,7 +2855,7 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-11-05",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-19",
       "notes": "send trend trap personal",
       "lastModified": "2026-11-05",
       "dateAdded": "2026-05-25",
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:57:30.724Z"
+  "lastUpdated": "2026-11-05T12:57:40.637Z"
 }
