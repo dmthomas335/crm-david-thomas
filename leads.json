@@ -31288,14 +31288,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1JZCFTgDYK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-11-05",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-28",
+      "lastModified": "2026-11-05",
       "dateAdded": "2026-10-28",
       "addedAt": "2026-10-28T10:38:11.726Z"
     },
@@ -32597,5 +32597,5 @@
       "addedAt": "2026-11-05T12:22:21.328Z"
     }
   ],
-  "lastUpdated": "2026-11-05T12:54:21.255Z"
+  "lastUpdated": "2026-11-05T12:54:36.815Z"
 }
