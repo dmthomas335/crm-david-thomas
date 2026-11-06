@@ -25181,14 +25181,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jerry.machado.14",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-08",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:36:59.527Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:26:01.540Z"
+  "lastUpdated": "2026-11-06T13:27:47.854Z"
 }
