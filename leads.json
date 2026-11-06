@@ -32739,7 +32739,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T12:50:58.072Z"
+    },
+    {
+      "id": "mw4z3n5nds5jt4y3b6h",
+      "name": "Gus Jones ",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-11",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T12:51:06.107Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:50:58.072Z"
+  "lastUpdated": "2026-11-06T12:51:06.107Z"
 }
