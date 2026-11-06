@@ -25955,14 +25955,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stanel.adrian",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-21",
       "addedAt": "2026-09-21T11:45:06.428Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:59:45.458Z"
+  "lastUpdated": "2026-11-06T13:00:04.642Z"
 }
