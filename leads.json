@@ -25271,14 +25271,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ravishastry353",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-17",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-17",
       "addedAt": "2026-09-17T11:11:56.449Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:59:28.608Z"
+  "lastUpdated": "2026-11-06T12:59:45.458Z"
 }
