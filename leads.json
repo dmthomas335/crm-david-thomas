@@ -23344,14 +23344,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steven.a.everett",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-03",
       "addedAt": "2026-09-03T11:31:23.319Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:34:45.836Z"
+  "lastUpdated": "2026-11-06T13:34:54.256Z"
 }
