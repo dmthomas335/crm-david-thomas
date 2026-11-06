@@ -27813,14 +27813,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tom.j.mulvaney.5",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-10-05",
       "addedAt": "2026-10-05T11:37:40.641Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:56:22.908Z"
+  "lastUpdated": "2026-11-06T12:56:48.362Z"
 }
