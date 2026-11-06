@@ -25960,7 +25960,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-06",
       "notes": "Personal still trade? ",
       "lastModified": "2026-11-06",
       "dateAdded": "2026-09-21",
@@ -26409,10 +26409,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-23",
-      "nextFollowUp": "2026-11-06",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-23",
       "addedAt": "2026-09-23T10:52:32.695Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:00:04.642Z"
+  "lastUpdated": "2026-11-06T13:18:11.605Z"
 }
