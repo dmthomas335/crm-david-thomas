@@ -32523,7 +32523,25 @@
       "lastModified": "2026-11-05",
       "dateAdded": "2026-11-05",
       "addedAt": "2026-11-05T12:21:31.744Z"
+    },
+    {
+      "id": "mw4z0kbak588t6v3bdf",
+      "name": "Hrafnkell Elisson",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T12:48:42.454Z"
     }
   ],
-  "lastUpdated": "2026-11-06T08:41:51.982Z"
+  "lastUpdated": "2026-11-06T12:48:42.454Z"
 }
