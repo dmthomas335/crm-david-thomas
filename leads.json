@@ -32595,7 +32595,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T12:49:40.430Z"
+    },
+    {
+      "id": "mw4z23x16c4p2h0b9q",
+      "name": "John Hill",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-13",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T12:49:54.517Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:49:40.430Z"
+  "lastUpdated": "2026-11-06T12:49:54.517Z"
 }
