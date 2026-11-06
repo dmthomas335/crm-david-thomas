@@ -19123,12 +19123,12 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18DcwFmskr/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2027-01-25",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
       "lastModified": "2026-11-06",
       "dateAdded": "2026-08-12",
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:47:56.790Z"
+  "lastUpdated": "2026-11-06T13:53:49.460Z"
 }
