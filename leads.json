@@ -28930,14 +28930,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100002294003742",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:33:09.759Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:57:47.742Z"
+  "lastUpdated": "2026-11-06T12:58:02.276Z"
 }
