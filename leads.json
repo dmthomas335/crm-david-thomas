@@ -30334,14 +30334,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jamessb2",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-06",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-20",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-20",
+      "notes": "Personal Birthday delete ",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-10-20",
       "addedAt": "2026-10-20T11:21:11.898Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:37:02.000Z"
+  "lastUpdated": "2026-11-06T13:37:31.092Z"
 }
