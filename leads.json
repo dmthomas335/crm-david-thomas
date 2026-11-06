@@ -29740,14 +29740,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lati.culverson",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-10-16",
       "addedAt": "2026-10-16T09:50:36.868Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:58:25.840Z"
+  "lastUpdated": "2026-11-06T12:58:36.804Z"
 }
