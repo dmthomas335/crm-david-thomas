@@ -32757,7 +32757,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T12:51:06.107Z"
+    },
+    {
+      "id": "mw4z45df9e3ou3hnnxf",
+      "name": "Jose Zaruma",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-20",
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T12:51:29.715Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:51:06.107Z"
+  "lastUpdated": "2026-11-06T12:51:29.715Z"
 }
