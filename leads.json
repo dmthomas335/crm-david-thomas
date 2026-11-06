@@ -32577,7 +32577,25 @@
       "lastModified": "2026-11-06",
       "dateAdded": "2026-11-06",
       "addedAt": "2026-11-06T12:49:20.968Z"
+    },
+    {
+      "id": "mw4z1t1q7ej66rertp6",
+      "name": "Steve Cacciotti",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.cacciotti",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-06",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T12:49:40.430Z"
     }
   ],
-  "lastUpdated": "2026-11-06T12:49:20.968Z"
+  "lastUpdated": "2026-11-06T12:49:40.430Z"
 }
