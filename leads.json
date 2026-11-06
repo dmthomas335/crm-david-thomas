@@ -27579,14 +27579,14 @@
       "phone": "",
       "social": "https://www.facebook.com/danny.west.104",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
-      "nextFollowUp": "2026-11-06",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-11-06",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T11:34:27.478Z"
     },
@@ -32795,5 +32795,5 @@
       "addedAt": "2026-11-06T12:51:36.203Z"
     }
   ],
-  "lastUpdated": "2026-11-06T13:25:41.242Z"
+  "lastUpdated": "2026-11-06T13:26:01.540Z"
 }
