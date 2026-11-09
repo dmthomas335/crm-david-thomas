@@ -7946,10 +7946,10 @@
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
-      "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-09",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-23",
       "notes": "Personal joined as 2WT BB cancelled ",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:49:44.166Z",
       "customerSince": "2026-09-27"
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:08:49.154Z"
+  "lastUpdated": "2026-11-09T13:09:54.497Z"
 }
