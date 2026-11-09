@@ -31202,10 +31202,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-09",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-27",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-12-09",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-10-27",
       "addedAt": "2026-10-27T11:26:39.967Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:24:01.745Z"
+  "lastUpdated": "2026-11-09T13:24:10.662Z"
 }
