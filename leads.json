@@ -31436,10 +31436,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-29",
-      "nextFollowUp": "2026-11-09",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-10-29",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-12-09",
+      "notes": "Personal still trade? ",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-10-29",
       "addedAt": "2026-10-29T11:31:54.687Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:19:20.979Z"
+  "lastUpdated": "2026-11-09T13:24:01.745Z"
 }
