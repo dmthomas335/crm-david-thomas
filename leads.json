@@ -32579,42 +32579,6 @@
       "addedAt": "2026-11-06T12:49:40.430Z"
     },
     {
-      "id": "mw4z3c5saifwufzrtpp",
-      "name": "Harold Kneightly",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-13",
-      "notes": "",
-      "lastModified": "2026-11-06",
-      "dateAdded": "2026-11-06",
-      "addedAt": "2026-11-06T12:50:51.856Z"
-    },
-    {
-      "id": "mw4z45df9e3ou3hnnxf",
-      "name": "Jose Zaruma",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-20",
-      "notes": "",
-      "lastModified": "2026-11-06",
-      "dateAdded": "2026-11-06",
-      "addedAt": "2026-11-06T12:51:29.715Z"
-    },
-    {
       "id": "mw4z4adnjxyp4luxxel",
       "name": "Kelvin Saville",
       "email": "",
@@ -32777,5 +32741,5 @@
       "addedAt": "2026-11-09T12:55:15.458Z"
     }
   ],
-  "lastUpdated": "2026-11-09T12:55:49.517Z"
+  "lastUpdated": "2026-11-09T12:55:54.925Z"
 }
