@@ -30100,14 +30100,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bosund1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-10-19",
       "addedAt": "2026-10-19T11:20:51.863Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:17:27.317Z"
+  "lastUpdated": "2026-11-09T13:17:32.269Z"
 }
