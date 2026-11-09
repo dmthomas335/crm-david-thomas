@@ -24569,14 +24569,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brian.derolf.327710",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:27:27.183Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:17:59.888Z"
+  "lastUpdated": "2026-11-09T13:18:27.504Z"
 }
