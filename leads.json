@@ -12095,14 +12095,14 @@
       "phone": "",
       "social": "https://www.facebook.com/stuart.beardshall",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T11:12:13.155Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:25:48.985Z"
+  "lastUpdated": "2026-11-09T13:26:11.671Z"
 }
