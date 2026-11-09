@@ -26207,14 +26207,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carl.smiler.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-22",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:28:13.794Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:18:27.504Z"
+  "lastUpdated": "2026-11-09T13:18:44.526Z"
 }
