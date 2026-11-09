@@ -31796,10 +31796,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-09",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-02",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-12-09",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:14:09.020Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:24:10.662Z"
+  "lastUpdated": "2026-11-09T13:24:54.070Z"
 }
