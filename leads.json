@@ -4384,14 +4384,14 @@
       "phone": "",
       "social": "https://www.facebook.com/james.leivers",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "personal delete ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T11:17:45.311Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:12:56.125Z"
+  "lastUpdated": "2026-11-09T13:14:13.839Z"
 }
