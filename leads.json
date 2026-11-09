@@ -20132,14 +20132,14 @@
       "phone": "",
       "social": "https://www.facebook.com/richard.cossar.3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:40:08.858Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:14:37.845Z"
+  "lastUpdated": "2026-11-09T13:14:52.900Z"
 }
