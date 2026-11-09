@@ -18674,10 +18674,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-04",
-      "nextFollowUp": "2026-11-09",
-      "notes": "Personal 686804 Samuel Romero",
-      "lastModified": "2026-11-03",
+      "lastContact": "2026-11-09",
+      "nextFollowUp": "2026-11-10",
+      "notes": "Personal 686804 Samuel Romero cancelled ",
+      "lastModified": "2026-11-09",
       "customerSince": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:21:32.528Z"
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T12:58:11.597Z"
+  "lastUpdated": "2026-11-09T13:07:13.935Z"
 }
