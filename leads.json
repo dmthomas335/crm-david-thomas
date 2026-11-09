@@ -32579,24 +32579,6 @@
       "addedAt": "2026-11-06T12:49:40.430Z"
     },
     {
-      "id": "mw4z36l4j84fyidv00b",
-      "name": "John Paul Bach",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-11",
-      "notes": "",
-      "lastModified": "2026-11-06",
-      "dateAdded": "2026-11-06",
-      "addedAt": "2026-11-06T12:50:44.632Z"
-    },
-    {
       "id": "mw4z3c5saifwufzrtpp",
       "name": "Harold Kneightly",
       "email": "",
@@ -32831,5 +32813,5 @@
       "addedAt": "2026-11-09T12:55:15.458Z"
     }
   ],
-  "lastUpdated": "2026-11-09T12:55:40.377Z"
+  "lastUpdated": "2026-11-09T12:55:44.496Z"
 }
