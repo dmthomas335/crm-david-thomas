@@ -27453,14 +27453,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dariuspope93",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T11:08:58.751Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:15:57.994Z"
+  "lastUpdated": "2026-11-09T13:16:03.025Z"
 }
