@@ -25523,14 +25523,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mike.walker.37017794",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-09",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-09",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:38:55.588Z"
     },
@@ -32813,5 +32813,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:15:31.049Z"
+  "lastUpdated": "2026-11-09T13:15:57.994Z"
 }
