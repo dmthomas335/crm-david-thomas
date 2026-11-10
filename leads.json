@@ -32775,7 +32775,25 @@
       "lastModified": "2026-11-09",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T12:58:11.597Z"
+    },
+    {
+      "id": "mwagsx7ixjwxx42ijb",
+      "name": "Sergio William",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/william.sergio.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-12-10",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:05:29.886Z"
     }
   ],
-  "lastUpdated": "2026-11-10T08:39:32.204Z"
+  "lastUpdated": "2026-11-10T09:05:29.886Z"
 }
