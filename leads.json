@@ -29290,14 +29290,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steven.quick.357",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-10-13",
       "addedAt": "2026-10-13T11:19:45.156Z"
     },
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:21:50.258Z"
+  "lastUpdated": "2026-11-10T12:21:55.297Z"
 }
