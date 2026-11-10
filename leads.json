@@ -32811,7 +32811,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T09:05:55.778Z"
+    },
+    {
+      "id": "mwagu2j6tw6liygbw6f",
+      "name": "Devon Stearns",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/DevonStearns74",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-11-17",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:06:23.442Z"
     }
   ],
-  "lastUpdated": "2026-11-10T09:05:55.778Z"
+  "lastUpdated": "2026-11-10T09:06:23.442Z"
 }
