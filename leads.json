@@ -32901,7 +32901,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T09:10:32.216Z"
+    },
+    {
+      "id": "mwah00zg0tfeflw2d2d",
+      "name": "Awad Elfaituri",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/awad.elfaituri",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-11-23",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:11:01.372Z"
     }
   ],
-  "lastUpdated": "2026-11-10T09:10:32.216Z"
+  "lastUpdated": "2026-11-10T09:11:01.373Z"
 }
