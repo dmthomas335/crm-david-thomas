@@ -24803,14 +24803,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chuck.hodgson.52",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-09-15",
       "addedAt": "2026-09-15T11:25:26.962Z"
     },
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:29:40.349Z"
+  "lastUpdated": "2026-11-10T12:29:53.849Z"
 }
