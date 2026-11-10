@@ -23524,14 +23524,14 @@
       "phone": "",
       "social": "https://www.facebook.com/david.thall.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "Personal Birthday 563172 linda estelle cancelled still trade? delete ",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T11:06:12.276Z"
     },
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:21:55.297Z"
+  "lastUpdated": "2026-11-10T12:22:01.049Z"
 }
