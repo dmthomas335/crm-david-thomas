@@ -2251,13 +2251,13 @@
       "phone": "",
       "social": "https://www.facebook.com/lonnie.oneal.75",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "personal",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:17:17.268Z",
       "videoSent": false
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:31:57.972Z"
+  "lastUpdated": "2026-11-10T12:32:13.193Z"
 }
