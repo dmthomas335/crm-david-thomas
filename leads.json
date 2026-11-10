@@ -23614,14 +23614,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100090860476077",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "Personal",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-09-08",
       "addedAt": "2026-09-08T11:09:11.944Z"
     },
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:36:50.756Z"
+  "lastUpdated": "2026-11-10T12:37:14.233Z"
 }
