@@ -32705,24 +32705,6 @@
       "addedAt": "2026-11-09T12:55:04.476Z"
     },
     {
-      "id": "mw99kjk29wrsg0bdyie",
-      "name": "Frankjunior Ekanem",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-09",
-      "nextFollowUp": "2026-11-16",
-      "notes": "",
-      "lastModified": "2026-11-09",
-      "dateAdded": "2026-11-09",
-      "addedAt": "2026-11-09T12:55:15.458Z"
-    },
-    {
       "id": "mw99m3ghrrxm6ce6rfc",
       "name": "Eric Orman",
       "email": "",
@@ -32813,5 +32795,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-09T13:26:11.671Z"
+  "lastUpdated": "2026-11-10T08:39:06.165Z"
 }
