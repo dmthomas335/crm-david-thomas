@@ -32597,24 +32597,6 @@
       "addedAt": "2026-11-09T12:52:31.715Z"
     },
     {
-      "id": "mw99hcgjbpkhcm43akm",
-      "name": "Andrew Peacock",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-09",
-      "nextFollowUp": "2026-11-16",
-      "notes": "",
-      "lastModified": "2026-11-09",
-      "dateAdded": "2026-11-09",
-      "addedAt": "2026-11-09T12:52:46.291Z"
-    },
-    {
       "id": "mw99hygi5ul7c5k6cf",
       "name": "Sarah Jordan",
       "email": "",
@@ -32795,5 +32777,5 @@
       "addedAt": "2026-11-09T12:58:11.597Z"
     }
   ],
-  "lastUpdated": "2026-11-10T08:39:06.165Z"
+  "lastUpdated": "2026-11-10T08:39:13.423Z"
 }
