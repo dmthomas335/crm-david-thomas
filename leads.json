@@ -32883,7 +32883,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T09:10:09.971Z"
+    },
+    {
+      "id": "mwagzehk9sa5fw6ax2w",
+      "name": "Bryan Miller ",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/bryan.miller.1650",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-12-09",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:10:32.216Z"
     }
   ],
-  "lastUpdated": "2026-11-10T09:10:09.971Z"
+  "lastUpdated": "2026-11-10T09:10:32.216Z"
 }
