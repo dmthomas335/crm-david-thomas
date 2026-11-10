@@ -21772,14 +21772,14 @@
       "phone": "",
       "social": "https://www.facebook.com/phill.barnes.54",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-26",
-      "nextFollowUp": "2026-11-10",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-11-10",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T11:27:10.448Z"
     },
@@ -33047,5 +33047,5 @@
       "addedAt": "2026-11-10T09:49:37.530Z"
     }
   ],
-  "lastUpdated": "2026-11-10T12:22:18.044Z"
+  "lastUpdated": "2026-11-10T12:29:32.130Z"
 }
