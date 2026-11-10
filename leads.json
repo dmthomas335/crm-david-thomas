@@ -32991,7 +32991,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T09:47:56.434Z"
+    },
+    {
+      "id": "mwaic2e0wdrk9k7exsp",
+      "name": "Andy Ruddy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andy.ruddy.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-12-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:48:22.680Z"
     }
   ],
-  "lastUpdated": "2026-11-10T09:47:56.434Z"
+  "lastUpdated": "2026-11-10T09:48:22.680Z"
 }
