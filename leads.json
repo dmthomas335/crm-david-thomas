@@ -32955,7 +32955,25 @@
       "lastModified": "2026-11-10",
       "dateAdded": "2026-11-10",
       "addedAt": "2026-11-10T09:47:03.723Z"
+    },
+    {
+      "id": "mwaiavuybpf1sfdrig9",
+      "name": "Steve Allbrighton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/steve.allbrighton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-10",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-10",
+      "dateAdded": "2026-11-10",
+      "addedAt": "2026-11-10T09:47:27.562Z"
     }
   ],
-  "lastUpdated": "2026-11-10T09:47:03.724Z"
+  "lastUpdated": "2026-11-10T09:47:27.563Z"
 }
