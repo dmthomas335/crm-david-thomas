@@ -35,10 +35,12 @@
       "name": "Dorian Alin Crt",
       "social": "https://facebook.com/crzalin",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc364g592jtth3myno",
+      "convertedAt": "2026-11-11T12:19:23.525Z"
     },
     {
       "id": "prospect-mwc34yje-r39th0",
@@ -161,5 +163,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:13.671Z"
+  "lastUpdated": "2026-11-11T12:19:25.050Z"
 }
