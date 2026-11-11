@@ -19807,14 +19807,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ethan.boone3",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-09",
-      "nextFollowUp": "2026-11-11",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-08-14",
       "addedAt": "2026-08-14T12:11:52.568Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:34:01.707Z"
+  "lastUpdated": "2026-11-11T12:35:39.755Z"
 }
