@@ -33085,7 +33085,27 @@
       "addedAt": "2026-11-11T12:19:12.210Z",
       "prospectSourceId": "prospect-mwc34yje-h2rgxb",
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
+    },
+    {
+      "id": "mwc364g592jtth3myno",
+      "name": "Dorian Alin Crt",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/crzalin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-12-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T12:19:23.525Z",
+      "prospectSourceId": "prospect-mwc34yje-r831yj",
+      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:12.210Z"
+  "lastUpdated": "2026-11-11T12:19:23.525Z"
 }
