@@ -7,10 +7,12 @@
       "name": "Travian Chatman",
       "social": "https://facebook.com/travian.chatman.2025",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc35koked9iapp60a",
+      "convertedAt": "2026-11-11T12:18:57.909Z"
     },
     {
       "id": "prospect-mwc34yje-h2rgxb",
@@ -157,5 +159,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:18:29.210Z"
+  "lastUpdated": "2026-11-11T12:19:00.066Z"
 }
