@@ -131,10 +131,12 @@
       "name": "Mark Morris",
       "social": "https://facebook.com/mark.morris.9400",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc376wzuq2il6vbymb",
+      "convertedAt": "2026-11-11T12:20:13.379Z"
     },
     {
       "id": "prospect-mwc34yje-hty5vu",
@@ -173,5 +175,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:20:06.287Z"
+  "lastUpdated": "2026-11-11T12:20:14.856Z"
 }
