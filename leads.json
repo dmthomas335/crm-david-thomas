@@ -28047,14 +28047,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nathan.mcnaughton.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-11-11",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-10-06",
       "addedAt": "2026-10-06T10:15:38.413Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:38:11.348Z"
+  "lastUpdated": "2026-11-11T12:38:22.158Z"
 }
