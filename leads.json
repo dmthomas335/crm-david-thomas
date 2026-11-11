@@ -25037,14 +25037,14 @@
       "phone": "",
       "social": "https://www.facebook.com/whitesandbeaches",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-11-11",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-28",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:33:12.292Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:37:41.209Z"
+  "lastUpdated": "2026-11-11T12:37:59.449Z"
 }
