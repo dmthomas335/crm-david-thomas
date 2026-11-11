@@ -28961,19 +28961,19 @@
     },
     {
       "id": "mv56d30cjape1466w6s",
-      "name": "Paul Lopes",
+      "name": "Raul Lopes",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/paul.lopes.5264",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-11-11",
+      "nextFollowUp": null,
       "notes": "David T Page still trade? ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-10-12",
       "addedAt": "2026-10-12T11:34:41.532Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:40:17.957Z"
+  "lastUpdated": "2026-11-11T12:40:42.051Z"
 }
