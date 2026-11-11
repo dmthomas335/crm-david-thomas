@@ -49,10 +49,12 @@
       "name": "Mitchell Head",
       "social": "https://facebook.com/mitchell.head.9",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc36a7mjm9exuhjqhl",
+      "convertedAt": "2026-11-11T12:19:30.994Z"
     },
     {
       "id": "prospect-mwc34yje-sm5neh",
@@ -163,5 +165,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:25.050Z"
+  "lastUpdated": "2026-11-11T12:19:32.689Z"
 }
