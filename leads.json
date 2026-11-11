@@ -18616,14 +18616,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kerm.san",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-11",
+      "nextFollowUp": null,
       "notes": "Personal delete ",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T11:19:04.228Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:37:29.017Z"
+  "lastUpdated": "2026-11-11T12:37:41.209Z"
 }
