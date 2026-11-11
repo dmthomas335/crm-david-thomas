@@ -33165,7 +33165,27 @@
       "addedAt": "2026-11-11T12:19:46.819Z",
       "prospectSourceId": "prospect-mwc34yje-i453cm",
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
+    },
+    {
+      "id": "mwc36szm79nv2kk9t57",
+      "name": "Kelvin O. Richard",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/kelvin.o.richard",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T12:19:55.330Z",
+      "prospectSourceId": "prospect-mwc34yje-qfwcus",
+      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:46.819Z"
+  "lastUpdated": "2026-11-11T12:19:55.330Z"
 }
