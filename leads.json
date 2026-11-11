@@ -33105,7 +33105,27 @@
       "addedAt": "2026-11-11T12:19:23.525Z",
       "prospectSourceId": "prospect-mwc34yje-r831yj",
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
+    },
+    {
+      "id": "mwc36a7mjm9exuhjqhl",
+      "name": "Mitchell Head",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/mitchell.head.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-11-18",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T12:19:30.994Z",
+      "prospectSourceId": "prospect-mwc34yje-r39th0",
+      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:23.525Z"
+  "lastUpdated": "2026-11-11T12:19:30.994Z"
 }
