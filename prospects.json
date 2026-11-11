@@ -63,10 +63,12 @@
       "name": "Judy Zeleny",
       "social": "https://facebook.com/judy.zeleny.2025",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc36glxqsrqwm2zpg",
+      "convertedAt": "2026-11-11T12:19:39.285Z"
     },
     {
       "id": "prospect-mwc34yje-i453cm",
@@ -165,5 +167,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:32.689Z"
+  "lastUpdated": "2026-11-11T12:19:40.785Z"
 }
