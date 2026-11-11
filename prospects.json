@@ -119,10 +119,12 @@
       "name": "Evan Grant",
       "social": "https://facebook.com/evan.grant104",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc37cwlv00h6cqgdkt",
+      "convertedAt": "2026-11-11T12:20:21.141Z"
     },
     {
       "id": "prospect-mwc34yje-iuqkcl",
@@ -175,5 +177,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:20:14.856Z"
+  "lastUpdated": "2026-11-11T12:20:22.802Z"
 }
