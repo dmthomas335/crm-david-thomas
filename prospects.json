@@ -21,10 +21,12 @@
       "name": "Cam Gi",
       "social": "https://facebook.com/CamGiCreations",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc35vpulxyv1e7x2d",
+      "convertedAt": "2026-11-11T12:19:12.210Z"
     },
     {
       "id": "prospect-mwc34yje-r831yj",
@@ -159,5 +161,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:00.066Z"
+  "lastUpdated": "2026-11-11T12:19:13.671Z"
 }
