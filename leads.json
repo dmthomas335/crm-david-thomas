@@ -33323,7 +33323,25 @@
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
       "addedAt": "2026-11-11T12:20:59.064Z"
+    },
+    {
+      "id": "mwc38c048zne5ysoe2r",
+      "name": "John Paul Bach",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-11-25",
+      "notes": "",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:20:59.064Z"
+  "lastUpdated": "2026-11-11T12:21:06.628Z"
 }
