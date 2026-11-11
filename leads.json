@@ -21001,10 +21001,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-12",
-      "nextFollowUp": "2026-11-11",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-10-12",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal still trade? delete ",
+      "lastModified": "2026-11-11",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T12:08:48.761Z"
     },
@@ -33343,5 +33343,5 @@
       "addedAt": "2026-11-11T12:21:06.628Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:38:39.305Z"
+  "lastUpdated": "2026-11-11T12:39:13.694Z"
 }
