@@ -91,10 +91,12 @@
       "name": "Kelvin O. Richard",
       "social": "https://facebook.com/kelvin.o.richard",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc36szm79nv2kk9t57",
+      "convertedAt": "2026-11-11T12:19:55.330Z"
     },
     {
       "id": "prospect-mwc34yje-s2nbhg",
@@ -169,5 +171,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:19:48.373Z"
+  "lastUpdated": "2026-11-11T12:19:56.800Z"
 }
