@@ -33245,7 +33245,27 @@
       "addedAt": "2026-11-11T12:20:21.141Z",
       "prospectSourceId": "prospect-mwc34yje-uy8g54",
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
+    },
+    {
+      "id": "mwc37msuxlu9vtiw04j",
+      "name": "Christopher Heaslip",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/traderchris1111",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-12-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T12:20:33.966Z",
+      "prospectSourceId": "prospect-mwc34yje-uuimmg",
+      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     }
   ],
-  "lastUpdated": "2026-11-11T12:20:21.141Z"
+  "lastUpdated": "2026-11-11T12:20:33.966Z"
 }
