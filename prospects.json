@@ -159,10 +159,12 @@
       "name": "Christopher Heaslip",
       "social": "https://facebook.com/traderchris1111",
       "source": "Facebook Friends Upload - 2026-11-11",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-11",
       "uploadedAt": "2026-11-11T12:18:29.210Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwc37msuxlu9vtiw04j",
+      "convertedAt": "2026-11-11T12:20:33.966Z"
     },
     {
       "id": "prospect-mwc34yje-0dd46g",
@@ -177,5 +179,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T12:20:22.802Z"
+  "lastUpdated": "2026-11-11T12:20:35.346Z"
 }
