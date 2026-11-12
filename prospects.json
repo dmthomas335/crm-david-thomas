@@ -329,10 +329,12 @@
       "name": "Hukell Harlow",
       "social": "https://facebook.com/andre.million.503",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh0ne0n1qshv5e9kq",
+      "convertedAt": "2026-11-12T11:34:48.936Z"
     },
     {
       "id": "prospect-mwdgxz03-2juyvx",
@@ -383,5 +385,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:39.346Z"
+  "lastUpdated": "2026-11-12T11:34:50.360Z"
 }
