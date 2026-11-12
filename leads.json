@@ -33601,7 +33601,27 @@
       "addedAt": "2026-11-12T11:35:09.829Z",
       "prospectSourceId": "prospect-mwdgxz03-4lvhtu",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdh19xql5e7tkx2c6s",
+      "name": "Christopher Mcnaughton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/christopher.mcnaughton.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-12-07",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:35:18.158Z",
+      "prospectSourceId": "prospect-mwdgxz03-yjdk77",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:35:09.829Z"
+  "lastUpdated": "2026-11-12T11:35:18.158Z"
 }
