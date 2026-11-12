@@ -273,10 +273,12 @@
       "name": "Shawnley Burns",
       "social": "https://facebook.com/Saveddred1",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgzw6d27ywe9mfzfr",
+      "convertedAt": "2026-11-12T11:34:13.669Z"
     },
     {
       "id": "prospect-mwdgxz03-dibh9k",
@@ -375,5 +377,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:06.597Z"
+  "lastUpdated": "2026-11-12T11:34:15.165Z"
 }
