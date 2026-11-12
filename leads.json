@@ -26153,14 +26153,14 @@
       "phone": "",
       "social": "https://www.facebook.com/agnes.ziolkowski.94",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-11-12",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:27:10.057Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:57:25.798Z"
+  "lastUpdated": "2026-11-12T11:57:37.419Z"
 }
