@@ -301,10 +301,12 @@
       "name": "Chad Sherman",
       "social": "https://facebook.com/chad.sherman.5",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh09qv8n4a6o56nqo",
+      "convertedAt": "2026-11-12T11:34:31.255Z"
     },
     {
       "id": "prospect-mwdgxz03-eupl5m",
@@ -379,5 +381,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:23.526Z"
+  "lastUpdated": "2026-11-12T11:34:32.646Z"
 }
