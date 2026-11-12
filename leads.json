@@ -8019,10 +8019,10 @@
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-11-12",
+      "lastContact": "2026-09-10",
+      "nextFollowUp": "2027-02-16",
       "notes": "Personal ",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:57:42.010Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T12:00:52.794Z"
+  "lastUpdated": "2026-11-12T12:01:59.936Z"
 }
