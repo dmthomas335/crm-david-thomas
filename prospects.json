@@ -287,10 +287,12 @@
       "name": "Ross Blakley",
       "social": "https://facebook.com/ross.blakley.5",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh02misik8vnfnhc",
+      "convertedAt": "2026-11-12T11:34:22.026Z"
     },
     {
       "id": "prospect-mwdgxz03-sdnmt2",
@@ -377,5 +379,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:15.165Z"
+  "lastUpdated": "2026-11-12T11:34:23.526Z"
 }
