@@ -33381,7 +33381,27 @@
       "addedAt": "2026-11-12T11:33:24.143Z",
       "prospectSourceId": "prospect-mwdgxz03-0ky8v5",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdgz0v3yd32sr1cie",
+      "name": "Ashley Shelton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ashley.jean0225",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-12-03",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:33:33.087Z",
+      "prospectSourceId": "prospect-mwdgxz03-meswz7",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:24.143Z"
+  "lastUpdated": "2026-11-12T11:33:33.087Z"
 }
