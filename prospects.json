@@ -245,10 +245,12 @@
       "name": "Ewan Dixon",
       "social": "https://facebook.com/ewan.dixon.5",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgzh0b0u80jtfq3wi9",
+      "convertedAt": "2026-11-12T11:33:54.011Z"
     },
     {
       "id": "prospect-mwdgxz03-vdn9hy",
@@ -371,5 +373,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:46.134Z"
+  "lastUpdated": "2026-11-12T11:33:55.896Z"
 }
