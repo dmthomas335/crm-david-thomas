@@ -231,10 +231,12 @@
       "name": "Mark Gough",
       "social": "https://facebook.com/mark.gough.549",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgz9hpedvrw6rdtnb",
+      "convertedAt": "2026-11-12T11:33:44.269Z"
     },
     {
       "id": "prospect-mwdgxz03-16hs8w",
@@ -369,5 +371,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:35.271Z"
+  "lastUpdated": "2026-11-12T11:33:46.134Z"
 }
