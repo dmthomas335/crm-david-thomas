@@ -189,10 +189,12 @@
       "name": "Bryan Robinson",
       "social": "https://facebook.com/bryan.robinson.96592",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgyohs7snqkjn9wv8",
+      "convertedAt": "2026-11-12T11:33:17.056Z"
     },
     {
       "id": "prospect-mwdgxz03-0ky8v5",
@@ -363,5 +365,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:32:44.019Z"
+  "lastUpdated": "2026-11-12T11:33:19.088Z"
 }
