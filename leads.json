@@ -5991,14 +5991,14 @@
       "phone": "",
       "social": "https://www.facebook.com/lukelfc.thompson",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 4",
       "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-11-12",
+      "nextFollowUp": null,
       "notes": "personal delete ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-03T11:01:30.952Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:53:12.568Z"
+  "lastUpdated": "2026-11-12T11:54:22.864Z"
 }
