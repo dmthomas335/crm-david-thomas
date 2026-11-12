@@ -33401,7 +33401,27 @@
       "addedAt": "2026-11-12T11:33:33.087Z",
       "prospectSourceId": "prospect-mwdgxz03-meswz7",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdgz9hpedvrw6rdtnb",
+      "name": "Mark Gough",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/mark.gough.549",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-12-14",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:33:44.269Z",
+      "prospectSourceId": "prospect-mwdgxz03-eg7dr0",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:33.087Z"
+  "lastUpdated": "2026-11-12T11:33:44.269Z"
 }
