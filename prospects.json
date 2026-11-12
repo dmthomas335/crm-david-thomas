@@ -259,10 +259,12 @@
       "name": "Shawn Struckhoff",
       "social": "https://facebook.com/shawn.struckhoff",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgzpf7b9f185jleoi",
+      "convertedAt": "2026-11-12T11:34:04.915Z"
     },
     {
       "id": "prospect-mwdgxz03-fn5lk8",
@@ -373,5 +375,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:55.896Z"
+  "lastUpdated": "2026-11-12T11:34:06.597Z"
 }
