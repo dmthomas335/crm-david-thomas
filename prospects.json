@@ -383,11 +383,13 @@
       "name": "Christopher Mcnaughton",
       "social": "https://facebook.com/christopher.mcnaughton.9",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh19xql5e7tkx2c6s",
+      "convertedAt": "2026-11-12T11:35:18.158Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:35:11.366Z"
+  "lastUpdated": "2026-11-12T11:35:19.759Z"
 }
