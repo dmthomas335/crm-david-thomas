@@ -33361,7 +33361,27 @@
       "addedAt": "2026-11-12T11:33:17.056Z",
       "prospectSourceId": "prospect-mwdgxz03-ndyvve",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdgytynlaclkqk0scf",
+      "name": "Nikki McPherson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/nikki.mcpherson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:33:24.143Z",
+      "prospectSourceId": "prospect-mwdgxz03-0ky8v5",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:17.056Z"
+  "lastUpdated": "2026-11-12T11:33:24.143Z"
 }
