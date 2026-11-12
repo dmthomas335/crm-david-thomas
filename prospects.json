@@ -203,10 +203,12 @@
       "name": "Nikki McPherson",
       "social": "https://facebook.com/nikki.mcpherson",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgytynlaclkqk0scf",
+      "convertedAt": "2026-11-12T11:33:24.143Z"
     },
     {
       "id": "prospect-mwdgxz03-meswz7",
@@ -365,5 +367,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:19.088Z"
+  "lastUpdated": "2026-11-12T11:33:26.086Z"
 }
