@@ -33521,7 +33521,27 @@
       "addedAt": "2026-11-12T11:34:31.255Z",
       "prospectSourceId": "prospect-mwdgxz03-sdnmt2",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdh0f2gtei16xtleoi",
+      "name": "Kedrell Vitatoe",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/kedrell.vitatoe.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-11-26",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:34:38.152Z",
+      "prospectSourceId": "prospect-mwdgxz03-eupl5m",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:31.255Z"
+  "lastUpdated": "2026-11-12T11:34:38.152Z"
 }
