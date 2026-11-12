@@ -33581,7 +33581,27 @@
       "addedAt": "2026-11-12T11:34:58.204Z",
       "prospectSourceId": "prospect-mwdgxz03-2juyvx",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdh13idmgceuwzpxfp",
+      "name": "Shawn Knox",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/shawn.knox.391",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-12-11",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:35:09.829Z",
+      "prospectSourceId": "prospect-mwdgxz03-4lvhtu",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:58.204Z"
+  "lastUpdated": "2026-11-12T11:35:09.829Z"
 }
