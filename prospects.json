@@ -217,10 +217,12 @@
       "name": "Ashley Shelton",
       "social": "https://facebook.com/ashley.jean0225",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdgz0v3yd32sr1cie",
+      "convertedAt": "2026-11-12T11:33:33.087Z"
     },
     {
       "id": "prospect-mwdgxz03-eg7dr0",
@@ -367,5 +369,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:33:26.086Z"
+  "lastUpdated": "2026-11-12T11:33:35.271Z"
 }
