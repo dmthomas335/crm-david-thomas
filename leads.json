@@ -25001,14 +25001,14 @@
       "phone": "",
       "social": "https://www.facebook.com/david.gonzales.3192",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-11-12",
+      "nextFollowUp": null,
       "notes": "Personal  still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-09-16",
       "addedAt": "2026-09-16T11:32:34.756Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:55:54.214Z"
+  "lastUpdated": "2026-11-12T11:56:07.560Z"
 }
