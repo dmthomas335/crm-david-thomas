@@ -31851,9 +31851,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-12",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-02",
+      "nextFollowUp": "2027-03-11",
+      "notes": "Personal",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:16:03.469Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:59:51.900Z"
+  "lastUpdated": "2026-11-12T12:00:23.725Z"
 }
