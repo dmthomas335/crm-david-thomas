@@ -343,10 +343,12 @@
       "name": "Moises Santos",
       "social": "https://facebook.com/moises.santos.777",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh0ujgkeokee0ug1",
+      "convertedAt": "2026-11-12T11:34:58.204Z"
     },
     {
       "id": "prospect-mwdgxz03-4lvhtu",
@@ -385,5 +387,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:50.360Z"
+  "lastUpdated": "2026-11-12T11:34:59.420Z"
 }
