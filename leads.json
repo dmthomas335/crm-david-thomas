@@ -15219,14 +15219,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mlvaquilina",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-12",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-11-05",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T11:22:52.732Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T12:03:29.921Z"
+  "lastUpdated": "2026-11-12T12:03:42.003Z"
 }
