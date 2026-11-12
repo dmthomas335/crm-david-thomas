@@ -33541,7 +33541,27 @@
       "addedAt": "2026-11-12T11:34:38.152Z",
       "prospectSourceId": "prospect-mwdgxz03-eupl5m",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwdh0ne0n1qshv5e9kq",
+      "name": "Hukell Harlow",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andre.million.503",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": "2026-12-15",
+      "notes": "Personal Birthday ",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T11:34:48.936Z",
+      "prospectSourceId": "prospect-mwdgxz03-r83kat",
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:34:38.152Z"
+  "lastUpdated": "2026-11-12T11:34:48.936Z"
 }
