@@ -25636,9 +25636,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-13",
-      "nextFollowUp": "2026-11-12",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-10-13",
+      "nextFollowUp": "2026-12-02",
+      "notes": "Personal still trade? delete ",
+      "lastModified": "2026-11-12",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:40:13.796Z"
     },
@@ -33643,5 +33643,5 @@
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:56:42.778Z"
+  "lastUpdated": "2026-11-12T11:57:05.965Z"
 }
