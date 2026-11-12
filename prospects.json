@@ -371,10 +371,12 @@
       "name": "Thanh Le",
       "social": "https://facebook.com/thanh.le.37617",
       "source": "Facebook Friends Upload - 2026-11-12",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-12",
       "uploadedAt": "2026-11-12T11:32:44.019Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwdh1gertmyymqiuv6",
+      "convertedAt": "2026-11-12T11:35:26.547Z"
     },
     {
       "id": "prospect-mwdgxz03-yjdk77",
@@ -391,5 +393,5 @@
       "convertedAt": "2026-11-12T11:35:18.158Z"
     }
   ],
-  "lastUpdated": "2026-11-12T11:35:19.759Z"
+  "lastUpdated": "2026-11-12T11:35:28.063Z"
 }
