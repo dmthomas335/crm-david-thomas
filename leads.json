@@ -23902,14 +23902,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matt.laski.2025",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-16",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-09-10",
       "addedAt": "2026-09-10T11:08:25.484Z"
     },
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:17:13.168Z"
+  "lastUpdated": "2026-11-13T13:17:32.284Z"
 }
