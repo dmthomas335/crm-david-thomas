@@ -2564,9 +2564,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": "2026-12-01",
       "notes": "joined / personal joined as 2WT / brucey 517449",
-      "lastModified": "2026-10-15",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:44:56.159Z",
       "videoSent": true,
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:02:34.323Z"
+  "lastUpdated": "2026-11-13T13:04:25.090Z"
 }
