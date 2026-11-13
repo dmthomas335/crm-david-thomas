@@ -26261,14 +26261,14 @@
       "phone": "",
       "social": "https://www.facebook.com/endtimefighter",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-14",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T11:31:09.108Z"
     },
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:19:08.286Z"
+  "lastUpdated": "2026-11-13T13:19:22.535Z"
 }
