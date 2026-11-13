@@ -33287,24 +33287,6 @@
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     },
     {
-      "id": "mwc386605ovhmynlii",
-      "name": "Jose Zaruma",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-16",
-      "notes": "",
-      "lastModified": "2026-11-11",
-      "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T12:20:59.064Z"
-    },
-    {
       "id": "mwdgyohs7snqkjn9wv8",
       "name": "Bryan Robinson",
       "email": "",
@@ -33903,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:02:08.311Z"
+  "lastUpdated": "2026-11-13T13:02:12.373Z"
 }
