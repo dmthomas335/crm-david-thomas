@@ -33287,26 +33287,6 @@
       "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
     },
     {
-      "id": "mwc37ycr24knqj1vp8o",
-      "name": "Jeff Casmer",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-16",
-      "notes": "",
-      "lastModified": "2026-11-11",
-      "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T12:20:48.939Z",
-      "prospectSourceId": "prospect-mwc34yje-hty5vu",
-      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
-    },
-    {
       "id": "mwc386605ovhmynlii",
       "name": "Jose Zaruma",
       "email": "",
@@ -33923,5 +33903,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:02:04.145Z"
+  "lastUpdated": "2026-11-13T13:02:08.311Z"
 }
