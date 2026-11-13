@@ -2523,13 +2523,13 @@
       "phone": "",
       "social": "https://www.facebook.com/faith.maina.547",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": null,
       "notes": "Joined as 2WT personal send season script",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:42:53.554Z",
       "videoSent": true
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:22:54.964Z"
+  "lastUpdated": "2026-11-13T13:23:49.422Z"
 }
