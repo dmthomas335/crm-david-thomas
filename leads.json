@@ -31720,14 +31720,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100006589816144",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-30",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-30",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-10-30",
       "addedAt": "2026-10-30T11:37:05.863Z"
     },
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:22:12.841Z"
+  "lastUpdated": "2026-11-13T13:22:36.238Z"
 }
