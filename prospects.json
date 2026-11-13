@@ -435,10 +435,12 @@
       "name": "Mark Ross",
       "social": "https://facebook.com/mark.ross.92123015",
       "source": "Facebook Friends Upload - 2026-11-13",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-11-13",
       "uploadedAt": "2026-11-13T12:50:13.516Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mwez7fy33subjgjy3yz",
+      "convertedAt": "2026-11-13T12:51:45.148Z"
     },
     {
       "id": "prospect-mwez5h8t-8qw104",
@@ -561,5 +563,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T12:50:13.522Z"
+  "lastUpdated": "2026-11-13T12:51:46.932Z"
 }
