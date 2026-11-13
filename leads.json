@@ -29326,14 +29326,14 @@
       "phone": "",
       "social": "https://www.facebook.com/AdamSmithhhhhhh",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-14",
-      "nextFollowUp": "2026-11-13",
+      "nextFollowUp": null,
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-10-14",
       "addedAt": "2026-10-14T11:26:37.813Z"
     },
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:20:26.204Z"
+  "lastUpdated": "2026-11-13T13:21:03.581Z"
 }
