@@ -33641,7 +33641,27 @@
       "addedAt": "2026-11-12T11:35:26.547Z",
       "prospectSourceId": "prospect-mwdgxz03-0ty1ax",
       "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+    },
+    {
+      "id": "mwez7fy33subjgjy3yz",
+      "name": "Mark Ross",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": "2026-11-18",
+      "notes": "",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T12:51:45.147Z",
+      "prospectSourceId": "prospect-mwez5h8t-vmqdhs",
+      "prospectUploadedAt": "2026-11-13T12:50:13.516Z"
     }
   ],
-  "lastUpdated": "2026-11-12T12:03:42.003Z"
+  "lastUpdated": "2026-11-13T12:51:45.148Z"
 }
