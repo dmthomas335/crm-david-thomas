@@ -9592,9 +9592,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-30",
-      "nextFollowUp": "2026-11-13",
-      "notes": "Personal still trade? delete ",
-      "lastModified": "2026-10-30",
+      "nextFollowUp": "2027-02-03",
+      "notes": "Personal ",
+      "lastModified": "2026-11-13",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T09:15:00.486Z"
     },
@@ -33885,5 +33885,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-13T13:04:36.579Z"
+  "lastUpdated": "2026-11-13T13:12:51.306Z"
 }
