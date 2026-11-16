@@ -15057,16 +15057,17 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1K49ZZ6adK/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-20",
-      "notes": "Personal ",
-      "lastModified": "2026-11-13",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-16",
+      "notes": "Personal Ashley ",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-07-19",
-      "addedAt": "2026-07-19T10:54:05.755Z"
+      "addedAt": "2026-07-19T10:54:05.755Z",
+      "customerSince": "2026-11-16"
     },
     {
       "id": "mrrol8dtp8xphwvykch",
@@ -33886,5 +33887,5 @@
       "addedAt": "2026-11-13T13:01:45.326Z"
     }
   ],
-  "lastUpdated": "2026-11-16T09:39:16.818Z"
+  "lastUpdated": "2026-11-16T09:40:35.543Z"
 }
