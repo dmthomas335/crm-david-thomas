@@ -33869,24 +33869,6 @@
       "prospectUploadedAt": "2026-11-13T12:50:13.516Z"
     },
     {
-      "id": "mwezkb1q3nbs83rt8uc",
-      "name": "Jose Zaruma",
-      "email": "",
-      "phone": "",
-      "social": "",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-20",
-      "notes": "",
-      "lastModified": "2026-11-13",
-      "dateAdded": "2026-11-13",
-      "addedAt": "2026-11-13T13:01:45.326Z"
-    },
-    {
       "id": "mwj2qq5h0pwcwcc3w0d",
       "name": "Chiemetam Emmy Udoye",
       "email": "emmy.udoye.3@gmail.com",
@@ -34206,5 +34188,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:25:27.064Z"
+  "lastUpdated": "2026-11-16T13:25:35.979Z"
 }
