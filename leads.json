@@ -6229,10 +6229,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-09-30",
-      "nextFollowUp": "2026-11-16",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-12-16",
       "notes": "Personal joined as 2WT 518664 Simon R ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T09:07:08.905Z",
       "customerSince": "2026-09-30"
@@ -34206,5 +34206,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T12:14:10.530Z"
+  "lastUpdated": "2026-11-16T13:18:36.362Z"
 }
