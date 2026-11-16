@@ -32591,10 +32591,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-09",
-      "nextFollowUp": "2026-11-16",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-09",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-12-16",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-11-09",
       "addedAt": "2026-11-09T12:52:31.715Z"
     },
@@ -34168,5 +34168,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:28:41.440Z"
+  "lastUpdated": "2026-11-16T13:29:07.690Z"
 }
