@@ -9302,9 +9302,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": "2026-12-10",
       "notes": "Personal Joined as 2WT / 511116 Joseph ",
-      "lastModified": "2026-10-16",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-15T11:13:06.949Z",
       "customerSince": "2026-08-04"
@@ -34206,5 +34206,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:18:36.362Z"
+  "lastUpdated": "2026-11-16T13:19:29.689Z"
 }
