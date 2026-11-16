@@ -25669,14 +25669,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19bR2LKyDY/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-09-18",
       "addedAt": "2026-09-18T11:49:08.859Z"
     },
@@ -34168,5 +34168,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:31:46.435Z"
+  "lastUpdated": "2026-11-16T13:31:55.682Z"
 }
