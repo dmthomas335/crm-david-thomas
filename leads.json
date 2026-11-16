@@ -15634,14 +15634,14 @@
       "phone": "",
       "social": "https://www.facebook.com/richard.cartmell.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": null,
       "notes": "Personal ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:27:19.816Z"
     },
@@ -34168,5 +34168,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:32:57.114Z"
+  "lastUpdated": "2026-11-16T13:33:02.307Z"
 }
