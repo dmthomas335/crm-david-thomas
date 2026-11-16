@@ -31056,14 +31056,14 @@
       "phone": "",
       "social": "https://www.facebook.com/keith.kgee.griffin",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-09",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": null,
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-09",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-10-26",
       "addedAt": "2026-10-26T12:11:05.722Z"
     },
@@ -34206,5 +34206,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:24:11.478Z"
+  "lastUpdated": "2026-11-16T13:24:25.916Z"
 }
