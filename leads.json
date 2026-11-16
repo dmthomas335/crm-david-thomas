@@ -27131,14 +27131,14 @@
       "phone": "",
       "social": "https://www.facebook.com/venus.seleme",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": "2026-11-16",
+      "nextFollowUp": null,
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T11:38:26.917Z"
     },
@@ -34206,5 +34206,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:25:15.264Z"
+  "lastUpdated": "2026-11-16T13:25:20.856Z"
 }
