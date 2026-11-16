@@ -11000,10 +11000,10 @@
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
-      "lastContact": "2026-11-06",
-      "nextFollowUp": "2026-11-16",
-      "notes": "Personal 780923 Casmer ",
-      "lastModified": "2026-11-11",
+      "lastContact": "2026-11-16",
+      "nextFollowUp": "2026-11-19",
+      "notes": "Personal 780923 Casmer cancelled ",
+      "lastModified": "2026-11-16",
       "dateAdded": "2026-06-25",
       "addedAt": "2026-06-25T08:54:25.750Z",
       "customerSince": "2026-10-13"
@@ -34206,5 +34206,5 @@
       "prospectUploadedAt": "2026-11-16T12:00:54.220Z"
     }
   ],
-  "lastUpdated": "2026-11-16T13:22:24.735Z"
+  "lastUpdated": "2026-11-16T13:22:33.514Z"
 }
