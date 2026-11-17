@@ -12901,16 +12901,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BiqwUxfZz/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-11-03",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-07-05",
-      "addedAt": "2026-07-05T12:41:41.939Z"
+      "addedAt": "2026-07-05T12:41:41.939Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "8fac8785-ed83-429b-9cd1-a5cdeff272bf",
+            "editedAt": "2026-11-17T12:24:28.415Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mr7s6io3vmo7eukro5n",
@@ -34589,5 +34600,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:23:58.514Z"
+  "lastUpdated": "2026-11-17T12:24:28.415Z"
 }
