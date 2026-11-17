@@ -34279,12 +34279,23 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-16",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2026-11-20",
       "notes": "IG Dave T Page Ashley 789604",
-      "lastModified": "2026-11-16",
+      "lastModified": "2026-11-17",
       "customerSince": "2026-11-16",
       "dateAdded": "2026-11-16",
-      "addedAt": "2026-11-16T09:41:48.389Z"
+      "addedAt": "2026-11-16T09:41:48.389Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e6d1f418-bd67-42ab-ab17-245e7d68cdbf",
+            "editedAt": "2026-11-17T12:48:07.187Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mwj7ppzxpgv5ji6kyg0",
@@ -34887,5 +34898,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:48:04.365Z"
+  "lastUpdated": "2026-11-17T12:48:07.187Z"
 }
