@@ -22491,16 +22491,27 @@
       "phone": "",
       "social": "https://www.facebook.com/theophilusugboajah.theo",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-03",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-31",
-      "addedAt": "2026-08-31T11:15:59.973Z"
+      "addedAt": "2026-08-31T11:15:59.973Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7b2275b4-b122-4f23-8820-bbe952045336",
+            "editedAt": "2026-11-17T12:16:58.589Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mth57qz9di0obo5x7ia",
@@ -34534,5 +34545,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:16:15.726Z"
+  "lastUpdated": "2026-11-17T12:16:58.589Z"
 }
