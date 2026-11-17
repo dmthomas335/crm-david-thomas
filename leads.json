@@ -24227,16 +24227,27 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.alder.796",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-10",
-      "addedAt": "2026-09-10T11:20:28.361Z"
+      "addedAt": "2026-09-10T11:20:28.361Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "144c0c03-e8f9-491c-a5e4-fe50c4cd225a",
+            "editedAt": "2026-11-17T12:30:59.482Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtvfsd7ola3abmpyqp",
@@ -34600,5 +34611,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:24:28.415Z"
+  "lastUpdated": "2026-11-17T12:30:59.482Z"
 }
