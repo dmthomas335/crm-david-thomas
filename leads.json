@@ -3965,10 +3965,21 @@
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-17",
       "nextFollowUp": "2026-11-17",
-      "notes": "personal",
-      "lastModified": "2026-09-01",
+      "notes": "personal delete ",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-05-28",
-      "addedAt": "2026-05-28T11:23:29.346Z"
+      "addedAt": "2026-05-28T11:23:29.346Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "1d7c562e-7547-43f4-a560-a38399226002",
+            "editedAt": "2026-11-17T12:58:40.249Z",
+            "fields": [
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mppenl5eil2s9pezm6",
@@ -34960,5 +34971,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:36.402Z"
+  "lastUpdated": "2026-11-17T12:58:40.249Z"
 }
