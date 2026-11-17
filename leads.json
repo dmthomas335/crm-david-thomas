@@ -28803,7 +28803,7 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.sitar.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -28820,6 +28820,13 @@
             "editedAt": "2026-11-17T13:04:37.148Z",
             "fields": [
               "videoSent"
+            ]
+          },
+          {
+            "idempotencyKey": "1a69a2c1-7a3a-422c-b8b1-98d8f945a19f",
+            "editedAt": "2026-11-17T13:04:40.264Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -35022,5 +35029,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T13:04:37.148Z"
+  "lastUpdated": "2026-11-17T13:04:40.264Z"
 }
