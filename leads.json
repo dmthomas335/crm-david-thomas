@@ -7811,12 +7811,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2026-12-01",
       "notes": "Personal joined as 2WT Soriano 681604",
-      "lastModified": "2026-10-22",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T07:54:32.694Z",
-      "customerSince": "2026-09-21"
+      "customerSince": "2026-09-21",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "fe82a255-3678-4993-b83d-db0b4870ec2c",
+            "editedAt": "2026-11-17T12:47:04.476Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq7rywq8mn544ifs2x",
@@ -34847,5 +34858,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:44:48.057Z"
+  "lastUpdated": "2026-11-17T12:47:04.476Z"
 }
