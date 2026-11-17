@@ -24501,16 +24501,27 @@
       "phone": "",
       "social": "https://www.facebook.com/mats.hedell.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-11",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-30",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-11",
-      "addedAt": "2026-09-11T11:29:34.161Z"
+      "addedAt": "2026-09-11T11:29:34.161Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "1678567a-e3f7-46f7-9901-7cc85db714d1",
+            "editedAt": "2026-11-17T12:31:02.478Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtwvjopmt1u29b7j818",
@@ -34611,5 +34622,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:30:59.482Z"
+  "lastUpdated": "2026-11-17T12:31:02.478Z"
 }
