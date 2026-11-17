@@ -7254,16 +7254,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1BdYUqPHBV/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-09-11",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Email delete ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-06-08",
-      "addedAt": "2026-06-08T10:46:07.657Z"
+      "addedAt": "2026-06-08T10:46:07.657Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0c5a0fc5-c865-4ba2-bd4c-e87e6362c030",
+            "editedAt": "2026-11-17T12:15:17.653Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq53c9qlsubswn2cmds",
@@ -34468,5 +34479,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T11:57:37.921Z"
+  "lastUpdated": "2026-11-17T12:15:17.654Z"
 }
