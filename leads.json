@@ -32180,16 +32180,27 @@
       "phone": "",
       "social": "https://www.facebook.com/dawt.midawt",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:17:25.681Z"
+      "addedAt": "2026-11-02T13:17:25.681Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "3006e807-215e-4d5b-ba1c-8affb4e16526",
+            "editedAt": "2026-11-17T12:44:18.682Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvzaartjnz3nmk9jdjh",
@@ -34746,5 +34757,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:44:15.423Z"
+  "lastUpdated": "2026-11-17T12:44:18.682Z"
 }
