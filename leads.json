@@ -9676,7 +9676,7 @@
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-23",
       "nextFollowUp": "2026-12-01",
-      "notes": "Personal still trade? ",
+      "notes": "Personal still trade? delete ",
       "lastModified": "2026-11-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T10:07:09.477Z",
@@ -9687,6 +9687,13 @@
             "editedAt": "2026-11-17T12:31:33.472Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "d0aaf97f-72f4-4e7e-9b4f-3402d1faab6a",
+            "editedAt": "2026-11-17T12:31:37.298Z",
+            "fields": [
+              "notes"
             ]
           }
         ]
@@ -34717,5 +34724,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:33.472Z"
+  "lastUpdated": "2026-11-17T12:31:37.298Z"
 }
