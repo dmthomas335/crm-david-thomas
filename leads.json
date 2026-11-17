@@ -18872,16 +18872,27 @@
       "phone": "",
       "social": "https://www.facebook.com/samuel.ryals.202119",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-26",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-10",
-      "addedAt": "2026-08-10T11:23:40.731Z"
+      "addedAt": "2026-08-10T11:23:40.731Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "423b2469-01ec-4a5a-85b1-a1293aa5179a",
+            "editedAt": "2026-11-17T12:58:50.168Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "msn590zeeqo9zs6xqu",
@@ -34989,5 +35000,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:46.956Z"
+  "lastUpdated": "2026-11-17T12:58:50.168Z"
 }
