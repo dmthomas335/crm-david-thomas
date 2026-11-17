@@ -32612,10 +32612,21 @@
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-04",
       "nextFollowUp": "2026-11-17",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-04",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-11-04",
-      "addedAt": "2026-11-04T10:43:57.436Z"
+      "addedAt": "2026-11-04T10:43:57.436Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "08d6c2a8-4509-4a3f-b126-fd3f268fb764",
+            "editedAt": "2026-11-17T12:44:32.996Z",
+            "fields": [
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mw1zp3upgpdxsbjibxm",
@@ -34793,5 +34804,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:44:29.925Z"
+  "lastUpdated": "2026-11-17T12:44:32.996Z"
 }
