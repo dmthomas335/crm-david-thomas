@@ -27050,12 +27050,23 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-16",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2026-11-20",
       "notes": "665760 casmer Personal check sub",
-      "lastModified": "2026-10-16",
+      "lastModified": "2026-11-17",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
-      "addedAt": "2026-09-25T11:45:37.874Z"
+      "addedAt": "2026-09-25T11:45:37.874Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7152e433-ebb9-4abe-8789-c1edba40d775",
+            "editedAt": "2026-11-17T12:47:53.387Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mugwdx96s5pk1ftqwzr",
@@ -34869,5 +34880,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:47:19.063Z"
+  "lastUpdated": "2026-11-17T12:47:53.387Z"
 }
