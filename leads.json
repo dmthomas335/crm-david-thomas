@@ -25214,16 +25214,27 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.guilbeault.71",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-06",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-16",
-      "addedAt": "2026-09-16T11:34:42.397Z"
+      "addedAt": "2026-09-16T11:34:42.397Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a2b8bacc-5adc-421f-ab73-448a0d05b20c",
+            "editedAt": "2026-11-17T12:31:05.299Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu40xc71efhp0gaxwd",
@@ -34622,5 +34633,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:02.478Z"
+  "lastUpdated": "2026-11-17T12:31:05.299Z"
 }
