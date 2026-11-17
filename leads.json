@@ -96,11 +96,22 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2027-02-20",
       "notes": "sent trading vid",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-05-18",
-      "videoSent": false
+      "videoSent": false,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "95ebb359-95ae-4ba4-be5c-4b6814d2698e",
+            "editedAt": "2026-11-17T12:58:26.626Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpbfih9y0ucdclkktbuf",
@@ -34916,5 +34927,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:49:53.514Z"
+  "lastUpdated": "2026-11-17T12:58:26.627Z"
 }
