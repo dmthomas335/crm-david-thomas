@@ -32036,16 +32036,27 @@
       "phone": "",
       "social": "https://www.facebook.com/david.eisenhofer",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-30",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-10-30",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-30",
-      "addedAt": "2026-10-30T11:37:59.069Z"
+      "addedAt": "2026-10-30T11:37:59.069Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "d6218e4f-2a10-4be6-8aca-564eeb06fbd2",
+            "editedAt": "2026-11-17T12:44:21.388Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvuwf1xkp1mmjo8ixxj",
@@ -34757,5 +34768,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:44:18.682Z"
+  "lastUpdated": "2026-11-17T12:44:21.388Z"
 }
