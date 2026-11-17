@@ -28783,16 +28783,27 @@
       "phone": "",
       "social": "https://www.facebook.com/calvina.calhoun.92",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-29",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-08",
-      "addedAt": "2026-10-08T09:54:11.764Z"
+      "addedAt": "2026-10-08T09:54:11.764Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "19408a51-fc90-428f-9c6f-822369e58192",
+            "editedAt": "2026-11-17T12:31:21.758Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muzd1g811iy9w6yuh02",
@@ -34677,5 +34688,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:18.766Z"
+  "lastUpdated": "2026-11-17T12:31:21.758Z"
 }
