@@ -21932,16 +21932,27 @@
       "phone": "",
       "social": "https://www.facebook.com/orietta.ventura",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-10",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal delete ",
-      "lastModified": "2026-11-10",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-27",
-      "addedAt": "2026-08-27T11:50:09.876Z"
+      "addedAt": "2026-08-27T11:50:09.876Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "4160faf7-c495-4292-9b46-b7e6e7f7ecc5",
+            "editedAt": "2026-11-17T12:23:58.514Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtbgoaisgx7sb4r7p3",
@@ -34578,5 +34589,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:23:44.716Z"
+  "lastUpdated": "2026-11-17T12:23:58.514Z"
 }
