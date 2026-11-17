@@ -25243,16 +25243,27 @@
       "phone": "",
       "social": "https://www.facebook.com/michelle.jones.881214",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-16",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-16",
-      "addedAt": "2026-09-16T11:35:00.349Z"
+      "addedAt": "2026-09-16T11:35:00.349Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "b719fe89-2771-494a-bcf6-a4b76493ae06",
+            "editedAt": "2026-11-17T12:31:08.356Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu40yiom4bzbhbbiegu",
@@ -34633,5 +34644,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:05.299Z"
+  "lastUpdated": "2026-11-17T12:31:08.356Z"
 }
