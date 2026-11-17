@@ -30959,16 +30959,27 @@
       "phone": "",
       "social": "https://www.facebook.com/hiten.parekh.104",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-03",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-26",
-      "addedAt": "2026-10-26T12:06:51.404Z"
+      "addedAt": "2026-10-26T12:06:51.404Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "47edd1b7-13c8-4c34-bef9-d9d01697bfa4",
+            "editedAt": "2026-11-17T12:15:20.826Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvp7pfaelah7kak3cwi",
@@ -34479,5 +34490,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:15:17.654Z"
+  "lastUpdated": "2026-11-17T12:15:20.826Z"
 }
