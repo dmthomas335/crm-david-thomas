@@ -27045,7 +27045,7 @@
       "phone": "",
       "social": "https://www.facebook.com/matthew.eaton.5076",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
@@ -27070,6 +27070,13 @@
             "editedAt": "2026-11-17T12:48:04.365Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "66172f33-069d-4497-9cf1-e4f13bc31a5c",
+            "editedAt": "2026-11-17T12:49:50.315Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -34898,5 +34905,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:48:07.187Z"
+  "lastUpdated": "2026-11-17T12:49:50.315Z"
 }
