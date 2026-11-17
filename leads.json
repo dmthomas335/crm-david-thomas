@@ -28804,15 +28804,26 @@
       "social": "https://www.facebook.com/jim.sitar.1",
       "source": "Facebook",
       "status": "New Lead",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
       "nextFollowUp": "2026-12-02",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-15",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-08",
-      "addedAt": "2026-10-08T09:48:38.610Z"
+      "addedAt": "2026-10-08T09:48:38.610Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "2befecd3-931e-4868-868c-bb89d89925f9",
+            "editedAt": "2026-11-17T13:04:37.148Z",
+            "fields": [
+              "videoSent"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muzctuh11rg8e9pnwll",
@@ -35011,5 +35022,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:54.398Z"
+  "lastUpdated": "2026-11-17T13:04:37.148Z"
 }
