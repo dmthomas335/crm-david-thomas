@@ -25992,16 +25992,27 @@
       "phone": "",
       "social": "https://www.facebook.com/vin.wenss",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-21",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-30",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-21",
-      "addedAt": "2026-09-21T11:42:45.507Z"
+      "addedAt": "2026-09-21T11:42:45.507Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "c6ebd20e-a165-4ac7-9ae2-2757bb214a60",
+            "editedAt": "2026-11-17T12:31:11.456Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mub6f8zmp0frtcnvni",
@@ -34644,5 +34655,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:08.356Z"
+  "lastUpdated": "2026-11-17T12:31:11.456Z"
 }
