@@ -27447,16 +27447,27 @@
       "phone": "",
       "social": "https://www.facebook.com/dkruep",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-09-29",
-      "addedAt": "2026-09-29T11:04:10.844Z"
+      "addedAt": "2026-09-29T11:04:10.844Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a90abea1-6ae3-46e9-ba74-736e011e57de",
+            "editedAt": "2026-11-17T12:31:14.986Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mumkk8ebxow5582xuf",
@@ -34655,5 +34666,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:11.456Z"
+  "lastUpdated": "2026-11-17T12:31:14.986Z"
 }
