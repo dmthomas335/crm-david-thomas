@@ -27836,16 +27836,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.beaver.1023",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:48:32.861Z"
+      "addedAt": "2026-10-02T12:48:32.861Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7ceccd9d-e3ba-47c5-9baf-6ae68b1a8b03",
+            "editedAt": "2026-11-17T12:31:18.766Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muqymh1eoq3y2s356we",
@@ -34666,5 +34677,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:14.986Z"
+  "lastUpdated": "2026-11-17T12:31:18.766Z"
 }
