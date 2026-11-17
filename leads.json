@@ -30635,16 +30635,27 @@
       "phone": "",
       "social": "https://www.facebook.com/mohamed.mire.338",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-03",
       "nextFollowUp": "2026-11-17",
       "notes": "Birthday Personal delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-22",
-      "addedAt": "2026-10-22T10:26:21.040Z"
+      "addedAt": "2026-10-22T10:26:21.040Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "258ab4d7-2917-4d0c-a788-f1645ca92bb2",
+            "editedAt": "2026-11-17T12:15:29.628Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvjec8s1scvno4f95vj",
@@ -34501,5 +34512,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:15:23.806Z"
+  "lastUpdated": "2026-11-17T12:15:29.628Z"
 }
