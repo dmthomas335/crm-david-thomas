@@ -20557,11 +20557,22 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2027-02-17",
       "notes": "Personal delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-20",
-      "addedAt": "2026-08-20T11:56:33.375Z"
+      "addedAt": "2026-08-20T11:56:33.375Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "37b76513-e763-493f-90d8-4812c066239c",
+            "editedAt": "2026-11-17T12:23:35.364Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt1h5e668ercrxj9d0a",
@@ -34556,5 +34567,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:23:32.295Z"
+  "lastUpdated": "2026-11-17T12:23:35.365Z"
 }
