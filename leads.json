@@ -28809,7 +28809,7 @@
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
       "nextFollowUp": "2026-11-20",
-      "notes": "Personal still trade? ",
+      "notes": "Personal Ashley 789910",
       "lastModified": "2026-11-17",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T09:48:38.610Z",
@@ -28841,6 +28841,13 @@
             "editedAt": "2026-11-17T13:05:19.383Z",
             "fields": [
               "email"
+            ]
+          },
+          {
+            "idempotencyKey": "07a5c72f-4962-468f-b78d-9b05c14a3fdc",
+            "editedAt": "2026-11-17T13:05:22.664Z",
+            "fields": [
+              "notes"
             ]
           }
         ]
@@ -35043,5 +35050,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T13:05:19.383Z"
+  "lastUpdated": "2026-11-17T13:05:22.664Z"
 }
