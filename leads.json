@@ -18243,16 +18243,27 @@
       "phone": "",
       "social": "https://www.facebook.com/mariusz.pi.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-06",
-      "addedAt": "2026-08-06T12:13:24.654Z"
+      "addedAt": "2026-08-06T12:13:24.654Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "3ed4d4a9-babd-4fd5-aa8c-dbdda2343115",
+            "editedAt": "2026-11-17T12:58:46.956Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mshh97t3bwc8jj600zn",
@@ -34978,5 +34989,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:43.548Z"
+  "lastUpdated": "2026-11-17T12:58:46.956Z"
 }
