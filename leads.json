@@ -19533,16 +19533,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1GtvrXLCYx/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-08-25",
       "nextFollowUp": "2026-11-17",
       "notes": "David T Page still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-08-13",
-      "addedAt": "2026-08-13T07:27:03.376Z"
+      "addedAt": "2026-08-13T07:27:03.376Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "5cf4a1bf-d861-4aeb-b07b-d55705440e39",
+            "editedAt": "2026-11-17T12:58:54.398Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "msrfkmbkmsrsnsyzs",
@@ -35000,5 +35011,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:50.168Z"
+  "lastUpdated": "2026-11-17T12:58:54.398Z"
 }
