@@ -30815,16 +30815,27 @@
       "phone": "",
       "social": "https://www.facebook.com/keenan.glandon.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-03",
       "nextFollowUp": "2026-11-17",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-10-23",
-      "addedAt": "2026-10-23T10:00:10.970Z"
+      "addedAt": "2026-10-23T10:00:10.970Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "c14d042c-ce2a-4d0d-b83b-e795d2ff46ee",
+            "editedAt": "2026-11-17T12:15:23.806Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvksufwr4qnabknc3lg",
@@ -34490,5 +34501,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:15:20.826Z"
+  "lastUpdated": "2026-11-17T12:15:23.806Z"
 }
