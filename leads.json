@@ -498,15 +498,26 @@
       "phone": "",
       "social": "https://www.facebook.com/JustSakhi",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-02",
       "nextFollowUp": "2026-11-17",
       "notes": "Dave T Page",
-      "lastModified": "2026-10-07",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-05-19",
-      "videoSent": true
+      "videoSent": true,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "6424de70-e791-4d28-8ee8-ab849e928f43",
+            "editedAt": "2026-11-17T12:58:29.578Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpcjlenhvl89butupn",
@@ -34927,5 +34938,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:58:26.627Z"
+  "lastUpdated": "2026-11-17T12:58:29.578Z"
 }
