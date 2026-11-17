@@ -8593,7 +8593,7 @@
       "lastAction": "Nurture",
       "lastContact": "2026-08-21",
       "nextFollowUp": "2026-12-01",
-      "notes": "Personal send recap still trade? ",
+      "notes": "Personal send recap still trade? delete ",
       "lastModified": "2026-11-17",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z",
@@ -8604,6 +8604,13 @@
             "editedAt": "2026-11-17T12:31:24.859Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "c5c1454b-1aaf-4f5c-9c7d-74e3324de8e7",
+            "editedAt": "2026-11-17T12:31:30.509Z",
+            "fields": [
+              "notes"
             ]
           }
         ]
@@ -34699,5 +34706,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:31:24.859Z"
+  "lastUpdated": "2026-11-17T12:31:30.509Z"
 }
