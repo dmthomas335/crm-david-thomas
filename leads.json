@@ -15142,12 +15142,23 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-16",
-      "nextFollowUp": "2026-11-17",
+      "nextFollowUp": "2026-11-18",
       "notes": "Personal Ashley 789600",
-      "lastModified": "2026-11-16",
+      "lastModified": "2026-11-17",
       "dateAdded": "2026-07-19",
       "addedAt": "2026-07-19T10:54:05.755Z",
-      "customerSince": "2026-11-16"
+      "customerSince": "2026-11-16",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "3d8fd8b3-b4e4-4c64-b7eb-ec0e8e768421",
+            "editedAt": "2026-11-17T12:47:19.063Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mrrol8dtp8xphwvykch",
@@ -34858,5 +34869,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T12:47:04.476Z"
+  "lastUpdated": "2026-11-17T12:47:19.063Z"
 }
