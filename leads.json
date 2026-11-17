@@ -28799,7 +28799,7 @@
     {
       "id": "muzctaoiqfxxcwnuw",
       "name": "Jim Sitar",
-      "email": "",
+      "email": "jsitar5@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/jim.sitar.1",
       "source": "Facebook",
@@ -28834,6 +28834,13 @@
             "editedAt": "2026-11-17T13:04:43.382Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "ba4de225-2151-4728-b383-572c7328fe37",
+            "editedAt": "2026-11-17T13:05:19.383Z",
+            "fields": [
+              "email"
             ]
           }
         ]
@@ -35036,5 +35043,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-17T13:04:43.382Z"
+  "lastUpdated": "2026-11-17T13:05:19.383Z"
 }
