@@ -12988,11 +12988,23 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-11-18",
-      "notes": "Personal Joined as 2WT still trade? ",
-      "lastModified": "2026-10-02",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Personal Joined as 2WT still trade? delete",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-07-05",
-      "addedAt": "2026-07-05T12:38:34.927Z"
+      "addedAt": "2026-07-05T12:38:34.927Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "39c49ab1-7a93-4c84-9a11-5af39e949526",
+            "editedAt": "2026-11-18T10:23:04.888Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mr7s3wp0hmrzclg1ml",
@@ -35161,5 +35173,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:22:13.696Z"
+  "lastUpdated": "2026-11-18T10:23:04.888Z"
 }
