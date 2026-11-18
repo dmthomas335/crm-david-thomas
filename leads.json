@@ -5376,12 +5376,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-04",
-      "nextFollowUp": "2026-11-18",
+      "nextFollowUp": "2026-12-16",
       "notes": "personal Linda Estelle 526531 ",
-      "lastModified": "2026-11-04",
+      "lastModified": "2026-11-18",
       "customerSince": "2026-05-31",
       "dateAdded": "2026-05-31",
-      "addedAt": "2026-05-31T11:40:50.869Z"
+      "addedAt": "2026-05-31T11:40:50.869Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "df66b04c-b624-4a2a-a86a-449bdd44bbbd",
+            "editedAt": "2026-11-18T13:24:11.490Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpv39ss28wffj7kj3o",
@@ -35747,5 +35758,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:23:50.219Z"
+  "lastUpdated": "2026-11-18T13:24:11.490Z"
 }
