@@ -32996,12 +32996,23 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-18",
+      "nextFollowUp": "2026-11-26",
       "notes": "786204 ashley IG",
-      "lastModified": "2026-11-11",
+      "lastModified": "2026-11-18",
       "customerSince": "2026-11-02",
       "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:34:28.207Z"
+      "addedAt": "2026-11-02T13:34:28.207Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "509208fe-ce9f-4374-b197-5164cc9b3636",
+            "editedAt": "2026-11-18T13:36:06.490Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mw0oghr9ikqor8jywt",
@@ -35874,5 +35885,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:35:19.452Z"
+  "lastUpdated": "2026-11-18T13:36:06.490Z"
 }
