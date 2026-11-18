@@ -8280,7 +8280,7 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-12-19",
+      "nextFollowUp": "2026-12-21",
       "notes": "David T Page delete",
       "lastModified": "2026-11-18",
       "dateAdded": "2026-06-11",
@@ -8293,6 +8293,13 @@
             "fields": [
               "nextFollowUp",
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "035cb966-f4c1-4aa6-8dba-fa661c16b87d",
+            "editedAt": "2026-11-18T13:27:17.397Z",
+            "fields": [
+              "nextFollowUp"
             ]
           }
         ]
@@ -35792,5 +35799,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:27:07.503Z"
+  "lastUpdated": "2026-11-18T13:27:17.397Z"
 }
