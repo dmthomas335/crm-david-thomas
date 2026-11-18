@@ -10918,16 +10918,27 @@
       "phone": "",
       "social": "https://www.facebook.com/sky.gyrl.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-07-29",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-06-24",
-      "addedAt": "2026-06-24T11:15:34.257Z"
+      "addedAt": "2026-06-24T11:15:34.257Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "84ea9bc0-bed8-4eb3-8b46-d21938091d5c",
+            "editedAt": "2026-11-18T13:29:42.540Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mqrz9brqp7p8fpuru5",
@@ -35817,5 +35828,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:29:27.463Z"
+  "lastUpdated": "2026-11-18T13:29:42.540Z"
 }
