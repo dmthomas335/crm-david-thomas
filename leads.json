@@ -26039,16 +26039,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18Rx4Qhp2Z/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-09-18",
-      "addedAt": "2026-09-18T11:39:48.635Z"
+      "addedAt": "2026-09-18T11:39:48.635Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "48a45d4a-0df0-4c2f-8399-e3f686afee6a",
+            "editedAt": "2026-11-18T10:26:44.532Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu6vzgczzr2d1awd7ja",
@@ -35196,5 +35207,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:26:18.475Z"
+  "lastUpdated": "2026-11-18T10:26:44.532Z"
 }
