@@ -17193,7 +17193,7 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.woolley.7169",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -17211,6 +17211,13 @@
             "fields": [
               "nextFollowUp",
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "8c625e6c-b963-4963-9cf3-5a85f9f02aea",
+            "editedAt": "2026-11-18T21:55:42.615Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -35896,5 +35903,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:37:16.432Z"
+  "lastUpdated": "2026-11-18T21:55:42.615Z"
 }
