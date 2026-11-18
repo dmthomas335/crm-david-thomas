@@ -18179,12 +18179,23 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-18",
+      "nextFollowUp": "2026-12-28",
       "notes": "Personal Me 766170 cancelled",
-      "lastModified": "2026-11-11",
+      "lastModified": "2026-11-18",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
-      "addedAt": "2026-08-06T11:03:22.352Z"
+      "addedAt": "2026-08-06T11:03:22.352Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "6421af05-468f-4425-a2dd-3e28f9df8b18",
+            "editedAt": "2026-11-18T10:05:24.915Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mshh6q4e9j0lvw6n2gq",
@@ -35072,5 +35083,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:04:44.297Z"
+  "lastUpdated": "2026-11-18T10:05:24.915Z"
 }
