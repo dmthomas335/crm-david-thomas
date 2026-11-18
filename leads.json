@@ -2953,13 +2953,24 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-19",
-      "nextFollowUp": "2026-11-18",
+      "nextFollowUp": "2026-12-21",
       "notes": "personal me 518332 ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:53:24.890Z",
       "videoSent": true,
-      "customerSince": "2026-07-15"
+      "customerSince": "2026-07-15",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e615a247-95be-41e6-8b65-f52b217891a3",
+            "editedAt": "2026-11-18T13:23:50.219Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpl7lhwr57aurv0jdyu",
@@ -35736,5 +35747,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:23:45.182Z"
+  "lastUpdated": "2026-11-18T13:23:50.219Z"
 }
