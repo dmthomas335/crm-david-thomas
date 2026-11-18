@@ -21762,16 +21762,27 @@
       "phone": "",
       "social": "https://www.facebook.com/dean.wallington.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-11",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-11",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-08-25",
-      "addedAt": "2026-08-25T11:53:15.929Z"
+      "addedAt": "2026-08-25T11:53:15.929Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "d2bd341c-174d-485f-86c2-798b7b1c83ce",
+            "editedAt": "2026-11-18T10:11:42.755Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt8lwk9mizjszdkxiu",
@@ -35094,5 +35105,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:10:22.381Z"
+  "lastUpdated": "2026-11-18T10:11:42.755Z"
 }
