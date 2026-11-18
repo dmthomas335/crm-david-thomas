@@ -8683,13 +8683,13 @@
       "social": "https://www.facebook.com/DJ.TORRES.AKA.ELMORENO.LOCO",
       "source": "Facebook",
       "status": "New Lead",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-12-01",
+      "nextFollowUp": "2026-11-19",
       "notes": "Personal send recap still trade? delete ",
-      "lastModified": "2026-11-17",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z",
       "muse": {
@@ -8706,6 +8706,14 @@
             "editedAt": "2026-11-17T12:31:30.509Z",
             "fields": [
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "183b2081-ecbe-452f-8d38-7c559eba1728",
+            "editedAt": "2026-11-18T10:47:05.802Z",
+            "fields": [
+              "videoSent",
+              "nextFollowUp"
             ]
           }
         ]
@@ -35621,5 +35629,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:38:15.337Z"
+  "lastUpdated": "2026-11-18T10:47:05.802Z"
 }
