@@ -28491,16 +28491,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jordan.stanley.581",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:43:02.352Z"
+      "addedAt": "2026-10-05T11:43:02.352Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "1f24a5bc-563b-4e56-bd11-32e3239e5304",
+            "editedAt": "2026-11-18T10:28:53.716Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muv6lmtvvpr3xwq2eh9",
@@ -35253,5 +35264,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:28:44.189Z"
+  "lastUpdated": "2026-11-18T10:28:53.716Z"
 }
