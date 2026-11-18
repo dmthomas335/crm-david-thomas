@@ -29104,16 +29104,27 @@
       "phone": "",
       "social": "https://www.facebook.com/imrosypeng",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-10-08",
-      "addedAt": "2026-10-08T09:49:31.933Z"
+      "addedAt": "2026-10-08T09:49:31.933Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0ff56fd1-f8ee-4667-925f-419d243481d8",
+            "editedAt": "2026-11-18T10:30:01.287Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muzcuw0cz0j20x5k38p",
@@ -35287,5 +35298,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:29:45.961Z"
+  "lastUpdated": "2026-11-18T10:30:01.287Z"
 }
