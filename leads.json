@@ -8280,11 +8280,23 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-11-18",
-      "notes": "David T Page ",
-      "lastModified": "2026-09-08",
+      "nextFollowUp": "2026-12-19",
+      "notes": "David T Page delete",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-06-11",
-      "addedAt": "2026-06-11T08:08:14.351Z"
+      "addedAt": "2026-06-11T08:08:14.351Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "108336cc-7e0e-460b-8b60-b0f2a8e2e4b3",
+            "editedAt": "2026-11-18T13:26:20.922Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq9denu2prk57kvxj89",
@@ -35769,5 +35781,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-18T13:24:44.592Z"
+  "lastUpdated": "2026-11-18T13:26:20.922Z"
 }
