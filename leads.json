@@ -7602,11 +7602,22 @@
       "temperature": "Warm",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-11-18",
+      "nextFollowUp": "2026-11-25",
       "notes": "Dave T Page still trade? ",
-      "lastModified": "2026-09-24",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-06-09",
-      "addedAt": "2026-06-09T07:51:50.029Z"
+      "addedAt": "2026-06-09T07:51:50.029Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "aedc2127-13f8-4bdb-9162-ceb84c756a95",
+            "editedAt": "2026-11-18T10:16:06.861Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq6cey5zf2wantm5z1a",
@@ -35127,5 +35138,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:11:58.429Z"
+  "lastUpdated": "2026-11-18T10:16:06.861Z"
 }
