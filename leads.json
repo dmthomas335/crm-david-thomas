@@ -28426,16 +28426,27 @@
       "phone": "",
       "social": "https://www.facebook.com/daja.thompson.161",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-05",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:41:16.166Z"
+      "addedAt": "2026-10-05T11:41:16.166Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e88eff8c-2e19-4d09-bf9f-b25436c1968d",
+            "editedAt": "2026-11-18T10:28:44.189Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muv6j504slm8bp8hn7",
@@ -35242,5 +35253,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:28:20.219Z"
+  "lastUpdated": "2026-11-18T10:28:44.189Z"
 }
