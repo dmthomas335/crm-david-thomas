@@ -27697,16 +27697,27 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.allison.92",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-09-28",
-      "addedAt": "2026-09-28T11:39:36.102Z"
+      "addedAt": "2026-09-28T11:39:36.102Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "32bba096-05bf-4ee3-934b-81b39e961af0",
+            "editedAt": "2026-11-18T10:27:59.266Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mul6e0n4g7fpy86ir3",
@@ -35219,5 +35230,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:27:43.813Z"
+  "lastUpdated": "2026-11-18T10:27:59.266Z"
 }
