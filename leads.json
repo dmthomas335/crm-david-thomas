@@ -28856,16 +28856,27 @@
       "phone": "",
       "social": "https://www.facebook.com/debek.sebastian",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-19",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-19",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-10-07",
-      "addedAt": "2026-10-07T11:31:51.876Z"
+      "addedAt": "2026-10-07T11:31:51.876Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "03a9a7b3-b248-4b9e-a29a-fa9c4f57b208",
+            "editedAt": "2026-11-18T10:29:45.960Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muy12roi1t2paj5qfy5",
@@ -35276,5 +35287,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:29:21.772Z"
+  "lastUpdated": "2026-11-18T10:29:45.961Z"
 }
