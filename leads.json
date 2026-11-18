@@ -30885,16 +30885,27 @@
       "phone": "",
       "social": "https://www.facebook.com/tylando.tucker.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
       "nextFollowUp": "2026-11-18",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-30",
+      "lastModified": "2026-11-18",
       "dateAdded": "2026-10-20",
-      "addedAt": "2026-10-20T11:16:56.712Z"
+      "addedAt": "2026-10-20T11:16:56.712Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "4b6c55e5-3750-4f6b-8a8f-fee75e9ede11",
+            "editedAt": "2026-11-18T10:30:59.784Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvglavs231mg3xlaka7",
@@ -35310,5 +35321,5 @@
       "prospectUploadedAt": "2026-11-17T11:57:37.921Z"
     }
   ],
-  "lastUpdated": "2026-11-18T10:30:35.690Z"
+  "lastUpdated": "2026-11-18T10:30:59.784Z"
 }
