@@ -28238,16 +28238,27 @@
       "phone": "",
       "social": "https://www.facebook.com/youngmnystyfresh",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal still trade? still trade? ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-09-29",
-      "addedAt": "2026-09-29T11:06:34.637Z"
+      "addedAt": "2026-09-29T11:06:34.637Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "c779c4e1-d854-41be-8da9-67d1d83e7371",
+            "editedAt": "2026-11-19T13:15:53.070Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mumkp0e6irn8gg53qm",
@@ -36053,5 +36064,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:15:32.290Z"
+  "lastUpdated": "2026-11-19T13:15:53.070Z"
 }
