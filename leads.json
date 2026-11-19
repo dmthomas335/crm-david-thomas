@@ -5357,12 +5357,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-19",
+      "nextFollowUp": "2026-11-26",
       "notes": "Discord",
-      "lastModified": "2026-11-05",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:38:41.947Z",
-      "customerSince": "2026-11-05"
+      "customerSince": "2026-11-05",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7751b375-9a33-44c4-bbf4-5260a4fc49db",
+            "editedAt": "2026-11-19T13:07:15.512Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mptpkunpbe3nhcdeesv",
@@ -35976,5 +35987,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:06:53.707Z"
+  "lastUpdated": "2026-11-19T13:07:15.512Z"
 }
