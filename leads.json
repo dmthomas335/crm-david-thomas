@@ -7963,7 +7963,7 @@
       "lastAction": "Nurture",
       "lastContact": "2026-10-15",
       "nextFollowUp": "2026-11-27",
-      "notes": "Personal joined as 2WT Soriano 681604",
+      "notes": "Personal joined as 2WT Soriano 681604 Always check his Discord status. ",
       "lastModified": "2026-11-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T07:54:32.694Z",
@@ -7982,6 +7982,13 @@
             "editedAt": "2026-11-19T13:37:23.462Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "c7d1e754-267a-4540-aa54-74d834ee33c5",
+            "editedAt": "2026-11-19T13:39:19.352Z",
+            "fields": [
+              "notes"
             ]
           }
         ]
@@ -36279,5 +36286,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:37:23.463Z"
+  "lastUpdated": "2026-11-19T13:39:19.352Z"
 }
