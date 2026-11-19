@@ -34626,18 +34626,29 @@
       "phone": "",
       "social": "https://facebook.com/bryan.robinson.96592",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-12",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-11-12",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-11-12",
       "addedAt": "2026-11-12T11:33:17.056Z",
       "prospectSourceId": "prospect-mwdgxz03-ndyvve",
-      "prospectUploadedAt": "2026-11-12T11:32:44.019Z"
+      "prospectUploadedAt": "2026-11-12T11:32:44.019Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0d0fdb43-1280-4ef6-84ed-18743d54cb5e",
+            "editedAt": "2026-11-19T13:21:57.854Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mwdgytynlaclkqk0scf",
@@ -36110,5 +36121,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:17:31.165Z"
+  "lastUpdated": "2026-11-19T13:21:57.854Z"
 }
