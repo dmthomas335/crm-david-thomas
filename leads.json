@@ -20797,16 +20797,27 @@
       "phone": "",
       "social": "https://www.facebook.com/deblabla",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-08-19",
-      "addedAt": "2026-08-19T12:09:37.644Z"
+      "addedAt": "2026-08-19T12:09:37.644Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "b33f98de-dd86-441e-a8d9-38c595bb86d0",
+            "editedAt": "2026-11-19T13:27:53.083Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt01uocd980yf56s0ec",
@@ -36250,5 +36261,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:27:41.426Z"
+  "lastUpdated": "2026-11-19T13:27:53.083Z"
 }
