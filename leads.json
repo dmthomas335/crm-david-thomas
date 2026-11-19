@@ -25437,16 +25437,27 @@
       "phone": "",
       "social": "https://www.facebook.com/andre.hayden.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-09-15",
-      "addedAt": "2026-09-15T11:24:45.066Z"
+      "addedAt": "2026-09-15T11:24:45.066Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "9162020b-4580-4e98-88c3-6a23d736a4d3",
+            "editedAt": "2026-11-19T13:15:10.864Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu2l4nyil3xhikreaj9",
@@ -36031,5 +36042,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:13:44.769Z"
+  "lastUpdated": "2026-11-19T13:15:10.864Z"
 }
