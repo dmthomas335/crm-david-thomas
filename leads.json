@@ -28495,16 +28495,27 @@
       "phone": "",
       "social": "https://www.facebook.com/eric.allen.9085",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-09",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-10-02",
-      "addedAt": "2026-10-02T12:46:55.235Z"
+      "addedAt": "2026-10-02T12:46:55.235Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "d643a1ab-0ac9-42c1-b228-d4148e19f77e",
+            "editedAt": "2026-11-19T13:16:23.004Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muqyk0zzavjn1a4ervq",
@@ -36064,5 +36075,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:15:53.070Z"
+  "lastUpdated": "2026-11-19T13:16:23.004Z"
 }
