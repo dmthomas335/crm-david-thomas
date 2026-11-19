@@ -28856,16 +28856,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jarrett.olson.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-20",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:43:38.707Z"
+      "addedAt": "2026-10-05T11:43:38.707Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "84b834c5-e840-4b0b-942d-5bdeb580305f",
+            "editedAt": "2026-11-19T13:16:28.392Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muv6m3j8xry1lgn450b",
@@ -36075,5 +36086,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:16:23.004Z"
+  "lastUpdated": "2026-11-19T13:16:28.392Z"
 }
