@@ -33143,11 +33143,23 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-19",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-02",
+      "nextFollowUp": "2026-12-21",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:18:27.224Z"
+      "addedAt": "2026-11-02T13:18:27.224Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "893e68c9-af4f-4858-b216-ed21bdcbbd24",
+            "editedAt": "2026-11-19T13:22:47.379Z",
+            "fields": [
+              "notes",
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvzactuxfmibf6vr8c",
@@ -36133,5 +36145,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:22:41.131Z"
+  "lastUpdated": "2026-11-19T13:22:47.379Z"
 }
