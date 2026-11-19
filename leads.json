@@ -25372,16 +25372,27 @@
       "phone": "",
       "social": "https://www.facebook.com/n7daze",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
       "nextFollowUp": "2026-11-19",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-09-15",
-      "addedAt": "2026-09-15T11:23:27.083Z"
+      "addedAt": "2026-09-15T11:23:27.083Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "10a56559-a25c-42a6-9734-25811d649127",
+            "editedAt": "2026-11-19T13:13:44.769Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu2l30uqg4q79wud0zr",
@@ -36020,5 +36031,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:11:17.140Z"
+  "lastUpdated": "2026-11-19T13:13:44.769Z"
 }
