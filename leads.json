@@ -666,11 +666,23 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-19",
-      "notes": "said too busy but in future Birthday ",
-      "lastModified": "2026-10-20",
+      "nextFollowUp": "2026-12-03",
+      "notes": "said too busy but in future Birthday delete ",
+      "lastModified": "2026-11-19",
       "dateAdded": "2026-05-19",
-      "videoSent": false
+      "videoSent": false,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "5206bb26-1136-4859-b2e0-a5ef1752891a",
+            "editedAt": "2026-11-19T13:22:41.131Z",
+            "fields": [
+              "notes",
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpcmkpum3d2pa756o1l",
@@ -36121,5 +36133,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:21:57.854Z"
+  "lastUpdated": "2026-11-19T13:22:41.131Z"
 }
