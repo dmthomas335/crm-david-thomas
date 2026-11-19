@@ -33143,7 +33143,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-12-21",
+      "nextFollowUp": "2027-01-19",
       "notes": "Personal Birthday still trade? ",
       "lastModified": "2026-11-19",
       "dateAdded": "2026-11-02",
@@ -33155,6 +33155,13 @@
             "editedAt": "2026-11-19T13:22:47.379Z",
             "fields": [
               "notes",
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "fe8004d0-46d7-4782-a3cc-ea192ec087b0",
+            "editedAt": "2026-11-19T13:24:04.437Z",
+            "fields": [
               "nextFollowUp"
             ]
           }
@@ -36193,5 +36200,5 @@
       "prospectUploadedAt": "2026-11-18T10:38:15.337Z"
     }
   ],
-  "lastUpdated": "2026-11-19T13:23:11.867Z"
+  "lastUpdated": "2026-11-19T13:24:04.437Z"
 }
