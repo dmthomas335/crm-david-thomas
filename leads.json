@@ -31603,16 +31603,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jamessb2",
       "source": "Facebook",
-      "status": "Prospect",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-06",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-10-20",
-      "addedAt": "2026-10-20T11:21:11.898Z"
+      "addedAt": "2026-10-20T11:21:11.898Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "96cd2e3e-e94e-40b9-a0d4-a4a9ee71a3ed",
+            "editedAt": "2026-11-20T09:29:26.002Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvgleydhlnji8al6oa",
@@ -36446,5 +36457,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:29:22.713Z"
+  "lastUpdated": "2026-11-20T09:29:26.002Z"
 }
