@@ -33466,16 +33466,27 @@
       "phone": "",
       "social": "https://www.facebook.com/gary.wedel.18",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-11-02",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-11-02",
-      "addedAt": "2026-11-02T13:19:33.417Z"
+      "addedAt": "2026-11-02T13:19:33.417Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a96438cb-51f4-4d7a-b336-77122b785eec",
+            "editedAt": "2026-11-20T09:47:27.245Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvzadr0fkpsc131rcx",
@@ -36550,5 +36561,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:46:20.090Z"
+  "lastUpdated": "2026-11-20T09:47:27.245Z"
 }
