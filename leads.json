@@ -9054,16 +9054,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18qXhZt2jM/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-11-06",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-06-13",
-      "addedAt": "2026-06-13T08:41:52.194Z"
+      "addedAt": "2026-06-13T08:41:52.194Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "8a535314-7ee7-4314-a4e0-187e8b686438",
+            "editedAt": "2026-11-20T09:22:39.442Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mqc3xhqhshy92czi69",
@@ -36358,5 +36369,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:22:36.644Z"
+  "lastUpdated": "2026-11-20T09:22:39.442Z"
 }
