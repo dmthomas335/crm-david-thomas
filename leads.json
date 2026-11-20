@@ -35385,14 +35385,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100009904752441",
       "source": "Facebook",
-      "status": "Customer",
+      "status": "Prospect",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-16",
-      "nextFollowUp": "2026-11-20",
+      "nextFollowUp": "2027-03-11",
       "notes": "IG Dave T Page Ashley 789604",
-      "lastModified": "2026-11-17",
+      "lastModified": "2026-11-20",
       "customerSince": "2026-11-16",
       "dateAdded": "2026-11-16",
       "addedAt": "2026-11-16T09:41:48.389Z",
@@ -35402,6 +35402,14 @@
             "idempotencyKey": "e6d1f418-bd67-42ab-ab17-245e7d68cdbf",
             "editedAt": "2026-11-17T12:48:07.187Z",
             "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "4597815a-2c55-4a77-aa17-bab36fbecf84",
+            "editedAt": "2026-11-20T08:46:52.425Z",
+            "fields": [
+              "status",
               "nextFollowUp"
             ]
           }
@@ -36332,5 +36340,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T08:17:06.563Z"
+  "lastUpdated": "2026-11-20T08:46:52.425Z"
 }
