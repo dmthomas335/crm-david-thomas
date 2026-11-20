@@ -22394,11 +22394,22 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-09-25",
-      "nextFollowUp": "2026-11-20",
+      "nextFollowUp": "2027-02-18",
       "notes": "Personal ",
-      "lastModified": "2026-09-25",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-08-26",
-      "addedAt": "2026-08-26T11:25:41.544Z"
+      "addedAt": "2026-08-26T11:25:41.544Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "34cd5f6b-c025-4ccc-ac58-e10e2a57e9f6",
+            "editedAt": "2026-11-20T09:33:42.525Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mta0dn0ggh13v3uuzs",
@@ -36515,5 +36526,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:33:39.467Z"
+  "lastUpdated": "2026-11-20T09:33:42.526Z"
 }
