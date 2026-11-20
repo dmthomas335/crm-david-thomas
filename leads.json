@@ -20795,11 +20795,25 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-20",
-      "notes": "Personal delete ",
-      "lastModified": "2026-10-21",
+      "nextFollowUp": "2026-11-23",
+      "notes": "Personal",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-08-19",
-      "addedAt": "2026-08-19T12:08:07.980Z"
+      "addedAt": "2026-08-19T12:08:07.980Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "56f7746a-9f20-44a5-b2b3-196b6575d30b",
+            "editedAt": "2026-11-20T09:24:32.988Z",
+            "fields": [
+              "status",
+              "videoSent",
+              "notes",
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt01su6dqg3nifcjvu",
@@ -36380,5 +36394,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:22:42.109Z"
+  "lastUpdated": "2026-11-20T09:24:32.988Z"
 }
