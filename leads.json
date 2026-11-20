@@ -23294,16 +23294,28 @@
       "phone": "",
       "social": "https://www.facebook.com/zach.phillips.338",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-01",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-11-23",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-09-01",
-      "addedAt": "2026-09-01T11:43:50.478Z"
+      "addedAt": "2026-09-01T11:43:50.478Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "006a758b-08e7-47ad-9691-ff28a0aa5993",
+            "editedAt": "2026-11-20T08:13:45.287Z",
+            "fields": [
+              "status",
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtilnasmlb1m73idblb",
@@ -36309,5 +36321,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T08:01:43.580Z"
+  "lastUpdated": "2026-11-20T08:13:45.287Z"
 }
