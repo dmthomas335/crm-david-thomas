@@ -22633,11 +22633,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2026-11-20",
+      "nextFollowUp": "2027-02-18",
       "notes": "Personal ",
-      "lastModified": "2026-09-10",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-08-27",
-      "addedAt": "2026-08-27T11:51:14.990Z"
+      "addedAt": "2026-08-27T11:51:14.990Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0d5a9b88-159a-4aa0-9355-a3ddcf06f04d",
+            "editedAt": "2026-11-20T09:33:31.369Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtbgpxraxnzh451jf",
@@ -36497,5 +36508,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:32:49.352Z"
+  "lastUpdated": "2026-11-20T09:33:31.369Z"
 }
