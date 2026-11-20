@@ -30573,16 +30573,27 @@
       "phone": "",
       "social": "https://www.facebook.com/barry.grove.503",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-10-14",
-      "addedAt": "2026-10-14T11:27:19.430Z"
+      "addedAt": "2026-10-14T11:27:19.430Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "797b3724-c3fb-407e-aa85-bd55c9e6d406",
+            "editedAt": "2026-11-20T09:29:05.263Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv8107ldbqskhcrlgvl",
@@ -36428,5 +36439,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:29:02.044Z"
+  "lastUpdated": "2026-11-20T09:29:05.263Z"
 }
