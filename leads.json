@@ -33471,8 +33471,8 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-02",
-      "nextFollowUp": "2026-11-20",
-      "notes": "Personal Birthday ",
+      "nextFollowUp": "2026-12-14",
+      "notes": "Personal Birthday still trade?",
       "lastModified": "2026-11-20",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:19:33.417Z",
@@ -33483,6 +33483,14 @@
             "editedAt": "2026-11-20T09:47:27.245Z",
             "fields": [
               "status"
+            ]
+          },
+          {
+            "idempotencyKey": "e39b87c0-1935-470e-8961-316024381423",
+            "editedAt": "2026-11-20T09:48:17.140Z",
+            "fields": [
+              "notes",
+              "nextFollowUp"
             ]
           }
         ]
@@ -36561,5 +36569,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:47:27.245Z"
+  "lastUpdated": "2026-11-20T09:48:17.140Z"
 }
