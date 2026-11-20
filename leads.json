@@ -8574,9 +8574,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-12-03",
+      "nextFollowUp": "2026-11-27",
       "notes": "Personal 2WT 520349 Brucey",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T13:33:11.113Z",
       "customerSince": "2026-07-08"
@@ -36975,5 +36975,5 @@
       "prospectUploadedAt": "2026-11-20T12:18:50.232Z"
     }
   ],
-  "lastUpdated": "2026-11-20T12:18:50.232Z"
+  "lastUpdated": "2026-11-20T12:27:23.188Z"
 }
