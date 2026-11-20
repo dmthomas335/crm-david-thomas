@@ -22633,7 +22633,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-27",
-      "nextFollowUp": "2027-02-18",
+      "nextFollowUp": "2026-11-20",
       "notes": "Personal ",
       "lastModified": "2026-11-20",
       "dateAdded": "2026-08-27",
@@ -22643,6 +22643,13 @@
           {
             "idempotencyKey": "0d5a9b88-159a-4aa0-9355-a3ddcf06f04d",
             "editedAt": "2026-11-20T09:33:31.369Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "07607f1e-6df6-4e6b-9b15-7ac511c1c940",
+            "editedAt": "2026-11-20T09:33:39.467Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -36508,5 +36515,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:33:31.369Z"
+  "lastUpdated": "2026-11-20T09:33:39.467Z"
 }
