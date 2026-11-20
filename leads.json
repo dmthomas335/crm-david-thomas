@@ -34272,16 +34272,27 @@
       "phone": "",
       "social": "https://www.facebook.com/greg.evans.7549",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-06",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-11-06",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-11-06",
-      "addedAt": "2026-11-06T12:49:01.243Z"
+      "addedAt": "2026-11-06T12:49:01.243Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "c169f89d-1985-4a77-acad-680b0dfb8024",
+            "editedAt": "2026-11-20T09:49:59.102Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mw4z1e14qrjrwy2cpx",
@@ -36602,5 +36613,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:49:22.055Z"
+  "lastUpdated": "2026-11-20T09:49:59.102Z"
 }
