@@ -31079,16 +31079,27 @@
       "phone": "",
       "social": "https://www.facebook.com/thewwards",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
       "nextFollowUp": "2026-11-26",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-10-19",
-      "addedAt": "2026-10-19T11:13:50.879Z"
+      "addedAt": "2026-10-19T11:13:50.879Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "ee1cd598-d08d-47fa-9227-c596bba58c7c",
+            "editedAt": "2026-11-20T08:17:06.563Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvf5q3ye9y1to2gi2f5",
@@ -36321,5 +36332,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T08:13:45.287Z"
+  "lastUpdated": "2026-11-20T08:17:06.563Z"
 }
