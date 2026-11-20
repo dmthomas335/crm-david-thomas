@@ -6939,8 +6939,8 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1CrCfBbAu1/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-05",
@@ -6963,6 +6963,14 @@
             "editedAt": "2026-11-20T22:50:23.661Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "726ee17f-9077-419c-bded-f014a1ab07d2",
+            "editedAt": "2026-11-20T22:51:37.246Z",
+            "fields": [
+              "status",
+              "videoSent"
             ]
           }
         ]
@@ -36982,5 +36990,5 @@
       "prospectUploadedAt": "2026-11-20T12:18:50.232Z"
     }
   ],
-  "lastUpdated": "2026-11-20T22:50:23.661Z"
+  "lastUpdated": "2026-11-20T22:51:37.246Z"
 }
