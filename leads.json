@@ -12333,16 +12333,27 @@
       "phone": "",
       "social": "https://www.facebook.com/bradley.allanach",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-31",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-06-30",
-      "addedAt": "2026-06-30T11:09:51.333Z"
+      "addedAt": "2026-06-30T11:09:51.333Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "64f3af42-ca3f-42ac-b577-003c39f7a57e",
+            "editedAt": "2026-11-20T09:50:26.704Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mr0jp0kljw3mqr4qf",
@@ -36613,5 +36624,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:49:59.102Z"
+  "lastUpdated": "2026-11-20T09:50:26.704Z"
 }
