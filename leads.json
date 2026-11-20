@@ -29048,16 +29048,27 @@
       "phone": "",
       "social": "https://www.facebook.com/joseph.thomas.338211",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-21",
       "nextFollowUp": "2026-11-20",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-21",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-10-05",
-      "addedAt": "2026-10-05T11:44:00.357Z"
+      "addedAt": "2026-10-05T11:44:00.357Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "9205d9cf-32ab-4ee4-80be-d73387191239",
+            "editedAt": "2026-11-20T09:31:30.741Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muwitw5h3ncxw0n9gs6",
@@ -36457,5 +36468,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:29:26.002Z"
+  "lastUpdated": "2026-11-20T09:31:30.741Z"
 }
