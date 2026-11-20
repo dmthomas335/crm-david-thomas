@@ -13421,16 +13421,27 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-08-05",
       "nextFollowUp": "2026-11-19",
       "notes": "Email send lack of communication",
-      "lastModified": "2026-09-01",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-07-06",
-      "addedAt": "2026-07-06T11:23:04.599Z"
+      "addedAt": "2026-07-06T11:23:04.599Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "85b46301-ba29-4faf-84c4-231daba80318",
+            "editedAt": "2026-11-20T09:32:49.352Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mr95z1g8rgo96ifxj8",
@@ -36486,5 +36497,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:31:56.542Z"
+  "lastUpdated": "2026-11-20T09:32:49.352Z"
 }
