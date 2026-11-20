@@ -20928,11 +20928,23 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-11-20",
-      "notes": "Personal delete ",
-      "lastModified": "2026-10-02",
+      "nextFollowUp": "2027-02-22",
+      "notes": "Personal",
+      "lastModified": "2026-11-20",
       "dateAdded": "2026-08-19",
-      "addedAt": "2026-08-19T12:11:17.334Z"
+      "addedAt": "2026-08-19T12:11:17.334Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "fac8f952-9ace-45aa-9f8e-53ad8113fb13",
+            "editedAt": "2026-11-20T09:26:14.250Z",
+            "fields": [
+              "notes",
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt01wjxikiwqte1yrgo",
@@ -36394,5 +36406,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:24:32.988Z"
+  "lastUpdated": "2026-11-20T09:26:14.250Z"
 }
