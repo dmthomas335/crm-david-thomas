@@ -22661,7 +22661,7 @@
       "phone": "",
       "social": "https://www.facebook.com/bhavesh.kerai.14",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -22685,6 +22685,13 @@
             "editedAt": "2026-11-20T09:33:39.467Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "71060823-361b-477d-852c-517317e6eaa5",
+            "editedAt": "2026-11-20T09:50:55.638Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -36635,5 +36642,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-20T09:50:42.622Z"
+  "lastUpdated": "2026-11-20T09:50:55.638Z"
 }
