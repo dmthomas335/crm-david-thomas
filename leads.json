@@ -31046,11 +31046,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-22",
+      "nextFollowUp": "2026-12-10",
       "notes": "Personal ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-10-15",
-      "addedAt": "2026-10-15T09:20:26.442Z"
+      "addedAt": "2026-10-15T09:20:26.442Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e3c64278-6792-4e7f-9f2d-03a35e442b3e",
+            "editedAt": "2026-11-21T11:02:56.197Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv9c4idjx5q546duael",
@@ -37138,5 +37149,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:02:49.069Z"
+  "lastUpdated": "2026-11-21T11:02:56.197Z"
 }
