@@ -8039,9 +8039,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-15",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-10",
       "notes": "Personal joined as 2WT Soriano 681604 Always check his Discord status. ",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T07:54:32.694Z",
       "customerSince": "2026-09-21",
@@ -8066,6 +8066,13 @@
             "editedAt": "2026-11-19T13:39:19.352Z",
             "fields": [
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "647e6ca8-3342-417e-b4c6-2e0dea1f8449",
+            "editedAt": "2026-11-21T11:09:02.798Z",
+            "fields": [
+              "nextFollowUp"
             ]
           }
         ]
@@ -37445,5 +37452,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:08:57.185Z"
+  "lastUpdated": "2026-11-21T11:09:02.798Z"
 }
