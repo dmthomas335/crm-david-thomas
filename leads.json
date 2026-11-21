@@ -23277,12 +23277,23 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-15",
       "notes": "Personal Me 771304",
-      "lastModified": "2026-10-28",
+      "lastModified": "2026-11-21",
       "customerSince": "2026-08-31",
       "dateAdded": "2026-08-31",
-      "addedAt": "2026-08-31T11:09:24.731Z"
+      "addedAt": "2026-08-31T11:09:24.731Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a25b0e91-cd99-40b5-9348-02f58c63094f",
+            "editedAt": "2026-11-21T11:09:45.931Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mth4zt56v2gnzfwmil",
@@ -37517,5 +37528,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:09:40.872Z"
+  "lastUpdated": "2026-11-21T11:09:45.931Z"
 }
