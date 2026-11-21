@@ -34012,9 +34012,9 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-08",
       "notes": "786204 ashley IG",
-      "lastModified": "2026-11-18",
+      "lastModified": "2026-11-21",
       "customerSince": "2026-11-02",
       "dateAdded": "2026-11-02",
       "addedAt": "2026-11-02T13:34:28.207Z",
@@ -34023,6 +34023,13 @@
           {
             "idempotencyKey": "509208fe-ce9f-4374-b197-5164cc9b3636",
             "editedAt": "2026-11-18T13:36:06.490Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "3350662d-72c9-447a-abab-4809fe8185f3",
+            "editedAt": "2026-11-21T11:08:23.354Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -37372,5 +37379,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:08:17.827Z"
+  "lastUpdated": "2026-11-21T11:08:23.354Z"
 }
