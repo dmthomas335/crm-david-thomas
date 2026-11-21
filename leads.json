@@ -28019,12 +28019,23 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-22",
+      "nextFollowUp": "2026-12-04",
       "notes": "511382 casmer check sub",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-21",
       "customerSince": "2026-09-25",
       "dateAdded": "2026-09-25",
-      "addedAt": "2026-09-25T11:48:56.346Z"
+      "addedAt": "2026-09-25T11:48:56.346Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "ddb5de7f-54ce-42f9-8691-9e4bd9f7aa5c",
+            "editedAt": "2026-11-21T11:02:32.889Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mugwgx1bg7e9dwzpj3v",
@@ -37085,5 +37096,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:02:27.444Z"
+  "lastUpdated": "2026-11-21T11:02:32.889Z"
 }
