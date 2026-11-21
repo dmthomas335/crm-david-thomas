@@ -36179,13 +36179,24 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-13",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-23",
       "notes": "Personal Birthday ",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T12:57:14.964Z",
       "prospectSourceId": "prospect-mwez5h8s-xoez6u",
-      "prospectUploadedAt": "2026-11-13T12:50:13.516Z"
+      "prospectUploadedAt": "2026-11-13T12:50:13.516Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "70fec932-99fa-4c4c-b717-c629285329cc",
+            "editedAt": "2026-11-21T11:11:25.648Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mwezeifolfsmesqixxk",
@@ -37707,5 +37718,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:11:20.124Z"
+  "lastUpdated": "2026-11-21T11:11:25.648Z"
 }
