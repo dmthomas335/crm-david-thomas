@@ -37729,7 +37729,25 @@
       "lastModified": "2026-11-20",
       "dateAdded": "2026-11-20",
       "addedAt": "2026-11-21T00:13:46.649Z"
+    },
+    {
+      "id": "mwql3tro7ss24vg5zvv",
+      "name": "Brayden McLaughlin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100000160804300",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-23",
+      "notes": "Personal ",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T15:50:11.250Z"
     }
   ],
-  "lastUpdated": "2026-11-21T15:50:04.273Z"
+  "lastUpdated": "2026-11-21T15:50:11.250Z"
 }
