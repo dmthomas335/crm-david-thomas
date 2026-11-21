@@ -14730,16 +14730,29 @@
       "phone": "",
       "social": "https://www.facebook.com/mario.carrasquillo.5",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Prospect",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-07-22",
-      "nextFollowUp": null,
+      "lastContact": "2026-11-21",
+      "nextFollowUp": "2026-11-23",
       "notes": "Personal ",
-      "lastModified": "2026-08-20",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-07-14",
-      "addedAt": "2026-07-14T11:02:44.942Z"
+      "addedAt": "2026-07-14T11:02:44.942Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "6fb04966-6a14-4019-9b0a-9826697ea75b",
+            "editedAt": "2026-11-21T15:50:04.273Z",
+            "fields": [
+              "status",
+              "nextFollowUp",
+              "lastContact"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mrkjltey037l8iptv1ui",
@@ -37718,5 +37731,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:11:25.648Z"
+  "lastUpdated": "2026-11-21T15:50:04.273Z"
 }
