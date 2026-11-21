@@ -37743,11 +37743,22 @@
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-21",
       "nextFollowUp": "2026-11-23",
-      "notes": "Personal ",
+      "notes": "Personal Attended webinar Sat 2026-11-21",
       "lastModified": "2026-11-21",
       "dateAdded": "2026-11-21",
-      "addedAt": "2026-11-21T15:50:11.250Z"
+      "addedAt": "2026-11-21T15:50:11.250Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "b389d81d-ca2e-4526-a100-110ad61c6656",
+            "editedAt": "2026-11-21T17:23:46.119Z",
+            "fields": [
+              "notes"
+            ]
+          }
+        ]
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T15:50:11.250Z"
+  "lastUpdated": "2026-11-21T17:23:46.119Z"
 }
