@@ -36988,7 +36988,25 @@
       "addedAt": "2026-11-20T12:18:50.232Z",
       "prospectSourceId": "prospect-mwoy47ys-oqpsst",
       "prospectUploadedAt": "2026-11-20T12:18:50.232Z"
+    },
+    {
+      "id": "mwpnnjdtde6bpsl9m0u",
+      "name": "Reciprocity IsAll IAccept",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100004093779693",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-20",
+      "nextFollowUp": "2026-11-23",
+      "notes": "Personal ",
+      "lastModified": "2026-11-20",
+      "dateAdded": "2026-11-20",
+      "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-20T22:51:37.246Z"
+  "lastUpdated": "2026-11-21T00:13:46.649Z"
 }
