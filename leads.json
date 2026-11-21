@@ -16159,9 +16159,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-12",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-11",
       "notes": "Personal delete ",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-07-23",
       "addedAt": "2026-07-23T11:25:45.584Z",
       "muse": {
@@ -16169,6 +16169,13 @@
           {
             "idempotencyKey": "e66c0205-d83b-495b-8ccb-81ba7d2113e0",
             "editedAt": "2026-11-19T13:02:43.888Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "5d3ed50a-aa26-4699-90a5-2855e04b47ed",
+            "editedAt": "2026-11-21T11:09:19.193Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -37474,5 +37481,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:09:13.737Z"
+  "lastUpdated": "2026-11-21T11:09:19.193Z"
 }
