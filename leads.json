@@ -4124,12 +4124,23 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-11-30",
       "notes": "personal Joined 527600 Valeria Rodriguez Marquez no response",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-05-28",
       "addedAt": "2026-05-28T11:27:09.802Z",
-      "customerSince": "2026-07-14"
+      "customerSince": "2026-07-14",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e24641a4-9b35-42b4-be25-656e3d5b5c62",
+            "editedAt": "2026-11-21T11:06:40.298Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mppes9l6px7hvi15gi",
@@ -37182,5 +37193,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:06:34.890Z"
+  "lastUpdated": "2026-11-21T11:06:40.298Z"
 }
