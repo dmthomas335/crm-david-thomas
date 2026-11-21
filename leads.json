@@ -20066,9 +20066,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-15",
       "notes": "Personal let us help you\n",
-      "lastModified": "2026-11-20",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T11:02:46.368Z",
       "muse": {
@@ -20076,6 +20076,13 @@
           {
             "idempotencyKey": "5999c005-c79c-458f-b6e7-fa14adbf7911",
             "editedAt": "2026-11-20T12:00:11.037Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "d7c7490c-5524-45e0-8424-154e49471264",
+            "editedAt": "2026-11-21T11:09:40.872Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -37510,5 +37517,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:09:35.562Z"
+  "lastUpdated": "2026-11-21T11:09:40.872Z"
 }
