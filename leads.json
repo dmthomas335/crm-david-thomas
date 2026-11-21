@@ -23499,7 +23499,7 @@
     {
       "id": "mtilmx8unjltzh3qx4",
       "name": "Zach Phillips",
-      "email": "",
+      "email": "zphillips55@yahoo.com",
       "phone": "",
       "social": "https://www.facebook.com/zach.phillips.338",
       "source": "Facebook",
@@ -23509,7 +23509,7 @@
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-01",
       "nextFollowUp": "2026-11-25",
-      "notes": "Personal still trade? ",
+      "notes": "Personal still trade? 544407",
       "lastModified": "2026-11-21",
       "dateAdded": "2026-09-01",
       "addedAt": "2026-09-01T11:43:50.478Z",
@@ -23530,6 +23530,14 @@
               "status",
               "videoSent",
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "38be6d53-2be2-40fd-894c-a3eb8e09cee2",
+            "editedAt": "2026-11-21T11:03:21.929Z",
+            "fields": [
+              "notes",
+              "email"
             ]
           }
         ]
@@ -37149,5 +37157,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:02:56.197Z"
+  "lastUpdated": "2026-11-21T11:03:21.929Z"
 }
