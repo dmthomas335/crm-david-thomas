@@ -8669,12 +8669,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-03",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-11",
       "notes": "Personal 2WT 520349 Brucey",
-      "lastModified": "2026-11-20",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T13:33:11.113Z",
-      "customerSince": "2026-07-08"
+      "customerSince": "2026-07-08",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "538b951a-8173-472b-a630-433805b88887",
+            "editedAt": "2026-11-21T11:09:08.042Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq9ycl5wn0j4xw2w5gn",
@@ -37452,5 +37463,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:09:02.798Z"
+  "lastUpdated": "2026-11-21T11:09:08.042Z"
 }
