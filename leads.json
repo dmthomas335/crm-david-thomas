@@ -1515,12 +1515,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-11-30",
       "notes": "sent trading vid",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T12:55:08.533Z",
-      "videoSent": false
+      "videoSent": false,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "5122a8d9-7517-4229-92f5-ea25f73efaf0",
+            "editedAt": "2026-11-21T11:06:34.890Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpfhv60ux3pdis8rzab",
@@ -37171,5 +37182,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:06:18.716Z"
+  "lastUpdated": "2026-11-21T11:06:34.890Z"
 }
