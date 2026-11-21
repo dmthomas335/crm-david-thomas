@@ -30738,11 +30738,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-07",
       "notes": "David T Page ",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-10-13",
-      "addedAt": "2026-10-13T11:05:32.447Z"
+      "addedAt": "2026-10-13T11:05:32.447Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "25b207cb-7c72-4191-808f-f86ca0a5171b",
+            "editedAt": "2026-11-21T11:08:00.524Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv6kzg3x6mtvn5r5j1j",
@@ -37328,5 +37339,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:07:54.917Z"
+  "lastUpdated": "2026-11-21T11:08:00.524Z"
 }
