@@ -5402,9 +5402,9 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-05",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-01",
       "notes": "Discord",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T11:38:41.947Z",
       "customerSince": "2026-11-05",
@@ -5413,6 +5413,13 @@
           {
             "idempotencyKey": "7751b375-9a33-44c4-bbf4-5260a4fc49db",
             "editedAt": "2026-11-19T13:07:15.512Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "e239d09e-24e6-4d43-b55a-d14fd83bc5f2",
+            "editedAt": "2026-11-21T11:06:51.326Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -37204,5 +37211,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:06:45.520Z"
+  "lastUpdated": "2026-11-21T11:06:51.326Z"
 }
