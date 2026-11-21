@@ -7796,12 +7796,23 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-22",
+      "nextFollowUp": "2026-11-24",
       "notes": " Joined Ashley 757720 Personal ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-09T08:09:00.343Z",
-      "customerSince": "2026-06-26"
+      "customerSince": "2026-06-26",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "2a0d3ee3-f200-491a-bf2d-0daea933e35d",
+            "editedAt": "2026-11-21T11:01:59.836Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq6j155fxendwudk3gb",
@@ -37019,5 +37030,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:01:54.574Z"
+  "lastUpdated": "2026-11-21T11:01:59.836Z"
 }
