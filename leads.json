@@ -26423,11 +26423,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
-      "nextFollowUp": "2026-11-22",
+      "nextFollowUp": "2026-12-02",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-09-17",
-      "addedAt": "2026-09-17T11:14:49.491Z"
+      "addedAt": "2026-09-17T11:14:49.491Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "182b3477-db6a-46f1-992c-c94d3b933be5",
+            "editedAt": "2026-11-21T11:02:21.421Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu5fnraisjtp7ydrka",
@@ -37063,5 +37074,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:02:15.822Z"
+  "lastUpdated": "2026-11-21T11:02:21.421Z"
 }
