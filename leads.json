@@ -23018,12 +23018,23 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-02",
       "notes": "Personal Simon Roberts 516368",
-      "lastModified": "2026-10-27",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T12:14:57.177Z",
-      "customerSince": "2026-09-09"
+      "customerSince": "2026-09-09",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "727e96f4-07a9-4d20-b00b-9699838a9581",
+            "editedAt": "2026-11-21T11:07:20.020Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtcx053t6fus5iy006",
@@ -37255,5 +37266,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:07:14.443Z"
+  "lastUpdated": "2026-11-21T11:07:20.020Z"
 }
