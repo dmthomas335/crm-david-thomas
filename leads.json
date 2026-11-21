@@ -19220,11 +19220,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-28",
-      "nextFollowUp": "2026-11-27",
+      "nextFollowUp": "2026-12-14",
       "notes": "Personal 519855 Miguel Loza Cancelled delete ",
-      "lastModified": "2026-10-28",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-08-07",
-      "addedAt": "2026-08-07T12:40:08.734Z"
+      "addedAt": "2026-08-07T12:40:08.734Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "cd70f035-4249-416d-bf92-20e57275bb70",
+            "editedAt": "2026-11-21T11:09:35.562Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "msixpd7owcxuvaszkxo",
@@ -37499,5 +37510,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:09:30.243Z"
+  "lastUpdated": "2026-11-21T11:09:35.562Z"
 }
