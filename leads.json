@@ -27245,11 +27245,22 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-12",
-      "nextFollowUp": "2026-11-26",
+      "nextFollowUp": "2026-12-03",
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-12",
+      "lastModified": "2026-11-21",
       "dateAdded": "2026-09-21",
-      "addedAt": "2026-09-21T11:46:10.284Z"
+      "addedAt": "2026-09-21T11:46:10.284Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "b0d7e27b-3563-4264-bce8-6bfada3caa07",
+            "editedAt": "2026-11-21T11:07:38.102Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mub6jfp0t58rxzeu4g",
@@ -37284,5 +37295,5 @@
       "addedAt": "2026-11-21T00:13:46.649Z"
     }
   ],
-  "lastUpdated": "2026-11-21T11:07:32.354Z"
+  "lastUpdated": "2026-11-21T11:07:38.102Z"
 }
