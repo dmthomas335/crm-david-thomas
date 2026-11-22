@@ -37781,7 +37781,30 @@
         "idempotencyKey": "c0dac6a4-6a44-4e43-b56d-4ca500b95716",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwrpe7xg-c6o9dr",
+      "name": "Michel Rives",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michel.rives.545",
+      "source": "Facebook",
+      "status": "Prospect",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Sent info: theinfoyouwant.com community indicator video link",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Dave Thomas Page",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T10:38:05.476Z",
+      "muse": {
+        "createdAt": "2026-11-22T10:38:05.476Z",
+        "idempotencyKey": "6c15f9c2-1366-44c5-9b72-326462a972d0",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T10:37:34.461Z"
+  "lastUpdated": "2026-11-22T10:38:05.868Z"
 }
