@@ -37758,7 +37758,30 @@
           }
         ]
       }
+    },
+    {
+      "id": "muse-mwrpdjno-ldo3vg",
+      "name": "S",
+      "email": "",
+      "phone": "",
+      "social": "https://www.instagram.com/jaccboi_5200/",
+      "source": "Instagram",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": "2026-11-24",
+      "notes": "Instagram",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T10:37:33.989Z",
+      "muse": {
+        "createdAt": "2026-11-22T10:37:33.989Z",
+        "idempotencyKey": "c0dac6a4-6a44-4e43-b56d-4ca500b95716",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T17:23:46.119Z"
+  "lastUpdated": "2026-11-22T10:37:34.461Z"
 }
