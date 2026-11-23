@@ -8225,7 +8225,7 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-11-09",
-      "nextFollowUp": "2026-11-23",
+      "nextFollowUp": "2027-02-01",
       "notes": "Personal joined as 2WT BB 511114 cancelled ",
       "lastModified": "2026-11-23",
       "dateAdded": "2026-06-10",
@@ -8238,6 +8238,13 @@
             "editedAt": "2026-11-23T08:57:51.816Z",
             "fields": [
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "bed891a6-9f00-4e97-8460-8a1a431f7d8a",
+            "editedAt": "2026-11-23T09:00:25.495Z",
+            "fields": [
+              "nextFollowUp"
             ]
           }
         ]
@@ -37914,5 +37921,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:59:11.866Z"
+  "lastUpdated": "2026-11-23T09:00:25.495Z"
 }
