@@ -8334,9 +8334,9 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-11-16",
-      "nextFollowUp": "2026-11-23",
+      "nextFollowUp": "2026-12-07",
       "notes": "Personal Me 758186 cancelled ",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T07:58:29.322Z",
       "customerSince": "2026-06-29",
@@ -8345,6 +8345,13 @@
           {
             "idempotencyKey": "58d02de3-e58f-4ff5-a893-a9e99fe4b9bc",
             "editedAt": "2026-11-19T13:07:23.050Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "a40a5b6d-6147-4af2-899b-870e8e2f2b9d",
+            "editedAt": "2026-11-23T09:03:14.653Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -37921,5 +37928,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T09:00:25.495Z"
+  "lastUpdated": "2026-11-23T09:03:14.653Z"
 }
