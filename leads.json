@@ -37945,16 +37945,27 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100004093779693",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-20",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal ",
-      "lastModified": "2026-11-20",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-11-20",
-      "addedAt": "2026-11-21T00:13:46.649Z"
+      "addedAt": "2026-11-21T00:13:46.649Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "3b8a140a-fb4b-4a30-b409-668ef5a76ac5",
+            "editedAt": "2026-11-23T11:40:32.194Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mwql3tro7ss24vg5zvv",
@@ -38032,5 +38043,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T11:23:23.547Z"
+  "lastUpdated": "2026-11-23T11:40:32.194Z"
 }
