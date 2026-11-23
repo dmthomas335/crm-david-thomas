@@ -38353,7 +38353,25 @@
       "addedAt": "2026-11-23T14:25:12.739Z",
       "prospectSourceId": "prospect-mwtcy81z-vwem6c",
       "prospectUploadedAt": "2026-11-23T14:25:12.739Z"
+    },
+    {
+      "id": "mwtn8h6j1754ouvv73j",
+      "name": "Amber Lundy Gibson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=1567806383",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Personal ",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T19:13:08.463Z"
     }
   ],
-  "lastUpdated": "2026-11-23T16:30:04.652Z"
+  "lastUpdated": "2026-11-23T19:13:08.463Z"
 }
