@@ -13618,14 +13618,14 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-07-15",
-      "nextFollowUp": "2026-11-23",
+      "nextFollowUp": null,
       "notes": "Text",
-      "lastModified": "2026-08-14",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T11:21:59.407Z"
     },
@@ -38043,5 +38043,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T11:40:32.194Z"
+  "lastUpdated": "2026-11-23T12:19:52.340Z"
 }
