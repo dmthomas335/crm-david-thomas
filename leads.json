@@ -37623,12 +37623,12 @@
       "phone": "",
       "social": "https://www.instagram.com/paul_lamey/",
       "source": "Instagram",
-      "status": "Not Interested",
+      "status": "Sent Video",
       "videoSent": true,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-20",
-      "nextFollowUp": null,
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-24",
       "notes": "Instagram",
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-20",
@@ -38044,5 +38044,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T12:27:06.511Z"
+  "lastUpdated": "2026-11-23T13:07:47.623Z"
 }
