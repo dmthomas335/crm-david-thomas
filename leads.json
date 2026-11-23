@@ -33199,16 +33199,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jon.tarr.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-09",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-09",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-26",
-      "addedAt": "2026-10-26T12:10:45.247Z"
+      "addedAt": "2026-10-26T12:10:45.247Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "15ad8503-251e-406f-a560-bc20777b8864",
+            "editedAt": "2026-11-23T08:55:22.018Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvp7ttoagdrdj4fhc3o",
@@ -37835,5 +37846,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:55:18.018Z"
+  "lastUpdated": "2026-11-23T08:55:22.018Z"
 }
