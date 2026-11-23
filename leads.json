@@ -677,9 +677,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-12-03",
+      "nextFollowUp": "2026-12-01",
       "notes": "said too busy but in future Birthday delete ",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-05-19",
       "videoSent": false,
       "muse": {
@@ -689,6 +689,13 @@
             "editedAt": "2026-11-19T13:22:41.131Z",
             "fields": [
               "notes",
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "609b6be5-d26f-4029-bfe0-6a35e853e2ad",
+            "editedAt": "2026-11-23T19:14:41.566Z",
+            "fields": [
               "nextFollowUp"
             ]
           }
@@ -38373,5 +38380,5 @@
       "addedAt": "2026-11-23T19:13:08.463Z"
     }
   ],
-  "lastUpdated": "2026-11-23T19:13:08.463Z"
+  "lastUpdated": "2026-11-23T19:14:41.566Z"
 }
