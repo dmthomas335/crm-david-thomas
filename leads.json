@@ -30952,21 +30952,33 @@
     },
     {
       "id": "mv56fjckxqb346akg4c",
-      "name": "Erick Dockery",
+      "name": "Eric Dockery",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/eric.d.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-29",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-12",
-      "addedAt": "2026-10-12T11:36:36.020Z"
+      "addedAt": "2026-10-12T11:36:36.020Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a59b6443-d54f-4988-85ab-8f15ad40a1ac",
+            "editedAt": "2026-11-23T08:59:11.866Z",
+            "fields": [
+              "name",
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv56fzhn34ejffttrg6",
@@ -37902,5 +37914,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:58:10.488Z"
+  "lastUpdated": "2026-11-23T08:59:11.866Z"
 }
