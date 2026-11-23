@@ -33509,16 +33509,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/19m8fGRMZb/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-09",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-09",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-28",
-      "addedAt": "2026-10-28T10:39:14.662Z"
+      "addedAt": "2026-10-28T10:39:14.662Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "b0a8484b-b932-4e1f-bb18-b7a4fc020deb",
+            "editedAt": "2026-11-23T08:55:25.879Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvrzg45g6jle8wxco1v",
@@ -37846,5 +37857,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:55:22.018Z"
+  "lastUpdated": "2026-11-23T08:55:25.879Z"
 }
