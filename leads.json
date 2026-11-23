@@ -15320,7 +15320,7 @@
       "phone": "",
       "social": "https://www.facebook.com/Mista.AC",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -15329,7 +15329,18 @@
       "notes": "Personal  delete ",
       "lastModified": "2026-11-23",
       "dateAdded": "2026-07-17",
-      "addedAt": "2026-07-17T11:10:04.887Z"
+      "addedAt": "2026-07-17T11:10:04.887Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "3d6dd100-e582-49ce-8da9-cc29905f2aa6",
+            "editedAt": "2026-11-23T16:30:04.652Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mrou6rmoqqx83th4k7i",
@@ -38344,5 +38355,5 @@
       "prospectUploadedAt": "2026-11-23T14:25:12.739Z"
     }
   ],
-  "lastUpdated": "2026-11-23T14:25:12.739Z"
+  "lastUpdated": "2026-11-23T16:30:04.652Z"
 }
