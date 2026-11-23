@@ -227,12 +227,23 @@
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-08-07",
-      "nextFollowUp": "2026-11-23",
+      "nextFollowUp": "2026-12-23",
       "notes": "Personal Ashley 694627 ",
-      "lastModified": "2026-10-23",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-05-18",
       "videoSent": true,
-      "customerSince": "2026-09-15"
+      "customerSince": "2026-09-15",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a3e87145-d7b1-468c-ba68-bb6526c86424",
+            "editedAt": "2026-11-23T11:11:36.004Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpbfyjbz4f9i0u3gmph",
@@ -37928,5 +37939,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T09:03:14.653Z"
+  "lastUpdated": "2026-11-23T11:11:36.004Z"
 }
