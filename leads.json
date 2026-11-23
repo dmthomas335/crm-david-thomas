@@ -29922,16 +29922,27 @@
       "phone": "",
       "social": "https://www.facebook.com/monie.yamat.37",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-07",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-14",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-07",
-      "addedAt": "2026-10-07T11:29:35.888Z"
+      "addedAt": "2026-10-07T11:29:35.888Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "aba982ab-9b5b-47bf-a264-d68969358f84",
+            "editedAt": "2026-11-23T08:58:06.573Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muy10i9eiabbyeizw9",
@@ -37879,5 +37890,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:58:02.796Z"
+  "lastUpdated": "2026-11-23T08:58:06.573Z"
 }
