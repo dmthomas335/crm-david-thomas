@@ -38385,7 +38385,30 @@
       "lastModified": "2026-11-23",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T19:13:08.463Z"
+    },
+    {
+      "id": "muse-mwto7i0n-yv4h5v",
+      "name": "David McCoy",
+      "email": "davidmccoy3530@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Email",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Sent webinar recording link",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-11-25",
+      "notes": "Email davidmccoy3530@gmail.com",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T19:40:24.694Z",
+      "muse": {
+        "createdAt": "2026-11-23T19:40:24.694Z",
+        "idempotencyKey": "639077f7-232e-4f22-889d-da1a902fdbb4",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-23T19:16:11.799Z"
+  "lastUpdated": "2026-11-23T19:40:25.177Z"
 }
