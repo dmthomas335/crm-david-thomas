@@ -32639,16 +32639,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jared.roberts.92754397",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-09",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-09",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-21",
-      "addedAt": "2026-10-21T11:44:20.665Z"
+      "addedAt": "2026-10-21T11:44:20.665Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "95c438a4-de47-4bb4-ad93-0f1fe2da6ada",
+            "editedAt": "2026-11-23T08:55:18.018Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvi1pg07izpc7xcoyb",
@@ -37824,5 +37835,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:55:14.157Z"
+  "lastUpdated": "2026-11-23T08:55:18.018Z"
 }
