@@ -20495,20 +20495,21 @@
     {
       "id": "msswiyhhck9gpyoyrqd",
       "name": "Jim Kulp",
-      "email": "",
+      "email": "JKCabinetinstallation@gmail.com",
       "phone": "",
       "social": "https://www.facebook.com/jim.kulp.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
-      "temperature": "Cold",
+      "temperature": "Hot",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-24",
-      "nextFollowUp": "2026-11-23",
-      "notes": "Personal ",
-      "lastModified": "2026-09-07",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": "2026-12-07",
+      "notes": "Personal 511902 MAM",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-08-14",
-      "addedAt": "2026-08-14T12:06:40.661Z"
+      "addedAt": "2026-08-14T12:06:40.661Z",
+      "customerSince": "2026-11-23"
     },
     {
       "id": "msswjbkt8s09oq1dx4r",
@@ -38043,5 +38044,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T12:20:31.719Z"
+  "lastUpdated": "2026-11-23T12:21:46.179Z"
 }
