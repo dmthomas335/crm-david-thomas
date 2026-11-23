@@ -14796,7 +14796,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-11-23",
-      "nextFollowUp": "2026-11-30",
+      "nextFollowUp": "2026-12-07",
       "notes": "Personal delete ",
       "lastModified": "2026-11-23",
       "dateAdded": "2026-07-14",
@@ -14810,6 +14810,13 @@
               "status",
               "nextFollowUp",
               "lastContact"
+            ]
+          },
+          {
+            "idempotencyKey": "af1c23b2-d884-4ff0-8cad-9669af6ef836",
+            "editedAt": "2026-11-23T19:16:11.799Z",
+            "fields": [
+              "nextFollowUp"
             ]
           }
         ]
@@ -38380,5 +38387,5 @@
       "addedAt": "2026-11-23T19:13:08.463Z"
     }
   ],
-  "lastUpdated": "2026-11-23T19:14:41.566Z"
+  "lastUpdated": "2026-11-23T19:16:11.799Z"
 }
