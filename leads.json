@@ -6835,14 +6835,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kimberly.streeter.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-23",
       "nextFollowUp": "2026-11-23",
       "notes": "personal delete ",
-      "lastModified": "2026-11-21",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T12:03:45.132Z",
       "muse": {
@@ -6852,6 +6852,13 @@
             "editedAt": "2026-11-21T11:01:54.574Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "f9f13764-6da9-4067-9531-18b9e0c45616",
+            "editedAt": "2026-11-23T08:55:10.266Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -37806,5 +37813,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-22T10:38:05.868Z"
+  "lastUpdated": "2026-11-23T08:55:10.266Z"
 }
