@@ -31675,16 +31675,27 @@
       "phone": "",
       "social": "https://www.facebook.com/anderson.ngulube.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-09",
       "nextFollowUp": "2026-11-23",
       "notes": "Personal Birthday delete ",
-      "lastModified": "2026-11-09",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-10-15",
-      "addedAt": "2026-10-15T09:34:36.281Z"
+      "addedAt": "2026-10-15T09:34:36.281Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "df4b1b96-805d-470e-9ba6-f2ba195176da",
+            "editedAt": "2026-11-23T08:55:14.156Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv9cena25wmahny5rt",
@@ -37813,5 +37824,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:55:10.266Z"
+  "lastUpdated": "2026-11-23T08:55:14.157Z"
 }
