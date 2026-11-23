@@ -8226,11 +8226,22 @@
       "lastAction": "Nurture",
       "lastContact": "2026-11-09",
       "nextFollowUp": "2026-11-23",
-      "notes": "Personal joined as 2WT BB cancelled ",
-      "lastModified": "2026-11-09",
+      "notes": "Personal joined as 2WT BB 511114 cancelled ",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-10T11:49:44.166Z",
-      "customerSince": "2026-09-27"
+      "customerSince": "2026-09-27",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "bda108a5-1fbb-4bfd-a034-6c54e086a4ca",
+            "editedAt": "2026-11-23T08:57:51.816Z",
+            "fields": [
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq80blymtoi7suish5q",
@@ -37857,5 +37868,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T08:55:25.879Z"
+  "lastUpdated": "2026-11-23T08:57:51.816Z"
 }
