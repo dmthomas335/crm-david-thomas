@@ -36213,13 +36213,25 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Personal Birthday ",
-      "lastModified": "2026-11-11",
+      "nextFollowUp": "2027-01-08",
+      "notes": "Personal Birthday still trade? ",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-11",
       "addedAt": "2026-11-11T12:19:55.330Z",
       "prospectSourceId": "prospect-mwc34yje-qfwcus",
-      "prospectUploadedAt": "2026-11-11T12:18:29.210Z"
+      "prospectUploadedAt": "2026-11-11T12:18:29.210Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "9d3aaafc-a074-4b9c-8b30-f1f68fff7025",
+            "editedAt": "2026-11-24T11:54:27.617Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mwc3709az199eviie2",
@@ -38952,5 +38964,5 @@
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
     }
   ],
-  "lastUpdated": "2026-11-24T11:54:21.117Z"
+  "lastUpdated": "2026-11-24T11:54:27.617Z"
 }
