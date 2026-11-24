@@ -16762,16 +16762,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1DEVN2krR1/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-10",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal delete ",
-      "lastModified": "2026-11-10",
+      "lastModified": "2026-11-23",
       "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T11:54:56.399Z"
+      "addedAt": "2026-07-26T11:54:56.399Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "cc2a3557-2db5-4962-b9b0-fb6414281f06",
+            "editedAt": "2026-11-24T07:58:30.137Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ms1qrfh0bp5c9ncqz5j",
@@ -38421,5 +38432,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T23:46:42.241Z"
+  "lastUpdated": "2026-11-24T07:58:30.137Z"
 }
