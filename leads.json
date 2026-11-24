@@ -1138,12 +1138,23 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-20",
-      "nextFollowUp": "2026-11-24",
+      "nextFollowUp": "2026-12-29",
       "notes": "Personal 751352 Paul Johnson",
-      "lastModified": "2026-11-03",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-05-20",
       "videoSent": true,
-      "customerSince": "2026-05-28"
+      "customerSince": "2026-05-28",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "89346c0b-49e9-4a4f-8ba2-f2712f703f87",
+            "editedAt": "2026-11-24T08:01:15.844Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpe1q7xcqp6wcmdn6h",
@@ -38443,5 +38454,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T07:58:38.402Z"
+  "lastUpdated": "2026-11-24T08:01:15.844Z"
 }
