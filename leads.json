@@ -27792,16 +27792,27 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100079262318485",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-12",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-12",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-09-22",
-      "addedAt": "2026-09-22T11:28:35.706Z"
+      "addedAt": "2026-09-22T11:28:35.706Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "fe6d76bb-00ca-4a6a-bcee-be576e2c1283",
+            "editedAt": "2026-11-24T08:26:06.724Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muclcrcy9rookbqare",
@@ -38512,5 +38523,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:26:01.065Z"
+  "lastUpdated": "2026-11-24T08:26:06.725Z"
 }
