@@ -26273,16 +26273,27 @@
       "phone": "",
       "social": "https://www.facebook.com/yarla.rodriguez.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-15",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-09-15",
-      "addedAt": "2026-09-15T11:26:46.684Z"
+      "addedAt": "2026-09-15T11:26:46.684Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "baa2ab30-b1f4-48f6-91c2-123836c86333",
+            "editedAt": "2026-11-24T08:26:01.065Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mu2l7a1obmc2bpzv7s5",
@@ -38501,5 +38512,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:04:14.043Z"
+  "lastUpdated": "2026-11-24T08:26:01.065Z"
 }
