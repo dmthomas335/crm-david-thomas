@@ -8483,12 +8483,23 @@
       "temperature": "Warm",
       "lastAction": "Closed",
       "lastContact": "2026-11-10",
-      "nextFollowUp": "2026-11-24",
+      "nextFollowUp": "2026-12-21",
       "notes": "Personal Jeff casmer 758133 ",
-      "lastModified": "2026-11-10",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T08:05:50.655Z",
-      "customerSince": "2026-11-09"
+      "customerSince": "2026-11-09",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "4e6c974f-6e9c-4e61-9c6f-37b71cee49f3",
+            "editedAt": "2026-11-24T08:02:05.015Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq97tszzv5oxqm7dnir",
@@ -38472,5 +38483,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:01:51.942Z"
+  "lastUpdated": "2026-11-24T08:02:05.015Z"
 }
