@@ -33244,16 +33244,27 @@
       "phone": "",
       "social": "https://www.facebook.com/liam.spooner.35",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-23",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-11-05",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-10-23",
-      "addedAt": "2026-10-23T10:00:55.072Z"
+      "addedAt": "2026-10-23T10:00:55.072Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "df2b1147-776c-468e-8d50-fbaf833bec83",
+            "editedAt": "2026-11-24T08:26:18.666Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvksv8uf7q9rf3qcv66",
@@ -38534,5 +38545,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:26:13.143Z"
+  "lastUpdated": "2026-11-24T08:26:18.666Z"
 }
