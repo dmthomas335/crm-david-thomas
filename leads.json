@@ -29494,10 +29494,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-10-14",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-08",
+      "notes": "Personal still trade? delete ",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-10-02",
       "addedAt": "2026-10-02T12:49:16.226Z"
     },
@@ -38974,5 +38974,5 @@
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
     }
   ],
-  "lastUpdated": "2026-11-24T11:59:51.298Z"
+  "lastUpdated": "2026-11-24T12:00:05.604Z"
 }
