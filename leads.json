@@ -3486,16 +3486,27 @@
       "phone": "",
       "social": "https://www.facebook.com/share/18scaD8SUU/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-12",
       "nextFollowUp": "2026-11-24",
       "notes": "personal",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T07:41:29.469Z",
-      "videoSent": true
+      "videoSent": true,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "c7397c0c-bbdc-457f-8343-4b763ec3f011",
+            "editedAt": "2026-11-24T09:35:33.747Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpnsgkq080q6friaxaq",
@@ -38567,5 +38578,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T09:35:11.732Z"
+  "lastUpdated": "2026-11-24T09:35:33.747Z"
 }
