@@ -38311,15 +38311,25 @@
       "temperature": "Cold",
       "lastAction": "Sent info: theinfoyouwant.com community indicator video link",
       "lastContact": "2026-11-22",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Dave Thomas Page",
-      "lastModified": "2026-11-22",
+      "nextFollowUp": "2026-12-08",
+      "notes": "Dave Thomas Page delete ",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-22",
       "addedAt": "2026-11-22T10:38:05.476Z",
       "muse": {
         "createdAt": "2026-11-22T10:38:05.476Z",
         "idempotencyKey": "6c15f9c2-1366-44c5-9b72-326462a972d0",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "edits": [
+          {
+            "idempotencyKey": "083763c4-48b3-46e6-80d0-d6d048552168",
+            "editedAt": "2026-11-24T11:54:33.827Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
       }
     },
     {
@@ -38964,5 +38974,5 @@
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
     }
   ],
-  "lastUpdated": "2026-11-24T11:54:27.617Z"
+  "lastUpdated": "2026-11-24T11:54:33.827Z"
 }
