@@ -38192,10 +38192,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-11-22",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Instagram",
-      "lastModified": "2026-11-22",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-08",
+      "notes": "Instagram delete ",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-22",
       "addedAt": "2026-11-22T10:37:33.989Z",
       "muse": {
@@ -38869,5 +38869,5 @@
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
     }
   ],
-  "lastUpdated": "2026-11-24T11:52:01.893Z"
+  "lastUpdated": "2026-11-24T11:53:22.176Z"
 }
