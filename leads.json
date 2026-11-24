@@ -30090,16 +30090,27 @@
       "phone": "",
       "social": "https://www.facebook.com/sheldon.a.smith.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-06",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal Birthday still trade? ",
-      "lastModified": "2026-10-29",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-10-06",
-      "addedAt": "2026-10-06T10:19:32.784Z"
+      "addedAt": "2026-10-06T10:19:32.784Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "63f5bf52-bc9d-4d22-acd6-bc08b892a074",
+            "editedAt": "2026-11-24T08:26:13.143Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muy0z9u8yzu00q1upf",
@@ -38523,5 +38534,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:26:06.725Z"
+  "lastUpdated": "2026-11-24T08:26:13.143Z"
 }
