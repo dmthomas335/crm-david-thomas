@@ -2446,16 +2446,27 @@
       "phone": "",
       "social": "https://www.facebook.com/toni.ptone",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-06-19",
       "nextFollowUp": "2026-11-24",
       "notes": "Personal ",
-      "lastModified": "2026-09-02",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:36:04.544Z",
-      "videoSent": true
+      "videoSent": true,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0197ef15-48d6-4523-986f-4473dba925cf",
+            "editedAt": "2026-11-24T09:35:11.732Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpjrhnbr72o9ltxmmi7",
@@ -38556,5 +38567,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:26:23.080Z"
+  "lastUpdated": "2026-11-24T09:35:11.732Z"
 }
