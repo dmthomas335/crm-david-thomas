@@ -37803,15 +37803,24 @@
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-23",
-      "nextFollowUp": "2026-11-24",
+      "nextFollowUp": "2026-11-27",
       "notes": "Instagram",
-      "lastModified": "2026-11-23",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-11-20",
       "addedAt": "2026-11-20T08:01:43.115Z",
       "muse": {
         "createdAt": "2026-11-20T08:01:43.115Z",
         "idempotencyKey": "4471d492-2cc6-41d5-994c-14f988367bdf",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "edits": [
+          {
+            "idempotencyKey": "2177aed3-4d74-4ee4-aac0-f3f46288b573",
+            "editedAt": "2026-11-24T09:36:57.156Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
       }
     },
     {
@@ -38560,5 +38569,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T09:36:28Z"
+  "lastUpdated": "2026-11-24T09:36:57.156Z"
 }
