@@ -27628,24 +27628,6 @@
       "addedAt": "2026-09-21T11:46:59.725Z"
     },
     {
-      "id": "mub6l5ild37e0y41lhj",
-      "name": "Paul Newman",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/paul.newman.75457081",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-10-21",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Personal",
-      "lastModified": "2026-10-28",
-      "dateAdded": "2026-09-21",
-      "addedAt": "2026-09-21T11:47:52.749Z"
-    },
-    {
       "id": "mucl2m9fif5pye3kic",
       "name": "Wilter Bett",
       "email": "",
@@ -38578,5 +38560,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T09:35:33.747Z"
+  "lastUpdated": "2026-11-24T09:36:28Z"
 }
