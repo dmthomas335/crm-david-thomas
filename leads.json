@@ -2630,13 +2630,24 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-06",
-      "nextFollowUp": "2026-11-24",
+      "nextFollowUp": "2027-02-10",
       "notes": "joined as 2WT / personal / Me 512419 CANCELLED",
-      "lastModified": "2026-10-20",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-05-24",
       "addedAt": "2026-05-24T12:43:32.787Z",
       "videoSent": true,
-      "customerSince": "2026-07-02"
+      "customerSince": "2026-07-02",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "d61ee161-6522-4a93-9abe-fb38261702f2",
+            "editedAt": "2026-11-24T08:01:36.646Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpjrsb1bspsnefgxm2g",
@@ -38454,5 +38465,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-24T08:01:15.844Z"
+  "lastUpdated": "2026-11-24T08:01:36.646Z"
 }
