@@ -18165,10 +18165,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-01",
-      "nextFollowUp": "2026-11-24",
-      "notes": "Personal ",
-      "lastModified": "2026-09-01",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": "2026-12-08",
+      "notes": "Personal delete ",
+      "lastModified": "2026-11-24",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-01T12:09:44.551Z"
     },
@@ -38974,5 +38974,5 @@
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
     }
   ],
-  "lastUpdated": "2026-11-24T11:54:33.827Z"
+  "lastUpdated": "2026-11-24T11:59:51.298Z"
 }
