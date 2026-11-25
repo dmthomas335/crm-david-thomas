@@ -32305,16 +32305,27 @@
       "phone": "",
       "social": "https://www.facebook.com/george.wagner.1610",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-10-16",
-      "addedAt": "2026-10-16T09:51:55.116Z"
+      "addedAt": "2026-10-16T09:51:55.116Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "fe799b1a-e977-4ed0-92f5-13a57fcd866f",
+            "editedAt": "2026-11-25T11:40:28.713Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvasgvf2tewukrkcio",
@@ -39714,5 +39725,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:40:19.281Z"
+  "lastUpdated": "2026-11-25T11:40:28.713Z"
 }
