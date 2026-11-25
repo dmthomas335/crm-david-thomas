@@ -21282,9 +21282,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-17",
-      "nextFollowUp": "2026-11-25",
+      "nextFollowUp": "2027-02-10",
       "notes": "Personal ",
-      "lastModified": "2026-11-18",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T12:40:52.386Z",
       "muse": {
@@ -21292,6 +21292,13 @@
           {
             "idempotencyKey": "f2bc8176-74ea-4c73-a947-fef39190902c",
             "editedAt": "2026-11-18T13:37:16.431Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "b3e8cf22-345e-4c68-ac5b-abbd4e59de93",
+            "editedAt": "2026-11-25T11:36:43.860Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -39644,5 +39651,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:35:32.812Z"
+  "lastUpdated": "2026-11-25T11:36:43.860Z"
 }
