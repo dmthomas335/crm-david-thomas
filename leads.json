@@ -2174,16 +2174,27 @@
       "phone": "",
       "social": "https://www.facebook.com/robbie.fraleigh",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-06-19",
       "nextFollowUp": "2026-11-25",
       "notes": "personal still trade? ",
-      "lastModified": "2026-09-22",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-05-23",
       "addedAt": "2026-05-23T11:36:49.365Z",
-      "videoSent": true
+      "videoSent": true,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "a454ef04-128f-4ea9-b76d-75a777efbac5",
+            "editedAt": "2026-11-25T11:33:58.068Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpi9xhhdgprve0hjy6",
@@ -39582,5 +39593,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:32:33.411Z"
+  "lastUpdated": "2026-11-25T11:33:58.068Z"
 }
