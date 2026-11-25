@@ -38995,7 +38995,30 @@
         "idempotencyKey": "8db4bbad-c150-42c1-8f96-a6fd6e15244d",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwvynfvu-7lb5dd",
+      "name": "David C. Bolden",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/share/1JRPx9w34U/?mibextid=wwXIfr",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Sent webinar link",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Dave Thomas Page",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T10:08:16.938Z",
+      "muse": {
+        "createdAt": "2026-11-25T10:08:16.938Z",
+        "idempotencyKey": "f04126eb-ac74-49ef-9f14-621f77a51142",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-25T09:44:39.868Z"
+  "lastUpdated": "2026-11-25T10:08:17.473Z"
 }
