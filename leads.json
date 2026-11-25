@@ -19173,12 +19173,23 @@
       "temperature": "Cold",
       "lastAction": "Closed",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-25",
+      "nextFollowUp": "2027-01-01",
       "notes": "513133 Stephen Thomas ",
-      "lastModified": "2026-11-11",
+      "lastModified": "2026-11-25",
       "customerSince": "2026-08-06",
       "dateAdded": "2026-08-06",
-      "addedAt": "2026-08-06T12:21:51.587Z"
+      "addedAt": "2026-08-06T12:21:51.587Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "5354548b-342e-4ff4-89f9-42f06e00c3f1",
+            "editedAt": "2026-11-25T11:16:28.848Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mshhlx90pg282muwq2",
@@ -39397,5 +39408,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:16:21.489Z"
+  "lastUpdated": "2026-11-25T11:16:28.848Z"
 }
