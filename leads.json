@@ -15317,12 +15317,23 @@
       "temperature": "Hot",
       "lastAction": "Closed",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-25",
+      "nextFollowUp": "2026-12-09",
       "notes": "Personal Soriano 771169 no response",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-07-17",
       "addedAt": "2026-07-17T11:07:14.216Z",
-      "customerSince": "2026-08-30"
+      "customerSince": "2026-08-30",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "abb3d77c-8be8-4e01-abb6-86e7257ec295",
+            "editedAt": "2026-11-25T11:16:14.734Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mrou35hi6g4ibf8g9yg",
@@ -39379,5 +39390,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:16:08.377Z"
+  "lastUpdated": "2026-11-25T11:16:14.734Z"
 }
