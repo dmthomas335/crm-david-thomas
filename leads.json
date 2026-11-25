@@ -30854,11 +30854,23 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-11-25",
-      "notes": "Personal still trade? ",
-      "lastModified": "2026-10-26",
+      "nextFollowUp": "2026-12-09",
+      "notes": "Personal still trade? delete ",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-10-08",
-      "addedAt": "2026-10-08T09:53:06.134Z"
+      "addedAt": "2026-10-08T09:53:06.134Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "2f6583c7-c0f0-40e0-9a96-459ab8151021",
+            "editedAt": "2026-11-25T11:40:13.206Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "muzczipreauwmkfknyb",
@@ -39691,5 +39703,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:38:59.666Z"
+  "lastUpdated": "2026-11-25T11:40:13.206Z"
 }
