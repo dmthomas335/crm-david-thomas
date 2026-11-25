@@ -33476,16 +33476,27 @@
       "phone": "",
       "social": "https://www.facebook.com/jb.justice.164020",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-22",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal Text Jason Brensinger ",
-      "lastModified": "2026-10-22",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-10-22",
-      "addedAt": "2026-10-22T10:35:51.773Z"
+      "addedAt": "2026-10-22T10:35:51.773Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "aec0fa74-ea7b-41d3-8973-24cb629f1619",
+            "editedAt": "2026-11-25T11:41:05.520Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mvkssfiwy887dacv2yd",
@@ -39735,5 +39746,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:40:52.763Z"
+  "lastUpdated": "2026-11-25T11:41:05.520Z"
 }
