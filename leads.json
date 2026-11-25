@@ -6966,16 +6966,27 @@
       "phone": "",
       "social": "https://www.facebook.com/pibrew",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-10-26",
       "nextFollowUp": "2026-11-25",
       "notes": "personal joined as 2WT still trade? ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-06-05",
-      "addedAt": "2026-06-05T13:42:34.317Z"
+      "addedAt": "2026-06-05T13:42:34.317Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "64d63936-4f02-472c-9106-09a9e64f0789",
+            "editedAt": "2026-11-25T11:34:37.948Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq253rof5u4dbnsjf3y",
@@ -39611,5 +39622,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:34:28.157Z"
+  "lastUpdated": "2026-11-25T11:34:37.948Z"
 }
