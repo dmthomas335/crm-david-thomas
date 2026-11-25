@@ -26084,14 +26084,14 @@
       "phone": "",
       "social": "https://www.facebook.com/reinhard.schutte.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-14",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal still trade? delete",
-      "lastModified": "2026-11-18",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-09-14",
       "addedAt": "2026-09-14T11:29:18.847Z",
       "muse": {
@@ -26102,6 +26102,13 @@
             "fields": [
               "nextFollowUp",
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "c1ef02d5-a2ed-42e8-aedb-95865db435be",
+            "editedAt": "2026-11-25T11:13:41.843Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -39343,5 +39350,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:13:32.537Z"
+  "lastUpdated": "2026-11-25T11:13:41.843Z"
 }
