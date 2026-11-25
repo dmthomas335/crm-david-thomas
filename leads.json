@@ -6810,16 +6810,27 @@
       "phone": "",
       "social": "https://www.facebook.com/nick.gay.9",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 5",
       "lastContact": "2026-07-29",
       "nextFollowUp": "2026-11-25",
       "notes": "personal ",
-      "lastModified": "2026-08-28",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-06-05",
-      "addedAt": "2026-06-05T11:43:34.531Z"
+      "addedAt": "2026-06-05T11:43:34.531Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7d433426-29cb-4bc4-9d2e-0fa20346f73f",
+            "editedAt": "2026-11-25T11:34:05.819Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mq0uw6lu7jxfg1ss7oe",
@@ -39593,5 +39604,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:33:58.068Z"
+  "lastUpdated": "2026-11-25T11:34:05.819Z"
 }
