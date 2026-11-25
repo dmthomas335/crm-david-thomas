@@ -9049,9 +9049,9 @@
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-11-25",
+      "nextFollowUp": "2026-12-09",
       "notes": "Personal send recap still trade? delete ",
-      "lastModified": "2026-11-19",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T10:47:50.971Z",
       "muse": {
@@ -9081,6 +9081,13 @@
           {
             "idempotencyKey": "120a5b0b-d102-447d-a0a9-d713927d6326",
             "editedAt": "2026-11-19T13:02:10.050Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "bc1bb2a6-587c-41ed-b83f-f546dd4c1e62",
+            "editedAt": "2026-11-25T11:13:06.336Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -39300,5 +39307,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T10:40:39.588Z"
+  "lastUpdated": "2026-11-25T11:13:06.336Z"
 }
