@@ -24519,16 +24519,27 @@
       "phone": "",
       "social": "",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-02",
       "nextFollowUp": "2026-11-25",
       "notes": "Text still trade? ",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-09-02",
-      "addedAt": "2026-09-02T14:00:17.304Z"
+      "addedAt": "2026-09-02T14:00:17.304Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "7a6425b7-4323-456c-8a2a-40ed0c4964c8",
+            "editedAt": "2026-11-25T11:41:51.932Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mtl7ktuunf2x87bm11",
@@ -39746,5 +39757,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:41:05.520Z"
+  "lastUpdated": "2026-11-25T11:41:51.932Z"
 }
