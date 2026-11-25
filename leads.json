@@ -39087,15 +39087,25 @@
       "temperature": "Cold",
       "lastAction": "Sent webinar recording link",
       "lastContact": "2026-11-23",
-      "nextFollowUp": "2026-11-25",
-      "notes": "Email davidmccoy3530@gmail.com",
-      "lastModified": "2026-11-23",
+      "nextFollowUp": "2026-12-02",
+      "notes": "Email davidmccoy3530@gmail.com delete ",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-11-23",
       "addedAt": "2026-11-23T19:40:24.694Z",
       "muse": {
         "createdAt": "2026-11-23T19:40:24.694Z",
         "idempotencyKey": "639077f7-232e-4f22-889d-da1a902fdbb4",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "edits": [
+          {
+            "idempotencyKey": "992e175d-55cf-48d6-8ffd-27240a2a8f93",
+            "editedAt": "2026-11-25T11:40:52.763Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
       }
     },
     {
@@ -39725,5 +39735,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:40:28.713Z"
+  "lastUpdated": "2026-11-25T11:40:52.763Z"
 }
