@@ -13444,14 +13444,14 @@
       "phone": "",
       "social": "https://www.facebook.com/share/1Bcf4tafAg/?mibextid=wwXIfr",
       "source": "Facebook",
-      "status": "2WT",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Warm",
       "lastAction": "Nurture",
       "lastContact": "2026-08-07",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal Joined as 2WT still trade? delete",
-      "lastModified": "2026-11-18",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T12:38:34.927Z",
       "muse": {
@@ -13462,6 +13462,13 @@
             "fields": [
               "nextFollowUp",
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "ed8d859d-6a89-4bff-b954-8bbe56f8937e",
+            "editedAt": "2026-11-25T11:13:12.631Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -39307,5 +39314,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:13:06.336Z"
+  "lastUpdated": "2026-11-25T11:13:12.631Z"
 }
