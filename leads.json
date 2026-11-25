@@ -28536,16 +28536,27 @@
       "phone": "",
       "social": "https://www.facebook.com/gazthedj",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-24",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-13",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-09-24",
-      "addedAt": "2026-09-24T11:39:36.198Z"
+      "addedAt": "2026-09-24T11:39:36.198Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0c273f05-71f9-4bc1-a97f-7667c16e0940",
+            "editedAt": "2026-11-25T11:37:09.864Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mufgmj31m3t2bwszp6c",
@@ -39651,5 +39662,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:36:43.860Z"
+  "lastUpdated": "2026-11-25T11:37:09.864Z"
 }
