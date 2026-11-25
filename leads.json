@@ -39755,7 +39755,30 @@
       "addedAt": "2026-11-25T10:40:39.588Z",
       "prospectSourceId": "prospect-mwvztajv-09eq8j",
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
+    },
+    {
+      "id": "muse-mwwgvlq4-qgupzv",
+      "name": "Teddy Baker",
+      "email": "teddybakermusic@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Email",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Replied to Black Friday AWeber email",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-12-01",
+      "notes": "Email teddybakermusic@gmail.com - replied to the Black Friday AWeber broadcast on 2026-11-25 about the trading program. Dave asked for a follow-up on Tuesday 2026-12-01.",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T18:38:30.844Z",
+      "muse": {
+        "createdAt": "2026-11-25T18:38:30.844Z",
+        "idempotencyKey": "a5831485-bec5-4777-a895-026839106163",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-25T11:41:51.932Z"
+  "lastUpdated": "2026-11-25T18:38:31.344Z"
 }
