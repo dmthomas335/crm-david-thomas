@@ -30526,9 +30526,9 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
-      "nextFollowUp": "2026-11-25",
+      "nextFollowUp": "2026-12-09",
       "notes": "Personal Ashley 789910",
-      "lastModified": "2026-11-20",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T09:48:38.610Z",
       "muse": {
@@ -30571,6 +30571,13 @@
           {
             "idempotencyKey": "b1ef22d3-7fc5-49e3-8f22-faf39d39d9e1",
             "editedAt": "2026-11-20T08:47:10.380Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "eca410f6-61a2-4b33-957a-27fb84801ca5",
+            "editedAt": "2026-11-25T11:16:41.758Z",
             "fields": [
               "nextFollowUp"
             ]
@@ -39415,5 +39422,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:16:35.345Z"
+  "lastUpdated": "2026-11-25T11:16:41.758Z"
 }
