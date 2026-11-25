@@ -31591,16 +31591,27 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100011160615094",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal still trade? ",
-      "lastModified": "2026-10-26",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-10-13",
-      "addedAt": "2026-10-13T11:14:05.973Z"
+      "addedAt": "2026-10-13T11:14:05.973Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "abc93eea-77e8-4971-ad58-c1e28db145e6",
+            "editedAt": "2026-11-25T11:40:19.281Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mv6l2vuzx2reluhmpfp",
@@ -39703,5 +39714,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:40:13.206Z"
+  "lastUpdated": "2026-11-25T11:40:19.281Z"
 }
