@@ -39778,6 +39778,29 @@
         "idempotencyKey": "a5831485-bec5-4777-a895-026839106163",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwwl792n-8a1432",
+      "name": "Jamie Sussex",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Sent webinar link",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Dave Thomas Page. Dave sent her the registration link for the Wed Nov 25 webinar recording on 2026-11-25. Dave asked for a follow-up on Saturday Nov 28; moved to Monday Nov 30 per his weekend rule.",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T20:39:32.000Z",
+      "muse": {
+        "createdAt": "2026-11-25T20:39:32.000Z",
+        "idempotencyKey": "d7d8f94a-f602-41c8-984f-aec06245019b",
+        "createdBy": "muse"
+      }
     }
   ],
   "lastUpdated": "2026-11-25T18:38:31.344Z"
