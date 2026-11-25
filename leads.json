@@ -38972,7 +38972,30 @@
       "addedAt": "2026-11-24T11:52:01.893Z",
       "prospectSourceId": "prospect-mwumxbb8-keda1j",
       "prospectUploadedAt": "2026-11-24T11:52:01.893Z"
+    },
+    {
+      "id": "muse-mwvxt21h-rli3ma",
+      "name": "Siva Gangadhar Saranthu",
+      "email": "gangu495@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Email",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Sent video by email",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": "2026-11-27",
+      "notes": "Email gangu495@gmail.com",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T09:44:39.286Z",
+      "muse": {
+        "createdAt": "2026-11-25T09:44:39.286Z",
+        "idempotencyKey": "8db4bbad-c150-42c1-8f96-a6fd6e15244d",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-24T12:00:18.758Z"
+  "lastUpdated": "2026-11-25T09:44:39.868Z"
 }
