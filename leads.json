@@ -22074,16 +22074,27 @@
       "phone": "",
       "social": "https://www.facebook.com/kyboss",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-11",
       "nextFollowUp": "2026-11-25",
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-11",
+      "lastModified": "2026-11-25",
       "dateAdded": "2026-08-21",
-      "addedAt": "2026-08-21T12:08:48.761Z"
+      "addedAt": "2026-08-21T12:08:48.761Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "0f5fe7a4-0990-4e0d-93f5-9243c69db001",
+            "editedAt": "2026-11-25T11:13:32.537Z",
+            "fields": [
+              "status"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mt2wp8kh5di3jvxhgns",
@@ -39332,5 +39343,5 @@
       "prospectUploadedAt": "2026-11-25T10:40:39.588Z"
     }
   ],
-  "lastUpdated": "2026-11-25T11:13:25.920Z"
+  "lastUpdated": "2026-11-25T11:13:32.537Z"
 }
