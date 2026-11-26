@@ -38336,18 +38336,18 @@
     {
       "id": "muse-mwooxf4c-rihp8w",
       "name": "Paul Lamey",
-      "email": "",
+      "email": "p.j.lamey@ntlworld.com",
       "phone": "",
       "social": "https://www.instagram.com/paul_lamey/",
       "source": "Instagram",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-23",
       "nextFollowUp": "2026-11-27",
-      "notes": "Instagram",
-      "lastModified": "2026-11-24",
+      "notes": "Instagram. Personal Stacy 791897",
+      "lastModified": "2026-11-26",
       "dateAdded": "2026-11-20",
       "addedAt": "2026-11-20T08:01:43.115Z",
       "muse": {
@@ -38360,6 +38360,17 @@
             "editedAt": "2026-11-24T09:36:57.156Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "6a933c28-b6e5-4311-9c0c-5abe76efa36f",
+            "editedAt": "2026-11-26T10:42:55.935Z",
+            "fields": [
+              "status",
+              "videoSent",
+              "email",
+              "nextFollowUp",
+              "notes"
             ]
           }
         ]
@@ -39803,5 +39814,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-25T18:38:31.344Z"
+  "lastUpdated": "2026-11-26T10:42:55.935Z"
 }
