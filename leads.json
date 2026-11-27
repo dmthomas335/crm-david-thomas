@@ -30860,14 +30860,14 @@
       "phone": "",
       "social": "https://www.facebook.com/peter.neylon.37",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-26",
-      "nextFollowUp": "2026-12-09",
+      "nextFollowUp": null,
       "notes": "Personal still trade? delete ",
-      "lastModified": "2026-11-25",
+      "lastModified": "2026-11-27",
       "dateAdded": "2026-10-08",
       "addedAt": "2026-10-08T09:53:06.134Z",
       "muse": {
@@ -30878,6 +30878,14 @@
             "fields": [
               "nextFollowUp",
               "notes"
+            ]
+          },
+          {
+            "idempotencyKey": "64f50ab0-9974-404d-a409-3c32c9b7048f",
+            "editedAt": "2026-11-27T12:30:27.366Z",
+            "fields": [
+              "status",
+              "nextFollowUp"
             ]
           }
         ]
@@ -39838,5 +39846,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-27T12:29:28.531Z"
+  "lastUpdated": "2026-11-27T12:30:27.366Z"
 }
