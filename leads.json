@@ -38351,8 +38351,8 @@
       "status": "Customer",
       "videoSent": true,
       "temperature": "Hot",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-11-23",
+      "lastAction": "Follow-up sent by Dave on Instagram",
+      "lastContact": "2026-11-27",
       "nextFollowUp": "2026-12-04",
       "notes": "Instagram. Personal Stacy 791897",
       "lastModified": "2026-11-27",
@@ -38386,6 +38386,14 @@
             "editedAt": "2026-11-27T12:29:28.531Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "d1ce59d9-55d9-42c1-94fe-a6a0416d23f6",
+            "editedAt": "2026-11-27T12:31:03.308Z",
+            "fields": [
+              "lastAction",
+              "lastContact"
             ]
           }
         ]
@@ -39846,5 +39854,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-27T12:30:27.366Z"
+  "lastUpdated": "2026-11-27T12:31:03.308Z"
 }
