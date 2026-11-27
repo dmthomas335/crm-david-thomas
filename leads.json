@@ -39453,7 +39453,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-11-27",
-      "nextFollowUp": "2026-11-30",
+      "nextFollowUp": "2026-12-04",
       "notes": "Email gangu495@gmail.com\n\nMuse follow-up 1 sent 2026-11-27T07:22:00-05:00 with script followup-1. Message: Hi Siva, just following up on the video I sent you on Wednesday. Did you get a chance to watch it? If you would like, I can resend you the direct link to join, just let me know. God bless, David Thomas",
       "lastModified": "2026-11-27",
       "dateAdded": "2026-11-25",
@@ -39468,6 +39468,15 @@
             "scriptId": "followup-1",
             "sentAt": "2026-11-27T07:22:00-05:00",
             "idempotencyKey": "5e65bf2e-b75c-499f-9a92-bd86dd037a91"
+          }
+        ],
+        "edits": [
+          {
+            "idempotencyKey": "3773f116-9405-4e97-8551-55c586d73a70",
+            "editedAt": "2026-11-27T12:29:25.189Z",
+            "fields": [
+              "nextFollowUp"
+            ]
           }
         ]
       }
@@ -39822,5 +39831,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-27T12:21:45.068Z"
+  "lastUpdated": "2026-11-27T12:29:25.189Z"
 }
