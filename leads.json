@@ -39451,17 +39451,25 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Sent video by email",
-      "lastContact": "2026-11-25",
-      "nextFollowUp": "2026-11-27",
-      "notes": "Email gangu495@gmail.com",
-      "lastModified": "2026-11-25",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": "2026-11-30",
+      "notes": "Email gangu495@gmail.com\n\nMuse follow-up 1 sent 2026-11-27T07:22:00-05:00 with script followup-1. Message: Hi Siva, just following up on the video I sent you on Wednesday. Did you get a chance to watch it? If you would like, I can resend you the direct link to join, just let me know. God bless, David Thomas",
+      "lastModified": "2026-11-27",
       "dateAdded": "2026-11-25",
       "addedAt": "2026-11-25T09:44:39.286Z",
       "muse": {
         "createdAt": "2026-11-25T09:44:39.286Z",
         "idempotencyKey": "8db4bbad-c150-42c1-8f96-a6fd6e15244d",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "followups": [
+          {
+            "stage": 1,
+            "scriptId": "followup-1",
+            "sentAt": "2026-11-27T07:22:00-05:00",
+            "idempotencyKey": "5e65bf2e-b75c-499f-9a92-bd86dd037a91"
+          }
+        ]
       }
     },
     {
@@ -39814,5 +39822,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-26T10:42:55.935Z"
+  "lastUpdated": "2026-11-27T12:21:45.068Z"
 }
