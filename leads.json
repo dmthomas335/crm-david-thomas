@@ -2948,12 +2948,24 @@
       "temperature": "Hot",
       "lastAction": "Nurture",
       "lastContact": "2026-10-27",
-      "nextFollowUp": "2027-04-08",
-      "notes": "joined 2WT",
-      "lastModified": "2026-11-10",
+      "nextFollowUp": "2026-12-01",
+      "notes": "joined 2WT. Approved in Abundance Trade House Discord on 2026-11-27 for 30 days; Jifu ID 682201, active Preferred Customer, enroller Steve Grant.",
+      "lastModified": "2026-11-27",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T12:45:36.187Z",
-      "videoSent": false
+      "videoSent": false,
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "e1a6388f-6bb6-4856-a08a-c8dc185c9bac",
+            "editedAt": "2026-11-28T01:24:07.422Z",
+            "fields": [
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "mpl7b310f9ys6oizbj",
@@ -39923,5 +39935,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-27T20:22:17.176Z"
+  "lastUpdated": "2026-11-28T01:24:07.422Z"
 }
