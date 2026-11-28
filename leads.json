@@ -20664,16 +20664,29 @@
       "phone": "",
       "social": "https://www.facebook.com/dc.breezy.37",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "New Lead",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-28",
-      "nextFollowUp": null,
-      "notes": "Birthday still trade? ",
-      "lastModified": "2026-10-28",
+      "nextFollowUp": "2026-12-14",
+      "notes": "Birthday still trade? Dave sent him the Wed Nov 25 webinar recording on 2026-11-27 (personal Messenger); webinar follow-up scheduled Sun Nov 29. Status changed from Not Interested at Dave's instruction 2026-11-28.",
+      "lastModified": "2026-11-28",
       "dateAdded": "2026-08-13",
-      "addedAt": "2026-08-13T11:59:15.082Z"
+      "addedAt": "2026-08-13T11:59:15.082Z",
+      "muse": {
+        "edits": [
+          {
+            "idempotencyKey": "574a2c29-6323-4b1a-8283-aef2ebf425a0",
+            "editedAt": "2026-11-28T12:30:03.375Z",
+            "fields": [
+              "status",
+              "nextFollowUp",
+              "notes"
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "msrgtxa0l6onk20aujb",
@@ -39944,5 +39957,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-28T12:00:16.572Z"
+  "lastUpdated": "2026-11-28T12:30:03.375Z"
 }
