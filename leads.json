@@ -39893,7 +39893,7 @@
       "name": "Giovanni Joseph Santiago",
       "email": "",
       "phone": "",
-      "social": "https://facebook.com/joeygiosantiago",
+      "social": "https://www.facebook.com/share/1ABgUMxd4C/?mibextid=wwXIfr",
       "source": "Facebook",
       "status": "New Lead",
       "videoSent": false,
@@ -39902,13 +39902,22 @@
       "lastContact": "2026-11-27",
       "nextFollowUp": "2026-12-04",
       "notes": "Dave Thomas Page. Sent a voice message Fri 2026-11-27 saying he is thinking about returning in January and asked Dave to text or call him; he left his phone number in the Page thread. Facebook profile name is Joey Giovanni Santiago. Follow-up Fri Dec 4 set by Dave.",
-      "lastModified": "2026-11-27",
+      "lastModified": "2026-11-28",
       "dateAdded": "2026-11-27",
       "addedAt": "2026-11-27T20:21:46.261Z",
       "muse": {
         "createdAt": "2026-11-27T20:21:46.261Z",
         "idempotencyKey": "17cae4b3-cd14-4380-aa01-8fdcbcf25109",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "edits": [
+          {
+            "idempotencyKey": "75c5fd6c-e5d9-4c9c-99d1-ca8c483069a0",
+            "editedAt": "2026-11-28T12:00:16.571Z",
+            "fields": [
+              "social"
+            ]
+          }
+        ]
       }
     },
     {
@@ -39935,5 +39944,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-28T01:24:07.422Z"
+  "lastUpdated": "2026-11-28T12:00:16.572Z"
 }
